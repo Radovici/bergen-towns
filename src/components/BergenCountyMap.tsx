@@ -131,7 +131,7 @@ export default function BergenCountyMap({ currentTown }: { currentTown?: string 
                     href={`https://${town.domain}`}
                     className={`block px-3 py-2 rounded text-sm transition-colors no-underline ${
                       isActive
-                        ? "bg-primary text-white font-medium"
+                        ? "bg-gray-100 text-primary font-semibold border-l-3 border-primary"
                         : "text-gray-700 hover:bg-gray-50 hover:text-primary"
                     }`}
                     onMouseEnter={() => setHovered(town.slug)}

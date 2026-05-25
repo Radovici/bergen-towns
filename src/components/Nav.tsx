@@ -20,10 +20,10 @@ export default function Nav({ townName }: { townName: string }) {
               <li key={section.slug}>
                 <Link
                   href={section.slug}
-                  className={`block px-3 py-2 text-sm rounded-t whitespace-nowrap transition-colors no-underline ${
+                  className={`block px-3 py-2 text-sm whitespace-nowrap transition-colors no-underline ${
                     isActive
-                      ? "bg-primary text-white font-medium"
-                      : "text-gray-600 hover:text-primary hover:bg-gray-50"
+                      ? "border-b-2 border-primary text-primary font-semibold bg-gray-50"
+                      : "text-gray-500 hover:text-gray-900 hover:bg-gray-50"
                   }`}
                   aria-label={`${section.label} - ${townName}`}
                 >
