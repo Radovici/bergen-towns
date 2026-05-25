@@ -5,6 +5,8 @@ import Header from "@/components/Header";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import NeighborLinks from "@/components/NeighborLinks";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -47,6 +49,8 @@ export default async function RootLayout({
           {children}
         </main>
         <Footer town={town.meta} />
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
