@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { TOWN_REGISTRY } from "./lib/town-registry";
 
 const TOWN_DOMAINS: Record<string, string> = {
   "allendale.info": "allendale",
@@ -21,21 +22,42 @@ const TOWN_DOMAINS: Record<string, string> = {
   "www.wyckoff.info": "wyckoff",
 };
 
+const COOKIE_NAME = "bergen-town";
+
+function isValidSlug(slug: string): boolean {
+  return slug in TOWN_REGISTRY;
+}
+
 export function middleware(request: NextRequest) {
   const hostname = request.headers.get("host") ?? "";
   const host = hostname.split(":")[0];
 
+  const fromDomain = TOWN_DOMAINS[host];
+  const fromQuery = request.nextUrl.searchParams.get("town");
+  const fromCookie = request.cookies.get(COOKIE_NAME)?.value;
+
   const townSlug =
-    TOWN_DOMAINS[host] ??
-    request.nextUrl.searchParams.get("town") ??
+    fromDomain ??
+    (fromQuery && isValidSlug(fromQuery) ? fromQuery : null) ??
+    (fromCookie && isValidSlug(fromCookie) ? fromCookie : null) ??
     "ridgewood";
 
   const requestHeaders = new Headers(request.headers);
   requestHeaders.set("x-town-slug", townSlug);
 
-  return NextResponse.next({
+  const response = NextResponse.next({
     request: { headers: requestHeaders },
   });
+
+  if (!fromDomain && townSlug !== fromCookie) {
+    response.cookies.set(COOKIE_NAME, townSlug, {
+      path: "/",
+      maxAge: 60 * 60 * 24 * 30,
+      sameSite: "lax",
+    });
+  }
+
+  return response;
 }
 
 export const config = {
