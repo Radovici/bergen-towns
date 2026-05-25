@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "slug": "haworth",
+    "name": "Haworth",
+    "fullName": "Borough of Haworth",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "haworth.info",
+    "zipCodes": ["07641"],
+    "themeColor": "#2e7d32",
+    "accentColor": "#43a047"
+  },
+  "overview": {
+    "tagline": "A quiet, leafy borough with top schools, generous lots, and a strong sense of community",
+    "description": "Haworth is a small, residential borough in Bergen County known for its tranquil, tree-lined streets, spacious properties, and highly rated public schools. With a population of just over 3,000, Haworth offers a tight-knit community atmosphere while remaining minutes from the shops, dining, and transit options of neighboring towns. The borough is especially popular with families seeking excellent schools and a peaceful setting within commuting distance of New York City.",
+    "population": 3509,
+    "populationYear": 2020,
+    "areaSqMi": 2.03,
+    "elevation": "65 ft",
+    "incorporated": "1904",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Haworth Public Schools",
+    "highlights": [
+      "Highly rated K-8 school district sending students to Northern Highlands Regional High School",
+      "Spacious lots and wooded residential setting",
+      "Low-density, family-oriented community",
+      "Minutes from Dumont and Oradell shopping and dining",
+      "Close to the Oradell Reservoir and nature trails"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$700,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.05%",
+    "averagePropertyTax": "$16,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Haworth has conducted revaluations to ensure assessed values reflect current market conditions.",
+    "recentTrends": "Haworth's housing market is driven by demand for its school district and large lots. Inventory is limited, and homes often sell quickly. Colonial and ranch-style homes on generous lots are the most common.",
+    "neighborhoodNotes": [
+      "Haworth Avenue area — Central location near schools and borough amenities",
+      "Eastern section — Wooded lots bordering Dumont, quiet streets",
+      "Western section — Larger properties near the Oradell Reservoir",
+      "Northern end — Proximity to Demarest and Northern Valley schools"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Haworth.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment through the DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 384-4785",
+      "contactUrl": "https://www.haworthnj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a regular schedule by the Borough.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic) collected weekly",
+        "Paper and cardboard collected separately",
+        "Recycling containers provided by the Borough",
+        "Yard waste collected seasonally",
+        "Special recycling drop-off events held periodically"
+      ],
+      "contactPhone": "(201) 384-4785",
+      "contactUrl": "https://www.haworthnj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided through the local water utility and sewer service is managed by the Borough.",
+      "details": [
+        "Water supplied through the Haworth municipal water system",
+        "Billing is quarterly for water and sewer service",
+        "Water quality reports published annually",
+        "Sewer service maintained by the Borough DPW",
+        "Emergency water line repairs available through the DPW"
+      ],
+      "contactPhone": "(201) 384-4785",
+      "contactUrl": "https://www.haworthnj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning approvals, and code enforcement.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 384-4785",
+      "contactUrl": "https://www.haworthnj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking in Haworth is primarily on-street in residential areas, with limited municipal parking near Borough Hall.",
+      "details": [
+        "On-street parking available on most residential streets",
+        "No metered parking in the borough",
+        "Overnight parking restrictions may apply on certain streets",
+        "Commuter parking available at nearby Oradell train station",
+        "Snow emergency parking bans enforced during winter storms"
+      ],
+      "contactPhone": "(201) 384-4785",
+      "contactUrl": "https://www.haworthnj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Haworth Municipal Library",
+        "description": "Small public library serving borough residents with books, programs, and digital resources.",
+        "details": [
+          "Located at 300 Haworth Avenue",
+          "Children's story times and summer reading programs",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 384-1020",
+        "contactUrl": "https://www.haworthlibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Haworth enforces noise regulations to protect the peaceful residential character of the borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to daytime hours",
+        "Loud parties and amplified music subject to enforcement after 10:00 PM"
+      ],
+      "source": "Borough of Haworth Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners are required to maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Property owners responsible for sidewalk snow removal within 24 hours",
+        "Fences must comply with borough height and setback requirements",
+        "Abandoned or inoperable vehicles must be removed from property",
+        "Properties must be kept free of debris and unsightly conditions"
+      ],
+      "source": "Borough of Haworth Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Haworth requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies vaccination proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately by the owner",
+        "Nuisance barking subject to enforcement action",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Haworth Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "On-street parking is regulated in Haworth with specific restrictions.",
+      "keyRules": [
+        "Overnight parking restrictions enforced on certain streets",
+        "Snow emergency parking bans — vehicles must be off-street",
+        "Commercial vehicles prohibited from parking on residential streets overnight",
+        "Parking on lawns prohibited",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Haworth Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties in Haworth must meet housing code requirements.",
+      "keyRules": [
+        "Rental properties should be registered with the Borough",
+        "Properties must meet housing and fire safety codes",
+        "Landlords responsible for maintaining rental properties",
+        "Short-term rentals subject to local zoning regulations",
+        "Inspections may be conducted at change of tenancy"
+      ],
+      "source": "Borough of Haworth Code"
+    },
+    "other": [
+      {
+        "title": "Tree Removal",
+        "summary": "Haworth regulates tree removal to preserve the borough's wooded character.",
+        "keyRules": [
+          "Permit may be required for removal of significant trees",
+          "Replacement planting may be required",
+          "Borough Shade Tree Committee oversees tree-related matters",
+          "Damage to public trees subject to penalties"
+        ],
+        "source": "Borough of Haworth Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Haworth Public Schools",
+    "publicSchools": [
+      {
+        "name": "Haworth Public School",
+        "grades": "K-8",
+        "rating": 8,
+        "enrollment": 340,
+        "type": "public",
+        "notes": "Single K-8 school serving the borough; highly rated with small class sizes and strong community involvement"
+      }
+    ],
+    "privateSchools": [],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "Ramapo College of New Jersey (Mahwah) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Highly rated K-8 public school in a small, supportive environment",
+      "Large lots and wooded, peaceful residential setting",
+      "Strong sense of community with engaged residents",
+      "Low population density and quiet streets ideal for families",
+      "Close proximity to Northern Valley Regional High School District",
+      "Easy access to shopping and dining in Oradell, Dumont, and Closter"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Rail from Oradell Station",
+      "duration": "50-65 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "Oradell Station (NJ Transit Pascack Valley Line, in neighboring Oradell)",
+      "busRoutes": ["NJ Transit Bus 165"],
+      "notes": "Haworth residents typically use the Oradell train station on the Pascack Valley Line for commuting to Hoboken and connecting to Manhattan. NJ Transit bus routes also provide service to the Port Authority Bus Terminal."
+    },
+    "costOfLiving": {
+      "summary": "Haworth is an upper-middle-income community with housing costs above the Bergen County median, driven by lot sizes, school quality, and the borough's desirable setting.",
+      "vsStateAverage": "Approximately 40% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 75% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Excellent K-8 school with small class sizes",
+        "Large, wooded lots with a suburban estate feel",
+        "Quiet, safe, family-oriented community",
+        "Strong property values with consistent demand",
+        "Access to Northern Valley Regional High School District"
+      ],
+      "cons": [
+        "Very limited commercial or retail within the borough",
+        "No train station within borough limits — must drive to Oradell",
+        "High property taxes typical of Bergen County",
+        "Small town with limited nightlife or dining options",
+        "Housing inventory is tight, limiting options for buyers"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Biagio's Ristorante",
+        "description": "Italian restaurant in nearby Paramus known for classic pasta dishes, seafood, and a welcoming atmosphere. Popular with Haworth residents.",
+        "address": "299 Paramus Road, Paramus, NJ 07652",
+        "category": "Italian"
+      },
+      {
+        "name": "River Palm Terrace",
+        "description": "Upscale steakhouse in nearby Edgewater offering prime steaks, fresh seafood, and an extensive wine list.",
+        "address": "1416 River Road, Edgewater, NJ 07020",
+        "category": "Steakhouse/Fine Dining"
+      },
+      {
+        "name": "Dumont Diner",
+        "description": "Classic New Jersey diner in neighboring Dumont serving breakfast, lunch, and dinner with traditional American fare.",
+        "address": "100 East Madison Avenue, Dumont, NJ 07628",
+        "category": "Diner/American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Haworth Municipal Park",
+        "description": "Borough park with playgrounds, sports fields, basketball courts, and picnic areas. The center of recreation in Haworth.",
+        "address": "Haworth Avenue, Haworth, NJ 07641",
+        "category": "Park/Recreation"
+      },
+      {
+        "name": "Oradell Reservoir",
+        "description": "Scenic reservoir and surrounding trails popular for walking, jogging, and birdwatching. Offers beautiful views and a peaceful natural setting near Haworth.",
+        "address": "Oradell, NJ 07649",
+        "category": "Nature/Trails"
+      },
+      {
+        "name": "Haworth Conservation Area",
+        "description": "Wooded conservation land with nature trails, providing a quiet escape within the borough for hiking and nature observation.",
+        "address": "Haworth, NJ 07641",
+        "category": "Nature/Conservation"
+      }
+    ],
+    "events": [
+      {
+        "name": "Haworth Day",
+        "description": "Annual community celebration featuring family activities, games, food vendors, and live entertainment in the borough park.",
+        "when": "Fall, typically in September or October"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Borough-wide ceremony honoring veterans with a parade and memorial service.",
+        "when": "Memorial Day (last Monday in May)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Oradell Reservoir Trail",
+        "description": "Popular walking and jogging trail around the scenic Oradell Reservoir, offering views of wildlife, water, and wooded surroundings.",
+        "address": "Oradell/Haworth, NJ",
+        "category": "Nature/Outdoor"
+      },
+      {
+        "name": "Haworth Borough Hall",
+        "description": "Historic borough hall serving as the center of local government and community meetings.",
+        "address": "300 Haworth Avenue, Haworth, NJ 07641",
+        "category": "Government/Historic"
+      }
+    ],
+    "shoppingAreas": [
+      "Oradell — Kinderkamack Road shops and restaurants nearby",
+      "Dumont — Washington Avenue commercial district",
+      "Westwood — Downtown shops and dining",
+      "Garden State Plaza (Paramus) — 15 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Kimberly Fabrizio",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "George Zoulias",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Robert Mattielli",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Mary Ellen Daly",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Matthew Farley",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Jennifer Garner",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "James Anzaldi",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Tuesday of each month at 8:00 PM",
+    "meetingLocation": "Borough Hall, 300 Haworth Avenue, Haworth, NJ 07641",
+    "municipalWebsite": "https://www.haworthnj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 384-4785",
+        "hours": "Monday-Friday 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 384-4785",
+        "hours": "Monday-Friday 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 384-4785",
+        "hours": "Monday-Friday 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 384-4785",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 384-2020",
+      "address": "300 Haworth Avenue, Haworth, NJ 07641"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 384-5506",
+      "address": "Haworth, NJ 07641"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 384-5506",
+      "address": "Haworth, NJ 07641"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 10
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Haworth Police (Non-Emergency)",
+        "number": "(201) 384-2020"
+      },
+      {
+        "label": "Haworth Fire Department",
+        "number": "(201) 384-5506"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 384-4785"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

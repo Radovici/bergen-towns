@@ -1,0 +1,515 @@
+{
+  "meta": {
+    "slug": "wallington",
+    "name": "Wallington",
+    "fullName": "Borough of Wallington",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "wallington.info",
+    "zipCodes": ["07057"],
+    "themeColor": "#e65100",
+    "accentColor": "#ef6c00"
+  },
+  "overview": {
+    "tagline": "A proud borough with deep Polish-American roots and a strong sense of community",
+    "description": "The Borough of Wallington is a compact, close-knit community in southeastern Bergen County, long celebrated for its vibrant Polish-American heritage. The borough features a walkable downtown along Paterson Avenue with Polish bakeries, delis, and restaurants alongside diverse businesses reflecting its evolving character. Wallington's affordable housing, central location, and strong community organizations make it an attractive choice for families and first-time homebuyers.",
+    "population": 11583,
+    "populationYear": 2020,
+    "areaSqMi": 0.96,
+    "elevation": "30 ft",
+    "incorporated": "1895",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Wallington Public Schools",
+    "highlights": [
+      "Rich Polish-American heritage with authentic bakeries, delis, and cultural events",
+      "Affordable housing market relative to Bergen County",
+      "Walkable Paterson Avenue commercial district",
+      "Strong community organizations and volunteer spirit",
+      "Central location with easy access to major highways"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$425,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.00%",
+    "averagePropertyTax": "$9,500",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Wallington's housing stock is predominantly single-family homes and two-family properties on modest lots.",
+    "recentTrends": "Wallington has seen significant price appreciation as buyers priced out of more expensive Bergen County towns discover its affordability and central location. Two-family homes are particularly popular as investment properties. The market is competitive with limited inventory.",
+    "neighborhoodNotes": [
+      "Paterson Avenue area — Walking distance to shops, bakeries, and bus service",
+      "Main Avenue section — Residential neighborhood with well-kept homes",
+      "Locust Avenue area — Quiet residential streets near the Passaic River",
+      "East Wallington — Near the Saddle Brook border with easy highway access",
+      "North end — Residential area near the Garfield border"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Wallington.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment through DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(973) 777-0318",
+      "contactUrl": "https://www.wallingtonnj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly for all residential properties.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on recycling day",
+        "Yard waste collected seasonally",
+        "Recycling bins available from the borough",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(973) 777-0318",
+      "contactUrl": "https://www.wallingtonnj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water and sewer service is maintained by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water / Suez",
+        "Sewer service maintained by the Borough DPW",
+        "Quarterly billing for water and sewer",
+        "Water quality reports published annually",
+        "Emergency water repairs available 24/7"
+      ],
+      "contactPhone": "(973) 777-0318",
+      "contactUrl": "https://www.wallingtonnj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction and changes of use"
+      ],
+      "contactPhone": "(973) 777-0318",
+      "contactUrl": "https://www.wallingtonnj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Street parking is available throughout the borough with designated regulations.",
+      "details": [
+        "Street parking available on most residential streets",
+        "Parking meters or time limits in the Paterson Avenue business district",
+        "Overnight parking restrictions enforced on some streets",
+        "Snow emergency parking bans enforced",
+        "Municipal lot available near Borough Hall"
+      ],
+      "contactPhone": "(973) 777-0611",
+      "contactUrl": "https://www.wallingtonnj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "John F. Kennedy Memorial Library",
+        "description": "Public library serving the Wallington community with books, programs, and resources.",
+        "details": [
+          "Located at 92 Hathaway Street",
+          "Children's programs and adult activities",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(973) 471-1692",
+        "contactUrl": "https://www.wallingtonlibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Wallington enforces noise regulations to maintain residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Loud music and amplified sound restricted after 10:00 PM",
+        "Commercial operations must comply with noise limits near residential areas"
+      ],
+      "source": "Borough of Wallington Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Properties must be maintained in neat and clean condition",
+        "Sidewalk snow removal required within 24 hours after snowfall",
+        "Fences must comply with height regulations",
+        "Abandoned vehicles must be removed from property",
+        "Yards must be free of debris and excessive storage"
+      ],
+      "source": "Borough of Wallington Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Wallington requires dog licensing and enforces animal control regulations.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking subject to complaints and fines",
+        "No exotic animals permitted as pets"
+      ],
+      "source": "Borough of Wallington Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated on borough streets to ensure access and safety.",
+      "keyRules": [
+        "Overnight parking restrictions on designated streets",
+        "Snow emergency parking bans — vehicles must be off-street",
+        "No commercial vehicle parking on residential streets overnight",
+        "Time limits in the Paterson Avenue business district",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Wallington Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with housing codes and safety standards.",
+      "keyRules": [
+        "Rental units must be registered with the Borough",
+        "Inspections required at change of tenancy",
+        "Landlords must maintain properties to housing code standards",
+        "Fire safety requirements for multi-family dwellings",
+        "Certificate of Occupancy required for rental units"
+      ],
+      "source": "Borough of Wallington Code"
+    },
+    "other": [
+      {
+        "title": "Two-Family Home Regulations",
+        "summary": "Wallington has specific regulations for its many two-family properties.",
+        "keyRules": [
+          "Two-family homes must comply with all building and fire codes",
+          "Separate utility metering may be required",
+          "Parking requirements must be met on the property",
+          "Owner-occupied two-family homes subject to different rules than investment properties"
+        ],
+        "source": "Borough of Wallington Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Wallington Public Schools",
+    "publicSchools": [
+      {
+        "name": "Wallington Junior/Senior High School",
+        "grades": "7-12",
+        "rating": 5,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "Combined junior and senior high school serving all Wallington students in grades 7-12"
+      },
+      {
+        "name": "Frank W. Gavlak Elementary School",
+        "grades": "PreK-6",
+        "rating": 5,
+        "enrollment": 600,
+        "type": "public",
+        "notes": "Elementary school serving all Wallington students through grade 6"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Most Sacred Heart of Jesus School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 180,
+        "notes": "Catholic parish school with strong ties to the Polish-American community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Felician University (Lodi/Rutherford) — 5 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 10 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Rutgers University (Newark) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Among the most affordable communities in Bergen County",
+      "Rich cultural heritage with authentic Polish bakeries and restaurants",
+      "Walkable commercial district along Paterson Avenue",
+      "Central location with easy highway access",
+      "Strong sense of community and active civic organizations"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "35-55 minutes to Port Authority Bus Terminal",
+      "busRoutes": ["NJ Transit Bus 160", "NJ Transit Bus 161"],
+      "notes": "Wallington residents commute to NYC primarily via NJ Transit bus service along Paterson Avenue and Main Avenue, with routes to the Port Authority Bus Terminal in Midtown Manhattan. The commute is approximately 35-55 minutes depending on traffic. Driving to the Secaucus Junction NJ Transit station is also an option."
+    },
+    "costOfLiving": {
+      "summary": "Wallington is one of Bergen County's most affordable communities, making it attractive for first-time buyers, young families, and those seeking value in a convenient location.",
+      "vsStateAverage": "Approximately 10% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 35% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Very affordable housing by Bergen County standards",
+        "Authentic cultural dining and shopping (especially Polish)",
+        "Walkable commercial district",
+        "Central location with good highway access",
+        "Strong community bonds and neighborhood pride"
+      ],
+      "cons": [
+        "Higher-density housing with smaller lots",
+        "No NJ Transit rail service — bus-only commute",
+        "School ratings below Bergen County averages",
+        "Limited parkland and open space",
+        "Some traffic congestion on Paterson Avenue"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Polka Deli & Bakery",
+        "description": "Authentic Polish delicatessen and bakery offering fresh kielbasa, pierogies, smoked meats, and traditional pastries.",
+        "address": "Paterson Avenue, Wallington, NJ 07057",
+        "category": "Polish/Deli"
+      },
+      {
+        "name": "Krakus Market & Deli",
+        "description": "Polish market and deli known for imported European goods, homemade sausages, and prepared Polish dishes.",
+        "address": "Paterson Avenue, Wallington, NJ 07057",
+        "category": "Polish/Market"
+      },
+      {
+        "name": "Andrea Salumeria",
+        "description": "Italian deli and grocery offering fresh mozzarella, prepared foods, imported Italian meats, and gourmet sandwiches.",
+        "address": "Paterson Avenue, Wallington, NJ 07057",
+        "category": "Italian/Deli"
+      },
+      {
+        "name": "Red Star Tavern",
+        "description": "Neighborhood bar and restaurant serving American pub food in a casual, friendly atmosphere.",
+        "address": "Main Avenue, Wallington, NJ 07057",
+        "category": "American/Pub"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Wallington Municipal Park",
+        "description": "Borough's main park featuring a playground, basketball courts, sports fields, and a community gathering area.",
+        "address": "Wallington, NJ 07057",
+        "category": "Recreation/Sports"
+      },
+      {
+        "name": "Veteran's Field",
+        "description": "Sports field and memorial area used for youth athletics and community events.",
+        "address": "Wallington, NJ 07057",
+        "category": "Sports/Memorial"
+      },
+      {
+        "name": "Passaic River Walkway (nearby)",
+        "description": "Walking paths along the Passaic River accessible from the southern end of Wallington.",
+        "address": "Wallington, NJ 07057",
+        "category": "Trail/Nature"
+      }
+    ],
+    "events": [
+      {
+        "name": "Wallington Polish Festival",
+        "description": "Annual celebration of the borough's Polish heritage featuring traditional food, music, dancing, and cultural performances.",
+        "when": "Summer, typically June or July"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade honoring veterans, marching through the borough's main streets.",
+        "when": "Memorial Day, last Monday in May"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community celebration with tree lighting, holiday music, and seasonal festivities.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Paterson Avenue Polish District",
+        "description": "The heart of Wallington's Polish-American community, featuring authentic bakeries, delis, and shops that draw visitors from across the region.",
+        "address": "Paterson Avenue, Wallington, NJ 07057",
+        "category": "Cultural/Shopping"
+      },
+      {
+        "name": "Most Sacred Heart of Jesus Church",
+        "description": "Historic Catholic parish church that has served as a spiritual and cultural center for Wallington's Polish-American community for generations.",
+        "address": "Paterson Avenue, Wallington, NJ 07057",
+        "category": "Historic/Religious"
+      }
+    ],
+    "shoppingAreas": [
+      "Paterson Avenue — Main commercial street with Polish delis, bakeries, and shops",
+      "Main Avenue — Additional local businesses",
+      "Passaic Park (nearby) — Shopping along the Passaic border",
+      "Garden State Plaza (Paramus) — Major shopping center a short drive away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Raymond Filer",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Richard Krajewski",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Susan Gregorek",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Jay Mason",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "William Leavens",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Edward Szot",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Cheryl Wargas",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Tuesday of each month at 7:00 PM",
+    "meetingLocation": "Borough Hall, 24 Union Boulevard, Wallington, NJ 07057",
+    "municipalWebsite": "https://www.wallingtonnj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(973) 777-0318",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(973) 777-0318",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(973) 777-0318",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(973) 777-0318",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(973) 777-0611",
+      "address": "24 Union Boulevard, Wallington, NJ 07057"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(973) 777-2537",
+      "address": "Wallington, NJ 07057"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(973) 777-0611",
+      "address": "Wallington, NJ 07057"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "St. Mary's General Hospital",
+        "address": "350 Boulevard, Passaic, NJ 07055",
+        "phone": "(973) 365-4300",
+        "distanceMiles": 2
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water / Suez",
+        "phone": "1-800-422-5987",
+        "url": "https://www.mysuezwater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Wallington DPW",
+        "phone": "(973) 777-0318"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Wallington Police (Non-Emergency)",
+        "number": "(973) 777-0611"
+      },
+      {
+        "label": "Wallington Fire Department",
+        "number": "(973) 777-2537"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(973) 777-0318"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

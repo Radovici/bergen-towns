@@ -1,7 +1,8 @@
 import { headers } from "next/headers";
 import { TownData, TownSlug } from "./types";
-import { readFileSync } from "fs";
+import { readFileSync, existsSync } from "fs";
 import { join } from "path";
+import { getAllSlugs } from "./town-registry";
 
 const townCache = new Map<TownSlug, TownData>();
 
@@ -15,6 +16,9 @@ export function loadTownData(slug: TownSlug): TownData {
     return townCache.get(slug)!;
   }
   const filePath = join(process.cwd(), "data", `${slug}.json`);
+  if (!existsSync(filePath)) {
+    return loadTownData("ridgewood");
+  }
   const raw = readFileSync(filePath, "utf-8");
   const data = JSON.parse(raw) as TownData;
   townCache.set(slug, data);
@@ -26,14 +30,4 @@ export async function getTownData(): Promise<TownData> {
   return loadTownData(slug);
 }
 
-export const ALL_TOWN_SLUGS: TownSlug[] = [
-  "allendale",
-  "fort-lee",
-  "franklin-lakes",
-  "hackensack",
-  "paramus",
-  "ridgewood",
-  "tenafly",
-  "teterboro",
-  "wyckoff",
-];
+export const ALL_TOWN_SLUGS: TownSlug[] = getAllSlugs();

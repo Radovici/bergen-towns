@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "slug": "river-edge",
+    "name": "River Edge",
+    "fullName": "Borough of River Edge",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "river-edge.info",
+    "zipCodes": ["07661"],
+    "themeColor": "#1b5e20",
+    "accentColor": "#388e3c"
+  },
+  "overview": {
+    "tagline": "A friendly, family-focused borough along the Hackensack River",
+    "description": "River Edge is a small, welcoming borough in central Bergen County situated along the Hackensack River. Known for its strong school system, safe neighborhoods, and convenient commuter access, River Edge offers an ideal suburban setting for families. The borough features a charming downtown along Kinderkamack Road, well-maintained parks, and a tight-knit community that takes pride in its annual events. Its central Bergen County location provides easy access to shopping, dining, and transportation to New York City.",
+    "population": 11688,
+    "populationYear": 2020,
+    "areaSqMi": 1.94,
+    "elevation": "35 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "River Edge Public Schools (K-6) / River Dell Regional (7-12)",
+    "highlights": [
+      "Highly rated school system (River Edge and River Dell Regional)",
+      "NJ Transit train service on the Pascack Valley Line",
+      "Charming downtown shopping district along Kinderkamack Road",
+      "Beautiful parks along the Hackensack River",
+      "Central Bergen County location with easy access to shopping and highways"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$550,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.90%",
+    "averagePropertyTax": "$12,800",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. River Edge features predominantly single-family homes in established neighborhoods with well-maintained lots.",
+    "recentTrends": "River Edge has seen strong demand driven by its school district reputation and central location. Home values have appreciated steadily, particularly for updated colonials and newer construction. The borough's affordability relative to nearby Ridgewood and Oradell makes it attractive to families seeking top schools without the highest price tags.",
+    "neighborhoodNotes": [
+      "Downtown area — Walking distance to Kinderkamack Road shops and train station",
+      "River Road section — Properties near the Hackensack River with mature trees",
+      "Cherry Hill area — Established neighborhood with mid-century homes",
+      "Northern section — Quieter residential streets near the Oradell border"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of River Edge Department of Public Works.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment with DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 599-6300",
+      "contactUrl": "https://www.riveredgenj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling collected weekly.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic #1-#7) collected weekly",
+        "Paper and cardboard collected on recycling day",
+        "Recycling bins provided by the Borough",
+        "Yard waste collected seasonally from April through December",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 599-6300",
+      "contactUrl": "https://www.riveredgenj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water and sewer service is maintained by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water (formerly Suez/United Water)",
+        "Sewer service maintained by the Borough DPW",
+        "Water billing handled by Veolia quarterly",
+        "Annual water quality reports available online",
+        "Emergency water service available 24/7 through Veolia"
+      ],
+      "contactPhone": "(201) 599-6300",
+      "contactUrl": "https://www.riveredgenj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction, additions, and renovations",
+        "Zoning applications reviewed by Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 599-6300",
+      "contactUrl": "https://www.riveredgenj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough operates commuter parking and municipal lots.",
+      "details": [
+        "Commuter parking permits available for train station lots",
+        "Free parking in downtown municipal lots with time limits",
+        "Overnight parking restrictions on borough streets",
+        "Snow emergency parking bans enforced",
+        "Parking permits available through Borough Clerk"
+      ],
+      "contactPhone": "(201) 599-6300",
+      "contactUrl": "https://www.riveredgenj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "River Edge Free Public Library",
+        "description": "Full-service public library offering books, digital resources, programs, and community meeting rooms.",
+        "details": [
+          "Located at 685 Elm Avenue",
+          "Children's story times, teen programs, and adult events",
+          "Free Wi-Fi, computer access, and study areas",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 261-1663",
+        "contactUrl": "https://www.riveredgelibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues and summer camp programs",
+          "Adult fitness classes and programs",
+          "Senior citizen programs and trips",
+          "Annual community events and celebrations"
+        ],
+        "contactPhone": "(201) 599-6300",
+        "contactUrl": "https://www.riveredgenj.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "River Edge enforces noise regulations to maintain its residential character.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to certain hours",
+        "Loud music and gatherings subject to noise limits after 10:00 PM"
+      ],
+      "source": "Borough of River Edge Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Property owners responsible for sidewalk snow removal within 24 hours",
+        "Fences must not exceed 6 feet in rear yards and 4 feet in front yards",
+        "Abandoned or inoperable vehicles must be removed",
+        "Swimming pools must be properly fenced and maintained"
+      ],
+      "source": "Borough of River Edge Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "River Edge requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies vaccination proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking may result in violation notices",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of River Edge Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough.",
+      "keyRules": [
+        "No overnight parking on borough streets between 2:00 AM and 6:00 AM",
+        "Snow emergency parking bans enforced",
+        "Commuter lots require valid permits",
+        "Commercial vehicles prohibited from residential street parking overnight",
+        "Time-limited parking enforced in downtown area"
+      ],
+      "source": "Borough of River Edge Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and comply with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before occupancy",
+        "Landlords must maintain properties to code standards",
+        "Short-term rentals not permitted in residential zones",
+        "Inspections conducted at change of tenancy"
+      ],
+      "source": "Borough of River Edge Code"
+    },
+    "other": [
+      {
+        "title": "Flood Zone Regulations",
+        "summary": "Parts of River Edge near the Hackensack River are in flood zones with special building requirements.",
+        "keyRules": [
+          "Properties in flood zones subject to FEMA regulations",
+          "Flood insurance may be required for properties in designated flood zones",
+          "Construction in flood zones requires elevation certificates",
+          "Substantial improvements to structures in flood zones must comply with floodplain management rules"
+        ],
+        "source": "Borough of River Edge Code / FEMA"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "River Edge Public Schools (K-6) / River Dell Regional School District (7-12)",
+    "publicSchools": [
+      {
+        "name": "Cherry Hill Elementary School",
+        "grades": "K-3",
+        "rating": 8,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Primary elementary school serving younger students"
+      },
+      {
+        "name": "Roosevelt Elementary School",
+        "grades": "K-3",
+        "rating": 8,
+        "enrollment": 330,
+        "type": "public",
+        "notes": "Primary elementary school"
+      },
+      {
+        "name": "New Bridge Center",
+        "grades": "4-6",
+        "rating": 8,
+        "enrollment": 380,
+        "type": "public",
+        "notes": "Upper elementary school serving grades 4-6"
+      },
+      {
+        "name": "River Dell Middle School",
+        "grades": "7-8",
+        "rating": 7,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Regional middle school shared with Oradell"
+      },
+      {
+        "name": "River Dell Regional High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 800,
+        "type": "public",
+        "notes": "Regional high school shared with Oradell; strong academics and athletics"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Peter the Apostle Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 220,
+        "notes": "Catholic school in the Archdiocese of Newark"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck) — 10 minutes",
+      "Bergen Community College (Paramus) — 10 minutes",
+      "Ramapo College of New Jersey (Mahwah) — 25 minutes",
+      "Montclair State University (Montclair) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Excellent school district (River Edge elementary and River Dell Regional)",
+      "Charming downtown with local shops and restaurants on Kinderkamack Road",
+      "NJ Transit Pascack Valley Line train station for commuting",
+      "Family-friendly neighborhoods with safe, tree-lined streets",
+      "Central Bergen County location with easy access to shopping and highways"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Pascack Valley Line",
+      "duration": "45-55 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "River Edge Station (on Continental Avenue)",
+      "busRoutes": ["NJ Transit Bus 165"],
+      "notes": "The River Edge train station is on the Pascack Valley Line, providing direct service to Hoboken Terminal. Bus 165 provides service to the Port Authority Bus Terminal in Manhattan. The borough is also close to Route 4 and Route 17 for highway commuting."
+    },
+    "costOfLiving": {
+      "summary": "River Edge offers a moderate cost of living by Bergen County standards, providing access to excellent schools at a lower price point than neighboring Ridgewood or Oradell.",
+      "vsStateAverage": "Approximately 25% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 55% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Highly rated schools at both elementary and high school levels",
+        "Walkable downtown with local charm",
+        "Train station for commuter convenience",
+        "Friendly, tight-knit community atmosphere",
+        "Central location with easy access to Bergen County amenities"
+      ],
+      "cons": [
+        "Train commute requires transfer at Hoboken for Manhattan",
+        "High property taxes relative to home values",
+        "Some flood-prone areas near the Hackensack River",
+        "Limited nightlife and entertainment options",
+        "Smaller lots compared to some neighboring towns"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Baumgart's Cafe",
+        "description": "Eclectic restaurant blending Chinese and American cuisine, known for creative dishes and a loyal local following.",
+        "address": "217 Kinderkamack Road, River Edge, NJ 07661",
+        "category": "Chinese-American/Eclectic"
+      },
+      {
+        "name": "River Edge Diner",
+        "description": "Classic New Jersey diner serving breakfast, lunch, and dinner with an extensive menu and friendly atmosphere.",
+        "address": "780 Kinderkamack Road, River Edge, NJ 07661",
+        "category": "American/Diner"
+      },
+      {
+        "name": "LaBella Pizza",
+        "description": "Neighborhood pizzeria offering New York-style pizza, pasta, and Italian-American favorites.",
+        "address": "Kinderkamack Road, River Edge, NJ 07661",
+        "category": "Italian/Pizza"
+      },
+      {
+        "name": "Red Platter",
+        "description": "Indian restaurant serving a wide variety of curries, tandoori dishes, and biryani in a welcoming setting.",
+        "address": "Kinderkamack Road, River Edge, NJ 07661",
+        "category": "Indian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Memorial Park",
+        "description": "Borough park with sports fields, playgrounds, basketball courts, and community gathering space.",
+        "address": "Continental Avenue, River Edge, NJ 07661",
+        "category": "Sports/Recreation"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Peaceful park honoring local veterans with memorial installations, benches, and green space.",
+        "address": "River Edge, NJ 07661",
+        "category": "Memorial/Park"
+      },
+      {
+        "name": "Riverside Park",
+        "description": "Scenic park along the Hackensack River with walking paths, benches, and river views.",
+        "address": "River Edge, NJ 07661",
+        "category": "Nature/Scenic"
+      },
+      {
+        "name": "New Bridge Landing Historic Park",
+        "description": "Revolutionary War historic site featuring the Steuben House, a Dutch Colonial building that served as Washington's headquarters. Managed by the Bergen County Historical Society.",
+        "address": "1201-1209 Main Street, River Edge, NJ 07661",
+        "category": "Historic Site"
+      }
+    ],
+    "events": [
+      {
+        "name": "River Edge Community Day",
+        "description": "Annual borough-wide celebration with food, entertainment, games, craft vendors, and family activities.",
+        "when": "September, typically the second Saturday"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade honoring veterans, featuring local organizations, scouts, and community groups.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday celebration with tree lighting, caroling, hot cocoa, and community festivities.",
+        "when": "December, first weekend"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Historic New Bridge Landing",
+        "description": "National historic landmark and Revolutionary War site where the Steuben House, a 1752 Dutch Colonial sandstone house, is preserved. George Washington's troops crossed the Hackensack River here in 1776.",
+        "address": "1201-1209 Main Street, River Edge, NJ 07661",
+        "category": "Historic Site"
+      },
+      {
+        "name": "Kinderkamack Road Downtown",
+        "description": "The borough's main commercial street with local shops, restaurants, services, and a friendly small-town feel.",
+        "address": "Kinderkamack Road, River Edge, NJ 07661",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Hackensack River Greenway",
+        "description": "Scenic walking and biking paths along the Hackensack River, connecting River Edge to neighboring communities.",
+        "address": "River Edge, NJ 07661",
+        "category": "Nature/Recreation"
+      }
+    ],
+    "shoppingAreas": [
+      "Kinderkamack Road — Downtown shops, restaurants, and services",
+      "Route 4 shopping corridor — Major retail nearby",
+      "Garden State Plaza (Paramus) — Major regional mall nearby",
+      "Oradell shopping — Adjacent borough with additional retail"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Tom Papaleo",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Kathy Farinacci",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Brian Gratale",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Jennifer Jao",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Mark Chinander",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Ed Mignone",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Marissa Valente",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the 1st and 3rd Monday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 705 Elm Avenue, River Edge, NJ 07661",
+    "municipalWebsite": "https://www.riveredgenj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator",
+        "phone": "(201) 599-6300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 599-6300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 599-6300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 599-6300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 599-6300",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-1233",
+      "address": "705 Elm Avenue, River Edge, NJ 07661"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-0624",
+      "address": "River Edge, NJ 07661"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-1233",
+      "address": "River Edge, NJ 07661"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 6
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of River Edge DPW",
+        "phone": "(201) 599-6300"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "River Edge Police (Non-Emergency)",
+        "number": "(201) 262-1233"
+      },
+      {
+        "label": "River Edge Fire Department",
+        "number": "(201) 262-0624"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 599-6300"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

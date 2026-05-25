@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "slug": "new-milford",
+    "name": "New Milford",
+    "fullName": "Borough of New Milford",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "new-milford.info",
+    "zipCodes": ["07646"],
+    "themeColor": "#0d47a1",
+    "accentColor": "#1565c0"
+  },
+  "overview": {
+    "tagline": "A diverse, family-friendly borough along the Hackensack River",
+    "description": "New Milford is a culturally diverse borough situated along the Hackensack River in central Bergen County. With a mix of residential neighborhoods, a growing business district, and easy access to major highways, New Milford offers an affordable alternative to neighboring communities while maintaining strong schools and active community programs. The borough is known for its diversity, with residents from a wide range of ethnic backgrounds contributing to a vibrant and welcoming atmosphere.",
+    "population": 16598,
+    "populationYear": 2020,
+    "areaSqMi": 2.36,
+    "elevation": "35 ft",
+    "incorporated": "1922",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "New Milford Public Schools",
+    "highlights": [
+      "Culturally diverse community with residents from around the world",
+      "Affordable housing by Bergen County standards",
+      "Hackensack River waterfront access and parks",
+      "Strong public school system",
+      "Convenient access to Route 4, Route 17, and I-80"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$475,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.90%",
+    "averagePropertyTax": "$11,500",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Bergen County conducts periodic revaluations to ensure assessed values reflect market conditions.",
+    "recentTrends": "New Milford has seen steady price growth, driven by buyers seeking affordable Bergen County homes with good schools and highway access. The market has become more competitive in recent years with limited inventory. Multi-family properties and condos offer entry-level options.",
+    "neighborhoodNotes": [
+      "Boulevard/River Road area — Close to the Hackensack River with river views",
+      "Main Street corridor — Walking distance to shops and restaurants",
+      "Henley Avenue area — Quiet residential streets with single-family homes",
+      "Columbia Road section — Established neighborhood near Bergenfield border",
+      "Madison Avenue area — Family-friendly streets near schools"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided by a contracted hauler for the Borough of New Milford.",
+      "details": [
+        "Trash pickup occurs twice per week on designated days",
+        "Containers must be at curbside by 6:00 AM on collection day",
+        "Maximum 50 lbs per container with secure lids",
+        "Bulk item pickup available by scheduling with DPW",
+        "Holiday collection schedule posted on borough website"
+      ],
+      "contactPhone": "(201) 967-5044",
+      "contactUrl": "https://www.newmilfordboro.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling collected on a regular schedule.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastics) collected biweekly",
+        "Paper and cardboard on alternate collection weeks",
+        "Yard waste collected seasonally from April through November",
+        "Recycling bins provided by the Borough",
+        "Electronics recycling available at DPW yard"
+      ],
+      "contactPhone": "(201) 967-5044",
+      "contactUrl": "https://www.newmilfordboro.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water (formerly United Water New Jersey). Sewer service is maintained through the Borough and the Bergen County Utilities Authority.",
+      "details": [
+        "Veolia Water provides water supply and billing",
+        "Sewer service through Bergen County Utilities Authority (BCUA)",
+        "Annual water quality reports available from Veolia",
+        "Emergency water issues handled 24/7 by Veolia",
+        "Sewer connection permits required for new construction"
+      ],
+      "contactPhone": "(201) 967-5044",
+      "contactUrl": "https://www.newmilfordboro.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department issues permits and oversees construction, zoning, and code enforcement.",
+      "details": [
+        "Permits required for construction, additions, and renovations",
+        "Zoning Board reviews variance applications",
+        "Planning Board handles site plan and subdivision applications",
+        "Inspections scheduled through the Building Department",
+        "Certificate of occupancy required for new construction and major renovations"
+      ],
+      "contactPhone": "(201) 967-5044",
+      "contactUrl": "https://www.newmilfordboro.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages municipal parking lots and street parking regulations.",
+      "details": [
+        "Municipal parking lots available in the downtown area",
+        "Commuter parking permits available for bus riders",
+        "Street parking subject to posted time limits",
+        "Overnight parking restrictions on borough streets",
+        "Snow emergency parking regulations enforced during storms"
+      ],
+      "contactPhone": "(201) 967-5044",
+      "contactUrl": "https://www.newmilfordboro.com"
+    },
+    "additionalServices": [
+      {
+        "title": "New Milford Public Library",
+        "description": "Full-service public library offering books, programs, and digital resources.",
+        "details": [
+          "Located at 200 Dahlia Avenue",
+          "Children's story times, teen programs, and adult events",
+          "ESL programs reflecting the borough's diverse population",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 262-4080",
+        "contactUrl": "https://newmilfordlibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents.",
+        "details": [
+          "Youth sports leagues, swimming, and summer camps",
+          "Adult fitness programs and senior activities",
+          "Community events and holiday celebrations",
+          "Online registration available"
+        ],
+        "contactPhone": "(201) 967-5044",
+        "contactUrl": "https://www.newmilfordboro.com/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "New Milford enforces noise regulations to protect the quality of life in residential areas.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction on Sundays or holidays",
+        "Amplified music subject to noise limits after 10:00 PM",
+        "Power equipment restricted to daytime hours"
+      ],
+      "source": "Borough of New Milford Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners are required to keep their properties in good condition.",
+      "keyRules": [
+        "Lawns and landscaping must be maintained",
+        "Properties must be free of debris and junk",
+        "Structures must be kept in good repair",
+        "Sidewalks must be cleared of snow within 24 hours",
+        "Vacant properties must be secured and maintained"
+      ],
+      "source": "Borough of New Milford Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "All pets must be licensed and controlled per borough ordinances.",
+      "keyRules": [
+        "Dogs must be licensed annually with the Borough Clerk",
+        "Dogs must be on a leash when off owner's property",
+        "Pet waste must be cleaned up immediately",
+        "Excessive barking subject to complaints and fines",
+        "Cat licensing required"
+      ],
+      "source": "Borough of New Milford Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking regulations are enforced throughout the borough.",
+      "keyRules": [
+        "Overnight parking on streets prohibited from 2:00 AM to 6:00 AM",
+        "Alternate-side parking enforced on certain streets for street sweeping",
+        "No parking within 25 feet of intersections or fire hydrants",
+        "Vehicles must be moved during declared snow emergencies",
+        "Parking violations subject to fines and towing"
+      ],
+      "source": "Borough of New Milford Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental units must be registered and inspected per borough requirements.",
+      "keyRules": [
+        "All rental properties must be registered with the Borough",
+        "Certificate of habitability required before occupancy",
+        "Annual registration renewal required",
+        "Landlords responsible for property maintenance to code standards",
+        "Multi-family dwellings subject to periodic fire safety inspections"
+      ],
+      "source": "Borough of New Milford Code"
+    },
+    "other": [
+      {
+        "title": "Flood Zone Regulations",
+        "summary": "Properties near the Hackensack River are subject to flood zone requirements.",
+        "keyRules": [
+          "Construction in flood zones must meet FEMA elevation standards",
+          "Flood insurance required for properties in Special Flood Hazard Areas",
+          "Borough participates in the National Flood Insurance Program",
+          "Substantial improvements may trigger elevation requirements"
+        ],
+        "source": "Borough of New Milford Flood Prevention Ordinance"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "New Milford Public Schools",
+    "publicSchools": [
+      {
+        "name": "Berkley Street School",
+        "grades": "PreK-2",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Primary school for early elementary students"
+      },
+      {
+        "name": "David E. Owens Middle School",
+        "grades": "3-5",
+        "rating": 6,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Upper elementary school"
+      },
+      {
+        "name": "New Milford Middle School",
+        "grades": "6-8",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Middle school serving borough students"
+      },
+      {
+        "name": "New Milford High School",
+        "grades": "9-12",
+        "rating": 6,
+        "enrollment": 650,
+        "type": "public",
+        "notes": "Comprehensive high school with diverse student body and solid academic programs"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Transfiguration Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school serving families in New Milford and surrounding communities"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 5 miles",
+      "Fairleigh Dickinson University (Teaneck) — 5 miles",
+      "Felician University (Rutherford) — 8 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable housing by Bergen County standards",
+      "Culturally diverse and welcoming community",
+      "Good public school system",
+      "Convenient access to Routes 4, 17, and major highways",
+      "Proximity to Hackensack River recreation"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "40-60 minutes to Port Authority",
+      "busRoutes": ["165", "168", "186"],
+      "notes": "Several NJ Transit bus routes provide service to Port Authority Bus Terminal. The George Washington Bridge is accessible within 20 minutes by car. Some commuters use the nearby New Bridge Landing station area for alternate transit options."
+    },
+    "costOfLiving": {
+      "summary": "New Milford offers relatively affordable living for Bergen County, with a range of housing options from condos to single-family homes.",
+      "vsStateAverage": "At or near the New Jersey state average for overall cost of living",
+      "vsNationalAverage": "Above the national average, primarily due to property taxes and housing"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable entry point into Bergen County",
+        "Very diverse and multicultural community",
+        "Good highway access for commuting in any direction",
+        "Solid public schools with diverse student populations",
+        "Active recreation programs and community events"
+      ],
+      "cons": [
+        "Some flood-prone areas near the Hackensack River",
+        "Downtown commercial area is modest compared to neighboring towns",
+        "Traffic congestion on River Road and Boulevard during rush hours",
+        "No direct train station — dependent on bus service",
+        "Property tax rates are above the county average"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Il Mulino",
+        "description": "Well-known Italian restaurant offering refined pasta dishes and seafood in an elegant setting.",
+        "address": "Boulevard, New Milford, NJ",
+        "category": "Italian"
+      },
+      {
+        "name": "Sushi Palace",
+        "description": "Popular Japanese restaurant with an extensive sushi menu and hibachi options.",
+        "address": "River Road, New Milford, NJ",
+        "category": "Japanese/Sushi"
+      },
+      {
+        "name": "El Unico Restaurant",
+        "description": "Authentic Latin American cuisine featuring Colombian and Peruvian dishes.",
+        "address": "Boulevard, New Milford, NJ",
+        "category": "Latin American"
+      },
+      {
+        "name": "New Milford Diner",
+        "description": "Classic New Jersey diner serving a full menu of American comfort food around the clock.",
+        "address": "Boulevard, New Milford, NJ",
+        "category": "American/Diner"
+      },
+      {
+        "name": "Nori Sushi",
+        "description": "Modern Japanese restaurant with creative sushi rolls and Asian fusion dishes.",
+        "address": "River Road, New Milford, NJ",
+        "category": "Japanese"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Veteran's Memorial Park",
+        "description": "Central community park with sports fields, a playground, and memorial to borough veterans.",
+        "address": "Main Street, New Milford, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Elmore Field",
+        "description": "Sports complex with ball fields and recreational facilities.",
+        "address": "New Milford, NJ",
+        "category": "Sports Complex"
+      },
+      {
+        "name": "Hackensack River Greenway",
+        "description": "Riverside walking path along the Hackensack River offering scenic views and nature observation.",
+        "address": "River Road, New Milford, NJ",
+        "category": "Greenway/Trail"
+      },
+      {
+        "name": "French Hill Park",
+        "description": "Neighborhood park with playground equipment and open green space.",
+        "address": "New Milford, NJ",
+        "category": "Neighborhood Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "New Milford Community Day",
+        "description": "Annual celebration featuring food, music, games, and family activities.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Festive ceremony with tree lighting, caroling, and holiday cheer.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Community gathering honoring veterans at the Veterans Memorial Park.",
+        "when": "May (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "New Bridge Landing Historic Park",
+        "description": "Historic site at the nearby junction of the Hackensack River where George Washington's troops crossed during the Revolutionary War.",
+        "address": "1201-1209 Main Street, River Edge, NJ",
+        "category": "Historic"
+      },
+      {
+        "name": "Hackensack River Waterfront",
+        "description": "Scenic riverfront area offering walking paths, bird watching, and canoe/kayak access.",
+        "address": "River Road, New Milford, NJ",
+        "category": "Nature/Recreation"
+      }
+    ],
+    "shoppingAreas": [
+      "Boulevard commercial district",
+      "River Road shopping corridor",
+      "Nearby Route 4 and Route 17 retail"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Michael Putrino",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Hedy Grant", "title": "Council President" },
+      { "name": "Thea Sirocchi-Hurley", "title": "Council Member" },
+      { "name": "Dennis Giordano", "title": "Council Member" },
+      { "name": "Ann Subrizi", "title": "Council Member" },
+      { "name": "Teresa Gilmore", "title": "Council Member" },
+      { "name": "Santo Benvenuto", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Monday of each month at 7:30 PM",
+    "meetingLocation": "New Milford Borough Hall, 930 River Road",
+    "municipalWebsite": "https://www.newmilfordboro.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 967-5044",
+        "email": "clerk@newmilfordboro.com",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 967-5044",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 967-5044",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 261-1133",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 261-1400",
+      "address": "930 River Road, New Milford, NJ 07646"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-0085",
+      "address": "New Milford, NJ 07646"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-4455",
+      "address": "New Milford, NJ 07646"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 4
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-0850",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "slug": "hillsdale",
+    "name": "Hillsdale",
+    "fullName": "Borough of Hillsdale",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "hillsdale.info",
+    "zipCodes": ["07642"],
+    "themeColor": "#37474f",
+    "accentColor": "#546e7a"
+  },
+  "overview": {
+    "tagline": "A family-friendly borough with excellent schools, quiet neighborhoods, and a strong community spirit",
+    "description": "Hillsdale is a well-established residential borough in northwestern Bergen County known for its excellent public schools, safe neighborhoods, and active community organizations. With a population of about 10,000, Hillsdale strikes a balance between suburban convenience and small-town character. The borough offers a mix of housing styles, from charming mid-century homes to newer construction, and its location provides easy access to both the Pascack Valley Line for NYC commuters and the outdoor recreation of northern Bergen County.",
+    "population": 10219,
+    "populationYear": 2020,
+    "areaSqMi": 2.97,
+    "elevation": "110 ft",
+    "incorporated": "1898",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Hillsdale Public Schools",
+    "highlights": [
+      "Highly rated public school district with strong academic programs",
+      "Pascack Valley Line train station for NYC commuters",
+      "Active recreation programs and youth sports leagues",
+      "Charming small-town downtown along Hillsdale Avenue",
+      "Close to Woodcliff Lake and Pascack Brook County Park"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$575,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.95%",
+    "averagePropertyTax": "$13,200",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. The borough periodically conducts revaluations to align assessed values with market conditions.",
+    "recentTrends": "Hillsdale has experienced steady price appreciation with strong buyer demand, particularly among families attracted by the school district. Colonial and split-level homes from the 1950s-1970s make up much of the housing stock, with some newer construction on available lots.",
+    "neighborhoodNotes": [
+      "Downtown area — Walking distance to the train station and shops on Hillsdale Avenue",
+      "Pascack Road corridor — Mix of residential homes and some commercial properties",
+      "Northern section — Quieter residential streets bordering Woodcliff Lake",
+      "Southern section — Family-friendly neighborhoods near schools and parks"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Hillsdale.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 666-0961",
+      "contactUrl": "https://www.hillsdalenj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly by the Borough.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic) collected weekly",
+        "Paper and cardboard collected on the same day",
+        "Recycling bins available through the DPW",
+        "Yard waste collected seasonally from spring through fall",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 666-0961",
+      "contactUrl": "https://www.hillsdalenj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by Veolia Water (formerly Suez Water) and sewer service is managed by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water New Jersey",
+        "Sewer service maintained by the Borough DPW",
+        "Water billing handled by Veolia quarterly",
+        "Sewer fees included on the borough tax bill",
+        "Water quality reports available online"
+      ],
+      "contactPhone": "(201) 666-0961",
+      "contactUrl": "https://www.hillsdalenj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning approvals, and code enforcement.",
+      "details": [
+        "Building permits required for construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall and online",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 666-0961",
+      "contactUrl": "https://www.hillsdalenj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough operates commuter parking lots near the train station and manages on-street parking regulations.",
+      "details": [
+        "Commuter parking permits available for the Hillsdale train station lot",
+        "On-street parking available throughout residential areas",
+        "Overnight parking restrictions on certain borough streets",
+        "Snow emergency parking bans enforced during storms",
+        "Municipal lot available near the downtown area"
+      ],
+      "contactPhone": "(201) 666-0961",
+      "contactUrl": "https://www.hillsdalenj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Hillsdale Free Public Library",
+        "description": "Full-service public library offering books, digital resources, programs, and meeting spaces.",
+        "details": [
+          "Located at 509 Hillsdale Avenue",
+          "Children's story times, teen programs, and adult book clubs",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 358-5072",
+        "contactUrl": "https://www.hillsdalelibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for all ages.",
+        "details": [
+          "Youth sports leagues including baseball, soccer, basketball, and lacrosse",
+          "Summer recreation programs and day camps",
+          "Senior citizen programs and trips",
+          "Community events throughout the year"
+        ],
+        "contactPhone": "(201) 666-0961",
+        "contactUrl": "https://www.hillsdalenj.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Hillsdale enforces noise regulations to maintain the peaceful character of residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction noise on Sundays or federal holidays",
+        "Power equipment and leaf blowers restricted to daytime hours",
+        "Amplified music and loud gatherings subject to enforcement after 10:00 PM"
+      ],
+      "source": "Borough of Hillsdale Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Sidewalk snow removal required within 24 hours after snowfall",
+        "Fences must meet borough height and setback requirements",
+        "Abandoned vehicles must be removed from property",
+        "Properties must be kept free of debris and unsightly conditions"
+      ],
+      "source": "Borough of Hillsdale Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Hillsdale requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Nuisance barking subject to enforcement",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Hillsdale Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough.",
+      "keyRules": [
+        "Overnight parking restricted on certain borough streets",
+        "Snow emergency parking bans — vehicles must be moved off-street",
+        "Commercial vehicles over 4 tons prohibited on residential streets overnight",
+        "Commuter lot parking requires a valid permit",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Hillsdale Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough housing codes.",
+      "keyRules": [
+        "Rental properties should be registered with the Borough",
+        "Properties must meet housing and fire safety codes",
+        "Landlords must maintain rental units to code standards",
+        "Inspections conducted at change of tenancy",
+        "Multi-family dwellings subject to additional requirements"
+      ],
+      "source": "Borough of Hillsdale Code"
+    },
+    "other": [
+      {
+        "title": "Yard Sales",
+        "summary": "Garage and yard sales are permitted with certain restrictions.",
+        "keyRules": [
+          "Permit may be required from the Borough Clerk",
+          "Limited number of sales per year per household",
+          "Signs must be removed after the sale",
+          "Sales restricted to daytime hours"
+        ],
+        "source": "Borough of Hillsdale Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Hillsdale Public Schools",
+    "publicSchools": [
+      {
+        "name": "George G. White School",
+        "grades": "K-2",
+        "rating": 7,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Primary school serving the borough's youngest students"
+      },
+      {
+        "name": "Meadowbrook School",
+        "grades": "3-4",
+        "rating": 7,
+        "enrollment": 220,
+        "type": "public",
+        "notes": "Intermediate school bridging primary and upper elementary"
+      },
+      {
+        "name": "Ann Blanche Smith School",
+        "grades": "5-6",
+        "rating": 7,
+        "enrollment": 250,
+        "type": "public",
+        "notes": "Upper elementary school preparing students for middle school"
+      },
+      {
+        "name": "Pascack Valley High School",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 1200,
+        "type": "public",
+        "notes": "Regional high school serving Hillsdale and Woodcliff Lake; strong academics, athletics, and extracurriculars"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. John the Baptist Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic school serving the Hillsdale and surrounding communities"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Ramapo College of New Jersey (Mahwah) — 20 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 20 minutes",
+      "William Paterson University (Wayne) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Highly rated public schools including Pascack Valley High School",
+      "NJ Transit Pascack Valley Line train station in town",
+      "Affordable relative to many Bergen County communities",
+      "Active recreation programs and youth sports",
+      "Safe, family-friendly neighborhoods with engaged community",
+      "Convenient access to Route 17 and Garden State Parkway"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Pascack Valley Line",
+      "duration": "55-70 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "Hillsdale Station (NJ Transit Pascack Valley Line)",
+      "busRoutes": ["NJ Transit Bus 165"],
+      "notes": "The Hillsdale train station provides direct service on the Pascack Valley Line to Hoboken Terminal. Service frequency is limited compared to main lines, with peak-hour trains approximately every 30 minutes. Bus route 165 provides alternative service to the Port Authority Bus Terminal."
+    },
+    "costOfLiving": {
+      "summary": "Hillsdale offers a moderate cost of living for Bergen County, with housing prices near the county median and solid value for the quality of schools and services provided.",
+      "vsStateAverage": "Approximately 20% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 50% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Strong school district with well-regarded Pascack Valley High School",
+        "Train station in town for NYC commuting",
+        "More affordable than many northern Bergen County towns",
+        "Active community organizations and recreation programs",
+        "Close to outdoor recreation at Pascack Brook County Park"
+      ],
+      "cons": [
+        "Limited Pascack Valley Line train schedule compared to main lines",
+        "Downtown commercial area is small with limited dining options",
+        "Property taxes still relatively high by national standards",
+        "Route 17 traffic can impact local travel during peak hours",
+        "Older housing stock may require renovation"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Chestnut Deli & Catering",
+        "description": "Popular local deli offering sandwiches, hot entrees, catering, and a friendly neighborhood atmosphere.",
+        "address": "53 Hillsdale Avenue, Hillsdale, NJ 07642",
+        "category": "Deli/American"
+      },
+      {
+        "name": "Hillsdale Luncheonette",
+        "description": "Classic luncheonette serving breakfast and lunch in a nostalgic, family-friendly setting.",
+        "address": "Hillsdale Avenue, Hillsdale, NJ 07642",
+        "category": "Diner/American"
+      },
+      {
+        "name": "La Vecchia Ristorante",
+        "description": "Italian restaurant offering traditional pasta dishes, seafood, and a warm dining experience.",
+        "address": "Kinderkamack Road, Hillsdale, NJ 07642",
+        "category": "Italian"
+      },
+      {
+        "name": "Stony Hill Inn",
+        "description": "Historic inn and restaurant in nearby Hackensack offering fine dining in a charming colonial setting.",
+        "address": "231 Polifly Road, Hackensack, NJ 07601",
+        "category": "Fine Dining/American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Pascack Brook County Park",
+        "description": "Bergen County park featuring trails, sports fields, picnic areas, and Pascack Brook running through the grounds. Popular for walking, fishing, and family outings.",
+        "address": "Pascack Road, Hillsdale, NJ 07642",
+        "category": "County Park/Nature"
+      },
+      {
+        "name": "Hillsdale Community Park",
+        "description": "Borough park with playgrounds, athletic fields, basketball courts, and open green space.",
+        "address": "Hillsdale Avenue, Hillsdale, NJ 07642",
+        "category": "Park/Recreation"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Memorial park with monuments honoring local veterans, benches, and a reflective setting.",
+        "address": "Hillsdale, NJ 07642",
+        "category": "Memorial/Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Hillsdale Community Day",
+        "description": "Annual celebration featuring food, games, live entertainment, vendor booths, and activities for the whole family.",
+        "when": "Fall, typically in September"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual Memorial Day parade and ceremony honoring veterans, organized by local veterans' organizations.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual borough tree lighting ceremony with carols, hot cocoa, and family activities.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Pascack Brook County Park",
+        "description": "A scenic county park with walking trails along the brook, sports facilities, and abundant natural beauty.",
+        "address": "Pascack Road, Hillsdale, NJ 07642",
+        "category": "Nature/Outdoor"
+      },
+      {
+        "name": "Hillsdale Train Station",
+        "description": "Historic NJ Transit station on the Pascack Valley Line, serving as a gateway for commuters and visitors.",
+        "address": "Hillsdale Avenue, Hillsdale, NJ 07642",
+        "category": "Transit/Historic"
+      }
+    ],
+    "shoppingAreas": [
+      "Hillsdale Avenue — Small downtown with local businesses",
+      "Kinderkamack Road — Shops and services along the main corridor",
+      "Woodcliff Lake — Tice's Corner shopping area nearby",
+      "Garden State Plaza (Paramus) — 15 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "John Ruocco",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Frank Pizzella",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Thomas Mץrk",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Abby Lundy",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Michael Keegan",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Cathy Duncan",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Dennis Healy",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 1st and 3rd Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 380 Hillsdale Avenue, Hillsdale, NJ 07642",
+    "municipalWebsite": "https://www.hillsdalenj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator",
+        "phone": "(201) 666-0961",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 666-0961",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 666-0961",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 666-0961",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 666-0961",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 664-7770",
+      "address": "380 Hillsdale Avenue, Hillsdale, NJ 07642"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 666-4800",
+      "address": "Hillsdale, NJ 07642"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 666-4800",
+      "address": "Hillsdale, NJ 07642"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack Meridian Health — Pascack Valley Medical Center",
+        "address": "250 Old Hook Road, Westwood, NJ 07675",
+        "phone": "(201) 358-3000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Hillsdale Police (Non-Emergency)",
+        "number": "(201) 664-7770"
+      },
+      {
+        "label": "Hillsdale Fire Department",
+        "number": "(201) 666-4800"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 666-0961"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

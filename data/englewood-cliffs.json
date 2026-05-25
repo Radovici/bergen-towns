@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "slug": "englewood-cliffs",
+    "name": "Englewood Cliffs",
+    "fullName": "Borough of Englewood Cliffs",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "englewood-cliffs.info",
+    "zipCodes": ["07632"],
+    "themeColor": "#3c096c",
+    "accentColor": "#6a1b9a"
+  },
+  "overview": {
+    "tagline": "Where the Palisades Meet Corporate America",
+    "description": "Englewood Cliffs is a small, affluent borough perched atop the Palisades cliffs overlooking the Hudson River. Despite its compact size, it is home to major corporate headquarters including LG Electronics North America and formerly Unilever, making it a significant corporate campus destination. The borough combines exclusive residential neighborhoods, dramatic cliff-top vistas, and a prestigious address just minutes from Manhattan via the George Washington Bridge.",
+    "population": 5368,
+    "populationYear": 2020,
+    "areaSqMi": 2.99,
+    "elevation": "300 ft (Palisades top)",
+    "incorporated": "1895",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Englewood Cliffs School District",
+    "highlights": [
+      "Perched atop the dramatic Palisades cliffs with Hudson River panoramas",
+      "Home to LG Electronics North America headquarters and other major corporations",
+      "Exclusive residential community with high property values",
+      "Direct access to Palisades Interstate Park and scenic overlooks",
+      "Minutes from the George Washington Bridge and Manhattan"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$1,150,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "1.45%",
+    "averagePropertyTax": "$18,500",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Englewood Cliffs features large residential lots with significant corporate ratables helping offset residential tax burden.",
+    "recentTrends": "Englewood Cliffs remains one of the most expensive real estate markets in Bergen County. The presence of major corporate ratables keeps residential tax rates relatively low. New luxury construction has increased, with homes often exceeding $2 million. The market attracts wealthy professionals and international buyers.",
+    "neighborhoodNotes": [
+      "The Palisade Avenue corridor features stately homes on large lots with mature landscaping",
+      "Properties along the cliff edge command premium prices for Hudson River and Manhattan views",
+      "The corporate campus zone along Sylvan Avenue includes LG headquarters and other office buildings",
+      "The northern section near the Alpine border has some of the most secluded and expensive properties"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by location — check the borough website",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by appointment with the DPW"
+      ],
+      "contactPhone": "201-569-5252",
+      "contactUrl": "https://www.englewoodcliffsnj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream recycling is collected biweekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) collected in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Yard waste collected seasonally in biodegradable bags"
+      ],
+      "contactPhone": "201-569-5252",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water and sewer service is managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges included in utility or tax bills",
+        "Water quality reports published annually",
+        "Report water emergencies to the DPW or Veolia"
+      ],
+      "contactPhone": "201-569-5252",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Englewood Cliffs Building Department handles construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Zoning applications reviewed by the Planning Board or Zoning Board of Adjustment",
+        "Tree removal permits may be required for protected specimens",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "201-569-5252"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Englewood Cliffs is primarily a residential and corporate campus community with limited municipal parking needs.",
+      "details": [
+        "Street parking subject to posted regulations",
+        "No overnight parking on borough streets",
+        "Corporate campuses have private parking facilities",
+        "Fire hydrant clearance of 10 feet required"
+      ],
+      "contactPhone": "201-569-5252"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers youth sports, camps, and community activities.",
+        "details": [
+          "Youth sports leagues including soccer, basketball, and baseball",
+          "Summer recreation camp for children",
+          "Community events and seasonal celebrations",
+          "Borough pool facility (seasonal)"
+        ],
+        "contactPhone": "201-569-5252"
+      },
+      {
+        "title": "Library Services",
+        "description": "The Englewood Cliffs Public Library provides resources and programs for residents.",
+        "details": [
+          "Located at 110 Charlotte Place",
+          "Children's and adult programming",
+          "Computer access and reference services",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "201-568-2215",
+        "contactUrl": "https://www.englewoodcliffslibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Englewood Cliffs enforces strict noise restrictions to protect its quiet residential character.",
+      "keyRules": [
+        "Construction work prohibited before 7:30 AM and after 6:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Power equipment (leaf blowers, mowers) restricted to daytime hours",
+        "Excessive noise complaints handled by the police department"
+      ],
+      "source": "Englewood Cliffs Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to the borough's high standards.",
+      "keyRules": [
+        "Lawns and landscaping must be professionally maintained",
+        "Snow and ice must be cleared from sidewalks within 12 hours of storm ending",
+        "No accumulation of debris, junk, or abandoned vehicles",
+        "Trees and hedges must not obstruct sidewalks or sight lines",
+        "Swimming pools must be fenced and meet safety codes"
+      ],
+      "source": "Englewood Cliffs Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed and controlled at all times within the borough.",
+      "keyRules": [
+        "All dogs must be licensed with the Borough Clerk",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets",
+        "Rabies vaccination required for dogs and cats",
+        "Barking dog complaints may result in fines"
+      ],
+      "source": "Englewood Cliffs Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Englewood Cliffs enforces parking rules to maintain the residential and corporate character of the borough.",
+      "keyRules": [
+        "No overnight parking on borough streets",
+        "Commercial vehicles prohibited from parking on residential streets",
+        "No parking on lawns or unpaved areas",
+        "Fire hydrant clearance of 10 feet required",
+        "Construction vehicle parking requires a permit"
+      ],
+      "source": "Englewood Cliffs Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Englewood Cliffs has limited rental housing; regulations ensure standards are maintained.",
+      "keyRules": [
+        "Landlords must register rental properties with the Borough",
+        "Certificate of Habitability required before tenant occupancy",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act",
+        "Short-term rentals may be subject to zoning restrictions"
+      ],
+      "source": "Englewood Cliffs Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Englewood Cliffs has a tree preservation ordinance protecting mature trees on private and public property.",
+        "keyRules": [
+          "Permit required to remove trees above a specified caliper on residential property",
+          "Replacement planting may be required for trees removed",
+          "Protected species along the Palisades cliffs have additional protections",
+          "Fines for unauthorized tree removal can be significant"
+        ],
+        "source": "Englewood Cliffs Borough Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Englewood Cliffs School District",
+    "publicSchools": [
+      {
+        "name": "Upper School (Englewood Cliffs Upper School)",
+        "grades": "5-8",
+        "rating": 8,
+        "enrollment": 200,
+        "type": "public",
+        "notes": "Small school with excellent academic programs; students attend Dwight Morrow High School in Englewood for grades 9-12"
+      },
+      {
+        "name": "North Cliff School",
+        "grades": "PreK-4",
+        "rating": 8,
+        "enrollment": 250,
+        "type": "public",
+        "notes": "Elementary school with small class sizes and strong parent involvement"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Elisabeth Morrow School (nearby Englewood)",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Prestigious independent school in neighboring Englewood serving many Englewood Cliffs families"
+      },
+      {
+        "name": "Dwight-Englewood School (nearby Englewood)",
+        "grades": "PreK-12",
+        "type": "private",
+        "notes": "Top independent school in neighboring Englewood, popular with Englewood Cliffs residents"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (5 miles)",
+      "Bergen Community College — Paramus (8 miles)",
+      "Columbia University — NYC (via GWB, 7 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Exclusive, affluent community with large lots and high-end homes",
+      "Low residential property tax rate thanks to significant corporate ratables",
+      "Dramatic Palisades cliff setting with Hudson River and Manhattan views",
+      "Excellent small public schools with high student-teacher ratios",
+      "Minutes from the George Washington Bridge for quick Manhattan access"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "Car via George Washington Bridge / NJ Transit Bus",
+      "duration": "15-35 minutes by car; 25-45 minutes by bus",
+      "busRoutes": ["166", "186"],
+      "notes": "Most residents commute by car via Route 9W to the George Washington Bridge. NJ Transit bus routes are available from Palisade Avenue. The nearby Edgewater ferry is another option for commuters heading to Midtown Manhattan."
+    },
+    "costOfLiving": {
+      "summary": "Englewood Cliffs has a very high cost of living driven by premium home prices, though property tax rates are moderate due to corporate ratables.",
+      "vsStateAverage": "40-60% above the New Jersey average",
+      "vsNationalAverage": "80-100% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Lower effective tax rate due to corporate ratables (LG, etc.)",
+        "Exclusive community with beautiful homes and large lots",
+        "Stunning Palisades cliff-top location with river views",
+        "Excellent small public school system",
+        "Very close to Manhattan via GWB"
+      ],
+      "cons": [
+        "Very high home prices — median over $1 million",
+        "Limited walkability — car-dependent for most errands",
+        "No downtown commercial district or Main Street",
+        "Students attend Englewood high school for grades 9-12",
+        "Limited rental and starter home inventory"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Aqua Blu",
+        "description": "Upscale Italian restaurant offering fresh seafood, pasta, and an extensive wine list in an elegant setting.",
+        "address": "Sylvan Avenue, Englewood Cliffs, NJ 07632",
+        "category": "Italian"
+      },
+      {
+        "name": "Bâton Rouge",
+        "description": "Cajun and Creole-inspired restaurant serving Louisiana-style cuisine including gumbo, jambalaya, and blackened fish.",
+        "address": "Sylvan Avenue, Englewood Cliffs, NJ 07632",
+        "category": "Cajun"
+      },
+      {
+        "name": "White Castle (Original Site)",
+        "description": "The fast-food chain's corporate test kitchen location near the former headquarters, a piece of American fast-food history.",
+        "address": "Sylvan Avenue, Englewood Cliffs, NJ 07632",
+        "category": "American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Palisades Interstate Park — Englewood Cliffs Section",
+        "description": "Dramatic cliff-top parkland running along the Hudson River with hiking trails, scenic overlooks, and the Englewood Boat Basin at the river's edge.",
+        "address": "Palisades Interstate Park, Englewood Cliffs, NJ 07632",
+        "category": "State Park"
+      },
+      {
+        "name": "Englewood Cliffs Recreation Area",
+        "description": "Borough recreation complex with ball fields, basketball courts, a playground, and a community pool facility.",
+        "address": "Charlotte Place, Englewood Cliffs, NJ 07632",
+        "category": "Recreation Complex"
+      },
+      {
+        "name": "Joseph A. Gianfortone Memorial Park",
+        "description": "Neighborhood park with a playground, picnic areas, and green space for community gatherings.",
+        "address": "Englewood Cliffs, NJ 07632",
+        "category": "Community Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Englewood Cliffs Day",
+        "description": "Annual community celebration with games, rides, food vendors, and live entertainment for all ages.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual tree lighting ceremony with holiday music, refreshments, and community festivities.",
+        "when": "December (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Palisades Scenic Overlooks",
+        "description": "Multiple scenic viewpoints along the Palisades cliffs offering spectacular views of the Hudson River, GWB, and Manhattan skyline.",
+        "address": "Palisade Avenue, Englewood Cliffs, NJ 07632",
+        "category": "Scenic"
+      },
+      {
+        "name": "LG Electronics North America Headquarters",
+        "description": "The striking modern glass headquarters of LG Electronics, a major architectural landmark visible from the Palisades.",
+        "address": "111 Sylvan Avenue, Englewood Cliffs, NJ 07632",
+        "category": "Architecture"
+      },
+      {
+        "name": "Englewood Boat Basin",
+        "description": "A riverside marina and recreation area at the base of the Palisades cliffs, accessible from the park with boat launch facilities and picnic areas.",
+        "address": "Palisades Interstate Park, Englewood Cliffs, NJ",
+        "category": "Marina"
+      }
+    ],
+    "shoppingAreas": [
+      "Sylvan Avenue — Corporate corridor with limited retail and dining options",
+      "Nearby Englewood downtown — Boutiques, restaurants, and services on Palisade Avenue (1 mile south)",
+      "Nearby Edgewater — River Road retail corridor with Mitsuwa Marketplace and major stores (2 miles south)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Gloria Oh",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Deborah Tsabari",
+        "title": "Council President",
+        "term": "Three-year term"
+      },
+      {
+        "name": "David Donohue",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Benjamin Sohn",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Albert Zuckerberg",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "William Woo",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Robert DeLuca",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the second Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Englewood Cliffs Borough Hall, 557 Palisade Avenue, Englewood Cliffs, NJ 07632",
+    "municipalWebsite": "https://www.englewoodcliffsnj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-569-5252",
+        "email": "clerk@englewoodcliffsnj.org",
+        "hours": "Monday-Friday, 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-569-5252",
+        "hours": "Monday-Friday, 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-569-5252",
+        "hours": "Monday-Friday, 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-569-5252",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-569-0099",
+      "address": "557 Palisade Avenue, Englewood Cliffs, NJ 07632"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-569-5252",
+      "address": "Englewood Cliffs, NJ 07632"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-569-0099",
+      "address": "Englewood Cliffs, NJ 07632"
+    },
+    "hospitals": [
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 2
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Englewood Cliffs Police (Non-Emergency)",
+        "number": "201-569-0099"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-569-5252"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

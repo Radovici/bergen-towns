@@ -1,0 +1,563 @@
+{
+  "meta": {
+    "slug": "hasbrouck-heights",
+    "name": "Hasbrouck Heights",
+    "fullName": "Borough of Hasbrouck Heights",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "hasbrouck-heights.info",
+    "zipCodes": ["07604"],
+    "themeColor": "#4e342e",
+    "accentColor": "#795548"
+  },
+  "overview": {
+    "tagline": "A welcoming borough with small-town charm, excellent schools, and a thriving Boulevard",
+    "description": "Hasbrouck Heights is a classic Bergen County borough known for its charming Boulevard business district, strong community spirit, and convenient location just minutes from MetLife Stadium and major highways. With a mix of well-maintained homes, top-rated schools, and a walkable downtown, the borough offers a quintessential suburban New Jersey experience with easy access to New York City.",
+    "population": 12488,
+    "populationYear": 2020,
+    "areaSqMi": 1.53,
+    "elevation": "131 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Hasbrouck Heights School District",
+    "highlights": [
+      "The Boulevard — vibrant main street with local shops and restaurants",
+      "Annual Hasbrouck Heights Street Fair draws thousands of visitors",
+      "Excellent public schools with strong academic programs",
+      "Minutes from MetLife Stadium and American Dream mall",
+      "Convenient access to Route 17, I-80, and the NJ Turnpike"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$530,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.15%",
+    "averagePropertyTax": "$11,800",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. The borough periodically conducts revaluations to align assessed values with current market conditions.",
+    "recentTrends": "Hasbrouck Heights has seen steady price appreciation driven by its walkable downtown, school quality, and proximity to NYC. Inventory remains tight, and homes in the central Boulevard area command premium prices.",
+    "neighborhoodNotes": [
+      "Boulevard area — Walking distance to shops, restaurants, and train; most desirable location",
+      "North end — Quieter residential streets near Teterboro border, larger lots",
+      "South end — Family-friendly neighborhood near Depken Field and schools",
+      "West side — Close to Route 17 shopping and dining options"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Hasbrouck Heights Department of Public Works.",
+      "details": [
+        "Pickup occurs twice per week on designated days by neighborhood zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment through the DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 288-1072",
+      "contactUrl": "https://www.hasbrouck-heights.nj.us"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling is collected weekly by the Borough.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic #1-#7) collected weekly",
+        "Paper and cardboard collected on the same day as recyclables",
+        "Recycling bins available through the DPW",
+        "Yard waste collected seasonally from April through December",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 288-1072",
+      "contactUrl": "https://www.hasbrouck-heights.nj.us"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by Suez Water (now Veolia) and sewer service is managed by the Borough.",
+      "details": [
+        "Water supplied by Veolia (formerly Suez Water New Jersey)",
+        "Sewer service maintained by the Borough DPW",
+        "Water billing handled by Veolia on a quarterly basis",
+        "Sewer fees included on the borough tax bill",
+        "Water quality reports available online through Veolia"
+      ],
+      "contactPhone": "(201) 288-1072",
+      "contactUrl": "https://www.hasbrouck-heights.nj.us"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning approvals, and code enforcement.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board of Adjustment",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction and significant renovations"
+      ],
+      "contactPhone": "(201) 288-0195",
+      "contactUrl": "https://www.hasbrouck-heights.nj.us"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough operates municipal parking lots and manages street parking along the Boulevard.",
+      "details": [
+        "Free municipal parking lots available on side streets off the Boulevard",
+        "Metered parking along portions of the Boulevard — 2-hour limit",
+        "Commuter parking permits available for NJ Transit bus riders",
+        "Overnight parking restrictions enforced on borough streets",
+        "Snow emergency parking bans in effect during storms"
+      ],
+      "contactPhone": "(201) 288-0195",
+      "contactUrl": "https://www.hasbrouck-heights.nj.us"
+    },
+    "additionalServices": [
+      {
+        "title": "Hasbrouck Heights Free Public Library",
+        "description": "Full-service public library offering books, digital resources, programs, and community spaces.",
+        "details": [
+          "Located at 320 Boulevard",
+          "Children's programs, teen events, and adult book clubs",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 288-0488",
+        "contactUrl": "https://www.hasbrouckheightslibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues including baseball, soccer, basketball, and football",
+          "Summer recreation programs and camps",
+          "Senior citizen programs and events",
+          "Depken Field complex with athletic fields and facilities"
+        ],
+        "contactPhone": "(201) 288-4143",
+        "contactUrl": "https://www.hasbrouck-heights.nj.us"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Hasbrouck Heights enforces noise regulations to maintain the peaceful character of its residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to daytime hours",
+        "Excessive noise from gatherings subject to police enforcement after 10:00 PM"
+      ],
+      "source": "Borough of Hasbrouck Heights Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition, including lawns, structures, and sidewalks.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Property owners responsible for sidewalk snow removal within 24 hours after snowfall",
+        "Fences must not exceed 6 feet in rear yards and 4 feet in front yards",
+        "Abandoned or inoperable vehicles must be removed from property",
+        "Properties must be kept free of debris and refuse"
+      ],
+      "source": "Borough of Hasbrouck Heights Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Hasbrouck Heights requires dog licensing and enforces leash laws throughout the borough.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately by the owner",
+        "Barking dogs subject to noise complaint enforcement",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Hasbrouck Heights Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough with specific rules for residential and commercial areas.",
+      "keyRules": [
+        "No overnight parking on borough streets between 2:00 AM and 6:00 AM without permit",
+        "2-hour parking limit in metered zones along the Boulevard",
+        "Snow emergency parking bans enforced — vehicles must be moved off-street",
+        "Commercial vehicles over 4 tons prohibited from parking on residential streets",
+        "Handicapped parking violations subject to significant fines"
+      ],
+      "source": "Borough of Hasbrouck Heights Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and inspected to ensure compliance with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before occupancy of rental units",
+        "Landlords must maintain properties to housing code standards",
+        "Rental property inspections conducted at change of tenancy",
+        "Multi-family dwellings subject to additional fire safety requirements"
+      ],
+      "source": "Borough of Hasbrouck Heights Code"
+    },
+    "other": [
+      {
+        "title": "Garage & Yard Sales",
+        "summary": "Garage and yard sales are permitted in Hasbrouck Heights with certain restrictions.",
+        "keyRules": [
+          "Permit required from the Borough Clerk for garage and yard sales",
+          "Limited to a maximum number of sales per year per household",
+          "Signs must be removed promptly after the sale ends",
+          "Sales hours typically restricted to daytime hours"
+        ],
+        "source": "Borough of Hasbrouck Heights Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Hasbrouck Heights School District",
+    "publicSchools": [
+      {
+        "name": "Hasbrouck Heights High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 580,
+        "type": "public",
+        "notes": "Strong academics with a variety of AP courses, competitive athletics, and active extracurricular programs"
+      },
+      {
+        "name": "Hasbrouck Heights Middle School",
+        "grades": "5-8",
+        "rating": 7,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Located on the same campus as the high school; offers a comprehensive middle school curriculum"
+      },
+      {
+        "name": "Corpus Christi Elementary School",
+        "grades": "K-4",
+        "rating": 6,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Neighborhood elementary school serving the eastern portion of the borough"
+      },
+      {
+        "name": "Euclid Elementary School",
+        "grades": "K-4",
+        "rating": 7,
+        "enrollment": 280,
+        "type": "public",
+        "notes": "Elementary school serving the western portion of the borough"
+      },
+      {
+        "name": "Lincoln Elementary School",
+        "grades": "K-4",
+        "rating": 7,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Elementary school centrally located in the borough"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Corpus Christi School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 250,
+        "notes": "Catholic parish school with a long history in Hasbrouck Heights"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Felician University (Rutherford/Lodi) — 5 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "New Jersey Institute of Technology (Newark) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Walkable downtown Boulevard with local shops, restaurants, and services",
+      "Strong community identity with active civic organizations and events",
+      "Convenient highway access to Routes 17, 46, I-80, and the NJ Turnpike",
+      "Affordable compared to many Bergen County towns with good schools",
+      "Close to MetLife Stadium, American Dream, and major shopping centers",
+      "NJ Transit bus service providing direct access to NYC"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "30-50 minutes to Port Authority Bus Terminal",
+      "busRoutes": ["NJ Transit Bus 163", "NJ Transit Bus 165"],
+      "notes": "Several NJ Transit bus routes provide service from the Boulevard to the Port Authority Bus Terminal in Midtown Manhattan. Rush hour service is frequent. Driving to nearby Secaucus Junction for train service is another option."
+    },
+    "costOfLiving": {
+      "summary": "Hasbrouck Heights offers a moderate cost of living for Bergen County, with housing prices below the county median and reasonable property taxes relative to services provided.",
+      "vsStateAverage": "Approximately 15% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 40% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Walkable Boulevard with local character and amenities",
+        "More affordable than many Bergen County towns",
+        "Excellent highway access for commuters driving to NYC or elsewhere",
+        "Strong sense of community with annual events and active organizations",
+        "Good public schools with small-town feel"
+      ],
+      "cons": [
+        "Aircraft noise from nearby Teterboro Airport",
+        "No direct train service — bus commute required for NYC",
+        "Route 17 traffic can impact local roads during peak hours",
+        "Smaller lot sizes typical of older Bergen County boroughs",
+        "Property taxes still relatively high compared to national averages"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Ivy Inn",
+        "description": "Classic American restaurant and bar offering steaks, seafood, and comfort food in a warm, traditional setting. A Hasbrouck Heights institution.",
+        "address": "268 Terrace Avenue, Hasbrouck Heights, NJ 07604",
+        "category": "American/Steakhouse"
+      },
+      {
+        "name": "Houlihan's",
+        "description": "Popular chain restaurant with a strong local following, offering American fare, cocktails, and a lively bar scene.",
+        "address": "5 Route 17 South, Hasbrouck Heights, NJ 07604",
+        "category": "American/Casual Dining"
+      },
+      {
+        "name": "Hasbrouck Heights Pizza",
+        "description": "Beloved local pizzeria serving New York-style pizza, calzones, and Italian favorites for takeout and delivery.",
+        "address": "246 Boulevard, Hasbrouck Heights, NJ 07604",
+        "category": "Pizza/Italian"
+      },
+      {
+        "name": "Perks Cafe",
+        "description": "Cozy neighborhood cafe on the Boulevard serving specialty coffee, pastries, sandwiches, and light meals.",
+        "address": "227 Boulevard, Hasbrouck Heights, NJ 07604",
+        "category": "Cafe/Coffee"
+      },
+      {
+        "name": "Archer & Goat",
+        "description": "Modern gastropub offering craft cocktails, elevated pub fare, and a curated beer selection in a stylish atmosphere.",
+        "address": "222 Boulevard, Hasbrouck Heights, NJ 07604",
+        "category": "Gastropub"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Depken Field Complex",
+        "description": "The borough's main athletic complex with baseball diamonds, soccer fields, basketball courts, and a walking path. Home to many of the borough's youth sports leagues.",
+        "address": "Central Avenue, Hasbrouck Heights, NJ 07604",
+        "category": "Athletics/Recreation"
+      },
+      {
+        "name": "Woodland Park",
+        "description": "Quiet neighborhood park with walking paths, a playground, and shaded picnic areas.",
+        "address": "Woodland Avenue, Hasbrouck Heights, NJ 07604",
+        "category": "Park/Playground"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Memorial park honoring local veterans, featuring monuments, benches, and a reflective setting near Borough Hall.",
+        "address": "320 Boulevard, Hasbrouck Heights, NJ 07604",
+        "category": "Memorial/Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Hasbrouck Heights Street Fair",
+        "description": "Annual street fair along the Boulevard featuring vendors, food trucks, live entertainment, rides, and family activities. One of the borough's biggest community events.",
+        "when": "September, typically a Sunday in mid-September"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual Memorial Day parade through the Borough honoring veterans and active military, followed by a ceremony at Veterans Memorial Park.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday tree lighting ceremony at Borough Hall with carols, hot cocoa, and a visit from Santa Claus.",
+        "when": "Late November or early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "The Boulevard",
+        "description": "Hasbrouck Heights' charming main street lined with local shops, restaurants, salons, and professional offices. The heart of the community's commercial life.",
+        "address": "Boulevard, Hasbrouck Heights, NJ 07604",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Aviation Hall of Fame & Museum of New Jersey",
+        "description": "Museum at nearby Teterboro Airport showcasing New Jersey's aviation history with vintage aircraft, artifacts, and interactive exhibits.",
+        "address": "400 Fred Wehran Drive, Teterboro, NJ 07608",
+        "category": "Museum/History"
+      },
+      {
+        "name": "Hilton Hasbrouck Heights",
+        "description": "Full-service hotel offering dining, event spaces, and accommodations convenient to MetLife Stadium and NYC.",
+        "address": "650 Terrace Avenue, Hasbrouck Heights, NJ 07604",
+        "category": "Hospitality"
+      }
+    ],
+    "shoppingAreas": [
+      "The Boulevard — Main shopping street with local businesses",
+      "Route 17 corridor — Big-box retail and national chains",
+      "American Dream (East Rutherford) — 10 minutes away",
+      "Garden State Plaza (Paramus) — 15 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "John Fellman",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Justin A. Di Pisa",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "David Gonzalez",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Sonya Buckman",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Cheryl Gilson",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Christopher Semenecz",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Russell Lipari",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Tuesday of each month at 8:00 PM",
+    "meetingLocation": "Borough Hall, 320 Boulevard, Hasbrouck Heights, NJ 07604",
+    "municipalWebsite": "https://www.hasbrouck-heights.nj.us",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator",
+        "phone": "(201) 288-0195",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 288-0195",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 288-0195",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 288-0195",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 288-1072",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 288-1000",
+      "address": "320 Boulevard, Hasbrouck Heights, NJ 07604"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 288-0082",
+      "address": "248 Hamilton Avenue, Hasbrouck Heights, NJ 07604"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 288-0082",
+      "address": "Hasbrouck Heights, NJ 07604"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Hackensack Meridian Health — Pascack Valley Medical Center",
+        "address": "250 Old Hook Road, Westwood, NJ 07675",
+        "phone": "(201) 358-3000",
+        "distanceMiles": 12
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Hasbrouck Heights Police (Non-Emergency)",
+        "number": "(201) 288-1000"
+      },
+      {
+        "label": "Hasbrouck Heights Fire Department",
+        "number": "(201) 288-0082"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 288-0195"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

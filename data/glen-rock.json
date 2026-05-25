@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "slug": "glen-rock",
+    "name": "Glen Rock",
+    "fullName": "Borough of Glen Rock",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "glen-rock.info",
+    "zipCodes": ["07452"],
+    "themeColor": "#1b5e20",
+    "accentColor": "#388e3c"
+  },
+  "overview": {
+    "tagline": "A Rock-Solid Community",
+    "description": "Glen Rock is a small, affluent borough in central Bergen County known for its top-rated public schools, tree-lined streets, and strong community spirit. Named after a large glacial boulder that once served as a landmark for the Lenape people, Glen Rock epitomizes the classic Bergen County commuter suburb. The borough offers NJ Transit rail service, excellent schools, a charming downtown, and a well-maintained network of parks and recreation facilities.",
+    "population": 11747,
+    "populationYear": 2020,
+    "areaSqMi": 2.83,
+    "elevation": "110 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Glen Rock School District",
+    "highlights": [
+      "Top-rated public school district consistently ranked among New Jersey's best",
+      "NJ Transit train station on the Bergen County Line for NYC commuting",
+      "Named for a 570-ton glacial boulder (now in a small park on Rock Road)",
+      "Beautiful tree-lined streets with well-maintained homes",
+      "Active community with strong volunteer organizations and family events"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$725,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.15%",
+    "averagePropertyTax": "$17,500",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Glen Rock's housing stock consists primarily of single-family homes ranging from pre-war colonials to modern new construction.",
+    "recentTrends": "Glen Rock's real estate market is highly competitive, driven by the school district's reputation. Homes near the train station and downtown command premiums. Teardowns of older homes for new construction have increased, with new homes selling for over $1 million. Bidding wars are common for well-priced listings.",
+    "neighborhoodNotes": [
+      "The area near Rock Road and the train station is the most walkable, with quick access to downtown shops and commuter rail",
+      "South Glen Rock features larger lots and homes near the Ridgewood border",
+      "The Harding Plaza area has the main shopping district with restaurants and local businesses",
+      "The northern section near Fair Lawn has some of the more affordable housing in the borough"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood — check the borough website or Recycle Coach app",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by scheduling with the DPW"
+      ],
+      "contactPhone": "201-670-3956",
+      "contactUrl": "https://www.glenrocknj.net"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream recycling is collected biweekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) collected in blue bins",
+        "Paper and cardboard collected on alternate weeks",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Yard waste collected seasonally in biodegradable bags; check DPW schedule"
+      ],
+      "contactPhone": "201-670-3956",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water (formerly United Water) and sewer service is managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges appear on property tax or utility bills",
+        "Water quality reports published annually",
+        "Report water emergencies to Veolia or DPW"
+      ],
+      "contactPhone": "201-670-3956",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Glen Rock Building Department handles construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Zoning applications reviewed by the Planning Board or Zoning Board of Adjustment",
+        "Certificate of Occupancy required for new construction and renovations",
+        "Tree removal permits required for trees over a certain size"
+      ],
+      "contactPhone": "201-670-3956"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Glen Rock manages commuter parking at the train station and street parking in the downtown area.",
+      "details": [
+        "Commuter parking permits available for the NJ Transit station lot",
+        "Metered parking available in the downtown commercial area",
+        "No overnight parking on borough streets (2:00 AM to 6:00 AM)",
+        "Free parking in municipal lots on weekends"
+      ],
+      "contactPhone": "201-670-3956"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers extensive youth and adult programs year-round.",
+        "details": [
+          "Youth sports leagues including baseball, soccer, basketball, lacrosse, and swimming",
+          "Summer camp and recreation programs",
+          "Adult fitness classes and sports leagues",
+          "Community pool at the Glen Rock Pool facility (seasonal)"
+        ],
+        "contactPhone": "201-670-3956"
+      },
+      {
+        "title": "Library Services",
+        "description": "The Glen Rock Public Library is a hub for community activities and resources.",
+        "details": [
+          "Located at 315 Rock Road",
+          "Extensive children's programs, teen activities, and adult book clubs",
+          "Digital resources including e-books and streaming services",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "201-670-3970",
+        "contactUrl": "https://www.glenrocklibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Glen Rock enforces noise restrictions to maintain the quiet residential character of the borough.",
+      "keyRules": [
+        "Construction work prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Power equipment (leaf blowers, mowers) restricted to 8:00 AM to 7:00 PM",
+        "Excessive noise complaints handled by the police department"
+      ],
+      "source": "Glen Rock Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to the borough's high residential standards.",
+      "keyRules": [
+        "Lawns must be kept trimmed and landscaping maintained",
+        "Snow and ice must be cleared from sidewalks within 24 hours of storm ending",
+        "No accumulation of trash, debris, or abandoned vehicles",
+        "Fences must comply with height and setback regulations",
+        "Trees and shrubs must not obstruct sidewalks or sight lines"
+      ],
+      "source": "Glen Rock Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed annually and controlled at all times.",
+      "keyRules": [
+        "All dogs must be licensed with the Borough Clerk by January 31 each year",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets on public and private property",
+        "Rabies vaccination required for all dogs and cats",
+        "Dog park available at Wildwood Park for off-leash play"
+      ],
+      "source": "Glen Rock Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Glen Rock enforces parking regulations to maintain order on residential and commercial streets.",
+      "keyRules": [
+        "No overnight parking on borough streets (2:00 AM to 6:00 AM)",
+        "Commuter parking at the train station requires a borough-issued permit",
+        "Snow emergency parking bans enforced when declared",
+        "Fire hydrant clearance of 10 feet required",
+        "No parking on lawns or unpaved areas"
+      ],
+      "source": "Glen Rock Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Glen Rock has limited rental housing; regulations maintain residential character.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before tenant occupancy",
+        "Fire safety requirements apply to all rental units",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act"
+      ],
+      "source": "Glen Rock Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Glen Rock has a strong tree preservation ordinance to maintain its tree-lined character.",
+        "keyRules": [
+          "Permit required to remove any tree over 8 inches in diameter at breast height",
+          "Replacement planting required when trees are removed",
+          "The Shade Tree Commission reviews tree removal applications",
+          "Fines for unauthorized tree removal; street trees are borough property"
+        ],
+        "source": "Glen Rock Borough Code, Shade Tree Commission"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Glen Rock School District",
+    "publicSchools": [
+      {
+        "name": "Glen Rock High School",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 750,
+        "type": "public",
+        "notes": "Highly ranked high school with strong AP program, award-winning music and theater, and competitive athletics. Consistently ranked among top public high schools in NJ."
+      },
+      {
+        "name": "Central Middle School",
+        "grades": "6-8",
+        "rating": 9,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Excellent middle school with honors programs and a wide range of extracurricular activities"
+      },
+      {
+        "name": "Byrd School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Named after Admiral Richard E. Byrd; one of three elementary schools"
+      },
+      {
+        "name": "Coleman School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 340,
+        "type": "public"
+      },
+      {
+        "name": "Hamilton School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 330,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Academy of Our Lady of Mount Carmel",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school affiliated with Our Lady of Mount Carmel Parish"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (6 miles)",
+      "Bergen Community College — Paramus (4 miles)",
+      "Ramapo College of New Jersey — Mahwah (15 miles)",
+      "William Paterson University — Wayne (10 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-rated public school district — one of the best in Bergen County and New Jersey",
+      "NJ Transit train station (Bergen County Line) for direct Hoboken/NYC commutes",
+      "Beautiful tree-lined streets with well-maintained homes and strong community pride",
+      "Charming downtown with local shops, restaurants, and community gathering spots",
+      "Outstanding parks, recreation programs, and community events for families"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Train (Bergen County Line)",
+      "duration": "45-60 minutes by train to Hoboken + PATH; 35-55 minutes by bus",
+      "trainStation": "Glen Rock — Main Line, Glen Rock — Boro Hall",
+      "busRoutes": ["148"],
+      "notes": "Glen Rock has two NJ Transit train stations (Main Line and Boro Hall) on the Bergen County Line. Trains run to Hoboken with connections to the PATH train for Manhattan. NJ Transit bus service also available. Car commute via Route 208 or Route 4 to the George Washington Bridge."
+    },
+    "costOfLiving": {
+      "summary": "Glen Rock has a high cost of living driven by premium home prices and property taxes, reflecting the value placed on the excellent school system.",
+      "vsStateAverage": "20-30% above the New Jersey average",
+      "vsNationalAverage": "40-50% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Exceptional public schools — top-rated at all levels",
+        "Two NJ Transit train stations for convenient commuting",
+        "Beautiful, walkable neighborhoods with mature trees",
+        "Strong community spirit with active civic organizations",
+        "Excellent parks and recreation facilities"
+      ],
+      "cons": [
+        "High property taxes — over 3% effective rate",
+        "Premium home prices driven by school district demand",
+        "Train commute to Manhattan requires a transfer at Hoboken",
+        "Limited dining and nightlife options in the small downtown",
+        "Competition for homes can lead to bidding wars"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Holsten's",
+        "description": "Iconic ice cream parlor and restaurant famous as the filming location of the final scene of The Sopranos. Classic American diner food and legendary ice cream sundaes.",
+        "address": "1063 Bloomfield Avenue, Glen Rock, NJ 07452",
+        "category": "American/Ice Cream"
+      },
+      {
+        "name": "Kinchley's Tavern",
+        "description": "Legendary thin-crust pizza institution serving Glen Rock since 1937. Known for its signature thin, crispy bar-style pizza.",
+        "address": "586 Rock Road, Glen Rock, NJ 07452",
+        "category": "Pizza"
+      },
+      {
+        "name": "Glen Rock Inn",
+        "description": "Classic American restaurant offering steak, seafood, and pasta in a traditional setting that has served the community for decades.",
+        "address": "222 Rock Road, Glen Rock, NJ 07452",
+        "category": "American"
+      },
+      {
+        "name": "La Chinita Poblana",
+        "description": "Authentic Mexican restaurant serving traditional Puebla-style dishes, homemade mole, and fresh tortillas.",
+        "address": "Rock Road, Glen Rock, NJ 07452",
+        "category": "Mexican"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Thielke Arboretum",
+        "description": "A peaceful 11-acre nature preserve with walking trails, native plants, and educational gardens maintained by the Glen Rock Environmental Commission.",
+        "address": "460 Doremus Avenue, Glen Rock, NJ 07452",
+        "category": "Arboretum"
+      },
+      {
+        "name": "Wilde Memorial Park",
+        "description": "Glen Rock's main park with ball fields, basketball courts, playgrounds, a gazebo, and space for community events.",
+        "address": "Prospect Street, Glen Rock, NJ 07452",
+        "category": "Community Park"
+      },
+      {
+        "name": "The Rock (Glen Rock)",
+        "description": "A 570-ton glacial erratic boulder that gives the borough its name. The rock sits in a small park on Rock Road and is a local landmark.",
+        "address": "Rock Road, Glen Rock, NJ 07452",
+        "category": "Historic Landmark"
+      },
+      {
+        "name": "Saddle River County Park — Glen Rock Section",
+        "description": "A section of the linear Bergen County park along the Saddle River, with walking and biking paths and nature areas.",
+        "address": "Along Saddle River, Glen Rock, NJ",
+        "category": "County Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Glen Rock Street Fair",
+        "description": "Annual street fair along Rock Road featuring vendors, food, live music, and activities for the whole family.",
+        "when": "May (annual)"
+      },
+      {
+        "name": "Glen Rock Day",
+        "description": "Community celebration with games, rides, food, and entertainment at Wilde Memorial Park.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual tree lighting at the Borough Hall with caroling, hot chocolate, and a festive community gathering.",
+        "when": "December (annual)"
+      },
+      {
+        "name": "Summer Concert Series",
+        "description": "Free outdoor concerts in Wilde Memorial Park throughout the summer, bringing the community together on warm evenings.",
+        "when": "Summer (weekly series)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "The Rock",
+        "description": "A massive 570-ton glacial boulder deposited during the Ice Age that gave the borough its name. A unique geological landmark and local icon.",
+        "address": "Rock Road, Glen Rock, NJ 07452",
+        "category": "Historic Landmark"
+      },
+      {
+        "name": "Holsten's Brookdale Confectionery",
+        "description": "Famous as the location where the final scene of HBO's The Sopranos was filmed. A must-visit for fans of the iconic television series.",
+        "address": "1063 Bloomfield Avenue, Glen Rock, NJ 07452",
+        "category": "Pop Culture"
+      },
+      {
+        "name": "Thielke Arboretum",
+        "description": "An 11-acre nature sanctuary offering guided walks, bird watching, and environmental education programs.",
+        "address": "460 Doremus Avenue, Glen Rock, NJ 07452",
+        "category": "Nature"
+      }
+    ],
+    "shoppingAreas": [
+      "Rock Road — Glen Rock's main street with local shops, restaurants, banks, and services",
+      "Harding Plaza — Small shopping area with convenience stores and eateries",
+      "Nearby Ridgewood — The walkable downtown of neighboring Ridgewood offers upscale shopping and dining (1 mile)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Thomas Marotta",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Bruce Barracato",
+        "title": "Council President",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Carol Knapp",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Bridget O'Brien",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Scott White",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Dan Murphy",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Melanie Cronk",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Monday of each month at 7:30 PM",
+    "meetingLocation": "Glen Rock Municipal Building, 1 Harding Plaza, Glen Rock, NJ 07452",
+    "municipalWebsite": "https://www.glenrocknj.net",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-670-3956",
+        "email": "clerk@glenrocknj.net",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-670-3956",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-670-3956",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-670-3960",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-670-3956",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-652-3800",
+      "address": "1 Harding Plaza, Glen Rock, NJ 07452"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-670-3956",
+      "address": "Glen Rock, NJ 07452"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-652-3800",
+      "address": "Glen Rock, NJ 07452"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "201-447-8000",
+        "distanceMiles": 2
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 7
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly United Water)",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Glen Rock Police (Non-Emergency)",
+        "number": "201-652-3800"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-670-3956"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

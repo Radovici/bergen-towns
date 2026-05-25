@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "slug": "ho-ho-kus",
+    "name": "Ho-Ho-Kus",
+    "fullName": "Borough of Ho-Ho-Kus",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "ho-ho-kus.info",
+    "zipCodes": ["07423"],
+    "themeColor": "#6a1b9a",
+    "accentColor": "#8e24aa"
+  },
+  "overview": {
+    "tagline": "An affluent, historic borough with award-winning schools and timeless small-town elegance",
+    "description": "Ho-Ho-Kus is one of Bergen County's most charming and affluent communities, known for its rich colonial history, top-rated public schools, and beautifully maintained homes. The borough's name derives from the Lenape word meaning 'running water,' a reference to the Ho-Ho-Kus Brook that winds through town. With a population of about 4,000, Ho-Ho-Kus offers an intimate, village-like atmosphere where neighbors know each other and community events bring everyone together, all within easy commuting distance of New York City.",
+    "population": 4090,
+    "populationYear": 2020,
+    "areaSqMi": 1.77,
+    "elevation": "120 ft",
+    "incorporated": "1908",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Ho-Ho-Kus Public Schools",
+    "highlights": [
+      "Top-rated K-8 school district in Bergen County",
+      "Rich colonial and Revolutionary War history",
+      "The Ho-Ho-Kus Inn — historic landmark and fine dining destination",
+      "NJ Transit rail station on the Bergen County Line",
+      "Beautifully maintained historic homes and tree-lined streets"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$850,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.90%",
+    "averagePropertyTax": "$18,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Ho-Ho-Kus maintains assessed values through periodic revaluations.",
+    "recentTrends": "Ho-Ho-Kus remains a highly sought-after market driven by its schools, character, and location. Homes sell quickly, often above asking price. The mix of historic colonials and updated modern homes on generous lots keeps the market competitive.",
+    "neighborhoodNotes": [
+      "Hollywood Avenue area — Grand homes and tree-lined streets, the borough's premier residential section",
+      "Warren Avenue — Walkable to downtown and the train station",
+      "North side — Larger lots bordering Ridgewood and Upper Saddle River",
+      "Ho-Ho-Kus Brook area — Scenic properties along the brook"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided weekly by the Borough of Ho-Ho-Kus.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment through the DPW",
+        "Holiday schedule posted on borough website"
+      ],
+      "contactPhone": "(201) 652-4400",
+      "contactUrl": "https://www.hohokusnj.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly by the Borough.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic) collected weekly",
+        "Paper and cardboard collected separately",
+        "Recycling bins provided by the Borough",
+        "Yard waste collected seasonally",
+        "Special collection events held throughout the year"
+      ],
+      "contactPhone": "(201) 652-4400",
+      "contactUrl": "https://www.hohokusnj.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Ridgewood Water and sewer service is managed by the Borough.",
+      "details": [
+        "Water supplied by Ridgewood Water utility",
+        "Sewer service maintained by the Borough DPW",
+        "Billing is quarterly for water service",
+        "Water quality reports available through Ridgewood Water",
+        "Emergency water line repairs available 24/7"
+      ],
+      "contactPhone": "(201) 652-4400",
+      "contactUrl": "https://www.hohokusnj.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Historic preservation considerations for designated properties"
+      ],
+      "contactPhone": "(201) 652-4400",
+      "contactUrl": "https://www.hohokusnj.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages commuter parking at the train station and on-street parking regulations.",
+      "details": [
+        "Commuter parking permits available for the Ho-Ho-Kus train station lot",
+        "On-street parking available throughout the borough",
+        "Overnight parking restrictions on certain streets",
+        "Snow emergency parking bans enforced",
+        "Limited parking near the downtown commercial area"
+      ],
+      "contactPhone": "(201) 652-4400",
+      "contactUrl": "https://www.hohokusnj.com"
+    },
+    "additionalServices": [
+      {
+        "title": "Ho-Ho-Kus Public Library",
+        "description": "Small but well-regarded public library serving borough residents.",
+        "details": [
+          "Located at 91 Warren Avenue",
+          "Children's programs, book clubs, and community events",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 445-8078",
+        "contactUrl": "https://www.hohokuslibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Ho-Ho-Kus enforces noise regulations to preserve the quiet, residential character of the borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction noise on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to daytime hours",
+        "Amplified music and loud gatherings subject to enforcement after 10:00 PM"
+      ],
+      "source": "Borough of Ho-Ho-Kus Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition, consistent with the borough's high standards.",
+      "keyRules": [
+        "Lawns must be maintained at a reasonable height",
+        "Sidewalk snow removal required within 24 hours after snowfall",
+        "Fences must comply with borough height and setback requirements",
+        "Abandoned vehicles must be removed from property",
+        "Properties must be kept in good repair and free of debris"
+      ],
+      "source": "Borough of Ho-Ho-Kus Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Ho-Ho-Kus requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Nuisance barking subject to enforcement",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Ho-Ho-Kus Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated throughout the borough with attention to commuter areas and residential streets.",
+      "keyRules": [
+        "Overnight parking restricted on borough streets without a permit",
+        "Snow emergency parking bans enforced — vehicles must be off-street",
+        "Train station lot requires a valid commuter permit",
+        "Commercial vehicles prohibited on residential streets overnight",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Ho-Ho-Kus Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough codes and regulations.",
+      "keyRules": [
+        "Rental properties should be registered with the Borough",
+        "Properties must meet housing and fire safety codes",
+        "Landlords responsible for maintaining rental units",
+        "Inspections may be conducted at change of tenancy",
+        "Short-term rentals subject to local zoning regulations"
+      ],
+      "source": "Borough of Ho-Ho-Kus Code"
+    },
+    "other": [
+      {
+        "title": "Historic Preservation",
+        "summary": "Ho-Ho-Kus values its historic character and has guidelines for preserving significant structures.",
+        "keyRules": [
+          "Alterations to historic properties may require review",
+          "The Hermitage (national historic site) is protected",
+          "New construction should be sympathetic to the borough's character",
+          "Tree removal on historic properties may require additional review"
+        ],
+        "source": "Borough of Ho-Ho-Kus Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Ho-Ho-Kus Public Schools",
+    "publicSchools": [
+      {
+        "name": "Ho-Ho-Kus Public School",
+        "grades": "K-6",
+        "rating": 9,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Highly rated single-school district known for academic excellence, small class sizes, and strong parental involvement"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Eastern Christian School",
+        "grades": "PreK-12",
+        "type": "private",
+        "enrollment": 500,
+        "notes": "Christian school with a campus in North Haledon; draws students from across northern NJ including Ho-Ho-Kus"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 minutes",
+      "Bergen Community College (Paramus) — 10 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 20 minutes",
+      "William Paterson University (Wayne) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-rated K-6 public school with exceptional test scores",
+      "Rich history including The Hermitage, a National Historic Landmark",
+      "Beautiful, well-maintained homes on generous, landscaped lots",
+      "NJ Transit Bergen County Line station for NYC commuting",
+      "Intimate community of about 4,000 with a true village atmosphere",
+      "Walking distance to Ridgewood's vibrant downtown"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Main/Bergen County Line",
+      "duration": "45-60 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "Ho-Ho-Kus Station (NJ Transit Bergen County Line)",
+      "busRoutes": ["NJ Transit Bus 148"],
+      "notes": "The Ho-Ho-Kus train station provides service on the Bergen County Line to Hoboken Terminal. Rush-hour express trains make the trip faster. Bus 148 offers alternative service through Ridgewood to the Port Authority Bus Terminal."
+    },
+    "costOfLiving": {
+      "summary": "Ho-Ho-Kus is an affluent community with a cost of living well above state and national averages, primarily due to high home prices and property taxes.",
+      "vsStateAverage": "Approximately 50% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 90% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Exceptional K-6 public school consistently rated among the best",
+        "Beautiful historic character with well-preserved homes",
+        "Train station in town for NYC commuting",
+        "Small-town atmosphere with strong community bonds",
+        "Adjacent to Ridgewood's shops, restaurants, and amenities"
+      ],
+      "cons": [
+        "Very high home prices and property taxes",
+        "Small borough with no significant commercial district of its own",
+        "Public school only goes through grade 6 — sends to Ridgewood for 7-12",
+        "Limited dining and shopping within borough limits",
+        "Train commute requires transfer at Hoboken for Manhattan"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Ho-Ho-Kus Inn & Tavern",
+        "description": "Historic inn and restaurant dating to the colonial era, offering upscale American cuisine in an elegant, historic setting. A Bergen County landmark.",
+        "address": "1 East Franklin Turnpike, Ho-Ho-Kus, NJ 07423",
+        "category": "American/Fine Dining"
+      },
+      {
+        "name": "Nero's Grille",
+        "description": "Italian-American restaurant offering classic dishes, steaks, and a warm neighborhood atmosphere.",
+        "address": "East Franklin Turnpike, Ho-Ho-Kus, NJ 07423",
+        "category": "Italian/American"
+      },
+      {
+        "name": "Latour (Ridgewood)",
+        "description": "Acclaimed French restaurant in neighboring Ridgewood, a popular destination for Ho-Ho-Kus residents seeking fine dining.",
+        "address": "6 East Ridgewood Avenue, Ridgewood, NJ 07450",
+        "category": "French/Fine Dining"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Ho-Ho-Kus Brook Park",
+        "description": "Scenic park along the Ho-Ho-Kus Brook with walking paths, benches, and natural beauty. A peaceful spot in the heart of the borough.",
+        "address": "Ho-Ho-Kus, NJ 07423",
+        "category": "Nature/Park"
+      },
+      {
+        "name": "Ho-Ho-Kus Community Park",
+        "description": "Borough park with playgrounds, athletic fields, tennis courts, and picnic areas.",
+        "address": "Warren Avenue, Ho-Ho-Kus, NJ 07423",
+        "category": "Park/Recreation"
+      },
+      {
+        "name": "The Hermitage Grounds",
+        "description": "Grounds surrounding The Hermitage historic site, offering a tranquil setting for walking and appreciating local history.",
+        "address": "335 North Franklin Turnpike, Ho-Ho-Kus, NJ 07423",
+        "category": "Historic/Nature"
+      }
+    ],
+    "events": [
+      {
+        "name": "Ho-Ho-Kus Day",
+        "description": "Annual community celebration with food vendors, games, live music, and activities for all ages in the borough park.",
+        "when": "Fall, typically in September"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday tree lighting at Borough Hall with carols, refreshments, and community gathering.",
+        "when": "Early December"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Annual memorial service honoring veterans with a ceremony at the borough's war memorial.",
+        "when": "Memorial Day (last Monday in May)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "The Hermitage",
+        "description": "National Historic Landmark dating to the 18th century, associated with Aaron Burr and George Washington. The Gothic Revival house museum offers tours and educational programs about colonial and Revolutionary War history.",
+        "address": "335 North Franklin Turnpike, Ho-Ho-Kus, NJ 07423",
+        "category": "Historic Site/Museum"
+      },
+      {
+        "name": "Ho-Ho-Kus Inn & Tavern",
+        "description": "Historic inn operating since the 1790s, combining colonial architecture with fine dining. A cherished Bergen County landmark and gathering place.",
+        "address": "1 East Franklin Turnpike, Ho-Ho-Kus, NJ 07423",
+        "category": "Historic/Dining"
+      },
+      {
+        "name": "Downtown Ridgewood",
+        "description": "The vibrant, walkable downtown of neighboring Ridgewood with shops, restaurants, and cultural events is easily accessible from Ho-Ho-Kus.",
+        "address": "East Ridgewood Avenue, Ridgewood, NJ 07450",
+        "category": "Shopping/Dining"
+      }
+    ],
+    "shoppingAreas": [
+      "Downtown Ridgewood — walkable shops and restaurants nearby",
+      "Route 17 corridor — major retail and dining",
+      "Ramsey/Mahwah — shopping centers along Route 17",
+      "Garden State Plaza (Paramus) — 15 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "William Felter",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Eric Koskinen",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "David Ogens",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Heather Maher",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Lisa Giunta",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Greg Maronski",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Michael DiLeo",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 333 Warren Avenue, Ho-Ho-Kus, NJ 07423",
+    "municipalWebsite": "https://www.hohokusnj.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 652-4400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 652-4400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 652-4400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 652-4400",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-1700",
+      "address": "333 Warren Avenue, Ho-Ho-Kus, NJ 07423"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-0165",
+      "address": "Ho-Ho-Kus, NJ 07423"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-0165",
+      "address": "Ho-Ho-Kus, NJ 07423"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 10
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Ridgewood Water",
+        "phone": "(201) 670-5520",
+        "url": "https://www.ridgewoodwater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Ho-Ho-Kus Police (Non-Emergency)",
+        "number": "(201) 652-1700"
+      },
+      {
+        "label": "Ho-Ho-Kus Fire Department",
+        "number": "(201) 652-0165"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 652-4400"
+      },
+      {
+        "label": "Ridgewood Water",
+        "number": "(201) 670-5520"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

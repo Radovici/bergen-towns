@@ -1,0 +1,653 @@
+{
+  "meta": {
+    "slug": "teaneck",
+    "name": "Teaneck",
+    "fullName": "Township of Teaneck",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "teaneck.info",
+    "zipCodes": ["07666"],
+    "themeColor": "#4a148c",
+    "accentColor": "#7b1fa2"
+  },
+  "overview": {
+    "tagline": "A proudly diverse township where cultures, faiths, and communities thrive together",
+    "description": "The Township of Teaneck is one of Bergen County's largest and most diverse communities, home to nearly 40,000 residents representing a remarkable tapestry of ethnicities, religions, and cultures. Nationally recognized as the first community to voluntarily desegregate its public schools in 1965, Teaneck has a deep tradition of civic engagement and inclusivity. The township features beautiful tree-lined streets, a thriving commercial district along Cedar Lane, excellent schools, and the campus of Fairleigh Dickinson University.",
+    "population": 39776,
+    "populationYear": 2020,
+    "areaSqMi": 6.22,
+    "elevation": "55 ft",
+    "incorporated": "1895",
+    "governmentType": "Township (Council-Manager)",
+    "schoolDistrict": "Teaneck Public Schools",
+    "highlights": [
+      "First community in the nation to voluntarily integrate its public schools (1965)",
+      "Remarkably diverse population with vibrant multicultural character",
+      "Cedar Lane commercial district with eclectic dining and shopping",
+      "Home to Fairleigh Dickinson University",
+      "Strong residential neighborhoods with tree-lined streets"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$525,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.35%",
+    "averagePropertyTax": "$14,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Teaneck's large housing stock includes a wide range of home types, from Tudor-style and Colonial homes to split-levels and condominiums.",
+    "recentTrends": "Teaneck's real estate market has been strong, with rising demand driven by the township's diversity, school quality, and proximity to New York City. Properties in the northeast section near the Orthodox Jewish community are particularly competitive. The market features homes across a wide price range, from starter homes to luxury properties.",
+    "neighborhoodNotes": [
+      "Northeast Teaneck — Large Orthodox Jewish community; walkable to synagogues; highly sought-after",
+      "West Englewood section — Diverse neighborhood near Englewood border",
+      "Cedar Lane area — Walking distance to shops, restaurants, and bus service",
+      "Sagamore/Teaneck Road area — Tree-lined streets with mid-century homes",
+      "Glenpointe area — Modern condos and apartments near I-95"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Township of Teaneck Department of Public Works.",
+      "details": [
+        "Pickup occurs twice per week on designated days by neighborhood zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment through DPW",
+        "Holiday schedule adjustments posted on township website"
+      ],
+      "contactPhone": "(201) 837-4811",
+      "contactUrl": "https://www.teanecknj.gov"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling is collected weekly by the Township.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on the same recycling day",
+        "Yard waste collected seasonally from April through December",
+        "Recycling bins available from the DPW",
+        "Electronics and hazardous waste events held periodically"
+      ],
+      "contactPhone": "(201) 837-4811",
+      "contactUrl": "https://www.teanecknj.gov"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water (formerly United Water) and sewer service is maintained by the Township.",
+      "details": [
+        "Water supplied by Veolia Water New Jersey",
+        "Quarterly billing for water and sewer service",
+        "Sewer maintenance handled by Township DPW",
+        "Water quality reports published annually",
+        "Emergency water repairs available 24/7"
+      ],
+      "contactPhone": "(201) 837-4811",
+      "contactUrl": "https://www.teanecknj.gov"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning approvals, and code enforcement.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Board of Adjustment",
+        "Permit applications available online and in person at Municipal Building",
+        "Inspections scheduled through the Building Department",
+        "Historic property considerations in certain neighborhoods"
+      ],
+      "contactPhone": "(201) 837-4824",
+      "contactUrl": "https://www.teanecknj.gov"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Township operates municipal parking lots and enforces parking regulations, particularly around Cedar Lane and the train station area.",
+      "details": [
+        "Commuter parking available near the bus stops",
+        "Metered parking along Cedar Lane business district",
+        "Municipal lots on Cedar Lane and Queen Anne Road",
+        "Overnight parking restrictions on certain streets",
+        "Permit parking zones in residential areas near commercial districts"
+      ],
+      "contactPhone": "(201) 837-2600",
+      "contactUrl": "https://www.teanecknj.gov"
+    },
+    "additionalServices": [
+      {
+        "title": "Teaneck Public Library",
+        "description": "Full-service public library with extensive collections, programs, and community meeting spaces.",
+        "details": [
+          "Located at 840 Teaneck Road",
+          "Children's programs, teen events, and adult enrichment",
+          "Large collection in multiple languages",
+          "Free Wi-Fi, computer access, and study rooms",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 837-4171",
+        "contactUrl": "https://www.teanecklibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages, including the Teaneck Swim Club.",
+        "details": [
+          "Youth sports leagues, summer camps, and after-school programs",
+          "Adult fitness classes and senior programs",
+          "Votee Park facilities including pool, tennis, and sports fields",
+          "Online registration through Community Pass"
+        ],
+        "contactPhone": "(201) 837-7130",
+        "contactUrl": "https://www.teanecknj.gov"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Teaneck enforces noise regulations to maintain quality of life in its residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to certain hours",
+        "Amplified music and loud gatherings subject to noise limits after 10:00 PM"
+      ],
+      "source": "Township of Teaneck Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners are required to maintain their properties in good condition, including lawns, structures, and sidewalks.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Property owners responsible for sidewalk snow removal within 24 hours after snowfall",
+        "Fences must not exceed 6 feet in rear yards and 4 feet in front yards",
+        "Abandoned or inoperable vehicles must be removed from property",
+        "Property exteriors including paint, gutters, and roofs must be maintained"
+      ],
+      "source": "Township of Teaneck Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Teaneck requires dog licensing and enforces leash laws throughout the township.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately by the owner",
+        "Maximum number of pets per household may apply",
+        "No exotic or dangerous animals permitted as pets"
+      ],
+      "source": "Township of Teaneck Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the township with specific rules for residential and commercial areas.",
+      "keyRules": [
+        "No overnight parking on township streets between 2:00 AM and 6:00 AM without a permit",
+        "Metered parking enforced along Cedar Lane and commercial streets",
+        "Snow emergency parking bans enforced — vehicles must be off-street",
+        "Commercial vehicles prohibited from parking on residential streets overnight",
+        "Residential permit parking required near some commercial zones"
+      ],
+      "source": "Township of Teaneck Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties in Teaneck must be registered and comply with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Township",
+        "Certificate of Habitability required before occupancy of rental units",
+        "Landlords must maintain properties to housing code standards",
+        "Multi-family dwellings subject to fire safety inspections",
+        "Short-term rentals (under 30 days) are regulated"
+      ],
+      "source": "Township of Teaneck Code"
+    },
+    "other": [
+      {
+        "title": "Eruv Boundaries",
+        "summary": "Teaneck permits and maintains an eruv, a symbolic boundary important to the Orthodox Jewish community for Sabbath observance.",
+        "keyRules": [
+          "Eruv boundaries are maintained by the local community organizations",
+          "Township permits the use of utility poles and structures for eruv wires",
+          "Eruv status is published weekly for the community",
+          "Maintenance coordination with utility companies as needed"
+        ],
+        "source": "Township of Teaneck Code / Community organizations"
+      },
+      {
+        "title": "Tree Preservation",
+        "summary": "Teaneck protects significant trees on public and private property.",
+        "keyRules": [
+          "Permit required to remove trees over a specified diameter on private property",
+          "Replacement planting may be required when trees are removed",
+          "Shade Tree Advisory Board oversees public tree management",
+          "Damage to public trees subject to fines"
+        ],
+        "source": "Township of Teaneck Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Teaneck Public Schools",
+    "publicSchools": [
+      {
+        "name": "Teaneck High School",
+        "grades": "9-12",
+        "rating": 6,
+        "enrollment": 1300,
+        "type": "public",
+        "notes": "Comprehensive high school known for its diverse student body, strong academics, and extensive extracurricular programs"
+      },
+      {
+        "name": "Thomas Jefferson Middle School",
+        "grades": "6-8",
+        "rating": 6,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Middle school serving students across the township"
+      },
+      {
+        "name": "Benjamin Franklin Middle School",
+        "grades": "6-8",
+        "rating": 6,
+        "enrollment": 680,
+        "type": "public",
+        "notes": "Middle school providing comprehensive academics and extracurriculars"
+      },
+      {
+        "name": "Hawthorne Elementary School",
+        "grades": "K-5",
+        "rating": 6,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Elementary school in the northeast section of the township"
+      },
+      {
+        "name": "Lowell Elementary School",
+        "grades": "K-5",
+        "rating": 6,
+        "enrollment": 330,
+        "type": "public",
+        "notes": "Elementary school in the central part of the township"
+      },
+      {
+        "name": "Whittier Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Elementary school serving the southern portion of Teaneck"
+      },
+      {
+        "name": "Longfellow Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Elementary school in the western section of the township"
+      },
+      {
+        "name": "Bryant Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 280,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Yeshivat He'Atid",
+        "grades": "K-8",
+        "type": "private",
+        "enrollment": 250,
+        "notes": "Modern Orthodox day school with dual curriculum"
+      },
+      {
+        "name": "Ma'ayanot Yeshiva High School for Girls",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 300,
+        "notes": "All-girls Modern Orthodox yeshiva high school"
+      },
+      {
+        "name": "Torah Academy of Bergen County (TABC)",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 280,
+        "notes": "All-boys Modern Orthodox yeshiva high school"
+      },
+      {
+        "name": "The Moriah School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 350,
+        "notes": "Orthodox Jewish day school with comprehensive dual curriculum"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck campus) — in Teaneck",
+      "Bergen Community College (Paramus) — 10 minutes",
+      "Hackensack Meridian School of Medicine — in Nutley, 20 minutes",
+      "Montclair State University — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Exceptionally diverse and welcoming community",
+      "Affordable by Bergen County standards with a wide range of housing options",
+      "Strong public schools with history of academic achievement",
+      "Vibrant Cedar Lane shopping and dining district",
+      "Excellent bus service to New York City",
+      "Home to Fairleigh Dickinson University"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "30-50 minutes to Port Authority Bus Terminal / George Washington Bridge",
+      "busRoutes": ["NJ Transit Bus 155", "NJ Transit Bus 157", "NJ Transit Bus 167", "NJ Transit Bus 186"],
+      "notes": "Teaneck has excellent bus service to Manhattan with multiple NJ Transit routes running along Teaneck Road, Cedar Lane, and Route 4. The commute to the Port Authority Bus Terminal is approximately 30-50 minutes. Access to I-95/Route 4 provides a direct driving route to the George Washington Bridge and Upper Manhattan."
+    },
+    "costOfLiving": {
+      "summary": "Teaneck offers a moderate cost of living for Bergen County, with a wide range of housing from modest to upscale, making it accessible to families at various income levels.",
+      "vsStateAverage": "Approximately 25% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 55% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Rich cultural and ethnic diversity with strong community bonds",
+        "Affordable housing options across a wide price range",
+        "Excellent bus access to NYC with multiple routes",
+        "Vibrant Cedar Lane commercial district",
+        "Strong commitment to public education and civic engagement"
+      ],
+      "cons": [
+        "High property taxes relative to home values",
+        "No direct NJ Transit rail service",
+        "Some areas experience traffic congestion on Route 4",
+        "School rankings vary; some families prefer private options",
+        "Older housing stock may require updates"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Veggie Heaven",
+        "description": "Popular Asian-inspired vegetarian and vegan restaurant offering creative dishes in a casual setting.",
+        "address": "473 Cedar Lane, Teaneck, NJ 07666",
+        "category": "Vegetarian/Asian"
+      },
+      {
+        "name": "Mocha Roti Bar",
+        "description": "Caribbean-inspired restaurant known for roti wraps, jerk chicken, and tropical flavors.",
+        "address": "Cedar Lane, Teaneck, NJ 07666",
+        "category": "Caribbean"
+      },
+      {
+        "name": "Chopstix",
+        "description": "Kosher Chinese restaurant popular with the local community for takeout and dine-in Chinese-American fare.",
+        "address": "172 West Englewood Avenue, Teaneck, NJ 07666",
+        "category": "Chinese/Kosher"
+      },
+      {
+        "name": "Mango Mango",
+        "description": "Tropical-themed dessert and smoothie shop known for fresh fruit creations and shaved ice.",
+        "address": "Cedar Lane, Teaneck, NJ 07666",
+        "category": "Dessert/Smoothies"
+      },
+      {
+        "name": "Keter Steakhouse",
+        "description": "Upscale kosher steakhouse offering prime cuts, elegant ambiance, and a sophisticated dining experience.",
+        "address": "478 Cedar Lane, Teaneck, NJ 07666",
+        "category": "Steakhouse/Kosher"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Votee Park",
+        "description": "Teaneck's largest park featuring a swimming pool, tennis courts, basketball courts, sports fields, playgrounds, and a walking track. The hub of township recreation.",
+        "address": "Palisade Avenue, Teaneck, NJ 07666",
+        "category": "Recreation/Sports"
+      },
+      {
+        "name": "Andreas Park",
+        "description": "Neighborhood park with playground equipment, open fields, and shaded picnic areas.",
+        "address": "Teaneck Road, Teaneck, NJ 07666",
+        "category": "Park/Playground"
+      },
+      {
+        "name": "Phelps Park",
+        "description": "Community park featuring baseball fields, walking paths, and green space along the Hackensack River.",
+        "address": "River Road, Teaneck, NJ 07666",
+        "category": "Sports/Park"
+      },
+      {
+        "name": "Sagamore Park",
+        "description": "Quiet neighborhood park with playground, benches, and open green space popular with families.",
+        "address": "Sagamore Avenue, Teaneck, NJ 07666",
+        "category": "Park/Playground"
+      }
+    ],
+    "events": [
+      {
+        "name": "Teaneck International Day",
+        "description": "Annual celebration of Teaneck's cultural diversity featuring food, music, dance, and performances from cultures around the world.",
+        "when": "Fall, typically September"
+      },
+      {
+        "name": "Cedar Lane Street Fair",
+        "description": "Popular street fair along Cedar Lane with vendors, food, live entertainment, and family activities.",
+        "when": "Spring and Fall, typically May and September"
+      },
+      {
+        "name": "Teaneck Summer Concert Series",
+        "description": "Free outdoor concerts held in township parks throughout the summer months.",
+        "when": "Summer evenings, June through August"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade through town honoring veterans and fallen service members.",
+        "when": "Memorial Day, last Monday in May"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Cedar Lane Commercial District",
+        "description": "Teaneck's main shopping and dining street featuring eclectic restaurants, shops, and services reflecting the town's diverse character.",
+        "address": "Cedar Lane, Teaneck, NJ 07666",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Fairleigh Dickinson University",
+        "description": "Private university campus in Teaneck featuring the Becton Theater, Rothman Center for athletics events, and beautiful grounds open to visitors.",
+        "address": "1000 River Road, Teaneck, NJ 07666",
+        "category": "Education/Culture"
+      },
+      {
+        "name": "Teaneck Public Library",
+        "description": "Modern public library offering extensive programs, collections, and community spaces.",
+        "address": "840 Teaneck Road, Teaneck, NJ 07666",
+        "category": "Culture/Education"
+      }
+    ],
+    "shoppingAreas": [
+      "Cedar Lane — Main commercial corridor with diverse dining and shops",
+      "Teaneck Road — Retail and services along a major north-south route",
+      "DeGraw Avenue — Kosher restaurants and shops in the northeast section",
+      "Route 4 corridor — Larger retail stores and shopping centers"
+    ]
+  },
+  "government": {
+    "governingBody": "Township Council (Council-Manager form of government)",
+    "mayor": {
+      "name": "Michael Pagan",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Mark Schwartz",
+        "title": "Deputy Mayor / Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Hillary Goldberg",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Keith Kaplan",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Clara Williams",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Gervonn Romney Rice",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Elie Katz",
+        "title": "Council Member",
+        "term": "4-year term"
+      }
+    ],
+    "meetingSchedule": "Township Council meets the 1st and 3rd Tuesday of each month at 8:00 PM",
+    "meetingLocation": "Municipal Building, 818 Teaneck Road, Teaneck, NJ 07666",
+    "municipalWebsite": "https://www.teanecknj.gov",
+    "importantContacts": [
+      {
+        "department": "Township Manager's Office",
+        "phone": "(201) 837-4811",
+        "email": "manager@teanecknj.gov",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Township Clerk",
+        "phone": "(201) 837-4811",
+        "email": "clerk@teanecknj.gov",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 837-4824",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 837-4811",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 837-4811",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 837-7130",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 837-2600",
+      "address": "900 Teaneck Road, Teaneck, NJ 07666"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 837-2085",
+      "address": "1600 Teaneck Road, Teaneck, NJ 07666"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 837-2085",
+      "address": "Teaneck, NJ 07666"
+    },
+    "hospitals": [
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 0.5
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "(201) 894-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water / Suez",
+        "phone": "1-800-422-5987",
+        "url": "https://www.mysuezwater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Township of Teaneck DPW",
+        "phone": "(201) 837-4811"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Teaneck Police (Non-Emergency)",
+        "number": "(201) 837-2600"
+      },
+      {
+        "label": "Teaneck Fire Department",
+        "number": "(201) 837-2085"
+      },
+      {
+        "label": "Municipal Building",
+        "number": "(201) 837-4811"
+      },
+      {
+        "label": "Holy Name Medical Center",
+        "number": "(201) 833-3000"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

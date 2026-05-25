@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "slug": "old-tappan",
+    "name": "Old Tappan",
+    "fullName": "Borough of Old Tappan",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "old-tappan.info",
+    "zipCodes": ["07675"],
+    "themeColor": "#4a148c",
+    "accentColor": "#6a1b9a"
+  },
+  "overview": {
+    "tagline": "An exclusive, family-oriented borough with top schools and a serene suburban lifestyle",
+    "description": "Old Tappan is an affluent residential borough in northern Bergen County, known for its excellent schools, spacious properties, and quiet, family-centered lifestyle. With a population of about 5,900, Old Tappan maintains a low-density, suburban character with generous lot sizes and well-manicured neighborhoods. The borough is part of the highly regarded Northern Valley Regional High School District and borders New York State to the north. Old Tappan offers a premium residential experience for families who value top-tier education, safety, and a close-knit community.",
+    "population": 5888,
+    "populationYear": 2020,
+    "areaSqMi": 3.19,
+    "elevation": "130 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Old Tappan Public Schools / Northern Valley Regional",
+    "highlights": [
+      "Part of the top-ranked Northern Valley Regional High School District",
+      "Spacious lots with upscale homes and manicured properties",
+      "Very low crime rate and family-friendly environment",
+      "Lake DeForest/Hackensack River recreation nearby",
+      "Easy access to Garden State Parkway and Palisades Interstate Parkway"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$825,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.30%",
+    "averagePropertyTax": "$17,500",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Bergen County conducts periodic revaluations. Old Tappan features predominantly single-family homes on generous lots.",
+    "recentTrends": "Old Tappan's market is strong and competitive, driven by the Northern Valley school district and the borough's residential prestige. Home prices have appreciated significantly. Demand outpaces supply, and well-maintained homes often receive multiple offers. New luxury construction has added to the housing stock.",
+    "neighborhoodNotes": [
+      "Old Tappan Road corridor — Central borough road with established colonial and newer homes",
+      "Westwood Avenue area — Upscale properties with spacious yards",
+      "DeWolf Road section — Premium homes with larger lots near the NY border",
+      "Orangeburgh Road area — Newer development with modern amenities",
+      "Rivervale Road border — Properties near the River Vale line with easy highway access"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection provided by a contracted hauler.",
+      "details": [
+        "Trash pickup occurs twice per week",
+        "Containers at curbside by 6:00 AM",
+        "Maximum 50 lbs per container with secure lids",
+        "Bulk item pickup by scheduling with DPW",
+        "Holiday schedule posted on borough website"
+      ],
+      "contactPhone": "(201) 664-1849",
+      "contactUrl": "https://www.oldtappan.net"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling collected on a regular schedule.",
+      "details": [
+        "Commingled recyclables collected biweekly",
+        "Paper and cardboard on alternate weeks",
+        "Yard waste collected seasonally from spring through fall",
+        "Recycling containers provided by the Borough",
+        "Special recycling events held periodically"
+      ],
+      "contactPhone": "(201) 664-1849",
+      "contactUrl": "https://www.oldtappan.net"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water (formerly United Water). Sewer service through the Borough and Northwest Bergen County Utilities Authority.",
+      "details": [
+        "Veolia Water handles water supply and billing",
+        "Sewer maintained by the Borough and NBCUA",
+        "Some areas served by private wells and/or septic systems",
+        "Annual water quality reports available",
+        "Emergency water service available 24/7"
+      ],
+      "contactPhone": "(201) 664-1849",
+      "contactUrl": "https://www.oldtappan.net"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Permits required for all construction, additions, and renovations",
+        "Zoning Board and Planning Board meet monthly",
+        "Applications available at Borough Hall",
+        "Inspections coordinated through the Building Department",
+        "Certificate of occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 664-1849",
+      "contactUrl": "https://www.oldtappan.net"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking regulations are enforced on borough streets.",
+      "details": [
+        "Street parking subject to posted restrictions",
+        "No overnight parking on borough streets without permit",
+        "Snow emergency parking rules in effect during storms",
+        "Parking near schools subject to additional restrictions during school hours",
+        "Violations subject to fines"
+      ],
+      "contactPhone": "(201) 664-1849",
+      "contactUrl": "https://www.oldtappan.net"
+    },
+    "additionalServices": [
+      {
+        "title": "Old Tappan Free Public Library",
+        "description": "Community library serving residents with books, programs, and resources.",
+        "details": [
+          "Located at 227 Old Tappan Road",
+          "Children's story times, teen programs, and adult events",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 664-3499",
+        "contactUrl": "https://oldtappan.bccls.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues, summer camps, and swim programs",
+          "Adult fitness and senior programs",
+          "Community pool open to residents in summer",
+          "Special events throughout the year"
+        ],
+        "contactPhone": "(201) 664-1849",
+        "contactUrl": "https://www.oldtappan.net/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Old Tappan enforces strict noise regulations to preserve its quiet residential character.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Leaf blowers and power equipment restricted to specific hours",
+        "Loud music and amplified sound prohibited after 10:00 PM"
+      ],
+      "source": "Borough of Old Tappan Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained to high standards consistent with the borough's residential character.",
+      "keyRules": [
+        "Lawns and landscaping must be kept well-maintained",
+        "Properties must be free of debris, junk, and unsightly conditions",
+        "Structures must be maintained in good repair and appearance",
+        "Sidewalks and driveways must be cleared of snow promptly",
+        "Swimming pools must be properly fenced and maintained"
+      ],
+      "source": "Borough of Old Tappan Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet owners must comply with licensing and control requirements.",
+      "keyRules": [
+        "Dogs must be licensed annually",
+        "Dogs must be on a leash at all times when off owner's property",
+        "Pet waste must be cleaned up immediately",
+        "Barking dogs subject to noise complaints and fines",
+        "Maximum number of pets per household may apply"
+      ],
+      "source": "Borough of Old Tappan Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking rules are enforced to maintain the borough's residential streetscape.",
+      "keyRules": [
+        "Overnight parking on streets prohibited from 2:00 AM to 6:00 AM",
+        "Vehicles must be moved during snow emergencies",
+        "No parking on lawns or unpaved surfaces",
+        "Commercial vehicles restricted from residential streets overnight",
+        "Violations subject to fines and towing"
+      ],
+      "source": "Borough of Old Tappan Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough requirements.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of habitability required before occupancy",
+        "Properties must meet all code standards",
+        "Short-term rentals subject to zoning restrictions",
+        "Landlords responsible for tenant compliance with borough ordinances"
+      ],
+      "source": "Borough of Old Tappan Code"
+    },
+    "other": [
+      {
+        "title": "Fence and Pool Regulations",
+        "summary": "Fences and swimming pools are regulated for safety and aesthetics.",
+        "keyRules": [
+          "Fences limited to 6 feet in rear yards and 4 feet in front yards",
+          "Swimming pools must be enclosed with a minimum 4-foot fence with self-closing gate",
+          "Pool permits required from the Building Department",
+          "Fence installations require a permit"
+        ],
+        "source": "Borough of Old Tappan Zoning Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Old Tappan Public Schools / Northern Valley Regional High School District",
+    "publicSchools": [
+      {
+        "name": "Charles DeWolf Middle School",
+        "grades": "PreK-8",
+        "rating": 9,
+        "enrollment": 650,
+        "type": "public",
+        "notes": "Borough's sole PreK-8 school, consistently ranked among the best in Bergen County"
+      },
+      {
+        "name": "Northern Valley Regional High School at Old Tappan",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 1050,
+        "type": "public",
+        "notes": "Regional high school consistently ranked among New Jersey's top public high schools; strong academics, athletics, and extracurriculars"
+      }
+    ],
+    "privateSchools": [],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 12 miles",
+      "Bergen Community College (Paramus) — 10 miles",
+      "Fairleigh Dickinson University (Teaneck) — 12 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-ranked Northern Valley Regional High School at Old Tappan",
+      "Excellent local K-8 school (Charles DeWolf)",
+      "Spacious lots and upscale residential properties",
+      "Very safe community with extremely low crime rate",
+      "Proximity to Garden State Parkway and Palisades Interstate Parkway"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "50-70 minutes to Port Authority",
+      "busRoutes": ["165", "186"],
+      "notes": "NJ Transit bus service provides connections to Port Authority Bus Terminal. Many residents drive to nearby Pascack Valley Line train stations in Westwood or Park Ridge for rail service to Hoboken. The Garden State Parkway and Palisades Interstate Parkway provide direct highway access to the George Washington Bridge."
+    },
+    "costOfLiving": {
+      "summary": "Old Tappan is an affluent community with higher home prices reflecting the premium school district and residential quality.",
+      "vsStateAverage": "Well above the state average for housing costs",
+      "vsNationalAverage": "Significantly above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Outstanding public schools at both the local and regional levels",
+        "Spacious, well-maintained properties with large yards",
+        "Extremely safe community with very low crime",
+        "Strong property values and consistent appreciation",
+        "Family-friendly atmosphere with active recreation programs"
+      ],
+      "cons": [
+        "High home prices — one of the more expensive Bergen County communities",
+        "Very limited commercial activity and dining options",
+        "No train station in the borough — reliant on bus or driving to nearby stations",
+        "Higher property taxes in absolute terms",
+        "Quiet community with limited nightlife or entertainment"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Old Tappan Manor",
+        "description": "Elegant event venue and restaurant offering American and Italian cuisine for special occasions.",
+        "address": "137 Old Tappan Road, Old Tappan, NJ",
+        "category": "American/Italian/Events"
+      },
+      {
+        "name": "River Palm Terrace",
+        "description": "Upscale steakhouse known for premium cuts, seafood, and an extensive wine list.",
+        "address": "Old Tappan Road, Old Tappan, NJ",
+        "category": "Steakhouse/Fine Dining"
+      },
+      {
+        "name": "Harvest Bistro & Bar",
+        "description": "Farm-to-table American restaurant with seasonal menus and craft cocktails.",
+        "address": "Old Tappan Road, Old Tappan, NJ",
+        "category": "American/Farm-to-Table"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Old Tappan Community Park",
+        "description": "Central park with sports fields, playground, walking trails, and community pool.",
+        "address": "Old Tappan, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Oakes Overlook Park",
+        "description": "Scenic park with walking paths, benches, and nature areas.",
+        "address": "Old Tappan, NJ",
+        "category": "Nature Park"
+      },
+      {
+        "name": "Lake DeForest (nearby)",
+        "description": "Large reservoir on the border of Old Tappan and Clarkstown, NY offering scenic walking paths along the shore.",
+        "address": "Old Tappan Road, Old Tappan, NJ",
+        "category": "Reservoir/Nature"
+      }
+    ],
+    "events": [
+      {
+        "name": "Old Tappan Day",
+        "description": "Annual community celebration with food vendors, live music, games, rides, and family entertainment.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community tree lighting ceremony with caroling, refreshments, and holiday cheer.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Borough ceremony honoring veterans with a community gathering.",
+        "when": "May (annually)"
+      },
+      {
+        "name": "Easter Egg Hunt",
+        "description": "Annual egg hunt for borough children at the community park.",
+        "when": "Spring (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Lake DeForest",
+        "description": "Scenic reservoir providing walking paths and nature observation along the New York/New Jersey border.",
+        "address": "Old Tappan, NJ / Clarkstown, NY",
+        "category": "Nature/Recreation"
+      },
+      {
+        "name": "Historic Old Tappan",
+        "description": "The borough has roots dating to Dutch colonial settlement, with several historic homes and landmarks throughout the community.",
+        "category": "Historic"
+      }
+    ],
+    "shoppingAreas": [
+      "Old Tappan Road local shops",
+      "Nearby Westwood downtown shopping",
+      "Route 303/Orangetown (NY) retail"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "John Kramer",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Ronald Binaghi", "title": "Council Member" },
+      { "name": "Victor Polce", "title": "Council Member" },
+      { "name": "Matthew Nalbandian", "title": "Council Member" },
+      { "name": "Guy Carnazza", "title": "Council Member" },
+      { "name": "William Boyce", "title": "Council Member" },
+      { "name": "Cynthia Giordano", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Old Tappan Borough Hall, 227 Old Tappan Road",
+    "municipalWebsite": "https://www.oldtappan.net",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 664-1849",
+        "email": "clerk@oldtappan.net",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 664-1849",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 664-1849",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 666-1775",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 664-1111",
+      "address": "227 Old Tappan Road, Old Tappan, NJ 07675"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 664-0665",
+      "address": "Old Tappan, NJ 07675"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 664-1111",
+      "address": "Old Tappan, NJ 07675"
+    },
+    "hospitals": [
+      {
+        "name": "Pascack Valley Medical Center",
+        "address": "250 Old Hook Road, Westwood, NJ 07675",
+        "phone": "(201) 358-3000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "address": "255 Lafayette Avenue, Suffern, NY 10901",
+        "phone": "(845) 368-5000",
+        "distanceMiles": 14
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-0850",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

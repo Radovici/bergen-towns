@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "slug": "fairview",
+    "name": "Fairview",
+    "fullName": "Borough of Fairview",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "fairview.info",
+    "zipCodes": ["07022"],
+    "themeColor": "#6d4c41",
+    "accentColor": "#8d6e63"
+  },
+  "overview": {
+    "tagline": "Bergen County's Hidden Gem on the Palisades",
+    "description": "Fairview is a compact, densely populated borough in southeastern Bergen County, perched between the Palisades cliffs and the urban corridor of North Bergen and Cliffside Park. With a predominantly Hispanic population, Fairview offers a vibrant Latin American cultural scene, affordable housing by Bergen County standards, and close proximity to both the Hudson River waterfront and the George Washington Bridge. The borough is one of the most densely populated municipalities in New Jersey.",
+    "population": 14478,
+    "populationYear": 2020,
+    "areaSqMi": 0.77,
+    "elevation": "150 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Fairview School District",
+    "highlights": [
+      "One of the most diverse and culturally vibrant communities in Bergen County",
+      "Affordable housing compared to surrounding Bergen County towns",
+      "Thriving Latin American dining and shopping scene on Anderson Avenue",
+      "Close proximity to the George Washington Bridge and NYC",
+      "Compact, walkable community with access to public transit"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$380,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.40%",
+    "averagePropertyTax": "$8,200",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Fairview's housing stock includes multi-family homes, apartment buildings, condominiums, and some single-family homes.",
+    "recentTrends": "Fairview offers some of the most affordable real estate in Bergen County, attracting first-time buyers and investors. Multi-family properties are common and generate rental income. Prices have risen as buyers seek alternatives to pricier neighboring communities like Cliffside Park and Edgewater.",
+    "neighborhoodNotes": [
+      "Anderson Avenue is the main commercial corridor with shops, restaurants, and multi-family residential",
+      "The eastern section near Cliffside Park has apartment buildings and condos with some river views",
+      "The western border near North Bergen features more compact residential streets",
+      "Properties near the Palisade Avenue corridor benefit from proximity to Englewood and GWB access"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by location — check with Borough Hall",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by appointment"
+      ],
+      "contactPhone": "201-943-3220",
+      "contactUrl": "https://www.fairviewnj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling is collected biweekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "201-943-3220",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water and sewer service is managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges included in property tax or utility bills",
+        "Water quality reports available annually",
+        "Report water emergencies to Veolia or DPW"
+      ],
+      "contactPhone": "201-943-3220",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Fairview Building Department handles construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Zoning applications reviewed by the Planning or Zoning Board",
+        "Certificate of Occupancy required for new construction and changes of use",
+        "Applications submitted at Borough Hall on Anderson Avenue"
+      ],
+      "contactPhone": "201-943-3220"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Fairview manages street parking and limited municipal lots in this densely populated borough.",
+      "details": [
+        "Street parking regulated throughout the borough",
+        "Overnight parking restrictions in effect on certain streets",
+        "No double parking — enforced on Anderson Avenue",
+        "Resident parking permits may be required in some areas"
+      ],
+      "contactPhone": "201-943-3220"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers youth sports and community activities.",
+        "details": [
+          "Youth soccer, basketball, and baseball leagues",
+          "Summer recreation programs for children",
+          "Community events and cultural celebrations",
+          "Borough park and playground facilities"
+        ],
+        "contactPhone": "201-943-3220"
+      },
+      {
+        "title": "Library Services",
+        "description": "The Fairview Free Public Library serves the community with resources and programs.",
+        "details": [
+          "Located on Anderson Avenue",
+          "Bilingual (English/Spanish) programs and collections",
+          "Children's story times and reading programs",
+          "Computer access and reference services"
+        ],
+        "contactPhone": "201-943-6244",
+        "contactUrl": "https://www.fairviewlibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Fairview enforces noise restrictions given the borough's high population density.",
+      "keyRules": [
+        "Construction work prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Excessive noise from residential units (music, parties) subject to fines",
+        "Commercial noise levels regulated near residential areas"
+      ],
+      "source": "Fairview Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to borough standards.",
+      "keyRules": [
+        "Properties must be kept clean and free of trash accumulation",
+        "Snow and ice must be cleared from sidewalks within 12 hours of storm ending",
+        "Building facades must be maintained in safe condition",
+        "Vacant properties must be secured and maintained",
+        "Graffiti must be removed promptly by property owners"
+      ],
+      "source": "Fairview Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed and controlled at all times.",
+      "keyRules": [
+        "All dogs must be licensed with the Borough Clerk",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets",
+        "Rabies vaccination required for all dogs and cats",
+        "No dangerous or exotic animals without a permit"
+      ],
+      "source": "Fairview Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Fairview enforces strict parking rules due to the borough's high density and limited street space.",
+      "keyRules": [
+        "No overnight parking on certain streets",
+        "Alternate-side parking enforced for street cleaning",
+        "No double parking — strictly enforced on Anderson Avenue",
+        "Fire hydrant clearance of 10 feet required",
+        "Commercial vehicle parking restricted on residential streets"
+      ],
+      "source": "Fairview Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Fairview has a large rental population and enforces habitability standards.",
+      "keyRules": [
+        "Landlords must register all rental units with the Borough",
+        "Certificate of Habitability required for rental occupancy",
+        "Fire safety inspections required for multi-family dwellings",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act"
+      ],
+      "source": "Fairview Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Commercial Signage",
+        "summary": "Fairview regulates commercial signage along Anderson Avenue and other commercial corridors.",
+        "keyRules": [
+          "Sign permits required for all commercial signage",
+          "Illuminated signs must comply with brightness and hours restrictions",
+          "Temporary banner permits available for limited periods",
+          "Bilingual signage is common and permitted"
+        ],
+        "source": "Fairview Borough Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Fairview School District",
+    "publicSchools": [
+      {
+        "name": "Fairview Elementary School (Number 1 School)",
+        "grades": "PreK-4",
+        "rating": 4,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Main elementary school serving the borough; strong ESL programs for the diverse student population"
+      },
+      {
+        "name": "Fairview Middle School (Lincoln School)",
+        "grades": "5-8",
+        "rating": 4,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Middle school with honors programs; students attend Cliffside Park High School for grades 9-12 through a send-receive agreement"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. John the Baptist School (nearby Fairview/Cliffside Park)",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school serving Fairview and neighboring communities"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (6 miles)",
+      "Bergen Community College — Paramus (10 miles)",
+      "Hudson County Community College — Jersey City (8 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Most affordable housing in Bergen County with easy NYC access",
+      "Vibrant Latin American culture with authentic restaurants and shops on Anderson Avenue",
+      "Close proximity to the George Washington Bridge, NJ Transit buses, and Edgewater ferry",
+      "Walkable, compact community with daily needs accessible on foot",
+      "Diverse, welcoming community with a strong neighborhood feel"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Car via GWB",
+      "duration": "25-45 minutes by bus; 20-45 minutes by car",
+      "busRoutes": ["166", "156", "128"],
+      "notes": "NJ Transit buses run from Anderson Avenue to the Port Authority Bus Terminal. Car commute via local roads to the George Washington Bridge. The Edgewater ferry terminal is nearby for a scenic commute to Midtown Manhattan."
+    },
+    "costOfLiving": {
+      "summary": "Fairview offers the most affordable cost of living in Bergen County, making it accessible for first-time buyers and immigrants establishing roots.",
+      "vsStateAverage": "Near or slightly below the New Jersey average",
+      "vsNationalAverage": "10-15% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Very affordable by Bergen County standards",
+        "Excellent Latin American dining and cultural scene",
+        "Close to NYC with multiple transit options",
+        "Walkable commercial corridor on Anderson Avenue",
+        "Tight-knit, friendly community"
+      ],
+      "cons": [
+        "Very densely populated with limited green space",
+        "School ratings below Bergen County average",
+        "No high school — students sent to Cliffside Park",
+        "Limited parking due to density",
+        "Aging housing stock in some areas"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "El Rancho de Memo",
+        "description": "Authentic Mexican restaurant serving traditional tacos, enchiladas, mole, and other regional Mexican specialties.",
+        "address": "Anderson Avenue, Fairview, NJ 07022",
+        "category": "Mexican"
+      },
+      {
+        "name": "El Artesano Bakery",
+        "description": "Popular Latin bakery offering fresh-baked bread, pastries, tres leches cake, and Colombian and Ecuadorian specialties.",
+        "address": "Anderson Avenue, Fairview, NJ 07022",
+        "category": "Bakery"
+      },
+      {
+        "name": "Don Pepe's Restaurant",
+        "description": "Family-run Colombian restaurant known for bandeja paisa, empanadas, and generous portions of traditional comfort food.",
+        "address": "Anderson Avenue, Fairview, NJ 07022",
+        "category": "Colombian"
+      },
+      {
+        "name": "Fairview Pizza",
+        "description": "Local pizzeria serving classic New Jersey-style pizza, calzones, and Italian-American favorites to the community.",
+        "address": "Anderson Avenue, Fairview, NJ 07022",
+        "category": "Pizza"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Fairview Recreation Center",
+        "description": "Borough recreation facility with a playground, basketball courts, and open space for community activities.",
+        "address": "Fairview, NJ 07022",
+        "category": "Recreation Center"
+      },
+      {
+        "name": "Veteran Memorial Park",
+        "description": "Small memorial park honoring local veterans with monuments and seating areas.",
+        "address": "Anderson Avenue, Fairview, NJ 07022",
+        "category": "Memorial Park"
+      },
+      {
+        "name": "Palisades Interstate Park (nearby)",
+        "description": "The dramatic Palisades cliffs are accessible from nearby Englewood Cliffs and Edgewater, offering hiking trails and river views.",
+        "address": "Palisades Interstate Parkway, NJ",
+        "category": "State Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Fairview Day",
+        "description": "Annual community celebration with food vendors, live Latin music, carnival games, and cultural performances.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Hispanic Heritage Month Celebration",
+        "description": "Month-long celebration of Hispanic and Latin American culture with events, performances, and food throughout the borough.",
+        "when": "September-October (annual)"
+      },
+      {
+        "name": "Holiday Celebration",
+        "description": "Annual holiday event with tree lighting, music, and community gathering.",
+        "when": "December (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Anderson Avenue Shopping District",
+        "description": "Fairview's vibrant main street lined with Latin American restaurants, bakeries, shops, and markets creating an authentic cultural experience.",
+        "address": "Anderson Avenue, Fairview, NJ 07022",
+        "category": "Shopping"
+      },
+      {
+        "name": "Fairview Free Public Library",
+        "description": "Community library with bilingual programs, children's activities, and a welcoming space for the diverse population.",
+        "address": "213 Anderson Avenue, Fairview, NJ 07022",
+        "category": "Library"
+      }
+    ],
+    "shoppingAreas": [
+      "Anderson Avenue — Main commercial corridor with Latin American shops, restaurants, bakeries, and services",
+      "Nearby Edgewater — River Road retail with Mitsuwa Marketplace, Whole Foods, and national chains (2 miles)",
+      "Nearby Cliffside Park — Anderson Avenue extension with additional shops and dining"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Vincent Bellucci Jr.",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "John Rosenstein",
+        "title": "Council President",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Alexander Lopez",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Michael Jennings",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "William Salvato",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Steven Capo",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "David Delvalle",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the first and third Monday of each month at 7:30 PM",
+    "meetingLocation": "Fairview Borough Hall, 59 Anderson Avenue, Fairview, NJ 07022",
+    "municipalWebsite": "https://www.fairviewnj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-943-3220",
+        "email": "clerk@fairviewnj.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-943-3220",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-943-3220",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-943-3220",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-943-2400",
+      "address": "59 Anderson Avenue, Fairview, NJ 07022"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-943-3220",
+      "address": "Fairview, NJ 07022"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-943-2400",
+      "address": "Fairview, NJ 07022"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack Meridian Health Palisades Medical Center",
+        "address": "7600 River Road, North Bergen, NJ 07047",
+        "phone": "201-854-5000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Fairview Police (Non-Emergency)",
+        "number": "201-943-2400"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-943-3220"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

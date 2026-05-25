@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "slug": "demarest",
+    "name": "Demarest",
+    "fullName": "Borough of Demarest",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "demarest.info",
+    "zipCodes": ["07627"],
+    "themeColor": "#5b7553",
+    "accentColor": "#8aad80"
+  },
+  "overview": {
+    "tagline": "A quiet, upscale enclave with top schools and pastoral charm",
+    "description": "Demarest is a small, affluent borough in the Northern Valley section of Bergen County. With a population of approximately 5,000 on just over two square miles, Demarest offers a semi-rural atmosphere with large lots, mature trees, and a peaceful residential character. The borough is home to Northern Valley Regional High School at Demarest, one of Bergen County's premier public high schools. Demarest attracts families seeking top-tier education and a quiet, upscale lifestyle within easy reach of New York City.",
+    "population": 5011,
+    "populationYear": 2020,
+    "areaSqMi": 2.17,
+    "elevation": "60-200 ft",
+    "incorporated": "1903",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Demarest School District",
+    "highlights": [
+      "Home to Northern Valley Regional High School at Demarest, a Blue Ribbon school",
+      "Quiet, upscale residential community with large lots",
+      "Wooded, semi-rural character uncommon in Bergen County",
+      "Strong property values driven by school district quality",
+      "Close proximity to Closter's dining and shopping"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$850,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.60%",
+    "averagePropertyTax": "$19,000",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Home values are strongly correlated with the high-performing school district.",
+    "recentTrends": "Demarest's market is extremely competitive due to the Northern Valley Demarest high school. Teardown-rebuild is common, with modern colonials replacing older ranch homes. Inventory remains low and prices have risen steadily.",
+    "neighborhoodNotes": [
+      "The area around Northern Valley Regional HS is highly sought after by families",
+      "Lots along Knickerbocker Road tend to be larger with mature landscaping",
+      "The northern section near Closter border is convenient to Closter's shops",
+      "New construction homes command premium prices throughout the borough"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup provided twice weekly by the borough's contracted hauler.",
+      "details": [
+        "Collection days vary by street",
+        "Trash in sealed bags or covered containers by 6:00 AM",
+        "Maximum weight 50 lbs per container",
+        "Bulk pickup by appointment with DPW"
+      ],
+      "contactPhone": "201-768-0319",
+      "contactUrl": "https://www.demarestnj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly recycling collection through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags or Styrofoam",
+        "Seasonal electronics recycling events"
+      ],
+      "contactPhone": "201-768-0319",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water provided by Veolia Water. Sewer service managed through BCUA.",
+      "details": [
+        "Quarterly water billing from Veolia",
+        "Sewer charges included in tax bills",
+        "Report water emergencies to DPW",
+        "Water quality reports available annually"
+      ],
+      "contactPhone": "201-768-0319",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "All construction, renovation, and zoning permits handled by the Building Department.",
+      "details": [
+        "Permits required for structural work, electrical, plumbing, and HVAC",
+        "Teardown-rebuild projects require full site plan approval",
+        "Zoning Board reviews variance applications",
+        "Certificate of Occupancy required for all new construction"
+      ],
+      "contactPhone": "201-768-0319"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Demarest is primarily residential with limited parking regulations.",
+      "details": [
+        "No municipal parking lots or meters",
+        "On-street parking generally permitted during daytime",
+        "Overnight parking restrictions may apply on some streets",
+        "Snow emergency parking bans enforced"
+      ],
+      "contactPhone": "201-768-0319"
+    },
+    "additionalServices": [
+      {
+        "title": "Leaf Collection",
+        "description": "Seasonal leaf collection by the DPW in fall months.",
+        "details": [
+          "Curbside leaf pickup October through December",
+          "Leaves must be placed in the curb strip (not in bags on the curb)",
+          "Multiple passes through the borough during fall season",
+          "Check DPW schedule for pickup dates"
+        ],
+        "contactPhone": "201-768-0319"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Strict noise regulations preserve the quiet residential character.",
+      "keyRules": [
+        "Construction prohibited before 7:30 AM and after 6:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Gas-powered leaf blowers restricted seasonally"
+      ],
+      "source": "Borough of Demarest Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners responsible for maintaining their lots to borough standards.",
+      "keyRules": [
+        "Lawns and landscaping must be maintained",
+        "Dead or hazardous trees must be removed",
+        "Sidewalks kept clear — snow removal within 24 hours",
+        "No accumulation of junk or debris"
+      ],
+      "source": "Borough of Demarest Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Standard pet licensing and control requirements.",
+      "keyRules": [
+        "Annual dog license required",
+        "Dogs must be leashed off owner's property",
+        "Pet waste must be cleaned up immediately",
+        "Rabies vaccination required for dogs and cats"
+      ],
+      "source": "Borough of Demarest Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Limited parking regulations given the residential nature of the borough.",
+      "keyRules": [
+        "No parking on streets during snow emergencies",
+        "Overnight parking may be restricted on certain roads",
+        "Commercial vehicles restricted in residential zones",
+        "Parking near schools regulated during school hours"
+      ],
+      "source": "Borough of Demarest Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must meet borough housing code requirements.",
+      "keyRules": [
+        "Rental registration required",
+        "Certificate of Habitability at tenant turnover",
+        "Inspections before occupancy",
+        "Landlords responsible for property code compliance"
+      ],
+      "source": "Borough of Demarest Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Demarest has tree removal regulations to maintain its wooded character.",
+        "keyRules": [
+          "Permit required for removal of trees over a certain caliper",
+          "Replacement plantings may be required",
+          "Shade Tree Commission reviews applications",
+          "Penalties for unauthorized removal"
+        ],
+        "source": "Borough of Demarest Shade Tree Ordinance"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Demarest School District",
+    "publicSchools": [
+      {
+        "name": "Luther Lee Emerson School",
+        "grades": "K-3",
+        "rating": 8,
+        "enrollment": 250,
+        "type": "public"
+      },
+      {
+        "name": "County Road School",
+        "grades": "4-6",
+        "rating": 8,
+        "enrollment": 200,
+        "type": "public"
+      },
+      {
+        "name": "Northern Valley Regional High School at Demarest",
+        "grades": "7-12",
+        "rating": 9,
+        "enrollment": 1100,
+        "type": "public",
+        "notes": "Blue Ribbon School of Excellence. Serves students from Closter, Cresskill, Demarest, Haworth, and Alpine. Known for outstanding academics, STEM programs, and competitive athletics."
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Alpine Country Day School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Independent school in Demarest with a focus on individualized learning"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Columbia University (Manhattan)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Northern Valley Demarest High School is among NJ's top public high schools",
+      "Quiet, semi-rural atmosphere with large, wooded lots",
+      "Very safe community with extremely low crime",
+      "Strong property value appreciation",
+      "Close to Closter's dining and shopping while maintaining privacy"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus to GWB Bus Station",
+      "duration": "40-55 minutes by bus",
+      "busRoutes": ["9A"],
+      "notes": "NJ Transit Route 9A along County Road provides service to the GWB Bus Station. Many residents drive to the GWB (approximately 20 minutes) or use commuter parking in neighboring towns. Some use Closter bus stops."
+    },
+    "costOfLiving": {
+      "summary": "Demarest has a high cost of living driven by premium home prices and property taxes, reflecting the borough's top-tier school district.",
+      "vsStateAverage": "Well above the NJ average in housing and taxes",
+      "vsNationalAverage": "Significantly above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Outstanding public high school (Northern Valley Demarest)",
+        "Quiet, private residential setting",
+        "Large lots and mature tree canopy",
+        "Excellent property value retention",
+        "Very safe, low-crime community"
+      ],
+      "cons": [
+        "Very high home prices and property taxes",
+        "No downtown or commercial center — must drive for shopping",
+        "Limited public transit options",
+        "Few dining or entertainment options within the borough",
+        "Teardown-rebuild trend altering neighborhood scale"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "DeMarest Farms",
+        "description": "Working farm and market open seasonally for strawberry picking, apple picking, homemade ice cream, and pies. A beloved Bergen County institution.",
+        "address": "244 Wierimus Rd, Hillsdale, NJ 07642",
+        "category": "Farm/Market"
+      },
+      {
+        "name": "Bottagra",
+        "description": "Upscale Italian restaurant just over the border in Closter, popular with Demarest residents.",
+        "address": "246 Closter Dock Rd, Closter, NJ 07624",
+        "category": "Italian"
+      },
+      {
+        "name": "Harvest Bistro & Bar",
+        "description": "New American cuisine with seasonal menus, located in nearby Closter.",
+        "address": "252 Schraalenburgh Rd, Closter, NJ 07624",
+        "category": "American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Demarest Nature Center / Crescent Field",
+        "description": "Open space with walking trails, athletic fields, and natural areas popular with families.",
+        "address": "County Road, Demarest, NJ 07627",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Borough park with playground, picnic areas, and open green space.",
+        "address": "Hardenburgh Ave, Demarest, NJ 07627",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Closter Nature Center",
+        "description": "135-acre nature preserve just across the border in Closter, popular with Demarest residents for hiking and nature programs.",
+        "address": "Ruckman Rd, Closter, NJ 07624",
+        "category": "Nature Preserve"
+      }
+    ],
+    "events": [
+      {
+        "name": "Demarest Community Day",
+        "description": "Annual celebration with food, games, and activities for the whole family.",
+        "when": "Summer or Fall"
+      },
+      {
+        "name": "NV Demarest Homecoming",
+        "description": "Northern Valley Demarest homecoming weekend with football game, parade, and school festivities.",
+        "when": "October"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Borough observance honoring fallen veterans at Memorial Park.",
+        "when": "May (Memorial Day)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Northern Valley Regional High School at Demarest",
+        "description": "Renowned public high school drawing families from across Bergen County. Features excellent facilities for academics, arts, and athletics.",
+        "address": "150 Knickerbocker Rd, Demarest, NJ 07627",
+        "category": "Education"
+      },
+      {
+        "name": "Demarest Public Library",
+        "description": "Community library offering programs, digital resources, and a welcoming space for all ages.",
+        "address": "90 Hardenburgh Ave, Demarest, NJ 07627",
+        "category": "Library"
+      }
+    ],
+    "shoppingAreas": [
+      "Closter Plaza (nearby Closter)",
+      "Piermont Road shops (Closter)",
+      "County Road services"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Thaddeus Trumpp",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Kevin Riedel", "title": "Council President" },
+      { "name": "Michael Sirico", "title": "Council Member" },
+      { "name": "John Ripp", "title": "Council Member" },
+      { "name": "Daniel O'Rourke", "title": "Council Member" },
+      { "name": "Debra Zampetti", "title": "Council Member" },
+      { "name": "Eric Carlsen", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 8:00 PM",
+    "meetingLocation": "Demarest Borough Hall, 118 Serpentine Rd, Demarest, NJ 07627",
+    "municipalWebsite": "https://www.demarestnj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-768-0319",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-768-0319",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-768-0319",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-768-0319",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-768-1400",
+      "address": "118 Serpentine Rd, Demarest, NJ 07627"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-768-0319",
+      "address": "Demarest Fire Department, Demarest, NJ 07627"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-768-0319"
+    },
+    "hospitals": [
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

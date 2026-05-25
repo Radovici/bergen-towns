@@ -1,13 +1,4 @@
-export type TownSlug =
-  | "allendale"
-  | "fort-lee"
-  | "franklin-lakes"
-  | "hackensack"
-  | "paramus"
-  | "ridgewood"
-  | "tenafly"
-  | "teterboro"
-  | "wyckoff";
+export type TownSlug = string;
 
 export interface TownData {
   meta: TownMeta;

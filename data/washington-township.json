@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "slug": "washington-township",
+    "name": "Washington Township",
+    "fullName": "Township of Washington",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "washington-township.info",
+    "zipCodes": ["07676"],
+    "themeColor": "#2e7d32",
+    "accentColor": "#43a047"
+  },
+  "overview": {
+    "tagline": "A family-centered township with excellent schools, beautiful parks, and a strong community identity",
+    "description": "The Township of Washington, often referred to as Washington Township to distinguish it from other Washingtons in New Jersey, is a thriving residential community in central Bergen County. Known for its top-rated Westwood Regional School District, well-maintained parks, and active recreation programs, the township attracts families seeking a suburban lifestyle with excellent services. Washington Township offers a mix of housing options and a central Bergen County location with convenient access to shopping and highways.",
+    "population": 9631,
+    "populationYear": 2020,
+    "areaSqMi": 2.92,
+    "elevation": "100 ft",
+    "incorporated": "1840",
+    "governmentType": "Township (Township Committee)",
+    "schoolDistrict": "Westwood Regional School District",
+    "highlights": [
+      "Excellent Westwood Regional School District shared with Westwood",
+      "Well-maintained parks and extensive recreation programs",
+      "Central Bergen County location near Westwood's walkable downtown",
+      "Family-oriented community with active civic organizations",
+      "Mix of housing options from starter homes to executive properties"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$575,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.85%",
+    "averagePropertyTax": "$13,500",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Washington Township offers a diverse housing stock ranging from Cape Cods and ranches to larger Colonial and custom homes.",
+    "recentTrends": "Washington Township has seen strong price appreciation driven by demand for homes in the Westwood Regional School District. The market is competitive with families drawn by the combination of school quality, open space, and relative affordability compared to some neighboring towns.",
+    "neighborhoodNotes": [
+      "Pascack Road area — Established neighborhood along the main north-south route",
+      "Ridgewood Road section — Homes near the Westwood border with easy downtown access",
+      "Washington Avenue area — Mix of housing styles and sizes",
+      "Pascack Brook area — Properties near the scenic brook and parkland",
+      "Northern section — Larger lots and newer construction near Woodcliff Lake"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided weekly by a contracted hauler for all residential properties.",
+      "details": [
+        "Weekly trash collection on designated days by neighborhood zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment through DPW",
+        "Holiday schedule adjustments posted on township website"
+      ],
+      "contactPhone": "(201) 664-4404",
+      "contactUrl": "https://www.twpofwashington.us"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a regular schedule.",
+      "details": [
+        "Commingled recyclables collected on designated days",
+        "Paper and cardboard collected separately",
+        "Yard waste collected seasonally from April through November",
+        "Recycling bins available from the township",
+        "Electronics recycling through Bergen County programs"
+      ],
+      "contactPhone": "(201) 664-4404",
+      "contactUrl": "https://www.twpofwashington.us"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water and sewer service is maintained by the Township.",
+      "details": [
+        "Water supplied by Veolia Water / Suez",
+        "Sewer service maintained by Township DPW",
+        "Quarterly billing for water and sewer",
+        "Water quality reports published annually",
+        "Emergency water repairs available 24/7"
+      ],
+      "contactPhone": "(201) 664-4404",
+      "contactUrl": "https://www.twpofwashington.us"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits and zoning compliance.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board and Board of Adjustment",
+        "Permit applications available at Township Hall and online",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 664-4404",
+      "contactUrl": "https://www.twpofwashington.us"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking in Washington Township is primarily residential, with limited municipal facilities.",
+      "details": [
+        "Street parking available in residential areas",
+        "Commuter parking available at the Westwood NJ Transit station (nearby)",
+        "Snow emergency parking bans enforced",
+        "Overnight parking restrictions on certain streets",
+        "Parking available at township facilities during business hours"
+      ],
+      "contactPhone": "(201) 664-1140",
+      "contactUrl": "https://www.twpofwashington.us"
+    },
+    "additionalServices": [
+      {
+        "title": "Washington Township Public Library",
+        "description": "Full-service public library serving the community with books, digital resources, and programs.",
+        "details": [
+          "Located at 144 Woodfield Road",
+          "Children's programs, teen activities, and adult enrichment",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi, computer access, and community meeting space"
+        ],
+        "contactPhone": "(201) 664-4586",
+        "contactUrl": "https://www.wtpl.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for township residents of all ages.",
+        "details": [
+          "Youth sports leagues and summer camps",
+          "Adult fitness classes and senior programs",
+          "Community events and seasonal celebrations",
+          "Facilities at township parks and fields"
+        ],
+        "contactPhone": "(201) 664-4404",
+        "contactUrl": "https://www.twpofwashington.us"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Washington Township enforces noise regulations to preserve residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to daytime hours",
+        "Loud music and amplified sound restricted after 10:00 PM"
+      ],
+      "source": "Township of Washington Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Sidewalk snow removal required within 24 hours after snowfall",
+        "Fences must comply with height and setback requirements",
+        "Abandoned vehicles must be removed from property",
+        "Property exteriors must be maintained in good repair"
+      ],
+      "source": "Township of Washington Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Washington Township requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking subject to complaints and enforcement",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Township of Washington Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated on township streets for safety and access.",
+      "keyRules": [
+        "No overnight parking on township streets between 2:00 AM and 6:00 AM",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles prohibited from parking on residential streets overnight",
+        "No parking within 25 feet of intersections",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Township of Washington Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with township housing and safety codes.",
+      "keyRules": [
+        "Rental properties must meet housing code standards",
+        "Certificate of Occupancy required before rental occupancy",
+        "Landlords responsible for property maintenance",
+        "Fire safety inspections for multi-family units",
+        "Short-term rentals subject to township regulations"
+      ],
+      "source": "Township of Washington Code"
+    },
+    "other": [
+      {
+        "title": "Environmental Protection",
+        "summary": "Washington Township maintains ordinances to protect its natural areas and waterways.",
+        "keyRules": [
+          "Buffer zones required along Pascack Brook and tributaries",
+          "Stormwater management plans required for significant development",
+          "Tree removal permits may be required for significant trees",
+          "Wetland areas protected by state and local regulations"
+        ],
+        "source": "Township of Washington Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Westwood Regional School District",
+    "publicSchools": [
+      {
+        "name": "Westwood Regional High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 850,
+        "type": "public",
+        "notes": "Regional high school shared with Westwood; strong academics, athletics, and extracurriculars"
+      },
+      {
+        "name": "Westwood Regional Middle School",
+        "grades": "7-8",
+        "rating": 7,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Regional middle school serving Washington Township and Westwood students"
+      },
+      {
+        "name": "Washington School",
+        "grades": "K-6",
+        "rating": 7,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Washington Township's elementary school serving local students through grade 6"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Immaculate Heart Academy",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 700,
+        "notes": "All-girls Catholic college-preparatory high school located in Washington Township"
+      },
+      {
+        "name": "St. Andrew's Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic parish school serving the local community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 10 minutes",
+      "Ramapo College of New Jersey (Mahwah) — 20 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "William Paterson University (Wayne) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Excellent Westwood Regional School District",
+      "Well-maintained parks and active recreation programs",
+      "Family-friendly neighborhoods with diverse housing options",
+      "Central Bergen County location near Westwood's downtown",
+      "Strong sense of community and civic engagement"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Drive to Westwood train station",
+      "duration": "50-70 minutes to Midtown Manhattan",
+      "trainStation": "Westwood Station (adjacent borough)",
+      "busRoutes": ["NJ Transit Bus 165", "NJ Transit Bus 175"],
+      "notes": "Washington Township residents can walk or drive to the Westwood NJ Transit station for Main/Bergen County Line train service to Hoboken. NJ Transit bus service is also available via Routes 165 and 175. The total commute to Manhattan is approximately 50-70 minutes depending on mode and connections."
+    },
+    "costOfLiving": {
+      "summary": "Washington Township offers a moderate cost of living for Bergen County, with housing prices that provide good value relative to the quality of schools and community amenities.",
+      "vsStateAverage": "Approximately 30% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 60% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Highly regarded Westwood Regional School District",
+        "Excellent parks, recreation, and community programs",
+        "Diverse housing options at various price points",
+        "Proximity to Westwood's walkable downtown for dining and shopping",
+        "Safe, family-oriented neighborhoods"
+      ],
+      "cons": [
+        "No NJ Transit station within the township (Westwood station nearby)",
+        "Property taxes are significant by national standards",
+        "Limited commercial district within the township itself",
+        "Some areas experience traffic on Pascack Road",
+        "Older housing stock in some neighborhoods may require updates"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Esty Street",
+        "description": "Contemporary American restaurant offering seasonal farm-to-table menus, craft cocktails, and a stylish atmosphere.",
+        "address": "Pascack Road, Washington Township, NJ 07676",
+        "category": "American/Farm-to-Table"
+      },
+      {
+        "name": "La Vecchia Ristorante",
+        "description": "Family-owned Italian restaurant serving traditional pasta, veal, and seafood dishes in an elegant setting.",
+        "address": "Pascack Road, Washington Township, NJ 07676",
+        "category": "Italian"
+      },
+      {
+        "name": "Sun Hee's Kitchen",
+        "description": "Popular Korean restaurant offering authentic bibimbap, BBQ, and traditional Korean dishes.",
+        "address": "Washington Avenue, Washington Township, NJ 07676",
+        "category": "Korean"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Memorial Field",
+        "description": "Township's primary recreation area featuring sports fields, a running track, playground, and community gathering space.",
+        "address": "Pascack Road, Washington Township, NJ 07676",
+        "category": "Recreation/Sports"
+      },
+      {
+        "name": "Pascack Brook County Park",
+        "description": "Bergen County park along the scenic Pascack Brook offering walking trails, nature observation, and peaceful green space.",
+        "address": "Washington Township, NJ 07676",
+        "category": "County Park/Nature"
+      },
+      {
+        "name": "Washington Township Community Park",
+        "description": "Neighborhood park with playground, basketball courts, and open fields.",
+        "address": "Washington Township, NJ 07676",
+        "category": "Park/Playground"
+      }
+    ],
+    "events": [
+      {
+        "name": "Washington Township Day",
+        "description": "Annual community celebration with food, rides, games, live music, and activities for all ages.",
+        "when": "Fall, typically September"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Annual ceremony and parade honoring veterans and fallen service members.",
+        "when": "Memorial Day, last Monday in May"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community holiday celebration with tree lighting, caroling, and seasonal festivities.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Westwood Downtown (adjacent)",
+        "description": "The walkable downtown of neighboring Westwood offers dozens of restaurants, shops, and cafes just minutes from Washington Township.",
+        "address": "Broadway, Westwood, NJ 07675",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Pascack Brook Greenway",
+        "description": "Scenic trails along Pascack Brook connecting parks and natural areas, ideal for walking and nature appreciation.",
+        "category": "Nature/Trail"
+      }
+    ],
+    "shoppingAreas": [
+      "Westwood downtown — Restaurants, shops, and cafes just across the border",
+      "Pascack Road — Local businesses and services",
+      "Washington Avenue — Retail and dining options",
+      "Garden State Plaza (Paramus) — Major mall a short drive away"
+    ]
+  },
+  "government": {
+    "governingBody": "Township Committee (Township form of government)",
+    "mayor": {
+      "name": "Peter Calamari",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Joseph D'Urso",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Robert Hrebek",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Glenn Beckmeyer",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Mark Goldsack",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Township Committee meets the 2nd and 4th Monday of each month at 7:30 PM",
+    "meetingLocation": "Township Hall, 350 Hudson Avenue, Washington Township, NJ 07676",
+    "municipalWebsite": "https://www.twpofwashington.us",
+    "importantContacts": [
+      {
+        "department": "Township Clerk",
+        "phone": "(201) 664-4404",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 664-4404",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 664-4404",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 664-4404",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 664-4404",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 664-1140",
+      "address": "350 Hudson Avenue, Washington Township, NJ 07676"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 664-3850",
+      "address": "Washington Township, NJ 07676"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 664-1140",
+      "address": "Washington Township, NJ 07676"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 10
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water / Suez",
+        "phone": "1-800-422-5987",
+        "url": "https://www.mysuezwater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Township of Washington DPW",
+        "phone": "(201) 664-4404"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Washington Township Police (Non-Emergency)",
+        "number": "(201) 664-1140"
+      },
+      {
+        "label": "Washington Township Fire Department",
+        "number": "(201) 664-3850"
+      },
+      {
+        "label": "Township Hall",
+        "number": "(201) 664-4404"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

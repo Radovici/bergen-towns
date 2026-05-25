@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "slug": "harrington-park",
+    "name": "Harrington Park",
+    "fullName": "Borough of Harrington Park",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "harrington-park.info",
+    "zipCodes": ["07640"],
+    "themeColor": "#33691e",
+    "accentColor": "#558b2f"
+  },
+  "overview": {
+    "tagline": "A Small Town with a Big Heart",
+    "description": "Harrington Park is a small, family-oriented borough in the Northern Valley region of Bergen County. With a population under 5,000 and just over two square miles, Harrington Park offers a quintessential small-town suburban lifestyle. The borough is known for its excellent schools (as part of the Northern Valley Regional district), safe streets, active recreation programs, and a close-knit community that values its quiet residential character.",
+    "population": 4748,
+    "populationYear": 2020,
+    "areaSqMi": 2.05,
+    "elevation": "60 ft",
+    "incorporated": "1904",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Harrington Park School District (K-8) / Northern Valley Regional High School District (9-12)",
+    "highlights": [
+      "Excellent schools — part of the highly rated Northern Valley Regional High School District",
+      "Small-town atmosphere with strong community connections",
+      "Quiet, safe residential neighborhoods with well-kept homes",
+      "Active recreation programs and community events",
+      "Convenient location between the Palisades and Northern Valley"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$590,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.75%",
+    "averagePropertyTax": "$14,200",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Harrington Park's housing stock consists primarily of single-family homes built from the 1950s through 1990s on modest lots.",
+    "recentTrends": "Harrington Park's market benefits from the Northern Valley Regional High School District's reputation. Homes sell quickly due to the school system, small-town feel, and family-friendly environment. Renovated homes and new construction on teardown lots command premium prices. Competition from nearby towns like Closter and Northvale keeps demand strong.",
+    "neighborhoodNotes": [
+      "The area near Harrington Park School features classic suburban homes on tree-lined streets",
+      "Properties near the Closter border benefit from proximity to Closter's shopping and dining",
+      "The southern section near Tappan Road has some of the larger lots in the borough",
+      "Homes along Park Avenue are within walking distance of recreational facilities"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by location — check the borough website",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by appointment with the DPW"
+      ],
+      "contactPhone": "201-768-0370",
+      "contactUrl": "https://www.harringtonparknj.gov"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream recycling is collected biweekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) collected in blue bins",
+        "Paper and cardboard collected on alternate weeks",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Yard waste collected seasonally in biodegradable bags"
+      ],
+      "contactPhone": "201-768-0370",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water (formerly United Water) and sewer service is managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges appear on property tax or utility bills",
+        "Water quality reports published annually",
+        "Report water emergencies to the DPW or Veolia"
+      ],
+      "contactPhone": "201-768-0370",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Harrington Park Building Department handles construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Zoning applications reviewed by the Planning Board or Zoning Board of Adjustment",
+        "Certificate of Occupancy required for new construction and changes of use",
+        "Tree removal permits may be required"
+      ],
+      "contactPhone": "201-768-0370"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Harrington Park is a primarily residential community with minimal municipal parking needs.",
+      "details": [
+        "Street parking available on most residential streets",
+        "No overnight parking restrictions except during snow emergencies",
+        "Fire hydrant clearance of 10 feet required",
+        "NJ Transit commuter parking available at nearby Closter or Demarest stations"
+      ],
+      "contactPhone": "201-768-0370"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers youth sports, seasonal camps, and community activities.",
+        "details": [
+          "Youth baseball, softball, soccer, basketball, and lacrosse leagues",
+          "Summer recreation camp for children",
+          "Community events and seasonal celebrations",
+          "Borough park facilities with sports fields and playgrounds"
+        ],
+        "contactPhone": "201-768-0370"
+      },
+      {
+        "title": "Library Services",
+        "description": "The Harrington Park Public Library serves the community with resources and programs.",
+        "details": [
+          "Located at 10 Herring Street",
+          "Children's story times, reading programs, and crafts",
+          "Adult book clubs and reference services",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "201-768-5675",
+        "contactUrl": "https://www.harringtonparklibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Harrington Park enforces noise restrictions to preserve its quiet residential character.",
+      "keyRules": [
+        "Construction work prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Power equipment use restricted to daytime hours",
+        "Excessive noise complaints handled by the police department"
+      ],
+      "source": "Harrington Park Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to borough standards.",
+      "keyRules": [
+        "Lawns must be kept trimmed and maintained",
+        "Snow and ice must be cleared from sidewalks within 24 hours of storm ending",
+        "No accumulation of trash, debris, or abandoned vehicles",
+        "Trees and hedges must not obstruct sidewalks or sight lines",
+        "Fences require permits and must comply with setback and height requirements"
+      ],
+      "source": "Harrington Park Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed annually and controlled at all times.",
+      "keyRules": [
+        "All dogs must be licensed with the Borough Clerk",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets",
+        "Rabies vaccination required for all dogs and cats",
+        "Barking dog complaints may result in fines"
+      ],
+      "source": "Harrington Park Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Harrington Park enforces parking rules to maintain residential safety and order.",
+      "keyRules": [
+        "No parking during snow emergencies on designated streets",
+        "No parking within 25 feet of intersections",
+        "Fire hydrant clearance of 10 feet required",
+        "Commercial vehicles restricted from parking on residential streets overnight",
+        "No parking on lawns or unpaved surfaces"
+      ],
+      "source": "Harrington Park Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Harrington Park has limited rental housing, predominantly single-family homes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before tenant occupancy",
+        "Fire safety requirements apply",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act"
+      ],
+      "source": "Harrington Park Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Tree Removal",
+        "summary": "Harrington Park regulates tree removal to preserve the borough's tree canopy.",
+        "keyRules": [
+          "Permit required to remove trees above a specified diameter",
+          "Replacement planting may be required",
+          "Street trees are borough property and may not be removed by residents",
+          "The Shade Tree Committee oversees tree-related matters"
+        ],
+        "source": "Harrington Park Borough Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Harrington Park School District (K-8) / Northern Valley Regional High School District (9-12)",
+    "publicSchools": [
+      {
+        "name": "Harrington Park School",
+        "grades": "K-8",
+        "rating": 8,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Comprehensive K-8 school with small class sizes, strong academics, and active parent involvement"
+      },
+      {
+        "name": "Northern Valley Regional High School at Demarest",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 900,
+        "type": "public",
+        "notes": "Harrington Park students attend NVRD; offers rigorous AP program, award-winning arts, and competitive athletics"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Academy of the Holy Angels (nearby Demarest)",
+        "grades": "9-12",
+        "type": "private",
+        "notes": "Catholic all-girls high school in neighboring Demarest, popular with Harrington Park families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (8 miles)",
+      "Bergen Community College — Paramus (8 miles)",
+      "Ramapo College of New Jersey — Mahwah (20 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Excellent schools — Harrington Park School (K-8) and Northern Valley Regional High School at Demarest",
+      "Small-town, family-oriented community with a safe and welcoming atmosphere",
+      "Quiet residential streets with well-maintained homes and yards",
+      "Active recreation programs and community events for families",
+      "Convenient location with access to Palisades Parkway and Routes 9W and 303"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Car",
+      "duration": "35-55 minutes by bus; 30-55 minutes by car",
+      "busRoutes": ["166", "186"],
+      "notes": "NJ Transit bus service available from nearby Closter and along Route 9W to the Port Authority Bus Terminal. Car commute via the Palisades Interstate Parkway to the George Washington Bridge. NJ Transit Pascack Valley Line train available from nearby stations (Closter, Demarest)."
+    },
+    "costOfLiving": {
+      "summary": "Harrington Park's cost of living is above the national average, consistent with Bergen County's Northern Valley region, with strong schools justifying higher property taxes.",
+      "vsStateAverage": "10-15% above the New Jersey average",
+      "vsNationalAverage": "30-35% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Excellent K-8 school and highly rated Northern Valley Regional High School",
+        "Safe, quiet, family-oriented community",
+        "Small-town character with engaged neighbors and strong volunteerism",
+        "Good recreational facilities and youth sports programs",
+        "Strong property values with steady appreciation"
+      ],
+      "cons": [
+        "Higher property taxes to support two school districts (local + regional)",
+        "Limited commercial activity — few shops and restaurants within the borough",
+        "No direct train station — requires driving to nearby stations",
+        "Small housing inventory means fewer choices on the market",
+        "Car-dependent for most shopping and dining errands"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Park Pub",
+        "description": "Local neighborhood pub offering casual American fare, cold beers, and a friendly atmosphere popular with Harrington Park residents.",
+        "address": "Tappan Road, Harrington Park, NJ 07640",
+        "category": "American Pub"
+      },
+      {
+        "name": "Harrington Park Deli",
+        "description": "Classic New Jersey deli serving fresh sandwiches, prepared foods, and breakfast items — a community gathering spot.",
+        "address": "Tappan Road, Harrington Park, NJ 07640",
+        "category": "Deli"
+      },
+      {
+        "name": "Nearby Closter Dining (Closter Plaza)",
+        "description": "The neighboring borough of Closter offers a variety of restaurants including Italian, Japanese, and American cuisine, all within a short drive.",
+        "address": "Closter Plaza, Closter, NJ 07624",
+        "category": "Various"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Harrington Park Recreation Fields",
+        "description": "Borough recreation complex with ball fields, soccer fields, basketball courts, and a playground for community use.",
+        "address": "Lynn Street, Harrington Park, NJ 07640",
+        "category": "Recreation Complex"
+      },
+      {
+        "name": "Memorial Field",
+        "description": "Community park honoring local veterans, featuring open green space, a walking path, and a memorial area.",
+        "address": "Harrington Park, NJ 07640",
+        "category": "Memorial Park"
+      },
+      {
+        "name": "Pondside Park",
+        "description": "Small neighborhood park with a picturesque pond, benches, and a nature area for peaceful walks.",
+        "address": "Harrington Park, NJ 07640",
+        "category": "Nature Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Harrington Park Day",
+        "description": "Annual borough-wide celebration with games, rides, food vendors, and live entertainment for the community.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual tree lighting ceremony with holiday music, hot chocolate, cookies, and a visit from Santa.",
+        "when": "December (annual)"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade through the borough honoring veterans and fallen service members, followed by a ceremony at Memorial Field.",
+        "when": "May (Memorial Day)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Harrington Park Public Library",
+        "description": "Community library hosting children's programs, book clubs, and local events in a welcoming setting.",
+        "address": "10 Herring Street, Harrington Park, NJ 07640",
+        "category": "Library"
+      },
+      {
+        "name": "Northern Valley Greenway (nearby)",
+        "description": "Regional trail system connecting Northern Valley communities, ideal for walking, jogging, and cycling through scenic Bergen County landscapes.",
+        "address": "Northern Valley, Bergen County, NJ",
+        "category": "Trail"
+      }
+    ],
+    "shoppingAreas": [
+      "Tappan Road — Small commercial area with a deli, pub, and essential services",
+      "Nearby Closter — Closter Plaza and Closter Dock Road offer diverse shopping and dining (1 mile)",
+      "Nearby Northvale — Additional shops and restaurants on Livingston Street (1 mile)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Paul Hoelscher",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Matthew Giordano",
+        "title": "Council President",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Michael Giordano",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Diane Morrow",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Robert Sanchez",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Lori Lynes",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Thomas Salas",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Harrington Park Borough Hall, 205 Herring Street, Harrington Park, NJ 07640",
+    "municipalWebsite": "https://www.harringtonparknj.gov",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-768-0370",
+        "email": "clerk@harringtonparknj.gov",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-768-0370",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-768-0370",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-768-0370",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-768-5000",
+      "address": "205 Herring Street, Harrington Park, NJ 07640"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-768-0370",
+      "address": "Harrington Park, NJ 07640"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-768-5000",
+      "address": "Harrington Park, NJ 07640"
+    },
+    "hospitals": [
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "201-447-8000",
+        "distanceMiles": 10
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly United Water)",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Harrington Park Police (Non-Emergency)",
+        "number": "201-768-5000"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-768-0370"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

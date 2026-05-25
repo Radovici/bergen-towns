@@ -1,0 +1,447 @@
+{
+  "meta": {
+    "slug": "northvale",
+    "name": "Northvale",
+    "fullName": "Borough of Northvale",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "northvale.info",
+    "zipCodes": ["07647"],
+    "themeColor": "#2e7d32",
+    "accentColor": "#388e3c"
+  },
+  "overview": {
+    "tagline": "A quiet, family-centered borough nestled along the New York border",
+    "description": "Northvale is a small, residential borough in the northernmost section of Bergen County, situated directly on the New York State border. With a population just under 5,000, Northvale maintains a quiet, suburban character that appeals to families seeking excellent schools and a safe, low-key community. The borough is part of the Northern Valley Regional High School District and benefits from proximity to the Palisades Interstate Parkway and Garden State Parkway for easy commuting.",
+    "population": 4910,
+    "populationYear": 2020,
+    "areaSqMi": 1.20,
+    "elevation": "180 ft",
+    "incorporated": "1916",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Northvale Public Schools / Northern Valley Regional",
+    "highlights": [
+      "Quiet residential community on the New York State border",
+      "Access to the excellent Northern Valley Regional High School District",
+      "Proximity to Palisades Interstate Parkway for outdoor recreation",
+      "Low crime rate and safe neighborhoods",
+      "Convenient access to Garden State Parkway and Route 303"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$550,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.70%",
+    "averagePropertyTax": "$12,000",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Bergen County conducts periodic revaluations to align assessed values with current market conditions.",
+    "recentTrends": "Northvale's housing market has seen consistent appreciation driven by demand from families attracted to the Northern Valley school district. The market is competitive with limited inventory. Homes near the borough center and schools are particularly sought after.",
+    "neighborhoodNotes": [
+      "Livingston Street area — Central residential neighborhood near schools and borough services",
+      "Paris Avenue corridor — Quiet streets with single-family homes",
+      "Tappan Road section — Properties near the New York border",
+      "Piermont Road area — Mix of residential and commercial near the borough's main road"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided by a contracted hauler for the Borough.",
+      "details": [
+        "Trash pickup occurs twice per week",
+        "Containers must be at curbside by 6:00 AM",
+        "Use approved containers with secure lids, maximum 50 lbs",
+        "Bulk item pickup available by scheduling with DPW",
+        "Holiday schedule posted on the borough website"
+      ],
+      "contactPhone": "(201) 767-3444",
+      "contactUrl": "https://www.boroughofnorthvale.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling collected on a regular schedule.",
+      "details": [
+        "Commingled recyclables collected biweekly",
+        "Paper and cardboard on alternate weeks",
+        "Yard waste collected seasonally",
+        "Recycling containers provided by the Borough",
+        "Special collection events held periodically"
+      ],
+      "contactPhone": "(201) 767-3444",
+      "contactUrl": "https://www.boroughofnorthvale.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water. Sewer service is managed by the Borough and the Northwest Bergen County Utilities Authority.",
+      "details": [
+        "Veolia Water (formerly United Water) handles water supply and billing",
+        "Sewer maintained by the Borough and NBCUA",
+        "Water quality reports available annually",
+        "Emergency water service available 24/7 through Veolia",
+        "Sewer connection permits required for new construction"
+      ],
+      "contactPhone": "(201) 767-3444",
+      "contactUrl": "https://www.boroughofnorthvale.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Permits required for all construction, additions, and renovations",
+        "Zoning Board of Adjustment reviews variance applications",
+        "Applications available at Borough Hall",
+        "Inspections coordinated through the Building Department",
+        "Certificate of occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 767-3444",
+      "contactUrl": "https://www.boroughofnorthvale.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Borough manages street parking and municipal lots.",
+      "details": [
+        "Street parking subject to posted restrictions",
+        "Commuter parking available near bus stops",
+        "Overnight parking restrictions enforced",
+        "Snow emergency parking rules in effect during storms",
+        "Parking violations subject to fines"
+      ],
+      "contactPhone": "(201) 767-3444",
+      "contactUrl": "https://www.boroughofnorthvale.com"
+    },
+    "additionalServices": [
+      {
+        "title": "Northvale Public Library",
+        "description": "Small community library serving borough residents with books, programs, and digital resources.",
+        "details": [
+          "Located at 116 Paris Avenue",
+          "Children's story times and summer reading programs",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 768-4784",
+        "contactUrl": "https://northvale.bccls.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Northvale enforces noise regulations to maintain the quiet character of its residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Power equipment restricted to daytime hours",
+        "Loud music prohibited after 10:00 PM"
+      ],
+      "source": "Borough of Northvale Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained to borough standards.",
+      "keyRules": [
+        "Lawns must be kept mowed and maintained",
+        "Properties must be free of junk, debris, and abandoned vehicles",
+        "Structures must be in good repair",
+        "Sidewalks must be cleared of snow within 24 hours",
+        "Vacant lots must be maintained"
+      ],
+      "source": "Borough of Northvale Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet owners must comply with licensing and leash laws.",
+      "keyRules": [
+        "Dogs must be licensed annually",
+        "Dogs must be on a leash at all times off owner's property",
+        "Pet waste must be cleaned up immediately",
+        "Barking dogs subject to noise complaints",
+        "Maximum number of pets may be restricted"
+      ],
+      "source": "Borough of Northvale Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking regulations are enforced to maintain safe streets.",
+      "keyRules": [
+        "No overnight parking on streets from 2:00 AM to 6:00 AM",
+        "Vehicles must be moved during snow emergencies",
+        "No parking within 25 feet of intersections",
+        "Commercial vehicles restricted from residential streets overnight",
+        "Violations subject to fines and towing"
+      ],
+      "source": "Borough of Northvale Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and maintained per borough requirements.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of habitability required",
+        "Properties must meet all code and safety standards",
+        "Landlords responsible for property maintenance",
+        "Short-term rentals subject to local zoning"
+      ],
+      "source": "Borough of Northvale Code"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "The borough has regulations regarding removal of significant trees.",
+        "keyRules": [
+          "Permit may be required for removing trees above a certain diameter",
+          "Replacement planting may be required",
+          "Shade Tree Commission advises on tree matters",
+          "Street trees maintained by the Borough"
+        ],
+        "source": "Borough of Northvale Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Northvale Public Schools / Northern Valley Regional High School District",
+    "publicSchools": [
+      {
+        "name": "Northvale Public School",
+        "grades": "PreK-8",
+        "rating": 7,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Borough's sole public school serving all K-8 students"
+      },
+      {
+        "name": "Northern Valley Regional High School at Demarest",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 950,
+        "type": "public",
+        "notes": "Regional high school in Demarest serving Northvale students; consistently ranked among New Jersey's top public high schools"
+      }
+    ],
+    "privateSchools": [],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 miles",
+      "Bergen Community College (Paramus) — 10 miles",
+      "Fairleigh Dickinson University (Teaneck) — 12 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Access to top-ranked Northern Valley Regional High School at Demarest",
+      "Quiet, safe residential community with low crime",
+      "Proximity to Palisades Interstate Park and outdoor recreation",
+      "Convenient location near Garden State Parkway",
+      "Small-town atmosphere with strong community bonds"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "50-70 minutes to Port Authority",
+      "busRoutes": ["9A", "186"],
+      "notes": "NJ Transit bus service provides connections to the Port Authority Bus Terminal. Many residents drive to nearby Cresskill or Tenafly for bus service or use the Palisades Interstate Parkway and Route 9W to access the George Washington Bridge. Some commuters also drive to rail stations on the Pascack Valley Line."
+    },
+    "costOfLiving": {
+      "summary": "Northvale is moderately priced for Bergen County, offering good value given the quality of the Northern Valley school district.",
+      "vsStateAverage": "Above the state average for housing and property taxes",
+      "vsNationalAverage": "Significantly above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Excellent Northern Valley Regional High School",
+        "Very safe, quiet community with low crime",
+        "Proximity to hiking and nature in Palisades Interstate Park",
+        "Close to the New York State border for shopping and dining",
+        "Strong residential property values"
+      ],
+      "cons": [
+        "Very limited commercial activity — few local shops or restaurants",
+        "No train station — bus service is the primary transit option",
+        "Small community with limited entertainment options",
+        "Property taxes are high relative to home values",
+        "Some distance from Bergen County's larger towns and cultural amenities"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Biagio's Ristorante",
+        "description": "Family-owned Italian restaurant serving classic dishes in a warm, inviting setting.",
+        "address": "299 Livingston Street, Northvale, NJ",
+        "category": "Italian"
+      },
+      {
+        "name": "Northvale Classic Diner",
+        "description": "Traditional diner with a full menu of American breakfast and lunch favorites.",
+        "address": "Livingston Street, Northvale, NJ",
+        "category": "American/Diner"
+      },
+      {
+        "name": "Sushi X",
+        "description": "Japanese restaurant offering sushi, sashimi, and hibachi options.",
+        "address": "Livingston Street, Northvale, NJ",
+        "category": "Japanese/Sushi"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Hogan Field",
+        "description": "Borough park with sports fields, playground, and community gathering space.",
+        "address": "Northvale, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Veteran's Memorial Park",
+        "description": "Small memorial park honoring borough veterans.",
+        "address": "Northvale, NJ",
+        "category": "Memorial Park"
+      },
+      {
+        "name": "Palisades Interstate Park (nearby)",
+        "description": "Stunning cliffside park along the Hudson River offering hiking trails, scenic overlooks, and picnic areas.",
+        "address": "Palisades Interstate Parkway, NJ",
+        "category": "State/Interstate Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Northvale Day",
+        "description": "Annual community celebration with food, games, and live entertainment for the whole family.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community tree lighting ceremony with refreshments and festive activities.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Borough ceremony honoring fallen service members at Veteran's Memorial Park.",
+        "when": "May (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Palisades Interstate Park",
+        "description": "Major park along the Hudson River Palisades cliffs, offering hiking, picnicking, and stunning views of the Hudson Valley.",
+        "address": "Palisades Interstate Parkway",
+        "category": "Nature/Recreation"
+      },
+      {
+        "name": "Tappan (NY) Historic District",
+        "description": "Just across the state line, the historic hamlet of Tappan features Revolutionary War sites and charming shops.",
+        "address": "Tappan, NY",
+        "category": "Historic/Shopping"
+      }
+    ],
+    "shoppingAreas": [
+      "Livingston Street local shops",
+      "Piermont Road commercial area",
+      "Nearby Old Tappan and Nanuet (NY) shopping"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Robert C. Piepenbring",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Kenneth Shepard", "title": "Council Member" },
+      { "name": "David Browne", "title": "Council Member" },
+      { "name": "John McPartland", "title": "Council Member" },
+      { "name": "William Buono", "title": "Council Member" },
+      { "name": "Paul Shortino", "title": "Council Member" },
+      { "name": "James Pletsas", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Northvale Borough Hall, 116 Paris Avenue",
+    "municipalWebsite": "https://www.boroughofnorthvale.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 767-3444",
+        "email": "clerk@boroughofnorthvale.com",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 767-3444",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 767-3444",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 767-3200",
+      "address": "116 Paris Avenue, Northvale, NJ 07647"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 767-0344",
+      "address": "Northvale, NJ 07647"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 767-3200",
+      "address": "Northvale, NJ 07647"
+    },
+    "hospitals": [
+      {
+        "name": "Pascack Valley Medical Center",
+        "address": "250 Old Hook Road, Westwood, NJ 07675",
+        "phone": "(201) 358-3000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "address": "255 Lafayette Avenue, Suffern, NY 10901",
+        "phone": "(845) 368-5000",
+        "distanceMiles": 12
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-0850",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

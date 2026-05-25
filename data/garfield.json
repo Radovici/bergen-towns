@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "slug": "garfield",
+    "name": "Garfield",
+    "fullName": "City of Garfield",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "garfield.info",
+    "zipCodes": ["07026"],
+    "themeColor": "#b71c1c",
+    "accentColor": "#d32f2f"
+  },
+  "overview": {
+    "tagline": "City of Champions",
+    "description": "Garfield is a diverse, working-class city in southeastern Bergen County, situated along the Passaic River across from the cities of Passaic and Clifton. Named after President James A. Garfield, the city has a rich industrial heritage and a large Polish-American, Italian-American, and Hispanic population. Garfield offers some of the most affordable housing in Bergen County, a gritty urban character, and convenient access to major highways and public transit.",
+    "population": 32600,
+    "populationYear": 2020,
+    "areaSqMi": 2.11,
+    "elevation": "55 ft",
+    "incorporated": "1917 (as a city)",
+    "governmentType": "City (Mayor-Council, Faulkner Act)",
+    "schoolDistrict": "Garfield School District",
+    "highlights": [
+      "Most affordable city in Bergen County for homebuyers",
+      "Strong Polish-American and Hispanic cultural heritage with authentic dining",
+      "Excellent highway access via Routes 17, 46, and nearby I-80",
+      "Passaic River waterfront with redevelopment potential",
+      "Active youth sports and recreation programs"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$420,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.20%",
+    "averagePropertyTax": "$9,500",
+    "assessmentInfo": "Properties are assessed by the City Tax Assessor. Garfield's housing stock includes single-family homes, two-family houses, multi-family buildings, and apartment complexes.",
+    "recentTrends": "Garfield remains one of the most affordable markets in Bergen County, attracting first-time buyers, investors in multi-family properties, and families seeking value. Prices have increased but still offer significant savings compared to towns just a few miles north. Redevelopment along the Passaic River corridor is anticipated.",
+    "neighborhoodNotes": [
+      "The Outwater Lane and Passaic Street corridors form the main commercial areas with shops and restaurants",
+      "The western section near Route 17 has more commercial development and newer housing",
+      "The Passaic River waterfront area has potential for future redevelopment",
+      "The eastern neighborhoods feature compact residential streets with two-family homes popular with buyers",
+      "The area near Garfield High School has well-established residential streets"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the City's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood — check the city website",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by scheduling with the DPW"
+      ],
+      "contactPhone": "973-340-2000",
+      "contactUrl": "https://www.garfieldnj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling is collected biweekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) collected in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Yard waste collected seasonally"
+      ],
+      "contactPhone": "973-340-2000",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by the Passaic Valley Water Commission and sewer service is managed through the city and Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Passaic Valley Water Commission",
+        "Sewer charges included in property tax or utility bills",
+        "Water quality reports published annually by PVWC",
+        "Report water emergencies to the DPW"
+      ],
+      "contactPhone": "973-340-2000",
+      "contactUrl": "https://www.pvwc.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Garfield Building Department handles construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Zoning applications reviewed by the Planning Board or Zoning Board",
+        "Certificate of Occupancy required for new construction and changes of use",
+        "Applications submitted at City Hall on Outwater Lane"
+      ],
+      "contactPhone": "973-340-2000"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Garfield manages street parking and municipal lots throughout the city.",
+      "details": [
+        "Street parking available on most residential streets",
+        "Municipal lots near the downtown commercial areas",
+        "Overnight parking restricted during snow emergencies",
+        "No parking on lawns or unpaved surfaces"
+      ],
+      "contactPhone": "973-340-2000"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "The Garfield Recreation Department offers youth sports, camps, and community programs.",
+        "details": [
+          "Youth baseball, football, soccer, basketball, and wrestling leagues",
+          "Summer recreation programs for children",
+          "Community pool at the Garfield Recreation Complex (seasonal)",
+          "Adult sports leagues and fitness programs"
+        ],
+        "contactPhone": "973-340-2000"
+      },
+      {
+        "title": "Senior Services",
+        "description": "The Garfield Senior Center provides programs and services for older residents.",
+        "details": [
+          "Daily activities, meals, and social programs",
+          "Transportation to medical appointments and shopping",
+          "Exercise classes and health screenings",
+          "Holiday parties and seasonal trips"
+        ],
+        "contactPhone": "973-340-2000"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Garfield enforces noise restrictions to maintain quality of life in residential and commercial areas.",
+      "keyRules": [
+        "Construction work prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Excessive noise from residential properties subject to fines",
+        "Noise from bars and restaurants regulated after 10:00 PM"
+      ],
+      "source": "Garfield City Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to city standards.",
+      "keyRules": [
+        "Lawns must be kept trimmed and free of excessive weeds",
+        "Snow and ice must be cleared from sidewalks within 24 hours of storm ending",
+        "No accumulation of trash, debris, or abandoned vehicles",
+        "Building facades must be maintained in safe condition",
+        "Vacant and abandoned properties must be registered and secured"
+      ],
+      "source": "Garfield City Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed and controlled at all times within the city.",
+      "keyRules": [
+        "All dogs must be licensed with the City Clerk",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets",
+        "Rabies vaccination required for all dogs and cats",
+        "Pit bull and dangerous dog regulations enforced"
+      ],
+      "source": "Garfield City Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Garfield enforces parking regulations on city streets and public lots.",
+      "keyRules": [
+        "No parking during snow emergencies on designated streets",
+        "Alternate-side parking enforced for street cleaning in some areas",
+        "Commercial vehicles restricted from parking on residential streets overnight",
+        "Fire hydrant clearance of 10 feet required",
+        "No parking on lawns or unpaved surfaces"
+      ],
+      "source": "Garfield City Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Garfield has a large rental population and enforces habitability and registration requirements.",
+      "keyRules": [
+        "Landlords must register all rental units with the City",
+        "Certificate of Habitability required before tenant occupancy",
+        "Fire safety inspections required for multi-family buildings",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act"
+      ],
+      "source": "Garfield City Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Graffiti Abatement",
+        "summary": "Garfield actively combats graffiti and requires prompt removal by property owners.",
+        "keyRules": [
+          "Property owners must remove graffiti within 15 days of notification",
+          "City may abate graffiti and charge the property owner",
+          "Graffiti vandalism is a criminal offense",
+          "Rewards may be offered for information leading to vandal identification"
+        ],
+        "source": "Garfield City Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Garfield School District",
+    "publicSchools": [
+      {
+        "name": "Garfield High School",
+        "grades": "9-12",
+        "rating": 4,
+        "enrollment": 1100,
+        "type": "public",
+        "notes": "Known as the 'Boilermakers'; strong wrestling and football programs; offers vocational and college prep tracks"
+      },
+      {
+        "name": "Garfield Middle School",
+        "grades": "6-8",
+        "rating": 4,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Serves all city middle school students with bilingual programs"
+      },
+      {
+        "name": "Columbus School",
+        "grades": "PreK-5",
+        "rating": 4,
+        "enrollment": 400,
+        "type": "public"
+      },
+      {
+        "name": "Roosevelt School",
+        "grades": "PreK-5",
+        "rating": 4,
+        "enrollment": 380,
+        "type": "public"
+      },
+      {
+        "name": "Lincoln School",
+        "grades": "PreK-5",
+        "rating": 4,
+        "enrollment": 350,
+        "type": "public"
+      },
+      {
+        "name": "Washington School",
+        "grades": "PreK-5",
+        "rating": 4,
+        "enrollment": 370,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Our Lady of Sorrows School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school serving Garfield families with faith-based education"
+      },
+      {
+        "name": "St. Stanislaus Kostka School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school with Polish heritage, serving the local Polish-American community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College — Paramus (7 miles)",
+      "Fairleigh Dickinson University — Teaneck (6 miles)",
+      "William Paterson University — Wayne (10 miles)",
+      "Passaic County Community College — Paterson (4 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Most affordable housing in Bergen County — ideal for first-time buyers",
+      "Rich Polish-American and Hispanic cultural heritage with authentic dining and shops",
+      "Convenient highway access to Routes 17, 46, and nearby I-80",
+      "Multi-family homes offer rental income potential for investor-buyers",
+      "Active community with youth sports programs and neighborhood events"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Car",
+      "duration": "35-55 minutes by bus; 30-60 minutes by car",
+      "busRoutes": ["144", "160", "163"],
+      "notes": "NJ Transit bus routes run to the Port Authority Bus Terminal in Manhattan. Car commute via Route 17 or Route 46 to the George Washington Bridge, or via Route 3 to the Lincoln Tunnel. NJ Transit train service available from nearby Plauderville station on the Bergen County Line."
+    },
+    "costOfLiving": {
+      "summary": "Garfield offers the lowest cost of living in Bergen County, with affordable home prices and moderate property taxes making it accessible for working families.",
+      "vsStateAverage": "At or slightly below the New Jersey average",
+      "vsNationalAverage": "10-15% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Most affordable housing in Bergen County",
+        "Excellent highway access for commuters",
+        "Rich ethnic dining scene — Polish, Italian, Mexican, and more",
+        "Multi-family properties offer investment opportunities",
+        "Strong community pride and active youth sports"
+      ],
+      "cons": [
+        "Higher property tax rate (over 3%)",
+        "School ratings below Bergen County average",
+        "Some areas have higher crime rates than suburban Bergen County towns",
+        "Limited upscale dining and shopping within the city",
+        "Passaic River flood risk in low-lying areas"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Polanka Polish Restaurant",
+        "description": "Authentic Polish restaurant serving homemade pierogis, kielbasa, bigos, borscht, and other traditional Eastern European dishes.",
+        "address": "Passaic Street, Garfield, NJ 07026",
+        "category": "Polish"
+      },
+      {
+        "name": "Taqueria Pueblo Viejo",
+        "description": "Authentic Mexican taqueria serving fresh tacos, burritos, tamales, and traditional Mexican specialties.",
+        "address": "Outwater Lane, Garfield, NJ 07026",
+        "category": "Mexican"
+      },
+      {
+        "name": "Napoli's Pizza",
+        "description": "Long-standing Italian-American pizzeria known for thin-crust pizza, calzones, and hearty pasta dishes.",
+        "address": "Midland Avenue, Garfield, NJ 07026",
+        "category": "Italian"
+      },
+      {
+        "name": "Rudy's Deli",
+        "description": "Classic New Jersey deli famous for massive sandwiches, Polish cold cuts, and homestyle prepared foods.",
+        "address": "Passaic Street, Garfield, NJ 07026",
+        "category": "Deli"
+      },
+      {
+        "name": "Garfield Diner",
+        "description": "Traditional New Jersey diner serving breakfast all day, lunch specials, and a full dinner menu at affordable prices.",
+        "address": "Outwater Lane, Garfield, NJ 07026",
+        "category": "American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Columbus Park",
+        "description": "Garfield's main recreational park featuring ball fields, a playground, basketball courts, and a community pool complex.",
+        "address": "Palisade Avenue, Garfield, NJ 07026",
+        "category": "Community Park"
+      },
+      {
+        "name": "Dahnert's Lake Park",
+        "description": "Small lakeside park with fishing, picnic areas, and a scenic walking path around the lake.",
+        "address": "River Drive, Garfield, NJ 07026",
+        "category": "Lake Park"
+      },
+      {
+        "name": "Lanza Field",
+        "description": "Youth sports complex with baseball diamonds, soccer fields, and community recreation facilities.",
+        "address": "Garfield, NJ 07026",
+        "category": "Sports Complex"
+      }
+    ],
+    "events": [
+      {
+        "name": "Garfield Day",
+        "description": "Annual city-wide celebration with live music, food vendors, carnival rides, and community entertainment.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Independence Day Celebration",
+        "description": "Fourth of July festivities with a parade, family activities, and fireworks display.",
+        "when": "July 4 (annual)"
+      },
+      {
+        "name": "Polish Festival",
+        "description": "Celebration of Garfield's Polish-American heritage with traditional food, polka music, and cultural activities.",
+        "when": "Summer (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Garfield Public Library",
+        "description": "Community library offering programs, computer access, children's activities, and bilingual resources.",
+        "address": "500 Midland Avenue, Garfield, NJ 07026",
+        "category": "Library"
+      },
+      {
+        "name": "Passaic River Waterfront",
+        "description": "The Passaic River runs along Garfield's southern border, offering opportunities for fishing and waterfront walks with views of neighboring communities.",
+        "address": "River Drive, Garfield, NJ 07026",
+        "category": "Waterfront"
+      },
+      {
+        "name": "Polish Cultural Scene",
+        "description": "Garfield's vibrant Polish-American community is reflected in its delis, bakeries, churches, and cultural organizations along Passaic Street.",
+        "address": "Passaic Street, Garfield, NJ 07026",
+        "category": "Cultural"
+      }
+    ],
+    "shoppingAreas": [
+      "Outwater Lane — Main commercial corridor with shops, restaurants, and services",
+      "Passaic Street — Polish delis, bakeries, and specialty shops",
+      "Midland Avenue — Additional retail and dining options",
+      "Route 17 (nearby) — Big-box retail and shopping centers in Paramus and Rochelle Park"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and City Council (Faulkner Act)",
+    "mayor": {
+      "name": "Richard Rigoglioso",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Thomas Marotta",
+        "title": "Council President",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Joseph Delaney",
+        "title": "Council Member — At Large",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Julie Colon",
+        "title": "Council Member — Ward 1",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Michael Fede",
+        "title": "Council Member — Ward 2",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Dennis Sanchez",
+        "title": "Council Member — Ward 3",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Lori Manzella",
+        "title": "Council Member — Ward 4",
+        "term": "Four-year term"
+      }
+    ],
+    "meetingSchedule": "City Council meets on the second and fourth Tuesday of each month at 7:00 PM",
+    "meetingLocation": "Garfield City Hall, 111 Outwater Lane, Garfield, NJ 07026",
+    "municipalWebsite": "https://www.garfieldnj.org",
+    "importantContacts": [
+      {
+        "department": "City Clerk",
+        "phone": "973-340-2000",
+        "email": "clerk@garfieldnj.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "973-340-2000",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "973-340-2000",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "973-340-2076",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "973-340-2000",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "973-478-8500",
+      "address": "111 Outwater Lane, Garfield, NJ 07026"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "973-340-2000",
+      "address": "Garfield, NJ 07026"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "973-478-8500",
+      "address": "Garfield, NJ 07026"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "St. Mary's General Hospital",
+        "address": "350 Boulevard, Passaic, NJ 07055",
+        "phone": "973-365-4300",
+        "distanceMiles": 2
+      },
+      {
+        "name": "St. Joseph's University Medical Center",
+        "address": "703 Main Street, Paterson, NJ 07503",
+        "phone": "973-754-2000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Passaic Valley Water Commission",
+        "phone": "973-340-4300",
+        "url": "https://www.pvwc.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Garfield Police (Non-Emergency)",
+        "number": "973-478-8500"
+      },
+      {
+        "label": "City Hall",
+        "number": "973-340-2000"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

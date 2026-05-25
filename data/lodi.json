@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "slug": "lodi",
+    "name": "Lodi",
+    "fullName": "Borough of Lodi",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "lodi.info",
+    "zipCodes": ["07644"],
+    "themeColor": "#c62828",
+    "accentColor": "#e53935"
+  },
+  "overview": {
+    "tagline": "A hardworking, diverse borough with an Italian heritage, affordable homes, and a central location",
+    "description": "Lodi is a compact, diverse borough in southern Bergen County with deep Italian-American roots and a strong working-class identity. The borough is known for its affordability, central location, and thriving restaurant scene that reflects its multicultural population. With a population of about 25,000 packed into just over two square miles, Lodi offers an urban-suburban feel with convenient access to major highways, shopping, and New York City. Felician University's campus adds a collegiate dimension to the community.",
+    "population": 24669,
+    "populationYear": 2020,
+    "areaSqMi": 2.28,
+    "elevation": "44 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Lodi Public Schools",
+    "highlights": [
+      "Rich Italian-American heritage reflected in local restaurants and culture",
+      "Diverse, multicultural community with growing Latino and Asian populations",
+      "Home to Felician University's Lodi campus",
+      "Affordable housing by Bergen County standards",
+      "Central location with easy access to Routes 17, 46, and I-80"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$440,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.30%",
+    "averagePropertyTax": "$10,200",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Lodi's housing stock includes a mix of single-family homes, two-family properties, and multi-family buildings.",
+    "recentTrends": "Lodi has seen steady price increases as buyers seek affordability in Bergen County. The borough's diverse housing stock — from small Cape Cods to larger colonials and multi-family properties — provides entry points for various buyers. Investment properties with rental income potential are popular.",
+    "neighborhoodNotes": [
+      "Main Street area — Near shops, restaurants, and the heart of the borough's commercial district",
+      "Westminster Place — Tree-lined residential streets with well-maintained homes",
+      "Kennedy Drive area — Mix of residential and some multi-family properties",
+      "Northern section — Quieter residential area near the Saddle River"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Lodi.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment through the DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(973) 365-4005",
+      "contactUrl": "https://www.lodi-nj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly by the Borough.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on the same schedule",
+        "Recycling containers available through the DPW",
+        "Yard waste collected seasonally",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(973) 365-4005",
+      "contactUrl": "https://www.lodi-nj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by Veolia Water and sewer service is managed by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water New Jersey",
+        "Sewer service maintained by the Borough DPW",
+        "Quarterly water billing through Veolia",
+        "Water quality reports available online",
+        "Emergency repairs available through the DPW"
+      ],
+      "contactPhone": "(973) 365-4005",
+      "contactUrl": "https://www.lodi-nj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction and renovations"
+      ],
+      "contactPhone": "(973) 365-4005",
+      "contactUrl": "https://www.lodi-nj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages on-street parking and municipal lots throughout the borough.",
+      "details": [
+        "On-street parking available on most borough streets",
+        "Municipal parking lots near the downtown area",
+        "Overnight parking restrictions on certain streets",
+        "Snow emergency parking bans enforced",
+        "Commercial area parking managed by the borough"
+      ],
+      "contactPhone": "(973) 365-4005",
+      "contactUrl": "https://www.lodi-nj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Lodi Memorial Library",
+        "description": "Public library offering books, digital resources, programs, and community meeting spaces.",
+        "details": [
+          "Located at 1 Memorial Drive",
+          "Children's programs, teen events, and adult book clubs",
+          "Multilingual collection reflecting the community's diversity",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(973) 365-4044",
+        "contactUrl": "https://www.lodilibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for all ages.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Senior citizen programs and events",
+          "Community events and festivals",
+          "Borough parks and athletic facilities"
+        ],
+        "contactPhone": "(973) 365-4005",
+        "contactUrl": "https://www.lodi-nj.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Lodi enforces noise regulations to protect residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction on Sundays or holidays",
+        "Power equipment restricted to daytime hours",
+        "Excessive noise complaints handled by police"
+      ],
+      "source": "Borough of Lodi Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained at a reasonable height",
+        "Sidewalk snow removal required within 24 hours",
+        "Properties must be kept free of debris and refuse",
+        "Abandoned vehicles must be removed",
+        "Code enforcement actively monitors property conditions"
+      ],
+      "source": "Borough of Lodi Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Lodi requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Nuisance barking subject to enforcement",
+        "Dangerous dog ordinance in effect"
+      ],
+      "source": "Borough of Lodi Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough.",
+      "keyRules": [
+        "Overnight parking restricted on certain streets without a permit",
+        "Snow emergency parking bans enforced",
+        "No parking within 25 feet of fire hydrants",
+        "Commercial vehicles restricted on residential streets",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Lodi Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and comply with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before occupancy",
+        "Landlords must maintain properties to code",
+        "Inspections at change of tenancy",
+        "Multi-family dwellings subject to additional fire codes"
+      ],
+      "source": "Borough of Lodi Code"
+    },
+    "other": [
+      {
+        "title": "Soliciting & Peddling",
+        "summary": "Door-to-door solicitation is regulated in Lodi.",
+        "keyRules": [
+          "Peddlers and solicitors must obtain a permit from Borough Hall",
+          "Soliciting hours restricted to daytime only",
+          "Residents may post 'No Soliciting' signs",
+          "Violations subject to fines"
+        ],
+        "source": "Borough of Lodi Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Lodi Public Schools",
+    "publicSchools": [
+      {
+        "name": "Lodi High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 800,
+        "type": "public",
+        "notes": "Comprehensive high school offering academic, vocational, and extracurricular programs"
+      },
+      {
+        "name": "Thomas Jefferson Middle School",
+        "grades": "6-8",
+        "rating": 5,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "Middle school with a comprehensive curriculum"
+      },
+      {
+        "name": "Columbus Elementary School",
+        "grades": "K-5",
+        "rating": 4,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Elementary school serving the eastern part of the borough"
+      },
+      {
+        "name": "Washington Elementary School",
+        "grades": "K-5",
+        "rating": 4,
+        "enrollment": 380,
+        "type": "public",
+        "notes": "Elementary school serving the western portion of the borough"
+      },
+      {
+        "name": "Roosevelt Elementary School",
+        "grades": "PreK-5",
+        "rating": 4,
+        "enrollment": 420,
+        "type": "public",
+        "notes": "Elementary school with Pre-K program"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Immaculate Conception High School",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 450,
+        "notes": "Catholic high school with college preparatory program"
+      },
+      {
+        "name": "Felician University",
+        "grades": "Higher Education",
+        "type": "private",
+        "enrollment": 2300,
+        "notes": "Franciscan university with campuses in Lodi and Rutherford offering undergraduate and graduate programs"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Felician University (Lodi/Rutherford) — in town",
+      "Bergen Community College (Paramus) — 10 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "Ramapo College of New Jersey (Mahwah) — 30 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable housing by Bergen County standards",
+      "Diverse, multicultural community with a welcoming atmosphere",
+      "Central location with easy access to Routes 17, 46, and I-80",
+      "Vibrant restaurant scene reflecting Italian, Latin, and Asian cuisines",
+      "Home to Felician University",
+      "Strong community identity and neighborhood pride"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "35-55 minutes to Port Authority Bus Terminal",
+      "busRoutes": ["NJ Transit Bus 144", "NJ Transit Bus 160"],
+      "notes": "NJ Transit bus service provides connections to NYC from Lodi. Residents can also drive to Secaucus Junction for NJ Transit rail service. Route 17 and Route 46 provide major highway access."
+    },
+    "costOfLiving": {
+      "summary": "Lodi offers one of the lowest costs of living in Bergen County, with affordable housing, reasonable utility costs, and a wide range of budget-friendly dining and shopping options.",
+      "vsStateAverage": "Approximately 5% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 25% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable housing with entry-level options for first-time buyers",
+        "Diverse, welcoming community with strong cultural identity",
+        "Central Bergen County location with excellent highway access",
+        "Abundant dining options from pizza parlors to ethnic restaurants",
+        "Home to Felician University, adding culture and amenities"
+      ],
+      "cons": [
+        "School ratings below Bergen County averages",
+        "No direct train service — bus or car commute to NYC",
+        "Denser than many Bergen County suburbs with smaller lots",
+        "Some areas show signs of aging infrastructure",
+        "Route 46 traffic and commercial corridors can feel congested"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Satin Dolls (Bada Bing)",
+        "description": "Famous strip club and restaurant that gained notoriety as the filming location for the Bada Bing in The Sopranos. A pop-culture landmark.",
+        "address": "230 Route 17 South, Lodi, NJ 07644",
+        "category": "American/Entertainment"
+      },
+      {
+        "name": "DeLucia's Brick Oven Pizza",
+        "description": "Legendary old-school brick-oven pizzeria serving thin-crust Neapolitan-style pizza since 1917. One of the oldest pizzerias in the United States.",
+        "address": "1 Arnot Street, Raritan, NJ 08869",
+        "category": "Pizza"
+      },
+      {
+        "name": "Pizzatown USA",
+        "description": "Classic local pizzeria serving traditional New York-style pizza and Italian favorites for decades.",
+        "address": "Route 46, Lodi, NJ 07644",
+        "category": "Pizza/Italian"
+      },
+      {
+        "name": "El Unico Restaurant",
+        "description": "Authentic Colombian and Latin American restaurant serving traditional dishes in a casual, family-friendly setting.",
+        "address": "Main Street, Lodi, NJ 07644",
+        "category": "Colombian/Latin American"
+      },
+      {
+        "name": "Nino's Ristorante",
+        "description": "Traditional Italian restaurant offering pasta, veal, and seafood dishes in a classic setting reflecting Lodi's Italian heritage.",
+        "address": "Main Street, Lodi, NJ 07644",
+        "category": "Italian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Lodi Memorial Park",
+        "description": "Borough's main park with athletic fields, playgrounds, basketball courts, a walking track, and memorial monuments.",
+        "address": "Kennedy Drive, Lodi, NJ 07644",
+        "category": "Park/Athletics"
+      },
+      {
+        "name": "Saddle River County Park (Lodi Section)",
+        "description": "Bergen County park along the Saddle River with walking and biking trails, picnic areas, and natural habitats.",
+        "address": "Saddle River Road, Lodi, NJ 07644",
+        "category": "County Park/Nature"
+      },
+      {
+        "name": "Westside Park",
+        "description": "Neighborhood park with a playground, benches, and green space on the west side of the borough.",
+        "address": "Lodi, NJ 07644",
+        "category": "Playground/Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Lodi Street Fair",
+        "description": "Annual street fair along Main Street with food vendors, rides, games, and live entertainment.",
+        "when": "September, typically a Sunday in mid-September"
+      },
+      {
+        "name": "Italian Festival",
+        "description": "Celebration of Lodi's Italian-American heritage with Italian food, music, and cultural activities.",
+        "when": "Summer"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade and ceremony honoring veterans, organized by local veterans' organizations.",
+        "when": "Memorial Day (last Monday in May)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Felician University Lodi Campus",
+        "description": "Campus of the Franciscan university, featuring a beautiful grounds, chapel, and community events open to the public.",
+        "address": "262 South Main Street, Lodi, NJ 07644",
+        "category": "Education/Culture"
+      },
+      {
+        "name": "Saddle River County Park",
+        "description": "Scenic county park stretching along the Saddle River through Lodi, offering trails, nature, and outdoor recreation.",
+        "address": "Lodi, NJ 07644",
+        "category": "Nature/Outdoor"
+      }
+    ],
+    "shoppingAreas": [
+      "Main Street — Local shops, restaurants, and services",
+      "Route 46 corridor — Major retail and dining",
+      "Route 17 — Shopping centers and big-box retail",
+      "Garden State Plaza (Paramus) — 10 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Scott Luna",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "James Longo",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "George Bakalov",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Vincent Terreri Jr.",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Salvatore Menza",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Richard Poliseno",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Ralph Fazio",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 1st and 3rd Monday of each month at 7:00 PM",
+    "meetingLocation": "Borough Hall, 1 Memorial Drive, Lodi, NJ 07644",
+    "municipalWebsite": "https://www.lodi-nj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator",
+        "phone": "(973) 365-4005",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(973) 365-4005",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(973) 365-4005",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(973) 365-4005",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(973) 365-4005",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(973) 473-7600",
+      "address": "1 Memorial Drive, Lodi, NJ 07644"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(973) 473-7600",
+      "address": "Lodi, NJ 07644"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(973) 473-7600",
+      "address": "Lodi, NJ 07644"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "St. Joseph's University Medical Center",
+        "address": "703 Main Street, Paterson, NJ 07503",
+        "phone": "(973) 754-2000",
+        "distanceMiles": 6
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Lodi Police (Non-Emergency)",
+        "number": "(973) 473-7600"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(973) 365-4005"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

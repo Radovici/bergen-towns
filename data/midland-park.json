@@ -1,0 +1,478 @@
+{
+  "meta": {
+    "slug": "midland-park",
+    "name": "Midland Park",
+    "fullName": "Borough of Midland Park",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "midland-park.info",
+    "zipCodes": ["07432"],
+    "themeColor": "#827717",
+    "accentColor": "#9e9d24"
+  },
+  "overview": {
+    "tagline": "A warm, walkable borough with small-town character and strong community roots",
+    "description": "Midland Park is a tight-knit residential borough in northwestern Bergen County known for its friendly atmosphere, well-maintained neighborhoods, and active civic life. Originally part of Ridgewood, the borough was incorporated in 1894 and has retained its small-town charm while offering convenient access to shopping and transportation. With a compact downtown along Godwin Avenue, strong public schools, and a calendar full of community events, Midland Park is a popular choice for families seeking a welcoming suburban environment.",
+    "population": 7250,
+    "populationYear": 2020,
+    "areaSqMi": 1.55,
+    "elevation": "150 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Midland Park Public Schools",
+    "highlights": [
+      "Charming downtown along Godwin Avenue with local shops and restaurants",
+      "Highly rated public school district",
+      "Annual community events including Midland Park Day",
+      "Easy access to Route 17 and Route 208",
+      "Strong volunteer fire department and community organizations"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$525,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.65%",
+    "averagePropertyTax": "$12,500",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Bergen County periodically conducts revaluations to align assessed values with market conditions.",
+    "recentTrends": "Midland Park has seen steady price appreciation in recent years, driven by demand from families attracted to the school district and community feel. Homes in good condition near the downtown tend to sell quickly. The market remains competitive with limited inventory.",
+    "neighborhoodNotes": [
+      "Godwin Avenue corridor — Walking distance to downtown shops and restaurants",
+      "West Midland Park — Quiet residential streets near Midland Park High School",
+      "East side — Close to Route 17 shopping and Ridgewood border",
+      "North end — Larger lots near the Waldwick border"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided weekly by the Borough of Midland Park Department of Public Works.",
+      "details": [
+        "Trash pickup occurs twice per week on designated days",
+        "Containers must be placed curbside by 6:00 AM on collection day",
+        "Maximum weight per container is 50 lbs with secure lids",
+        "Bulk item pickup available by scheduling with DPW",
+        "Holiday collection schedule posted on borough website"
+      ],
+      "contactPhone": "(201) 445-6440",
+      "contactUrl": "https://www.midlandparknj.gov/departments/public-works"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a regular schedule by the Borough.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastics #1-#7) collected biweekly",
+        "Paper and cardboard collected on alternate weeks",
+        "Recycling containers provided by the Borough",
+        "Yard waste collected seasonally from spring through fall",
+        "Special recycling events held at the DPW yard throughout the year"
+      ],
+      "contactPhone": "(201) 445-6440",
+      "contactUrl": "https://www.midlandparknj.gov/departments/public-works"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service in Midland Park is provided by Ridgewood Water. Sewer service is maintained by the Borough.",
+      "details": [
+        "Ridgewood Water handles water supply and billing",
+        "Sewer maintenance is managed by the Borough DPW",
+        "Water quality reports available annually from Ridgewood Water",
+        "Emergency water line issues handled 24/7",
+        "Sewer connection permits required for new construction"
+      ],
+      "contactPhone": "(201) 670-5520",
+      "contactUrl": "https://www.ridgewoodwater.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department oversees construction permits, zoning applications, and code enforcement.",
+      "details": [
+        "Building permits required for construction, renovations, and additions",
+        "Zoning Board of Adjustment reviews variance applications",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of occupancy required for all new construction"
+      ],
+      "contactPhone": "(201) 445-5300",
+      "contactUrl": "https://www.midlandparknj.gov/departments/building"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages municipal parking in the downtown area and commuter lots.",
+      "details": [
+        "Free parking available in municipal lots along Godwin Avenue",
+        "Commuter parking permits available for NJ Transit bus riders",
+        "Street parking subject to posted time limits in the downtown area",
+        "Overnight parking restrictions enforced borough-wide",
+        "Snow emergency parking rules in effect during winter storms"
+      ],
+      "contactPhone": "(201) 445-5300",
+      "contactUrl": "https://www.midlandparknj.gov"
+    },
+    "additionalServices": [
+      {
+        "title": "Midland Park Memorial Library",
+        "description": "Public library offering books, digital resources, and community programs.",
+        "details": [
+          "Located at 250 Godwin Avenue",
+          "Children's story times, teen programs, and adult book clubs",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 444-2390",
+        "contactUrl": "https://midlandparklibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Recreational programs and activities for residents of all ages.",
+        "details": [
+          "Youth sports leagues including baseball, soccer, and basketball",
+          "Summer recreation programs and camps",
+          "Senior programs and activities",
+          "Community events throughout the year"
+        ],
+        "contactPhone": "(201) 445-5300",
+        "contactUrl": "https://www.midlandparknj.gov/departments/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Midland Park enforces noise regulations to preserve the quiet residential character of the borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction noise on Sundays or holidays",
+        "Leaf blowers and power equipment restricted to daytime hours",
+        "Loud music and amplified sound prohibited after 10:00 PM"
+      ],
+      "source": "Borough of Midland Park Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in accordance with borough standards.",
+      "keyRules": [
+        "Lawns must be kept mowed and maintained",
+        "Properties must be free of debris and junk",
+        "Fences and structures must be kept in good repair",
+        "Sidewalks must be cleared of snow within 24 hours after a storm",
+        "Vacant properties must be registered and maintained"
+      ],
+      "source": "Borough of Midland Park Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet ownership in Midland Park is subject to licensing and leash requirements.",
+      "keyRules": [
+        "All dogs must be licensed annually with the Borough Clerk",
+        "Dogs must be on a leash when off the owner's property",
+        "Pet waste must be picked up immediately by the owner",
+        "Barking dogs that disturb neighbors are subject to complaints and fines",
+        "Cat licensing is required"
+      ],
+      "source": "Borough of Midland Park Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking rules are enforced to maintain order and safety on borough streets.",
+      "keyRules": [
+        "Overnight parking on streets is prohibited from 2:00 AM to 6:00 AM",
+        "Vehicles must be moved during snow emergencies",
+        "No parking within 25 feet of intersections",
+        "Commercial vehicles over 10,000 lbs prohibited from parking on residential streets overnight",
+        "Parking violations subject to fines and towing"
+      ],
+      "source": "Borough of Midland Park Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties in Midland Park must comply with registration and inspection requirements.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of habitability required before renting a unit",
+        "Landlords responsible for maintaining properties to code standards",
+        "Short-term rentals (such as Airbnb) subject to local zoning regulations",
+        "Multi-family properties subject to periodic inspections"
+      ],
+      "source": "Borough of Midland Park Code"
+    },
+    "other": [
+      {
+        "title": "Fence Regulations",
+        "summary": "Fences must comply with height and placement requirements.",
+        "keyRules": [
+          "Residential fences limited to 6 feet in rear yards",
+          "Front yard fences limited to 4 feet",
+          "Fences must be approved by the Building Department",
+          "Finished side of fence must face outward toward neighboring property"
+        ],
+        "source": "Borough of Midland Park Zoning Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Midland Park Public Schools",
+    "publicSchools": [
+      {
+        "name": "Godwin School",
+        "grades": "PreK-4",
+        "rating": 7,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Elementary school serving all borough students in early grades"
+      },
+      {
+        "name": "Highland School",
+        "grades": "5-8",
+        "rating": 7,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Middle school with strong academic and extracurricular programs"
+      },
+      {
+        "name": "Midland Park Jr./Sr. High School",
+        "grades": "7-12",
+        "rating": 7,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Combined junior-senior high school; also serves students from Ho-Ho-Kus through a sending-receiving relationship"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Eastern Christian School",
+        "grades": "PreK-12",
+        "type": "private",
+        "notes": "Christian school with campuses in Midland Park and North Haledon"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 miles",
+      "William Paterson University (Wayne) — 10 miles",
+      "Bergen Community College (Paramus) — 8 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Small-town atmosphere with strong community spirit",
+      "Affordable by Bergen County standards with good school options",
+      "Walkable downtown with local shops and restaurants",
+      "Easy access to Route 17 and Route 208 for commuting",
+      "Active recreational programs and community events"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "50-70 minutes to Port Authority",
+      "busRoutes": ["175"],
+      "notes": "NJ Transit bus route 175 provides direct service to the Port Authority Bus Terminal in Midtown Manhattan. Some residents also drive to nearby train stations in Waldwick or Ridgewood for rail service."
+    },
+    "costOfLiving": {
+      "summary": "Midland Park offers relatively affordable housing for Bergen County while still providing access to excellent schools and amenities.",
+      "vsStateAverage": "Above average, consistent with northern Bergen County suburban communities",
+      "vsNationalAverage": "Significantly above the national average due to property taxes and housing costs"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Strong sense of community and active civic life",
+        "More affordable than neighboring Ridgewood and Glen Rock",
+        "Good public schools with small class sizes",
+        "Walkable downtown with local businesses",
+        "Low crime rate and safe neighborhoods"
+      ],
+      "cons": [
+        "Limited nightlife and entertainment options",
+        "No direct train service — bus commute to NYC can be long",
+        "Property taxes remain high relative to home values",
+        "Small commercial district with limited shopping",
+        "Some homes are older and may require updates"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "The Park Pub",
+        "description": "Popular neighborhood pub serving American fare, burgers, and craft beers in a casual setting.",
+        "address": "Godwin Avenue, Midland Park, NJ",
+        "category": "American/Pub"
+      },
+      {
+        "name": "Bianca's Ristorante",
+        "description": "Family-friendly Italian restaurant known for homemade pasta and traditional dishes.",
+        "address": "Godwin Avenue, Midland Park, NJ",
+        "category": "Italian"
+      },
+      {
+        "name": "Midland Brew House",
+        "description": "Craft brewery and restaurant featuring local beers and a lively atmosphere.",
+        "address": "Godwin Avenue, Midland Park, NJ",
+        "category": "Brewery/American"
+      },
+      {
+        "name": "Villa Amalfi",
+        "description": "Upscale Italian dining with a warm ambiance and extensive wine list.",
+        "address": "Godwin Avenue, Midland Park, NJ",
+        "category": "Italian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Midland Park Municipal Park",
+        "description": "Central community park with playgrounds, sports fields, and picnic areas.",
+        "address": "Midland Park, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Wortendyke Park",
+        "description": "Neighborhood park with open green space, walking paths, and a basketball court.",
+        "address": "Midland Park, NJ",
+        "category": "Neighborhood Park"
+      },
+      {
+        "name": "Lions Club Park",
+        "description": "Small park maintained by the local Lions Club with playground equipment and benches.",
+        "address": "Midland Park, NJ",
+        "category": "Community Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Midland Park Day",
+        "description": "Annual borough-wide celebration featuring live music, food vendors, games, and a community parade.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual tree lighting ceremony in the downtown area with caroling and refreshments.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Community parade honoring veterans with marching bands and civic organizations.",
+        "when": "May (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Midland Park Downtown",
+        "description": "Walkable downtown along Godwin Avenue featuring local shops, restaurants, and services.",
+        "address": "Godwin Avenue, Midland Park, NJ",
+        "category": "Shopping District"
+      },
+      {
+        "name": "Eastern Christian School Campus",
+        "description": "Historic Christian school campus that has been a cornerstone of the community since 1892.",
+        "address": "Midland Park, NJ",
+        "category": "Historic/Education"
+      }
+    ],
+    "shoppingAreas": [
+      "Godwin Avenue downtown corridor",
+      "Route 17 shopping corridor (nearby in Paramus/Ramsey)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Thomas Gallo",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "William Luberto", "title": "Council Member" },
+      { "name": "Michael Gallo", "title": "Council Member" },
+      { "name": "John Sansone", "title": "Council Member" },
+      { "name": "Patrick DeLorenzo", "title": "Council Member" },
+      { "name": "Victoria Pepe", "title": "Council Member" },
+      { "name": "Anthony Maiale", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Midland Park Borough Hall, 280 Godwin Avenue",
+    "municipalWebsite": "https://www.midlandparknj.gov",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 445-5300",
+        "email": "clerk@midlandparknj.gov",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 445-5300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 445-5300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 445-6440",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 445-4994",
+      "address": "280 Godwin Avenue, Midland Park, NJ 07432"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 445-3486",
+      "address": "Midland Park, NJ 07432"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 445-4994",
+      "address": "Midland Park, NJ 07432"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 10
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Ridgewood Water",
+        "phone": "(201) 670-5520",
+        "url": "https://www.ridgewoodwater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

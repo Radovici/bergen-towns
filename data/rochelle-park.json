@@ -1,0 +1,534 @@
+{
+  "meta": {
+    "slug": "rochelle-park",
+    "name": "Rochelle Park",
+    "fullName": "Township of Rochelle Park",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "rochelle-park.info",
+    "zipCodes": ["07662"],
+    "themeColor": "#4a148c",
+    "accentColor": "#7b1fa2"
+  },
+  "overview": {
+    "tagline": "A small, convenient township at the crossroads of Bergen County",
+    "description": "Rochelle Park is one of the smallest townships in Bergen County, spanning less than one square mile, but punches above its weight in convenience and accessibility. Located at the intersection of Route 17 and Route 4, the township offers unparalleled access to Bergen County's major shopping destinations, highways, and public transit. Despite its compact size, Rochelle Park maintains a strong residential character with well-kept homes, a dedicated community, and low-key suburban living just minutes from Hackensack and Paramus.",
+    "population": 5714,
+    "populationYear": 2020,
+    "areaSqMi": 0.97,
+    "elevation": "50 ft",
+    "incorporated": "1929",
+    "governmentType": "Township (Mayor-Council)",
+    "schoolDistrict": "Rochelle Park Public Schools (K-6) / Hackensack Public Schools (7-12)",
+    "highlights": [
+      "Strategic location at Routes 4 and 17 crossroads",
+      "Minutes from Garden State Plaza and Bergen Town Center shopping",
+      "Compact, affordable community with low-key suburban feel",
+      "Easy access to NJ Transit bus routes to NYC",
+      "Active community events and engaged local government"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$425,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.20%",
+    "averagePropertyTax": "$10,500",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. The township features predominantly single-family homes and some multi-family residences on small to mid-sized lots.",
+    "recentTrends": "Rochelle Park offers some of the most affordable housing in central Bergen County, attracting first-time buyers and those looking for value. Prices have risen moderately in recent years as demand for Bergen County housing remains strong. The compact lot sizes and older housing stock keep prices accessible.",
+    "neighborhoodNotes": [
+      "Rochelle Avenue area — Central residential area near township facilities",
+      "Route 17 corridor — Commercial frontage with residential streets behind",
+      "Northern section — Quieter residential streets near the Paramus border",
+      "Southern section — Close to Route 4 and shopping centers"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Township of Rochelle Park.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule adjustments posted on township website"
+      ],
+      "contactPhone": "(201) 587-7730",
+      "contactUrl": "https://www.rochellepark.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling collected weekly.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on recycling day",
+        "Recycling bins available from the Township",
+        "Yard waste collected seasonally",
+        "Electronics and hazardous waste drop-off events held periodically"
+      ],
+      "contactPhone": "(201) 587-7730",
+      "contactUrl": "https://www.rochellepark.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water and sewer service is maintained by the Township.",
+      "details": [
+        "Water supplied by Veolia Water (formerly Suez/United Water)",
+        "Sewer service maintained by the Township DPW",
+        "Water billing handled by Veolia quarterly",
+        "Sewer charges included on property tax bills",
+        "Emergency water repairs available 24/7"
+      ],
+      "contactPhone": "(201) 587-7730",
+      "contactUrl": "https://www.rochellepark.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board",
+        "Permit applications available at Township Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 587-7730",
+      "contactUrl": "https://www.rochellepark.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking is regulated on township streets and in commercial areas.",
+      "details": [
+        "Street parking subject to posted regulations",
+        "Overnight parking restrictions on township streets",
+        "Snow emergency parking bans enforced",
+        "No metered parking in residential areas",
+        "Commercial area parking regulated by posted signs"
+      ],
+      "contactPhone": "(201) 587-7730",
+      "contactUrl": "https://www.rochellepark.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Rochelle Park Public Library",
+        "description": "Public library offering books, digital resources, and community programs.",
+        "details": [
+          "Located at 151 Rochelle Avenue",
+          "Children's programs, adult events, and book clubs",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 587-7730",
+        "contactUrl": "https://www.bccls.org/rochellepark"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Senior citizen programs and activities",
+          "Community events throughout the year",
+          "Township park facilities available for recreation"
+        ],
+        "contactPhone": "(201) 587-7730",
+        "contactUrl": "https://www.rochellepark.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Rochelle Park enforces noise regulations to protect residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise on Sundays or federal holidays",
+        "Loud music and amplified sound restricted after 10:00 PM",
+        "Leaf blowers and power equipment restricted to daytime hours"
+      ],
+      "source": "Township of Rochelle Park Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Property owners responsible for sidewalk snow removal within 24 hours",
+        "Fences must comply with township height regulations",
+        "Abandoned or inoperable vehicles must be removed",
+        "Properties must be kept free of rubbish and debris"
+      ],
+      "source": "Township of Rochelle Park Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dog licensing and leash laws are enforced throughout the township.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies vaccination proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking may result in violation notices",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Township of Rochelle Park Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the township.",
+      "keyRules": [
+        "No overnight parking on township streets between 2:00 AM and 6:00 AM",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles prohibited from residential street parking overnight",
+        "Vehicles may not block sidewalks or driveways",
+        "Abandoned vehicles subject to towing"
+      ],
+      "source": "Township of Rochelle Park Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and comply with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Township",
+        "Certificate of Habitability required before occupancy",
+        "Landlords must maintain properties to housing code standards",
+        "Inspections conducted at change of tenancy",
+        "Occupancy limits enforced per unit size"
+      ],
+      "source": "Township of Rochelle Park Code"
+    },
+    "other": [
+      {
+        "title": "Garage Sales",
+        "summary": "Garage and yard sales are permitted with restrictions.",
+        "keyRules": [
+          "Permit required for garage/yard sales",
+          "Limited to specified number of sales per year",
+          "Signs must be removed after the sale",
+          "Sales restricted to daylight hours"
+        ],
+        "source": "Township of Rochelle Park Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Rochelle Park Public Schools (K-6) / Hackensack Public Schools (7-12)",
+    "publicSchools": [
+      {
+        "name": "Midland School",
+        "grades": "PreK-6",
+        "rating": 5,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "The township's sole elementary school serving all K-6 students; students attend Hackensack schools for grades 7-12"
+      },
+      {
+        "name": "Hackensack Middle School",
+        "grades": "7-8",
+        "rating": 4,
+        "enrollment": 600,
+        "type": "public",
+        "notes": "Regional middle school in Hackensack serving Rochelle Park students"
+      },
+      {
+        "name": "Hackensack High School",
+        "grades": "9-12",
+        "rating": 4,
+        "enrollment": 1400,
+        "type": "public",
+        "notes": "Regional high school serving Rochelle Park students along with Hackensack and South Hackensack"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Joseph School (East Rutherford)",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic school serving the surrounding area, including Rochelle Park families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 5 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 10 minutes",
+      "Felician University (Rutherford) — 10 minutes",
+      "Montclair State University (Montclair) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable housing in a central Bergen County location",
+      "Unmatched access to major shopping centers (Garden State Plaza, Bergen Town Center)",
+      "Easy highway access via Routes 4, 17, and the Garden State Parkway",
+      "Small, tight-knit community with engaged local government",
+      "Close to NJ Transit bus routes for NYC commuting"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "35-55 minutes to Midtown Manhattan by bus",
+      "busRoutes": ["NJ Transit Bus 163", "NJ Transit Bus 165", "NJ Transit Bus 144"],
+      "notes": "NJ Transit bus routes provide service from nearby stops on Route 17 and Route 4 to the Port Authority Bus Terminal. No train station within the township, but the Hackensack bus terminal is nearby. Highway access via Routes 4, 17, and 80 provides driving options."
+    },
+    "costOfLiving": {
+      "summary": "Rochelle Park is one of the more affordable communities in central Bergen County, offering good value for its location.",
+      "vsStateAverage": "Approximately 10% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 35% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Very affordable by Bergen County standards",
+        "Central location with excellent highway access",
+        "Minutes from major shopping and dining destinations",
+        "Small community with a neighborhood feel",
+        "Multiple bus routes for NYC commuting"
+      ],
+      "cons": [
+        "No train station within the township",
+        "Highway noise from Routes 4 and 17 affects some areas",
+        "Students attend Hackensack schools for grades 7-12",
+        "Very small township with limited parks and open space",
+        "Higher property tax rate compared to some neighbors"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Park Avenue Diner",
+        "description": "Classic New Jersey diner serving breakfast, lunch, and dinner with a comprehensive American menu.",
+        "address": "Rochelle Avenue, Rochelle Park, NJ 07662",
+        "category": "American/Diner"
+      },
+      {
+        "name": "Bensi Ristorante",
+        "description": "Italian restaurant offering traditional pasta dishes, brick-oven pizza, and classic Italian-American fare.",
+        "address": "Route 17 South, Rochelle Park, NJ 07662",
+        "category": "Italian"
+      },
+      {
+        "name": "Green Fusion",
+        "description": "Asian fusion restaurant serving sushi, Thai curry, and creative fusion dishes in a modern setting.",
+        "address": "Route 17, Rochelle Park, NJ 07662",
+        "category": "Asian Fusion/Sushi"
+      },
+      {
+        "name": "El Pollo Camero",
+        "description": "Latin American restaurant specializing in rotisserie chicken, plantains, and traditional Latin favorites.",
+        "address": "Rochelle Avenue, Rochelle Park, NJ 07662",
+        "category": "Latin American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Rochelle Park Township Park",
+        "description": "Township park with playground equipment, sports courts, and green space for community use.",
+        "address": "Rochelle Avenue, Rochelle Park, NJ 07662",
+        "category": "Recreation/Playground"
+      },
+      {
+        "name": "Veterans Memorial",
+        "description": "Memorial site honoring local veterans with installations and a small gathering area.",
+        "address": "Rochelle Park, NJ 07662",
+        "category": "Memorial"
+      },
+      {
+        "name": "Saddle River County Park (nearby)",
+        "description": "Bergen County park stretching along the Saddle River with walking trails, sports fields, and picnic areas, accessible from Rochelle Park.",
+        "address": "Saddle Brook, NJ",
+        "category": "County Park/Recreation"
+      }
+    ],
+    "events": [
+      {
+        "name": "Rochelle Park Community Day",
+        "description": "Annual township celebration with food, entertainment, games, and family activities.",
+        "when": "Fall, typically September"
+      },
+      {
+        "name": "National Night Out",
+        "description": "Annual event promoting police-community partnerships with activities, demonstrations, and neighborhood gatherings.",
+        "when": "August, first Tuesday"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday celebration with tree lighting, caroling, and community festivities.",
+        "when": "December, first week"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Garden State Plaza (adjacent)",
+        "description": "One of the largest shopping malls in New Jersey, located in adjacent Paramus with over 300 stores, restaurants, and entertainment.",
+        "address": "1 Garden State Plaza, Paramus, NJ 07652",
+        "category": "Shopping"
+      },
+      {
+        "name": "Bergen Town Center (nearby)",
+        "description": "Major shopping center in Paramus featuring department stores, specialty shops, and dining options.",
+        "address": "400 Route 17 South, Paramus, NJ 07652",
+        "category": "Shopping"
+      }
+    ],
+    "shoppingAreas": [
+      "Route 17 corridor — Major retail and dining strip",
+      "Garden State Plaza (Paramus) — Mega-mall adjacent to Rochelle Park",
+      "Bergen Town Center (Paramus) — Large shopping center nearby",
+      "Route 4 corridor — Additional retail and commercial options"
+    ]
+  },
+  "government": {
+    "governingBody": "Township Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Michael Kazimir",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Dennis Marsh",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Andrea Stein",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Kevin Kerwin",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Marc Meilleur",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Joseph Riggio",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Maria Herrera",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Township Council meets on the 2nd and 4th Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Township Hall, 151 Rochelle Avenue, Rochelle Park, NJ 07662",
+    "municipalWebsite": "https://www.rochellepark.org",
+    "importantContacts": [
+      {
+        "department": "Township Clerk",
+        "phone": "(201) 587-7730",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 587-7730",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 587-7730",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 587-7730",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 843-8600",
+      "address": "151 Rochelle Avenue, Rochelle Park, NJ 07662"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 845-7610",
+      "address": "Rochelle Park, NJ 07662"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 843-8600",
+      "address": "Rochelle Park, NJ 07662"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Township of Rochelle Park DPW",
+        "phone": "(201) 587-7730"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Rochelle Park Police (Non-Emergency)",
+        "number": "(201) 843-8600"
+      },
+      {
+        "label": "Rochelle Park Fire Department",
+        "number": "(201) 845-7610"
+      },
+      {
+        "label": "Township Hall",
+        "number": "(201) 587-7730"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "slug": "norwood",
+    "name": "Norwood",
+    "fullName": "Borough of Norwood",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "norwood.info",
+    "zipCodes": ["07648"],
+    "themeColor": "#1565c0",
+    "accentColor": "#1976d2"
+  },
+  "overview": {
+    "tagline": "A quiet, upscale borough with top-tier schools and a serene suburban setting",
+    "description": "Norwood is a small, affluent residential borough in the northernmost part of Bergen County, bordering New York State to the north. With a population just over 5,700, the borough offers a tranquil suburban lifestyle with spacious lots, tree-lined streets, and a strong sense of privacy. Norwood is part of the highly regarded Northern Valley Regional High School District and is known for its excellent schools, low density, and proximity to the Palisades Interstate Park. The community attracts families seeking top schools and a quiet, semi-rural atmosphere within commuting distance of New York City.",
+    "population": 5721,
+    "populationYear": 2020,
+    "areaSqMi": 2.79,
+    "elevation": "250 ft",
+    "incorporated": "1905",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Norwood Public Schools / Northern Valley Regional",
+    "highlights": [
+      "Part of the top-ranked Northern Valley Regional High School District",
+      "Spacious lots and a semi-rural residential character",
+      "Close proximity to Palisades Interstate Park hiking and nature",
+      "Very low crime rate and safe, family-friendly environment",
+      "NJ Transit Pascack Valley Line train station for NYC commuters"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$650,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.55%",
+    "averagePropertyTax": "$14,000",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Bergen County conducts periodic revaluations. Norwood's larger lot sizes and proximity to the Palisades contribute to stable property values.",
+    "recentTrends": "Norwood has seen consistent appreciation, driven by demand from families for Northern Valley district schools. The market features larger homes on generous lots compared to denser Bergen County communities. Inventory remains limited, making the market competitive.",
+    "neighborhoodNotes": [
+      "Piermont Road corridor — Borough's main road with a mix of homes and small businesses",
+      "Livingston Avenue/Summit Street — Established family neighborhoods near the school",
+      "Blanch Avenue area — Spacious lots with a wooded, private feel",
+      "Tappan Road section — Properties near the New York border with larger lots",
+      "Near the train station — Convenient for commuters on the Pascack Valley Line"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection provided by a contracted hauler for the Borough.",
+      "details": [
+        "Trash pickup occurs twice per week",
+        "Containers at curbside by 6:00 AM on collection day",
+        "Maximum 50 lbs per container with secure lids",
+        "Bulk item pickup available by scheduling with DPW",
+        "Holiday schedule posted on borough website"
+      ],
+      "contactPhone": "(201) 768-2400",
+      "contactUrl": "https://www.norwoodboro.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling collected on a regular schedule by the Borough's contractor.",
+      "details": [
+        "Commingled recyclables collected biweekly",
+        "Paper and cardboard on alternate weeks",
+        "Yard waste collected seasonally from spring through fall",
+        "Recycling bins provided by the Borough",
+        "Special recycling events held periodically"
+      ],
+      "contactPhone": "(201) 768-2400",
+      "contactUrl": "https://www.norwoodboro.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water provided by Veolia Water. Sewer service through the Borough and Northwest Bergen County Utilities Authority.",
+      "details": [
+        "Veolia Water handles water supply and billing",
+        "Sewer service through NBCUA",
+        "Some properties on private well and/or septic systems",
+        "Annual water quality reports available",
+        "Emergency water issues handled 24/7 by Veolia"
+      ],
+      "contactPhone": "(201) 768-2400",
+      "contactUrl": "https://www.norwoodboro.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "Building Department handles permits, inspections, and code enforcement.",
+      "details": [
+        "Permits required for construction, additions, and renovations",
+        "Zoning Board reviews variance applications",
+        "Applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 768-2400",
+      "contactUrl": "https://www.norwoodboro.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Borough manages commuter parking at the train station and street regulations.",
+      "details": [
+        "Commuter parking permits available at the Norwood train station",
+        "Waitlist may apply for train station parking",
+        "Street parking subject to posted restrictions",
+        "Overnight parking restrictions enforced",
+        "Snow emergency parking rules in effect"
+      ],
+      "contactPhone": "(201) 768-2400",
+      "contactUrl": "https://www.norwoodboro.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Norwood Public Library",
+        "description": "Community library serving residents with books, programs, and digital resources.",
+        "details": [
+          "Located at 453 Tappan Road",
+          "Children's programs, story times, and summer reading",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 767-9793",
+        "contactUrl": "https://norwood.bccls.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Norwood enforces noise regulations to preserve the quiet, residential nature of the borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Power equipment restricted to daytime hours",
+        "Loud music and gatherings subject to limits after 10:00 PM"
+      ],
+      "source": "Borough of Norwood Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained to borough standards to preserve the community's character.",
+      "keyRules": [
+        "Lawns and landscaping must be kept maintained",
+        "Properties must be free of debris and junk",
+        "Structures must be kept in good condition",
+        "Sidewalks (where present) must be cleared of snow within 24 hours",
+        "Septic systems must be properly maintained where applicable"
+      ],
+      "source": "Borough of Norwood Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet owners must follow licensing and leash requirements.",
+      "keyRules": [
+        "Dogs must be licensed annually",
+        "Dogs must be leashed off owner's property",
+        "Pet waste must be cleaned up immediately",
+        "Excessive barking subject to complaints",
+        "Wildlife feeding restrictions may apply"
+      ],
+      "source": "Borough of Norwood Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking rules are enforced throughout the borough.",
+      "keyRules": [
+        "Overnight parking on streets prohibited from 2:00 AM to 6:00 AM",
+        "Vehicles must be moved during snow emergencies",
+        "No parking near fire hydrants or intersections",
+        "Commuter parking permits required at the train station",
+        "Violations subject to fines"
+      ],
+      "source": "Borough of Norwood Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough registration and maintenance standards.",
+      "keyRules": [
+        "Rental properties must be registered",
+        "Certificate of habitability required",
+        "Properties must meet code standards",
+        "Landlords responsible for maintenance",
+        "Short-term rentals subject to zoning restrictions"
+      ],
+      "source": "Borough of Norwood Code"
+    },
+    "other": [
+      {
+        "title": "Septic System Regulations",
+        "summary": "Properties with private septic systems must comply with maintenance requirements.",
+        "keyRules": [
+          "Septic systems must be pumped and inspected on a regular schedule",
+          "Failing systems must be repaired or replaced promptly",
+          "Connection to public sewer is required when available within a certain distance",
+          "Bergen County Board of Health oversees septic compliance"
+        ],
+        "source": "Borough of Norwood Code / Bergen County Health Department"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Norwood Public Schools / Northern Valley Regional High School District",
+    "publicSchools": [
+      {
+        "name": "Norwood Public School",
+        "grades": "PreK-8",
+        "rating": 8,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Borough's sole public school for K-8 students; known for strong academics and a supportive community"
+      },
+      {
+        "name": "Northern Valley Regional High School at Demarest",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 950,
+        "type": "public",
+        "notes": "Regional high school in Demarest; consistently ranked among NJ's top public high schools"
+      }
+    ],
+    "privateSchools": [],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 miles",
+      "Bergen Community College (Paramus) — 10 miles",
+      "Fairleigh Dickinson University (Teaneck) — 12 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-ranked Northern Valley Regional High School at Demarest",
+      "Quiet, semi-rural atmosphere with spacious lots",
+      "NJ Transit Pascack Valley Line train station in the borough",
+      "Proximity to Palisades Interstate Park for hiking and outdoor recreation",
+      "Very safe community with low crime rates"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Rail (Pascack Valley Line)",
+      "duration": "55-75 minutes to Hoboken, then PATH to NYC",
+      "trainStation": "Norwood station (Pascack Valley Line)",
+      "busRoutes": ["186"],
+      "notes": "The Norwood station on the Pascack Valley Line provides rail service to Hoboken Terminal, where riders connect via PATH to Midtown or Downtown Manhattan. Bus service is also available. Drivers can access the George Washington Bridge via the Palisades Interstate Parkway or Route 9W."
+    },
+    "costOfLiving": {
+      "summary": "Norwood is an upper-middle-income community with home prices reflecting the quality of schools and the spacious residential environment.",
+      "vsStateAverage": "Above the state average for housing and property taxes",
+      "vsNationalAverage": "Well above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Excellent schools in the Northern Valley district",
+        "Train station in the borough for commuters",
+        "Spacious lots and semi-rural feel uncommon in Bergen County",
+        "Access to Palisades Interstate Park for nature and recreation",
+        "Very safe and quiet residential environment"
+      ],
+      "cons": [
+        "Very limited commercial and dining options",
+        "Pascack Valley Line has limited off-peak service",
+        "Higher home prices and property taxes",
+        "Some properties on septic systems rather than public sewer",
+        "Remote from Bergen County's larger towns and cultural centers"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "The Office Tavern Grill",
+        "description": "Local sports bar and restaurant with American fare, burgers, and craft beers.",
+        "address": "Piermont Road, Norwood, NJ",
+        "category": "American/Sports Bar"
+      },
+      {
+        "name": "Norwood Pizza",
+        "description": "Neighborhood pizzeria serving traditional pies, heroes, and Italian specialties.",
+        "address": "Piermont Road, Norwood, NJ",
+        "category": "Pizza/Italian"
+      },
+      {
+        "name": "Sakura Japanese Restaurant",
+        "description": "Japanese restaurant with sushi, teriyaki, and traditional Japanese dishes.",
+        "address": "Piermont Road, Norwood, NJ",
+        "category": "Japanese"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Norwood Community Park",
+        "description": "Borough park with sports fields, playground, and picnic areas.",
+        "address": "Norwood, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Small memorial park honoring veterans with a peaceful setting.",
+        "address": "Norwood, NJ",
+        "category": "Memorial Park"
+      },
+      {
+        "name": "Palisades Interstate Park (nearby)",
+        "description": "Scenic park along the Hudson River Palisades with world-class hiking trails, lookout points, and picnic areas.",
+        "address": "Palisades Interstate Parkway, NJ",
+        "category": "State/Interstate Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Norwood Day",
+        "description": "Annual community celebration with food, music, games, and family activities.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Festive community gathering with tree lighting and seasonal refreshments.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade honoring veterans with community participation.",
+        "when": "May (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Palisades Interstate Park",
+        "description": "Stunning cliffside park along the Hudson River offering hiking, scenic overlooks, and access to the shore trail.",
+        "address": "Palisades Interstate Parkway, NJ",
+        "category": "Nature/Recreation"
+      },
+      {
+        "name": "Tappan (NY) Historic Sites",
+        "description": "Just across the New York border, visit Revolutionary War-era sites in historic Tappan including the DeWint House, Washington's headquarters.",
+        "address": "Tappan, NY",
+        "category": "Historic"
+      }
+    ],
+    "shoppingAreas": [
+      "Piermont Road local businesses",
+      "Nearby Closter and Old Tappan shopping",
+      "Nanuet/Pearl River (NY) retail options"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "James Barsa",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Brian Kissel", "title": "Council Member" },
+      { "name": "Mary Doyle", "title": "Council Member" },
+      { "name": "Thomas Murawski", "title": "Council Member" },
+      { "name": "Joseph Malloy", "title": "Council Member" },
+      { "name": "William Rupp", "title": "Council Member" },
+      { "name": "Susan Manigault", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Norwood Borough Hall, 455 Broadway",
+    "municipalWebsite": "https://www.norwoodboro.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 768-2400",
+        "email": "clerk@norwoodboro.org",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 768-2400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 768-2400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 767-5765",
+      "address": "455 Broadway, Norwood, NJ 07648"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 768-3725",
+      "address": "Norwood, NJ 07648"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 767-5765",
+      "address": "Norwood, NJ 07648"
+    },
+    "hospitals": [
+      {
+        "name": "Pascack Valley Medical Center",
+        "address": "250 Old Hook Road, Westwood, NJ 07675",
+        "phone": "(201) 358-3000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "address": "255 Lafayette Avenue, Suffern, NY 10901",
+        "phone": "(845) 368-5000",
+        "distanceMiles": 15
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-0850",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

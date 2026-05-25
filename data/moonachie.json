@@ -1,0 +1,435 @@
+{
+  "meta": {
+    "slug": "moonachie",
+    "name": "Moonachie",
+    "fullName": "Borough of Moonachie",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "moonachie.info",
+    "zipCodes": ["07074"],
+    "themeColor": "#5d4037",
+    "accentColor": "#795548"
+  },
+  "overview": {
+    "tagline": "A small, resilient borough in the Meadowlands with a tight-knit community spirit",
+    "description": "Moonachie is a compact borough of less than one square mile in the southeastern Meadowlands region of Bergen County. With a population under 3,000, it is one of the smallest municipalities in the county. Despite its size, Moonachie has a strong community identity forged in part by shared challenges, including severe flooding during Hurricane Sandy in 2012. The borough is situated near Teterboro Airport and has convenient access to major highways, making it a practical location for residents who work in the area or commute to New York City.",
+    "population": 2829,
+    "populationYear": 2020,
+    "areaSqMi": 0.83,
+    "elevation": "7 ft",
+    "incorporated": "1910",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Moonachie Public Schools / South Bergen Jointure Commission",
+    "highlights": [
+      "Close-knit community with active civic organizations",
+      "Proximity to Teterboro Airport and MetLife Stadium area",
+      "Convenient access to Routes 17, 46, and NJ Turnpike",
+      "Affordable housing compared to much of Bergen County",
+      "Strong community resilience demonstrated after Hurricane Sandy"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$375,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.10%",
+    "averagePropertyTax": "$9,000",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. The low elevation and Meadowlands location can affect flood insurance requirements and property valuations.",
+    "recentTrends": "Moonachie's housing market offers some of the most affordable options in Bergen County. Post-Sandy recovery led to significant home improvements and elevated construction. The market has seen moderate appreciation. Flood insurance costs are an important factor for buyers.",
+    "neighborhoodNotes": [
+      "Moonachie Avenue area — Main residential corridor with a mix of housing types",
+      "Joseph Street/Carol Place — Quieter residential streets",
+      "Industrial area — Commercial and warehouse properties along Redneck Avenue",
+      "Northern section — Closer to Little Ferry border with newer construction"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided by a contracted hauler for the Borough of Moonachie.",
+      "details": [
+        "Trash collection occurs twice per week",
+        "Place containers curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by arrangement with the DPW",
+        "Holiday schedule posted on the borough website"
+      ],
+      "contactPhone": "(201) 641-1813",
+      "contactUrl": "https://www.moonachie.us"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling is collected on a regular schedule by the Borough's contracted hauler.",
+      "details": [
+        "Commingled recyclables collected biweekly",
+        "Paper and cardboard on alternate weeks",
+        "Recycling bins available from the Borough",
+        "Yard waste collected seasonally",
+        "Special collection events held periodically"
+      ],
+      "contactPhone": "(201) 641-1813",
+      "contactUrl": "https://www.moonachie.us"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer services are provided through local utilities and the Bergen County Utilities Authority.",
+      "details": [
+        "Water provided by Veolia Water (formerly United Water)",
+        "Sewer service through the Bergen County Utilities Authority (BCUA)",
+        "Billing handled by the respective utility providers",
+        "Water quality reports available annually",
+        "Emergency water line repairs available 24/7 through Veolia"
+      ],
+      "contactPhone": "(201) 641-1813",
+      "contactUrl": "https://www.moonachie.us"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles permits, inspections, and code enforcement.",
+      "details": [
+        "Permits required for construction, renovation, and home improvements",
+        "Flood zone compliance required for construction projects",
+        "Applications available at Borough Hall",
+        "Inspections coordinated through the Building Department",
+        "Elevated construction standards in flood-prone areas"
+      ],
+      "contactPhone": "(201) 641-1813",
+      "contactUrl": "https://www.moonachie.us"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Street parking and municipal lot regulations are enforced by the borough.",
+      "details": [
+        "On-street parking subject to posted restrictions",
+        "Overnight parking restrictions enforced",
+        "Snow emergency parking rules in effect during storms",
+        "Municipal lot available near Borough Hall",
+        "Parking violations subject to fines"
+      ],
+      "contactPhone": "(201) 641-1813",
+      "contactUrl": "https://www.moonachie.us"
+    },
+    "additionalServices": [
+      {
+        "title": "Moonachie Free Public Library",
+        "description": "Small community library serving borough residents.",
+        "details": [
+          "Located at 100 Moonachie Avenue",
+          "Children's programs and adult book clubs",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 641-1998",
+        "contactUrl": "https://moonachie.bccls.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Moonachie enforces noise standards to maintain peace in this compact residential community.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Loud music and parties subject to noise limits after 10:00 PM",
+        "Commercial operations must comply with noise standards"
+      ],
+      "source": "Borough of Moonachie Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to borough standards, with particular attention to flood mitigation.",
+      "keyRules": [
+        "Lawns and yards must be maintained and kept clean",
+        "Properties must be free from junk, debris, and standing water",
+        "Structures must be maintained in good condition",
+        "Snow must be cleared from sidewalks within 24 hours",
+        "Flood mitigation improvements are encouraged"
+      ],
+      "source": "Borough of Moonachie Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pets must be licensed and controlled per borough ordinance.",
+      "keyRules": [
+        "All dogs must be licensed annually",
+        "Dogs must be leashed when off the owner's property",
+        "Pet waste must be picked up immediately",
+        "Barking dogs subject to noise complaints",
+        "Dangerous dog provisions apply per state law"
+      ],
+      "source": "Borough of Moonachie Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking rules are enforced to manage space in this compact borough.",
+      "keyRules": [
+        "No overnight parking on streets from 2:00 AM to 6:00 AM without permit",
+        "Vehicles must be moved during snow emergencies",
+        "No parking in fire zones or within 25 feet of intersections",
+        "Commercial vehicles restricted from residential streets overnight",
+        "Violations subject to ticketing and towing"
+      ],
+      "source": "Borough of Moonachie Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and maintained per borough requirements.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Habitability inspections required before new tenants move in",
+        "Landlords responsible for code-compliant maintenance",
+        "Short-term rentals subject to zoning regulations",
+        "Fire safety standards must be met for all rental units"
+      ],
+      "source": "Borough of Moonachie Code"
+    },
+    "other": [
+      {
+        "title": "Flood Zone Regulations",
+        "summary": "Due to its Meadowlands location, Moonachie has specific flood zone construction and elevation requirements.",
+        "keyRules": [
+          "New construction in flood zones must meet FEMA elevation requirements",
+          "Substantial improvements to existing structures may trigger elevation requirements",
+          "Flood insurance is required for properties in Special Flood Hazard Areas",
+          "Borough participates in the National Flood Insurance Program (NFIP)"
+        ],
+        "source": "Borough of Moonachie Flood Damage Prevention Ordinance"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Moonachie School District",
+    "publicSchools": [
+      {
+        "name": "Robert L. Craig School",
+        "grades": "PreK-6",
+        "rating": 5,
+        "enrollment": 230,
+        "type": "public",
+        "notes": "The borough's sole public school; students in grades 7-12 attend Wood-Ridge schools through a sending-receiving relationship"
+      }
+    ],
+    "privateSchools": [],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 8 miles",
+      "Fairleigh Dickinson University (Teaneck) — 6 miles",
+      "Felician University (Rutherford) — 4 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Most affordable housing in Bergen County",
+      "Tight-knit community with active civic life",
+      "Proximity to major highways and Teterboro Airport",
+      "Close to Meadowlands entertainment and sports complex",
+      "Small-town feel within minutes of New York City"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "30-50 minutes to Port Authority",
+      "busRoutes": ["165", "168"],
+      "notes": "Moonachie is well-positioned for commuting via NJ Transit bus service to the Port Authority. Residents also use nearby Route 17 and the NJ Turnpike for driving commutes. The Lincoln Tunnel and George Washington Bridge are both accessible within 20 minutes."
+    },
+    "costOfLiving": {
+      "summary": "Moonachie is one of the most affordable communities in Bergen County, with lower home prices and property taxes than most neighboring towns.",
+      "vsStateAverage": "At or slightly below the New Jersey average for housing costs",
+      "vsNationalAverage": "Somewhat above the national average, primarily due to property taxes"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Very affordable by Bergen County standards",
+        "Strong community spirit and neighbor-to-neighbor support",
+        "Excellent highway access for commuters",
+        "Close to Meadowlands entertainment (MetLife Stadium, American Dream)",
+        "Compact borough where everything is within walking distance"
+      ],
+      "cons": [
+        "Flood risk due to low elevation in the Meadowlands",
+        "Flood insurance can add significant costs for homeowners",
+        "Limited local shopping and dining options",
+        "Aircraft noise from nearby Teterboro Airport",
+        "Small school district with limited course offerings at upper grades"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Moonachie Diner",
+        "description": "Classic New Jersey diner serving breakfast, lunch, and dinner with a full menu of American favorites.",
+        "address": "Moonachie Avenue, Moonachie, NJ",
+        "category": "American/Diner"
+      },
+      {
+        "name": "Il Villaggio",
+        "description": "Italian restaurant offering traditional pasta dishes, pizza, and seafood in a family setting.",
+        "address": "Moonachie Avenue, Moonachie, NJ",
+        "category": "Italian"
+      },
+      {
+        "name": "Redd's Restaurant & Bar",
+        "description": "Local bar and grill popular with residents for casual dining and drinks.",
+        "address": "Moonachie Road, Moonachie, NJ",
+        "category": "American/Bar & Grill"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Joseph P. Tynan Memorial Park",
+        "description": "Borough park with playground, sports fields, and a memorial to local veterans.",
+        "address": "Moonachie, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Moonachie Recreation Area",
+        "description": "Open space with ball fields and recreational facilities for residents.",
+        "address": "Moonachie, NJ",
+        "category": "Recreation Area"
+      },
+      {
+        "name": "Meadowlands Environment Center (nearby)",
+        "description": "Environmental education center and nature trails in the Meadowlands, just minutes from Moonachie.",
+        "address": "2 DeKorte Park Plaza, Lyndhurst, NJ",
+        "category": "Nature/Education"
+      }
+    ],
+    "events": [
+      {
+        "name": "Moonachie Day",
+        "description": "Annual borough celebration with food vendors, games, live music, and community activities.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community tree lighting ceremony with refreshments and festive activities.",
+        "when": "December (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Teterboro Airport",
+        "description": "General aviation airport adjacent to Moonachie, one of the busiest in the New York metro area.",
+        "address": "111 Industrial Avenue, Teterboro, NJ",
+        "category": "Aviation/Landmark"
+      },
+      {
+        "name": "American Dream Mall (nearby)",
+        "description": "Massive entertainment and retail complex in the Meadowlands featuring a water park, amusement park, and shopping.",
+        "address": "1 American Dream Way, East Rutherford, NJ",
+        "category": "Entertainment/Shopping"
+      },
+      {
+        "name": "MetLife Stadium (nearby)",
+        "description": "Home of the NFL's Giants and Jets, located in the Meadowlands Sports Complex minutes from Moonachie.",
+        "address": "1 MetLife Stadium Drive, East Rutherford, NJ",
+        "category": "Sports/Entertainment"
+      }
+    ],
+    "shoppingAreas": [
+      "Moonachie Avenue local shops",
+      "Route 17 retail corridor (nearby)",
+      "American Dream Mall (East Rutherford)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Dennis Vaccaro",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Nicholas Surace", "title": "Council Member" },
+      { "name": "Raymond Piekarski", "title": "Council Member" },
+      { "name": "David Giardino", "title": "Council Member" },
+      { "name": "Paul Hannan", "title": "Council Member" },
+      { "name": "Anthony Giannetta", "title": "Council Member" },
+      { "name": "Stephen Wronko", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Thursday of each month at 7:00 PM",
+    "meetingLocation": "Moonachie Borough Hall, 70 Moonachie Avenue",
+    "municipalWebsite": "https://www.moonachie.us",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 641-1813",
+        "email": "clerk@moonachie.us",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 641-1813",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 641-1813",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-4032",
+      "address": "70 Moonachie Avenue, Moonachie, NJ 07074"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-5078",
+      "address": "Moonachie, NJ 07074"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-4032",
+      "address": "Moonachie, NJ 07074"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Clara Maass Medical Center",
+        "address": "1 Clara Maass Drive, Belleville, NJ 07109",
+        "phone": "(973) 450-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-0850",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "FEMA Flood Insurance", "number": "1-800-427-4661" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

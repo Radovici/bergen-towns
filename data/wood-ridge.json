@@ -1,0 +1,534 @@
+{
+  "meta": {
+    "slug": "wood-ridge",
+    "name": "Wood-Ridge",
+    "fullName": "Borough of Wood-Ridge",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "wood-ridge.info",
+    "zipCodes": ["07075"],
+    "themeColor": "#6a1b9a",
+    "accentColor": "#8e24aa"
+  },
+  "overview": {
+    "tagline": "A friendly hilltop borough with a vibrant downtown, strong schools, and unbeatable convenience",
+    "description": "The Borough of Wood-Ridge is a compact, welcoming community situated on a prominent ridge in southern Bergen County. Despite its small size, Wood-Ridge punches above its weight with a lively downtown along Valley Boulevard and Hackensack Street, well-regarded schools, and a proud community spirit. The borough's elevated position offers scenic views, and its location near major highways, retail corridors, and the Meadowlands makes it exceptionally convenient for commuters and families alike.",
+    "population": 9253,
+    "populationYear": 2020,
+    "areaSqMi": 1.08,
+    "elevation": "110 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Wood-Ridge Public Schools",
+    "highlights": [
+      "Charming downtown along Valley Boulevard with local restaurants and shops",
+      "Elevated hilltop location with views of the Manhattan skyline",
+      "Strong K-12 school district with small-town attention",
+      "Excellent highway access via Route 17 and Route 46",
+      "Active community events and strong civic pride"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$500,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.85%",
+    "averagePropertyTax": "$11,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Wood-Ridge's housing stock includes a charming mix of Cape Cods, Colonials, split-levels, and newer construction.",
+    "recentTrends": "Wood-Ridge has experienced strong price appreciation, driven by its affordability relative to neighboring towns, convenient location, and walkable downtown. First-time buyers and young families are particularly active in the market. Updated homes and new construction command premium prices.",
+    "neighborhoodNotes": [
+      "Valley Boulevard area — Walking distance to downtown shops and restaurants",
+      "Highland Avenue section — Elevated homes with some Manhattan skyline views",
+      "Hackensack Street area — Mix of residential and commercial along the main route",
+      "Wood-Ridge Heights — Homes on the higher elevation with larger lots",
+      "Route 17 corridor area — Newer construction and townhomes near retail"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment through DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 939-0202",
+      "contactUrl": "https://www.njwoodridge.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly for all residential properties.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on recycling day",
+        "Yard waste collected seasonally",
+        "Recycling bins available from the borough",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 939-0202",
+      "contactUrl": "https://www.njwoodridge.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer services are provided by the Borough of Wood-Ridge.",
+      "details": [
+        "Municipal water system operated by the Borough",
+        "Sewer service maintained by Borough DPW",
+        "Quarterly billing for water and sewer",
+        "Water quality reports published annually",
+        "Emergency water repairs available 24/7"
+      ],
+      "contactPhone": "(201) 939-0202",
+      "contactUrl": "https://www.njwoodridge.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 939-0202",
+      "contactUrl": "https://www.njwoodridge.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages parking in the downtown area and residential zones.",
+      "details": [
+        "Street parking available in the downtown area with time limits",
+        "Municipal parking lot near Valley Boulevard",
+        "Overnight parking restrictions on certain streets",
+        "Snow emergency parking bans enforced",
+        "Free parking available in some commercial areas"
+      ],
+      "contactPhone": "(201) 939-2100",
+      "contactUrl": "https://www.njwoodridge.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Wood-Ridge Memorial Library",
+        "description": "Community library offering books, digital resources, and programs.",
+        "details": [
+          "Located at 231 Hackensack Street",
+          "Children's programs, teen events, and adult book clubs",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 438-2455",
+        "contactUrl": "https://www.woodridgememoriallibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues including baseball, soccer, and basketball",
+          "Adult programs and senior activities",
+          "Summer camp and after-school programs",
+          "Community events and holiday celebrations"
+        ],
+        "contactPhone": "(201) 939-0202",
+        "contactUrl": "https://www.njwoodridge.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Wood-Ridge enforces noise regulations to maintain residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Loud music and amplified sound restricted after 10:00 PM",
+        "Leaf blowers and power equipment restricted to daytime hours"
+      ],
+      "source": "Borough of Wood-Ridge Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Sidewalk snow removal required within 24 hours after snowfall",
+        "Fences must comply with height regulations",
+        "Abandoned vehicles must be removed from property",
+        "Property exteriors must be maintained in good repair"
+      ],
+      "source": "Borough of Wood-Ridge Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Wood-Ridge requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking subject to complaints and fines",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Wood-Ridge Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated on borough streets for safety and access.",
+      "keyRules": [
+        "No overnight parking on borough streets between 2:00 AM and 6:00 AM",
+        "Time limits in the downtown business district",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles prohibited from residential streets overnight",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Wood-Ridge Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Inspections required at change of tenancy",
+        "Landlords must maintain properties to housing code standards",
+        "Fire safety requirements for multi-family units",
+        "Certificate of Occupancy required for rental units"
+      ],
+      "source": "Borough of Wood-Ridge Code"
+    },
+    "other": [
+      {
+        "title": "Garage Sales",
+        "summary": "Garage and yard sales are permitted with restrictions.",
+        "keyRules": [
+          "Permit required from the Borough Clerk",
+          "Limited number of sales per year per household",
+          "Sales restricted to designated hours",
+          "Signs must be removed promptly after the sale"
+        ],
+        "source": "Borough of Wood-Ridge Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Wood-Ridge Public Schools",
+    "publicSchools": [
+      {
+        "name": "Wood-Ridge High School",
+        "grades": "7-12",
+        "rating": 6,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "Combined junior and senior high school known for strong academics, athletics, and community involvement"
+      },
+      {
+        "name": "Catherine E. Doyle Elementary School",
+        "grades": "K-3",
+        "rating": 6,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Primary school serving all Wood-Ridge students in grades K-3"
+      },
+      {
+        "name": "Robert L. Craig Intermediate School",
+        "grades": "4-6",
+        "rating": 6,
+        "enrollment": 280,
+        "type": "public",
+        "notes": "Intermediate school serving Wood-Ridge students in grades 4-6"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Assumption School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic parish school serving the Wood-Ridge community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck) — 10 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Felician University (Lodi/Rutherford) — 10 minutes",
+      "Rutgers University (Newark) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Walkable downtown with local restaurants and shops",
+      "Affordable by Bergen County standards with strong community",
+      "Excellent highway access via Route 17, Route 46, and Route 3",
+      "Manhattan skyline views from elevated sections of the borough",
+      "K-12 school district with small-town feel",
+      "Active community events and civic organizations"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "30-50 minutes to Port Authority Bus Terminal",
+      "busRoutes": ["NJ Transit Bus 161", "NJ Transit Bus 165"],
+      "notes": "Wood-Ridge residents commute to NYC primarily via NJ Transit bus service along Hackensack Street and Valley Boulevard with routes to the Port Authority Bus Terminal. The commute is approximately 30-50 minutes depending on traffic. The nearby Wesmont station area and connections at Secaucus Junction provide additional options."
+    },
+    "costOfLiving": {
+      "summary": "Wood-Ridge offers an affordable entry point to Bergen County living, with home prices below the county median and a compact community that minimizes daily expenses.",
+      "vsStateAverage": "Approximately 20% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 45% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable homes by Bergen County standards",
+        "Charming downtown with restaurants and local businesses",
+        "Great highway accessibility for commuting",
+        "Strong community spirit with active civic organizations",
+        "Elevated location with scenic views"
+      ],
+      "cons": [
+        "No NJ Transit rail station within the borough",
+        "Compact borough with smaller lot sizes",
+        "Proximity to Teterboro Airport means occasional aircraft noise",
+        "Property taxes remain significant by national standards",
+        "Limited parkland due to small borough size"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Vesta Wood Fired Pizza & Bar",
+        "description": "Popular restaurant featuring artisan wood-fired pizzas, creative cocktails, and a modern atmosphere.",
+        "address": "221 Valley Boulevard, Wood-Ridge, NJ 07075",
+        "category": "Pizza/Italian"
+      },
+      {
+        "name": "Kiku Japanese Restaurant",
+        "description": "Japanese restaurant offering sushi, sashimi, hibachi, and traditional Japanese dishes.",
+        "address": "Valley Boulevard, Wood-Ridge, NJ 07075",
+        "category": "Japanese/Sushi"
+      },
+      {
+        "name": "Maria's Restaurant",
+        "description": "Family-owned Italian restaurant serving homestyle pasta, seafood, and classic Italian-American dishes.",
+        "address": "Hackensack Street, Wood-Ridge, NJ 07075",
+        "category": "Italian"
+      },
+      {
+        "name": "Wood-Ridge Diner",
+        "description": "Classic New Jersey diner serving breakfast, lunch, and dinner with a comprehensive American menu.",
+        "address": "Valley Boulevard, Wood-Ridge, NJ 07075",
+        "category": "American/Diner"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Borough's main park featuring sports fields, playground equipment, basketball courts, and a memorial honoring local veterans.",
+        "address": "Highland Avenue, Wood-Ridge, NJ 07075",
+        "category": "Recreation/Memorial"
+      },
+      {
+        "name": "Bianchi Field",
+        "description": "Sports complex with baseball and softball fields, used for youth leagues and community events.",
+        "address": "Wood-Ridge, NJ 07075",
+        "category": "Sports"
+      },
+      {
+        "name": "Borough Park",
+        "description": "Neighborhood park with playground, picnic area, and open green space.",
+        "address": "Wood-Ridge, NJ 07075",
+        "category": "Park/Playground"
+      }
+    ],
+    "events": [
+      {
+        "name": "Wood-Ridge Street Fair",
+        "description": "Annual street fair along Valley Boulevard featuring food vendors, crafts, live entertainment, and family activities.",
+        "when": "Spring, typically May"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade through the borough honoring veterans and fallen service members.",
+        "when": "Memorial Day, last Monday in May"
+      },
+      {
+        "name": "Holiday Tree Lighting & Festivities",
+        "description": "Community holiday celebration with tree lighting, caroling, refreshments, and a visit from Santa.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Valley Boulevard Downtown",
+        "description": "Wood-Ridge's main street featuring local restaurants, pizzerias, bakeries, and shops in a walkable setting.",
+        "address": "Valley Boulevard, Wood-Ridge, NJ 07075",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Manhattan Skyline Views",
+        "description": "The elevated sections of Wood-Ridge, particularly along Highland Avenue, offer scenic views of the Manhattan skyline, especially striking at sunset.",
+        "category": "Scenic"
+      }
+    ],
+    "shoppingAreas": [
+      "Valley Boulevard — Downtown restaurants and local shops",
+      "Hackensack Street — Additional businesses and services",
+      "Route 17 corridor (nearby) — Major retail stores",
+      "Garden State Plaza (Paramus) — Major mall a short drive north"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Craig Lapsley",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Ezio Altamura",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Joseph Falco",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Catherine Cassidy",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Dominick Azzolini",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Robert Riccardella",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Lisa Giordano",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 1st and 3rd Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 85 Humboldt Street, Wood-Ridge, NJ 07075",
+    "municipalWebsite": "https://www.njwoodridge.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 939-0202",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 939-0202",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 939-0202",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 939-0202",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-2100",
+      "address": "85 Humboldt Street, Wood-Ridge, NJ 07075"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-1468",
+      "address": "Valley Boulevard, Wood-Ridge, NJ 07075"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-2100",
+      "address": "Wood-Ridge, NJ 07075"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Borough of Wood-Ridge Water Department",
+        "phone": "(201) 939-0202"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Wood-Ridge DPW",
+        "phone": "(201) 939-0202"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Wood-Ridge Police (Non-Emergency)",
+        "number": "(201) 939-2100"
+      },
+      {
+        "label": "Wood-Ridge Fire Department",
+        "number": "(201) 939-1468"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 939-0202"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

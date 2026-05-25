@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "slug": "cliffside-park",
+    "name": "Cliffside Park",
+    "fullName": "Borough of Cliffside Park",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "cliffside-park.info",
+    "zipCodes": ["07010"],
+    "themeColor": "#2d5a8c",
+    "accentColor": "#5a9bd5"
+  },
+  "overview": {
+    "tagline": "High-rise living on the Palisades with sweeping Manhattan views",
+    "description": "Cliffside Park is a densely populated borough perched along the eastern edge of the Palisades in Bergen County. Known for its dramatic Manhattan skyline views and high-rise residential buildings along Anderson Avenue, Cliffside Park is a melting pot of cultures with particularly strong Korean, Hispanic, and South Asian communities. The borough combines urban-style density with access to the Palisades Interstate Park and is a popular choice for NYC commuters seeking lower rents than Manhattan with comparable views.",
+    "population": 25741,
+    "populationYear": 2020,
+    "areaSqMi": 0.89,
+    "elevation": "50-300 ft (along the Palisades)",
+    "incorporated": "1895",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Cliffside Park School District",
+    "highlights": [
+      "Stunning Manhattan skyline and Hudson River views from the Palisades",
+      "One of New Jersey's most densely populated municipalities",
+      "Rich multicultural community with diverse dining options",
+      "Former site of Palisades Amusement Park (1898-1971)",
+      "Adjacent to Palisades Interstate Park trails and overlooks"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$420,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.05%",
+    "averagePropertyTax": "$8,500",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. High-rise condominiums and co-ops dominate the market.",
+    "recentTrends": "Cliffside Park's condo market is active, with demand driven by views and NYC proximity. New luxury high-rise developments continue to transform the skyline. Co-ops remain an affordable entry point, while newer condos with amenities command premium prices.",
+    "neighborhoodNotes": [
+      "Anderson Avenue is the main corridor with high-rise residential buildings offering skyline views",
+      "The Palisade Avenue area features older buildings and some single-family homes",
+      "Gorge Road area offers more affordable options on the western slope",
+      "New luxury developments near the cliff edge command the highest prices"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection provided twice weekly. High-rise buildings have their own private haulers.",
+      "details": [
+        "Single-family and small multi-family collection on designated days",
+        "High-rise buildings arrange private carting services",
+        "Trash must be in sealed bags or covered containers",
+        "Bulk item pickup by appointment with DPW"
+      ],
+      "contactPhone": "201-945-3456",
+      "contactUrl": "https://www.cliffsidepark.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly recycling collection through the BCUA program. High-rises handle recycling through building management.",
+      "details": [
+        "Commingled recyclables in blue bins for single-family homes",
+        "High-rise buildings have central recycling areas",
+        "Paper, cardboard, plastic, glass, and cans accepted",
+        "No Styrofoam or plastic bags"
+      ],
+      "contactPhone": "201-945-3456",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water. Sewer service managed through the borough and BCUA.",
+      "details": [
+        "Water bills issued quarterly",
+        "High-rise buildings may bill water through condo/co-op fees",
+        "Sewer charges on tax bills or building management fees",
+        "Report water main breaks to Borough DPW"
+      ],
+      "contactPhone": "201-945-3456",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Building Department processes construction permits for both residential and high-rise projects.",
+      "details": [
+        "Permits required for all construction, renovation, and alteration work",
+        "High-rise projects require additional fire safety and structural review",
+        "Zoning Board handles variance applications",
+        "Applications at Borough Hall or online"
+      ],
+      "contactPhone": "201-945-3456"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking is at a premium in this densely developed borough. Municipal lots and street parking available.",
+      "details": [
+        "Resident parking permits available for designated streets",
+        "Metered parking in commercial areas",
+        "Many high-rises include garage parking for residents",
+        "Overnight street parking heavily restricted"
+      ],
+      "contactPhone": "201-945-3456"
+    },
+    "additionalServices": [
+      {
+        "title": "Jitney Bus Service",
+        "description": "Local jitney bus service provides affordable transportation within the borough and to nearby towns.",
+        "details": [
+          "Routes along Anderson Avenue and connecting streets",
+          "Affordable fares for local trips",
+          "Connects to NJ Transit bus stops"
+        ],
+        "contactPhone": "201-945-3456"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Strict noise regulations given the dense, high-rise residential character.",
+      "keyRules": [
+        "Construction noise prohibited before 8:00 AM and after 6:00 PM weekdays",
+        "Saturday construction 9:00 AM to 5:00 PM only",
+        "No construction on Sundays or holidays",
+        "High-rise residents must comply with building-specific noise policies as well"
+      ],
+      "source": "Borough of Cliffside Park Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners and building managers must maintain properties to code.",
+      "keyRules": [
+        "Building facades must be maintained and inspected periodically",
+        "Sidewalks must be kept clear and in good repair",
+        "Snow removal within 24 hours of snowfall",
+        "Building managers responsible for common area maintenance"
+      ],
+      "source": "Borough of Cliffside Park Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet ownership subject to borough licensing and building-specific rules.",
+      "keyRules": [
+        "Dogs must be licensed annually with the Borough Clerk",
+        "Leash required at all times in public areas",
+        "Pet waste must be cleaned up immediately",
+        "Many high-rise buildings have their own pet policies and weight limits"
+      ],
+      "source": "Borough of Cliffside Park Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is strictly regulated given the borough's density.",
+      "keyRules": [
+        "Resident parking permits required for overnight street parking",
+        "No parking during snow emergencies",
+        "Commercial vehicles restricted in residential areas",
+        "Alternate side parking enforced for street cleaning"
+      ],
+      "source": "Borough of Cliffside Park Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Many residents are renters; rental units must meet borough standards.",
+      "keyRules": [
+        "Rental registration required for all units",
+        "Certificate of Habitability required before occupancy",
+        "Co-op and condo boards may have additional subletting rules",
+        "Fire safety inspections required for multi-family and high-rise buildings"
+      ],
+      "source": "Borough of Cliffside Park Municipal Code"
+    },
+    "other": [
+      {
+        "title": "High-Rise Building Safety",
+        "summary": "Special regulations apply to the borough's many high-rise residential buildings.",
+        "keyRules": [
+          "Regular fire safety inspections required",
+          "Sprinkler and fire alarm systems must be maintained",
+          "Emergency evacuation plans must be posted and updated",
+          "Facade inspections required periodically per state law"
+        ],
+        "source": "Borough of Cliffside Park Municipal Code / NJ DCA"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Cliffside Park School District",
+    "publicSchools": [
+      {
+        "name": "School #1",
+        "grades": "PreK-2",
+        "rating": 4,
+        "enrollment": 300,
+        "type": "public"
+      },
+      {
+        "name": "School #3",
+        "grades": "PreK-2",
+        "rating": 4,
+        "enrollment": 280,
+        "type": "public"
+      },
+      {
+        "name": "School #4",
+        "grades": "3-5",
+        "rating": 4,
+        "enrollment": 350,
+        "type": "public"
+      },
+      {
+        "name": "School #6",
+        "grades": "3-5",
+        "rating": 4,
+        "enrollment": 320,
+        "type": "public"
+      },
+      {
+        "name": "Cliffside Park Middle School",
+        "grades": "6-8",
+        "rating": 4,
+        "enrollment": 450,
+        "type": "public"
+      },
+      {
+        "name": "Cliffside Park High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Red Raiders; offers AP courses and vocational programs"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Epiphany School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school serving the parish community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Saint Peter's University (Jersey City)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Stunning Manhattan skyline views from high-rise condos",
+      "Diverse international dining scene",
+      "Quick bus commute to Midtown Manhattan",
+      "Affordable alternative to similar views in Fort Lee or Edgewater",
+      "Access to Palisades Interstate Park for outdoor recreation"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus to Port Authority or GWB",
+      "duration": "20-40 minutes by bus",
+      "busRoutes": ["156", "159"],
+      "notes": "NJ Transit buses along Anderson Avenue provide frequent service to the George Washington Bridge Bus Station and Port Authority. The commute is one of the shortest in Bergen County. Jitney services supplement NJ Transit. Driving to the GWB takes about 10 minutes."
+    },
+    "costOfLiving": {
+      "summary": "Cliffside Park offers relatively affordable living for the views and NYC proximity it provides, especially in co-op buildings.",
+      "vsStateAverage": "Above the state average, primarily in housing costs",
+      "vsNationalAverage": "Significantly above the national average due to metro NYC location"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Manhattan skyline views at a fraction of NYC prices",
+        "Very short commute to NYC",
+        "Culturally diverse with excellent international dining",
+        "Active street life and urban energy",
+        "Adjacent to Palisades Interstate Park"
+      ],
+      "cons": [
+        "Extremely dense with limited green space within the borough",
+        "Parking can be very difficult and expensive",
+        "Heavy traffic congestion on main roads",
+        "Aging building stock in older high-rises",
+        "Limited single-family home options"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Sabor Peruano",
+        "description": "Authentic Peruvian cuisine featuring ceviche, lomo saltado, and other traditional dishes.",
+        "address": "620 Anderson Ave, Cliffside Park, NJ 07010",
+        "category": "Peruvian"
+      },
+      {
+        "name": "Hiram's Roadstand",
+        "description": "Legendary hot dog stand and no-frills eatery that has served Bergen County since 1932.",
+        "address": "1345 Palisade Ave, Fort Lee, NJ 07024",
+        "category": "American"
+      },
+      {
+        "name": "Chung Sol Bat",
+        "description": "Korean charcoal BBQ restaurant popular with the local Korean community.",
+        "address": "Anderson Ave, Cliffside Park, NJ 07010",
+        "category": "Korean BBQ"
+      },
+      {
+        "name": "Andrea Salumeria",
+        "description": "Classic Italian deli and sandwich shop beloved by locals for decades.",
+        "address": "247 Anderson Ave, Cliffside Park, NJ 07010",
+        "category": "Italian Deli"
+      },
+      {
+        "name": "Empanada Mama",
+        "description": "Latin American eatery specializing in handmade empanadas and Colombian favorites.",
+        "address": "Anderson Ave, Cliffside Park, NJ 07010",
+        "category": "Colombian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Palisades Interstate Park — Cliffside Park Section",
+        "description": "The Palisades cliffs along the borough's eastern edge are part of the Interstate Park system, with trails and scenic overlooks.",
+        "category": "State Park"
+      },
+      {
+        "name": "Veteran's Memorial Park",
+        "description": "Borough park with playground, courts, and open space — one of the few green areas in this dense community.",
+        "address": "Anderson Ave, Cliffside Park, NJ 07010",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Palisade Avenue Overlook",
+        "description": "Scenic viewpoint offering panoramic views of the Hudson River and Manhattan skyline.",
+        "category": "Scenic Overlook"
+      }
+    ],
+    "events": [
+      {
+        "name": "Cliffside Park Street Fair",
+        "description": "Annual fair along Anderson Avenue with food vendors, crafts, live music, and family activities.",
+        "when": "Spring or Fall"
+      },
+      {
+        "name": "Independence Day Celebration",
+        "description": "Community celebration with viewing of fireworks over the Hudson River and NYC skyline from the Palisades.",
+        "when": "July 4th"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday celebration with tree lighting, entertainment, and seasonal festivities.",
+        "when": "December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Former Palisades Amusement Park Site",
+        "description": "The site of the legendary Palisades Amusement Park (1898-1971), now occupied by high-rise apartments. A historic plaque commemorates the park's legacy.",
+        "address": "Anderson Ave at Winston Drive, Cliffside Park, NJ 07010",
+        "category": "Historic Site"
+      },
+      {
+        "name": "Cliffside Park Public Library",
+        "description": "Community library serving the borough with programs, digital resources, and multilingual collections.",
+        "address": "505 Palisade Ave, Cliffside Park, NJ 07010",
+        "category": "Library"
+      }
+    ],
+    "shoppingAreas": [
+      "Anderson Avenue commercial corridor",
+      "Palisade Avenue shops",
+      "Edgewater Commons and City Place (nearby Edgewater)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Thomas Calabrese",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Scott Sargent", "title": "Council President" },
+      { "name": "Gerald Shonk", "title": "Council Member" },
+      { "name": "Donna Ribaudo-Mattessich", "title": "Council Member" },
+      { "name": "Michael Pirro", "title": "Council Member" },
+      { "name": "Manny Interiano", "title": "Council Member" },
+      { "name": "Salvatore Giardino", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Cliffside Park Borough Hall, 525 Palisade Ave, Cliffside Park, NJ 07010",
+    "municipalWebsite": "https://www.cliffsidepark.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-945-3456",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-945-3456",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-945-3456",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-945-3456",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-945-3600",
+      "address": "525 Palisade Ave, Cliffside Park, NJ 07010"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-945-3456",
+      "address": "Cliffside Park Fire Department, Cliffside Park, NJ 07010"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-945-3456"
+    },
+    "hospitals": [
+      {
+        "name": "Palisades Medical Center (Hackensack Meridian)",
+        "address": "7600 River Rd, North Bergen, NJ 07047",
+        "phone": "201-854-5000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

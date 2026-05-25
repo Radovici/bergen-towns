@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "slug": "east-rutherford",
+    "name": "East Rutherford",
+    "fullName": "Borough of East Rutherford",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "east-rutherford.info",
+    "zipCodes": ["07073"],
+    "themeColor": "#8b1a1a",
+    "accentColor": "#c44d4d"
+  },
+  "overview": {
+    "tagline": "Home of the Meadowlands — where sports, entertainment, and community converge",
+    "description": "East Rutherford is a borough in southeastern Bergen County best known as the home of MetLife Stadium, the Meadowlands Racetrack, and the American Dream mega-complex. While the Meadowlands Sports Complex dominates its southern portion, the borough's northern residential section is a charming, working-class community with a strong Italian-American heritage, close-knit neighborhoods, and a walkable commercial district along Park Avenue. East Rutherford uniquely straddles major entertainment venues and small-town community life.",
+    "population": 9690,
+    "populationYear": 2020,
+    "areaSqMi": 4.02,
+    "elevation": "5-100 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "East Rutherford School District (K-8) / Becton Regional High School District (9-12)",
+    "highlights": [
+      "Home of MetLife Stadium — NFL's New York Giants and New York Jets",
+      "American Dream mega entertainment and retail complex",
+      "Meadowlands Racetrack — thoroughbred and harness racing",
+      "Charming residential community with strong Italian-American roots",
+      "Exceptional highway access — NJ Turnpike, Routes 3, 17, and 120"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$470,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "1.90%",
+    "averagePropertyTax": "$8,000",
+    "assessmentInfo": "East Rutherford benefits from one of Bergen County's lowest residential tax rates thanks to substantial commercial ratables from the Meadowlands Sports Complex and surrounding businesses.",
+    "recentTrends": "The housing market is competitive, driven by low taxes and the borough's excellent location. Single-family homes in the residential section sell quickly. New townhouse and condo developments have added modern housing options. The proximity to the Meadowlands entertainment venues adds to the borough's appeal.",
+    "neighborhoodNotes": [
+      "The Park Avenue area is the walkable commercial heart with traditional single-family homes",
+      "Carlton Hill offers elevated homes with views toward the Manhattan skyline",
+      "Meadowlands area is commercial/entertainment — no residential",
+      "Newer townhouse developments near Route 17 offer modern amenities"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup provided twice weekly by the borough's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood",
+        "Trash in sealed bags or covered containers by 6:00 AM",
+        "Maximum weight 50 lbs per container",
+        "Bulk pickup by appointment through DPW"
+      ],
+      "contactPhone": "201-933-3444",
+      "contactUrl": "https://www.eastrutherfordnj.net"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly recycling through the Bergen County Utilities Authority.",
+      "details": [
+        "Commingled recyclables in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food waste",
+        "BCUA drop-off available for special items"
+      ],
+      "contactPhone": "201-933-3444",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water provided by Veolia Water. Sewer managed through the borough and BCUA.",
+      "details": [
+        "Quarterly water billing from Veolia",
+        "Sewer charges on property tax bills",
+        "Report water emergencies to DPW",
+        "Water quality reports available annually"
+      ],
+      "contactPhone": "201-933-3444",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "Construction and zoning permits handled by the Building Department.",
+      "details": [
+        "Permits required for all construction and renovation",
+        "Special permits may be required in the Meadowlands district",
+        "Zoning Board reviews variance applications",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "201-933-3444"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Municipal parking available in the downtown area. Meadowlands venues have extensive event parking.",
+      "details": [
+        "Free municipal parking near Park Avenue",
+        "Metered parking in the business district",
+        "Event-day parking at MetLife Stadium and American Dream is separate",
+        "Overnight street parking requires permit"
+      ],
+      "contactPhone": "201-933-3444"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Department",
+        "description": "Active recreation department offering programs for all ages.",
+        "details": [
+          "Youth sports leagues and summer camps",
+          "Adult recreation and fitness programs",
+          "Senior citizen activities and trips",
+          "Borough pool open in summer"
+        ],
+        "contactPhone": "201-933-3444"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Noise regulations balance residential quiet with the borough's commercial and entertainment activity.",
+      "keyRules": [
+        "Residential construction prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Event noise at Meadowlands venues regulated by NJSEA"
+      ],
+      "source": "Borough of East Rutherford Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained to borough standards.",
+      "keyRules": [
+        "Lawns must be maintained and kept below 10 inches",
+        "Sidewalks must be cleared of snow within 24 hours",
+        "No junk vehicles or debris accumulation",
+        "Exterior maintenance required for all structures"
+      ],
+      "source": "Borough of East Rutherford Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Standard pet control and licensing requirements.",
+      "keyRules": [
+        "Annual dog license required",
+        "Dogs must be leashed off owner's property",
+        "Clean up after pets immediately",
+        "Rabies vaccination required"
+      ],
+      "source": "Borough of East Rutherford Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street and lot parking regulated throughout the borough, with special rules on event days.",
+      "keyRules": [
+        "No overnight street parking without permit",
+        "Event-day parking restrictions near Meadowlands venues",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicle restrictions in residential areas"
+      ],
+      "source": "Borough of East Rutherford Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must be registered and meet housing code.",
+      "keyRules": [
+        "Rental registration required",
+        "Certificate of Habitability at tenant turnover",
+        "Inspections before new tenant occupancy",
+        "Landlords responsible for code compliance"
+      ],
+      "source": "Borough of East Rutherford Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Meadowlands District Regulations",
+        "summary": "Properties in the Meadowlands district are subject to additional NJSEA oversight.",
+        "keyRules": [
+          "Development in the Meadowlands zone requires NJSEA approval",
+          "Environmental review required for wetlands-adjacent projects",
+          "Special event-day traffic management plans enforced",
+          "Stormwater management requirements in flood-prone areas"
+        ],
+        "source": "NJ Meadowlands Commission / NJSEA"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "East Rutherford School District / Becton Regional High School District",
+    "publicSchools": [
+      {
+        "name": "McKenzie Elementary School",
+        "grades": "PreK-4",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public"
+      },
+      {
+        "name": "Alfred S. Faust Intermediate School",
+        "grades": "5-8",
+        "rating": 5,
+        "enrollment": 300,
+        "type": "public"
+      },
+      {
+        "name": "Henry P. Becton Regional High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Regional high school serving East Rutherford and Carlstadt. Wildcats; offers AP courses and career-technical programs."
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Joseph School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school affiliated with St. Joseph Parish in East Rutherford"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck and Metropolitan Campus)",
+      "Bergen Community College (Paramus)",
+      "Felician University (Lodi/Rutherford)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Among the lowest property tax rates in Bergen County (thanks to Meadowlands ratables)",
+      "Walking distance to MetLife Stadium, American Dream, and world-class entertainment",
+      "Charming residential neighborhood with Italian-American character",
+      "Excellent highway access to NJ Turnpike, Routes 3 and 17",
+      "Walkable Park Avenue downtown"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus or train from nearby Secaucus Junction",
+      "duration": "25-40 minutes",
+      "trainStation": "Secaucus Junction (nearby, NJ Transit Northeast Corridor and other lines)",
+      "busRoutes": ["160", "163", "165"],
+      "notes": "NJ Transit buses provide direct service to the Port Authority Bus Terminal. Secaucus Junction, a major NJ Transit rail hub, is just minutes away for connections to Penn Station. Driving to the Lincoln Tunnel takes 15-20 minutes. The NJ Turnpike and Route 3 provide excellent highway access."
+    },
+    "costOfLiving": {
+      "summary": "East Rutherford offers excellent value thanks to low property taxes subsidized by the massive commercial ratable base of the Meadowlands complex.",
+      "vsStateAverage": "Property taxes well below the Bergen County and NJ averages; housing costs near average",
+      "vsNationalAverage": "Above the national average overall, but property taxes are competitive"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Lowest property taxes in Bergen County thanks to Meadowlands ratables",
+        "World-class entertainment at MetLife Stadium and American Dream",
+        "Excellent highway and transit access",
+        "Charming residential community with strong identity",
+        "Growing real estate investment and new development"
+      ],
+      "cons": [
+        "Heavy event-day traffic near Meadowlands venues",
+        "Industrial/commercial zones adjacent to residential areas",
+        "Meadowlands area can experience occasional odor",
+        "Flood risk in low-lying areas",
+        "Small school district"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Park & Orchard",
+        "description": "Eclectic, beloved restaurant serving creative American cuisine in a quirky, art-filled space. A Bergen County institution.",
+        "address": "240 Hackensack St, East Rutherford, NJ 07073",
+        "category": "American"
+      },
+      {
+        "name": "Sonny's Pizza",
+        "description": "Classic New Jersey pizzeria serving pies and Italian favorites, beloved by locals for generations.",
+        "address": "Park Ave, East Rutherford, NJ 07073",
+        "category": "Pizza"
+      },
+      {
+        "name": "Mambo Cafe",
+        "description": "Latin American restaurant and lounge with Cuban and Colombian dishes in a lively setting.",
+        "address": "Park Ave, East Rutherford, NJ 07073",
+        "category": "Latin American"
+      },
+      {
+        "name": "Gia Trattoria",
+        "description": "Italian trattoria with homemade pasta, wood-fired pizza, and a warm neighborhood atmosphere.",
+        "address": "Paterson Ave, East Rutherford, NJ 07073",
+        "category": "Italian"
+      },
+      {
+        "name": "Meadowlands Diner",
+        "description": "Classic NJ diner open late with a massive menu, popular before and after stadium events.",
+        "address": "Route 17, East Rutherford, NJ 07073",
+        "category": "Diner"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Sesselman Park",
+        "description": "Borough park with athletic fields, playground, walking paths, and community gathering space.",
+        "address": "East Rutherford, NJ 07073",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Riggin Memorial Field",
+        "description": "Athletic complex with football field, track, and stands used for school and community events.",
+        "address": "East Rutherford, NJ 07073",
+        "category": "Athletic Complex"
+      },
+      {
+        "name": "DeKorte Park",
+        "description": "Meadowlands nature area (in nearby Lyndhurst) with boardwalk trails, bird watching, and wetlands views.",
+        "address": "1 DeKorte Park Plaza, Lyndhurst, NJ 07071",
+        "category": "Nature Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "East Rutherford Community Day",
+        "description": "Annual borough celebration with food, games, rides, live entertainment, and fireworks.",
+        "when": "Summer"
+      },
+      {
+        "name": "NFL Game Days",
+        "description": "MetLife Stadium hosts 20+ NFL games per season for both the Giants and Jets, bringing tens of thousands of fans to the borough.",
+        "when": "September through January"
+      },
+      {
+        "name": "Columbus Day Parade",
+        "description": "Annual parade celebrating Italian-American heritage, reflecting the borough's cultural roots.",
+        "when": "October"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community holiday event with tree lighting, caroling, and seasonal festivities.",
+        "when": "December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "MetLife Stadium",
+        "description": "82,500-seat stadium home to the NFL's New York Giants and New York Jets. Also hosts major concerts, international soccer matches, and special events.",
+        "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073",
+        "category": "Sports Venue"
+      },
+      {
+        "name": "American Dream",
+        "description": "3-million-square-foot entertainment and retail mega-complex featuring Nickelodeon Universe theme park, DreamWorks Water Park, an NHL-sized ice rink, LEGOLAND Discovery Center, Sea Life Aquarium, and hundreds of stores.",
+        "address": "1 American Dream Way, East Rutherford, NJ 07073",
+        "category": "Entertainment"
+      },
+      {
+        "name": "Meadowlands Racetrack",
+        "description": "Premier harness racing venue with year-round racing, simulcasting, and entertainment events.",
+        "address": "1 Racetrack Dr, East Rutherford, NJ 07073",
+        "category": "Racing"
+      }
+    ],
+    "shoppingAreas": [
+      "Park Avenue downtown shops",
+      "American Dream mega-complex",
+      "Route 17 commercial corridor"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Jeffrey Lahullier",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Dennis Bianchi", "title": "Council President" },
+      { "name": "Joel Brizzi", "title": "Council Member" },
+      { "name": "Edward Ravettine", "title": "Council Member" },
+      { "name": "Joseph Cassella", "title": "Council Member" },
+      { "name": "James Cassella", "title": "Council Member" },
+      { "name": "Peter Fallon", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the first and third Monday of each month at 7:00 PM",
+    "meetingLocation": "East Rutherford Borough Hall, 1 Everett Place, East Rutherford, NJ 07073",
+    "municipalWebsite": "https://www.eastrutherfordnj.net",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-933-3444",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-933-3444",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-933-3444",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-933-3444",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-933-3444",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-438-0165",
+      "address": "1 Everett Place, East Rutherford, NJ 07073"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-933-3444",
+      "address": "East Rutherford Fire Department, East Rutherford, NJ 07073"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-933-3444"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Clara Maass Medical Center",
+        "address": "1 Clara Maass Drive, Belleville, NJ 07109",
+        "phone": "973-450-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" },
+      { "label": "MetLife Stadium Security", "number": "201-559-1300" }
+    ]
+  }
+}

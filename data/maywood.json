@@ -1,0 +1,515 @@
+{
+  "meta": {
+    "slug": "maywood",
+    "name": "Maywood",
+    "fullName": "Borough of Maywood",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "maywood.info",
+    "zipCodes": ["07607"],
+    "themeColor": "#558b2f",
+    "accentColor": "#689f38"
+  },
+  "overview": {
+    "tagline": "A small, welcoming borough with tree-lined streets, friendly neighbors, and hometown charm",
+    "description": "Maywood is a compact, family-friendly borough in central Bergen County known for its tree-lined streets, affordable homes, and strong sense of community. With a population of about 10,000 in just over one square mile, Maywood offers a walkable, neighborly atmosphere where residents know each other and community events bring people together. The borough's central Bergen County location provides convenient access to major shopping, dining, and transportation, while its quiet residential streets offer a respite from the bustle of larger surrounding communities.",
+    "population": 9807,
+    "populationYear": 2020,
+    "areaSqMi": 1.29,
+    "elevation": "55 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Maywood Public Schools",
+    "highlights": [
+      "Compact, walkable borough with a small-town feel",
+      "Affordable homes relative to Bergen County averages",
+      "Active recreation department and community events",
+      "Central location near major shopping and highways",
+      "Strong community identity with engaged residents"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$480,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.10%",
+    "averagePropertyTax": "$11,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Maywood's housing stock is primarily mid-century single-family homes with some two-family and multi-family properties.",
+    "recentTrends": "Maywood has benefited from spillover demand as buyers priced out of more expensive Bergen County towns look for affordable options with good community character. Prices have appreciated steadily, and well-maintained homes sell quickly.",
+    "neighborhoodNotes": [
+      "West Maywood — Quieter residential streets near Saddle Brook border",
+      "East Maywood — Near Hackensack and major shopping areas",
+      "Maywood Avenue area — Central location near schools and borough amenities",
+      "South end — Near Route 17 shopping and the Saddle River"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Maywood.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment through the DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 845-2900",
+      "contactUrl": "https://www.boroughofmaywood.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly by the Borough.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on the same schedule",
+        "Recycling bins available through the DPW",
+        "Yard waste collected seasonally",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 845-2900",
+      "contactUrl": "https://www.boroughofmaywood.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by Veolia Water and sewer service is managed by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water New Jersey",
+        "Sewer service maintained by the Borough DPW",
+        "Quarterly water billing through Veolia",
+        "Water quality reports available online",
+        "Emergency repairs available through the DPW"
+      ],
+      "contactPhone": "(201) 845-2900",
+      "contactUrl": "https://www.boroughofmaywood.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 845-2900",
+      "contactUrl": "https://www.boroughofmaywood.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages on-street parking and regulations throughout the borough.",
+      "details": [
+        "On-street parking available on most residential streets",
+        "No metered parking in the borough",
+        "Overnight parking restrictions on certain streets",
+        "Snow emergency parking bans enforced",
+        "Commuter parking available at nearby Hackensack bus terminal"
+      ],
+      "contactPhone": "(201) 845-2900",
+      "contactUrl": "https://www.boroughofmaywood.com"
+    },
+    "additionalServices": [
+      {
+        "title": "Maywood Public Library",
+        "description": "Public library serving borough residents with books, programs, and community space.",
+        "details": [
+          "Located at 459 Maywood Avenue",
+          "Children's story times and summer reading programs",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 845-2915",
+        "contactUrl": "https://www.maywoodpubliclibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreation programs for all ages.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Senior citizen programs and trips",
+          "Community events and holiday celebrations",
+          "Athletic field and park programs"
+        ],
+        "contactPhone": "(201) 845-2900",
+        "contactUrl": "https://www.boroughofmaywood.com"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Maywood enforces noise regulations to maintain the peaceful character of its residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Power equipment restricted to daytime hours",
+        "Amplified music subject to enforcement after 10:00 PM"
+      ],
+      "source": "Borough of Maywood Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained at a reasonable height",
+        "Sidewalk snow removal required within 24 hours",
+        "Fences must comply with borough height requirements",
+        "Properties must be kept free of debris",
+        "Abandoned vehicles must be removed"
+      ],
+      "source": "Borough of Maywood Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Maywood requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Nuisance barking subject to enforcement",
+        "No exotic or wild animals permitted"
+      ],
+      "source": "Borough of Maywood Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough.",
+      "keyRules": [
+        "Overnight parking restricted on certain borough streets",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles restricted on residential streets",
+        "No parking on lawns or unpaved surfaces",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Maywood Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough housing codes.",
+      "keyRules": [
+        "Rental properties should be registered with the Borough",
+        "Certificate of Habitability may be required",
+        "Landlords must maintain properties to code",
+        "Inspections at change of tenancy",
+        "Multi-family dwellings subject to additional fire codes"
+      ],
+      "source": "Borough of Maywood Code"
+    },
+    "other": [
+      {
+        "title": "Fence Regulations",
+        "summary": "Maywood regulates fence installation to maintain neighborhood character.",
+        "keyRules": [
+          "Fences may not exceed 6 feet in rear yards",
+          "Front yard fences may not exceed 4 feet",
+          "Permit required for new fence installation",
+          "Chain-link fences subject to specific aesthetic requirements"
+        ],
+        "source": "Borough of Maywood Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Maywood Public Schools",
+    "publicSchools": [
+      {
+        "name": "Maywood Avenue Elementary School",
+        "grades": "K-6",
+        "rating": 6,
+        "enrollment": 600,
+        "type": "public",
+        "notes": "Single elementary school serving the borough with a neighborhood school atmosphere"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Our Lady Queen of Peace School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 180,
+        "notes": "Catholic parish school in Maywood"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 10 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "Felician University (Rutherford/Lodi) — 10 minutes",
+      "William Paterson University (Wayne) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable home prices relative to Bergen County averages",
+      "Small-town, neighborly atmosphere with strong community bonds",
+      "Central Bergen County location near major shopping and dining",
+      "Compact, walkable borough with tree-lined streets",
+      "Active recreation department with youth sports and community events",
+      "Close to Hackensack, Paramus, and Route 17 amenities"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "35-55 minutes to Port Authority Bus Terminal",
+      "busRoutes": ["NJ Transit Bus 165"],
+      "notes": "NJ Transit bus routes provide service from nearby Hackensack to the Port Authority Bus Terminal. Residents can also drive to Secaucus Junction or other NJ Transit rail stations. The borough's central Bergen County location offers multiple commuting options."
+    },
+    "costOfLiving": {
+      "summary": "Maywood offers an affordable cost of living for Bergen County, with housing prices below the county median and reasonable day-to-day expenses.",
+      "vsStateAverage": "Approximately 10% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 35% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable by Bergen County standards",
+        "Friendly, close-knit community with active civic life",
+        "Central location with easy access to shopping and services",
+        "Quiet residential streets with a suburban small-town feel",
+        "Good value for Bergen County living"
+      ],
+      "cons": [
+        "No train station — reliant on bus or driving for NYC commute",
+        "Small borough with limited commercial offerings",
+        "School district is small with limited advanced program options",
+        "Older housing stock may require updates",
+        "Route 17 traffic can impact surrounding areas during peak hours"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Bonefish Grill",
+        "description": "Seafood-focused chain restaurant offering fresh fish, steaks, and cocktails in a polished casual setting.",
+        "address": "85 Route 17 South, Maywood, NJ 07607",
+        "category": "Seafood/Casual Dining"
+      },
+      {
+        "name": "Seasons 52",
+        "description": "Fresh grill and wine bar offering seasonally inspired dishes with a focus on health-conscious dining.",
+        "address": "Route 17, Paramus, NJ 07652",
+        "category": "American/Wine Bar"
+      },
+      {
+        "name": "Bottagra",
+        "description": "Upscale Italian restaurant and wine bar offering refined Mediterranean cuisine in a stylish setting.",
+        "address": "246 West Pleasant Avenue, Maywood, NJ 07607",
+        "category": "Italian/Mediterranean"
+      },
+      {
+        "name": "Dinallo's Italian Restaurant",
+        "description": "Neighborhood Italian restaurant serving classic pasta, pizza, and Italian-American favorites.",
+        "address": "Maywood Avenue, Maywood, NJ 07607",
+        "category": "Italian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Memorial Park",
+        "description": "Borough's main park with playgrounds, athletic fields, basketball courts, and a walking path. Home to youth sports leagues and community events.",
+        "address": "Maywood Avenue, Maywood, NJ 07607",
+        "category": "Park/Athletics"
+      },
+      {
+        "name": "Saddle River County Park (Maywood Section)",
+        "description": "Bergen County park along the Saddle River with walking and biking paths, connecting Maywood to neighboring communities.",
+        "address": "Saddle River Road, Maywood, NJ 07607",
+        "category": "County Park/Trails"
+      },
+      {
+        "name": "Maywood Community Park",
+        "description": "Small neighborhood park with a playground and sitting areas, convenient for families with young children.",
+        "address": "Maywood, NJ 07607",
+        "category": "Playground/Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Maywood Street Fair",
+        "description": "Annual street fair with vendors, food, rides, and live entertainment, bringing the community together.",
+        "when": "September or October"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade and ceremony honoring veterans, organized by local civic organizations.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday celebration with tree lighting, carols, and community gathering.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Saddle River County Park",
+        "description": "Scenic county park with a multi-use trail system running through Maywood along the Saddle River, ideal for walking, jogging, and cycling.",
+        "address": "Maywood, NJ 07607",
+        "category": "Nature/Trails"
+      },
+      {
+        "name": "Garden State Plaza",
+        "description": "One of New Jersey's premier shopping malls in nearby Paramus, with hundreds of stores, restaurants, and entertainment options.",
+        "address": "1 Garden State Plaza, Paramus, NJ 07652",
+        "category": "Shopping"
+      }
+    ],
+    "shoppingAreas": [
+      "Maywood Avenue — Local shops and services",
+      "Route 17 — Major retail corridor minutes away",
+      "Garden State Plaza (Paramus) — 5 minutes away",
+      "Bergen Town Center (Paramus) — 10 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Timothy Eustace",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Joseph Gianquinto",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Debra Ferriola",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Michael Rivera",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Janine Cardone",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Daniel Ruiz",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Thomas Richards",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 459 Maywood Avenue, Maywood, NJ 07607",
+    "municipalWebsite": "https://www.boroughofmaywood.com",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator",
+        "phone": "(201) 845-2900",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 845-2900",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 845-2900",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 845-2900",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 845-2900",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 845-8300",
+      "address": "459 Maywood Avenue, Maywood, NJ 07607"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 845-2900",
+      "address": "Maywood, NJ 07607"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 845-2900",
+      "address": "Maywood, NJ 07607"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 7
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Maywood Police (Non-Emergency)",
+        "number": "(201) 845-8300"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 845-2900"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

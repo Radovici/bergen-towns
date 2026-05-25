@@ -1,0 +1,592 @@
+{
+  "meta": {
+    "slug": "mahwah",
+    "name": "Mahwah",
+    "fullName": "Township of Mahwah",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "mahwah.info",
+    "zipCodes": ["07430", "07495"],
+    "themeColor": "#1a237e",
+    "accentColor": "#283593"
+  },
+  "overview": {
+    "tagline": "Bergen County's largest township — where the Ramapo Mountains meet suburban convenience",
+    "description": "Mahwah is the largest municipality in Bergen County by area, occupying the northwest corner where New Jersey meets New York State. The township is defined by its dramatic natural landscape, with the Ramapo Mountains and Ramapo River providing stunning scenery and abundant outdoor recreation. Home to Ramapo College of New Jersey and the former Ford Motor Company headquarters, Mahwah offers a unique blend of mountain living, suburban neighborhoods, and corporate campuses, all connected by excellent highway access via Route 17 and Interstate 287.",
+    "population": 26363,
+    "populationYear": 2020,
+    "areaSqMi": 25.91,
+    "elevation": "340 ft",
+    "incorporated": "1849",
+    "governmentType": "Township (Council-Manager)",
+    "schoolDistrict": "Mahwah Township Public Schools",
+    "highlights": [
+      "Bergen County's largest township with dramatic Ramapo Mountain scenery",
+      "Home to Ramapo College of New Jersey",
+      "Campgaw Mountain Reservation for skiing, hiking, and camping",
+      "Excellent highway access via Route 17, I-287, and I-87 (NY Thruway)",
+      "Mix of mountain, suburban, and corporate campus environments"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$650,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.75%",
+    "averagePropertyTax": "$14,500",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Mahwah's large geography creates significant variation in home values from mountain properties to suburban neighborhoods.",
+    "recentTrends": "Mahwah's housing market is driven by demand for its natural setting, strong schools, and highway access. The township offers everything from modest ranches to luxury mountain estates. Proximity to corporate offices and Ramapo College also fuels demand. New luxury developments have added inventory in recent years.",
+    "neighborhoodNotes": [
+      "Cragmere Park — Established neighborhood near the center of town with well-maintained homes",
+      "Ramapo Valley — Properties near the Ramapo River with mountain views",
+      "Fardale section — Family-friendly neighborhood near Fardale Elementary School",
+      "Mountain area — Larger lots and wooded properties in the Ramapo Mountains",
+      "Route 17 corridor — Mix of commercial and residential near shopping"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided by a private hauler contracted by the Township of Mahwah.",
+      "details": [
+        "Pickup occurs once or twice per week depending on zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule adjustments posted on township website"
+      ],
+      "contactPhone": "(201) 529-5757",
+      "contactUrl": "https://www.mahwahtwp.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a regular schedule.",
+      "details": [
+        "Commingled recyclables collected on scheduled days",
+        "Paper and cardboard collected separately",
+        "Recycling drop-off available at the township recycling center",
+        "Yard waste collected seasonally",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 529-5757",
+      "contactUrl": "https://www.mahwahtwp.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer service is managed by the Mahwah Township Department of Public Works.",
+      "details": [
+        "Water supplied from local wells and the Ramapo Valley watershed",
+        "Sewer service maintained by the Township DPW",
+        "Quarterly billing for water and sewer service",
+        "Some mountain properties on private well and septic systems",
+        "Water quality reports published annually"
+      ],
+      "contactPhone": "(201) 529-5757",
+      "contactUrl": "https://www.mahwahtwp.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Environmental permits may be required for properties in sensitive areas",
+        "Septic system permits for properties not on municipal sewer",
+        "Inspections scheduled through the Building Department"
+      ],
+      "contactPhone": "(201) 529-5757",
+      "contactUrl": "https://www.mahwahtwp.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Township manages municipal parking lots and commuter parking near transit areas.",
+      "details": [
+        "Commuter parking available at the Mahwah train station",
+        "Municipal lots available near the township center",
+        "Parking at Campgaw Mountain and hiking trailheads",
+        "Overnight parking restrictions on certain township roads",
+        "Snow emergency parking bans enforced"
+      ],
+      "contactPhone": "(201) 529-5757",
+      "contactUrl": "https://www.mahwahtwp.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Mahwah Public Library",
+        "description": "Full-service public library with extensive programs and resources.",
+        "details": [
+          "Located at 100 Ridge Road",
+          "Children's programs, teen events, and adult book clubs",
+          "Large meeting rooms available for community use",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 529-7323",
+        "contactUrl": "https://www.mahwahlibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Extensive recreational programs taking advantage of Mahwah's natural resources.",
+        "details": [
+          "Youth sports leagues, hiking programs, and summer camps",
+          "Campgaw Mountain skiing and snowboarding programs",
+          "Adult fitness, tennis, and outdoor programs",
+          "Senior citizen programs and activities",
+          "Winter Lodge and Ramapo Valley recreation areas"
+        ],
+        "contactPhone": "(201) 529-5757",
+        "contactUrl": "https://www.mahwahtwp.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Mahwah enforces noise regulations to protect the township's residential and natural character.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Power equipment and leaf blowers restricted to daytime hours",
+        "Amplified music and loud gatherings subject to enforcement after 10:00 PM"
+      ],
+      "source": "Township of Mahwah Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained at a reasonable height",
+        "Sidewalk and driveway snow removal required within 24 hours",
+        "Properties must be kept free of debris",
+        "Abandoned vehicles must be removed",
+        "Wooded properties must maintain fire safety clearances"
+      ],
+      "source": "Township of Mahwah Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Mahwah requires dog licensing and enforces leash laws, with special attention to wildlife encounters.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually",
+        "Dogs must be leashed on all public property and trails",
+        "Pet waste must be picked up immediately, including on trails",
+        "Bear-proof garbage containers recommended in mountain areas",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Township of Mahwah Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated throughout the township including trailhead and commuter areas.",
+      "keyRules": [
+        "Commuter parking at the train station requires a valid permit",
+        "Overnight parking restricted on many township roads",
+        "Trailhead and park parking subject to posted hours",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles restricted on residential streets"
+      ],
+      "source": "Township of Mahwah Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with township codes.",
+      "keyRules": [
+        "Rental properties should be registered with the Township",
+        "Properties must meet housing and fire safety codes",
+        "Landlords responsible for maintaining rental units",
+        "Inspections may be conducted at change of tenancy",
+        "Short-term rentals subject to local regulations"
+      ],
+      "source": "Township of Mahwah Code"
+    },
+    "other": [
+      {
+        "title": "Environmental Protection",
+        "summary": "Mahwah has strong environmental regulations to protect its mountain and watershed areas.",
+        "keyRules": [
+          "Development restricted in environmentally sensitive areas",
+          "Tree removal permits required for significant trees",
+          "Steep slope ordinance limits construction on hillsides",
+          "Watershed protection regulations apply near the Ramapo River",
+          "Wildlife management guidelines in mountain areas"
+        ],
+        "source": "Township of Mahwah Environmental Ordinances"
+      },
+      {
+        "title": "Bear Awareness",
+        "summary": "Mahwah's mountain location means black bear encounters are possible, and residents must take precautions.",
+        "keyRules": [
+          "Garbage must be stored in bear-resistant containers in mountain areas",
+          "Bird feeders should be removed during bear season (spring through fall)",
+          "Pet food should not be left outdoors",
+          "Report bear sightings to the NJ Division of Fish & Wildlife"
+        ],
+        "source": "Township of Mahwah / NJ Division of Fish & Wildlife"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Mahwah Township Public Schools",
+    "publicSchools": [
+      {
+        "name": "Mahwah High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 850,
+        "type": "public",
+        "notes": "Comprehensive high school with strong academics, outdoor education programs, and competitive athletics"
+      },
+      {
+        "name": "Ramapo Ridge Middle School",
+        "grades": "6-8",
+        "rating": 7,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Middle school serving all township students"
+      },
+      {
+        "name": "Betsy Ross Elementary School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Elementary school in the Cragmere Park section"
+      },
+      {
+        "name": "Commodore Perry Elementary School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 280,
+        "type": "public",
+        "notes": "Elementary school in the central part of the township"
+      },
+      {
+        "name": "Fardale Elementary School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 260,
+        "type": "public",
+        "notes": "Elementary school in the Fardale section near Route 202"
+      },
+      {
+        "name": "Joyce Kilmer Elementary School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 290,
+        "type": "public",
+        "notes": "Elementary school serving the eastern portion of the township"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Immaculate Heart of Mary School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic school serving the Mahwah community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — in town",
+      "William Paterson University (Wayne) — 15 minutes",
+      "Bergen Community College (Paramus) — 25 minutes",
+      "Rockland Community College (Suffern, NY) — 10 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Stunning Ramapo Mountain scenery with hiking, skiing, and outdoor recreation",
+      "Bergen County's largest township with spacious lots and varied terrain",
+      "Home to Ramapo College of New Jersey",
+      "Excellent highway access via Route 17, I-287, and I-87",
+      "Strong public school district with good extracurricular programs",
+      "Campgaw Mountain Reservation for year-round outdoor activities"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Main Line / Bus",
+      "duration": "55-75 minutes to Hoboken by train, then PATH to Manhattan",
+      "trainStation": "Mahwah Station (NJ Transit Main Line)",
+      "busRoutes": ["NJ Transit Bus 17T"],
+      "notes": "The Mahwah train station provides service on the NJ Transit Main Line to Hoboken Terminal, where riders can connect to Manhattan via the PATH train or NY Waterway ferry. Bus service along Route 17 is also available. Many commuters also drive to Suffern for additional Metro-North options or to Route 17 park-and-ride lots."
+    },
+    "costOfLiving": {
+      "summary": "Mahwah offers a wide range of housing options from moderate to luxury, with costs varying significantly between suburban neighborhoods and mountain properties.",
+      "vsStateAverage": "Approximately 30% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 65% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Beautiful mountain scenery and abundant outdoor recreation",
+        "Spacious properties with many wooded lots",
+        "Good schools with strong community support",
+        "Excellent highway access for commuters heading to NYC or North Jersey",
+        "Diverse housing options from starter homes to luxury estates"
+      ],
+      "cons": [
+        "Long commute to Manhattan compared to southern Bergen County towns",
+        "Bear and deer encounters common in mountain areas",
+        "Significant distance from Bergen County's cultural amenities",
+        "Mountain properties may have well and septic systems",
+        "Winter weather can be more severe in mountain elevations"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "River Palm Terrace",
+        "description": "Upscale steakhouse offering prime steaks, fresh seafood, and an extensive wine list in an elegant setting.",
+        "address": "41 Route 17 North, Mahwah, NJ 07430",
+        "category": "Steakhouse/Fine Dining"
+      },
+      {
+        "name": "Mason Jar",
+        "description": "Popular restaurant and bar serving American comfort food, craft beers, and cocktails in a casual, modern atmosphere.",
+        "address": "Route 17, Mahwah, NJ 07430",
+        "category": "American/Casual"
+      },
+      {
+        "name": "Il Villagio",
+        "description": "Italian restaurant offering classic pasta dishes, seafood, and wood-fired pizza in a warm, family-friendly setting.",
+        "address": "Route 17, Mahwah, NJ 07430",
+        "category": "Italian"
+      },
+      {
+        "name": "Mahwah Bar & Grill",
+        "description": "Local bar and grill offering pub fare, burgers, and a selection of beers in a neighborhood setting.",
+        "address": "Mahwah, NJ 07430",
+        "category": "American/Pub"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Campgaw Mountain Reservation",
+        "description": "Bergen County park and ski area featuring downhill skiing and snowboarding in winter, plus hiking trails, camping, and archery year-round. The highest point in Bergen County.",
+        "address": "200 Campgaw Road, Mahwah, NJ 07430",
+        "category": "Mountain/Ski/Hiking"
+      },
+      {
+        "name": "Ramapo Valley County Reservation",
+        "description": "1,168-acre county park with extensive hiking trails through Ramapo Mountain forests, waterfalls, lake, and scenic overlooks.",
+        "address": "584 Ramapo Valley Road, Mahwah, NJ 07430",
+        "category": "Hiking/Nature"
+      },
+      {
+        "name": "Darlington County Park",
+        "description": "Popular Bergen County park with a large swimming lake, picnic areas, sports fields, and a nature trail.",
+        "address": "600 Darlington Avenue, Mahwah, NJ 07430",
+        "category": "Swimming/Recreation"
+      },
+      {
+        "name": "Joyce Kilmer County Park",
+        "description": "County park with playgrounds, athletic fields, and walking paths in a wooded setting.",
+        "address": "Mahwah, NJ 07430",
+        "category": "Park/Recreation"
+      }
+    ],
+    "events": [
+      {
+        "name": "Mahwah Day",
+        "description": "Annual community celebration featuring live music, food vendors, rides, games, and fireworks at Commodore Perry Field.",
+        "when": "September, typically a Saturday in mid-September"
+      },
+      {
+        "name": "Campgaw Mountain Winter Season",
+        "description": "Downhill skiing and snowboarding at Campgaw Mountain Reservation, with night skiing available.",
+        "when": "December through March (weather permitting)"
+      },
+      {
+        "name": "Memorial Day Parade & Ceremony",
+        "description": "Annual Memorial Day observance with a parade and ceremony honoring veterans.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Ramapo College Cultural Events",
+        "description": "Concerts, theater productions, and cultural events open to the public at the Ramapo College campus.",
+        "when": "Throughout the academic year"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Campgaw Mountain Reservation",
+        "description": "Bergen County's premier outdoor recreation destination, offering skiing, snowboarding, hiking, camping, and archery across 1,351 acres of mountain terrain.",
+        "address": "200 Campgaw Road, Mahwah, NJ 07430",
+        "category": "Outdoor Recreation"
+      },
+      {
+        "name": "Ramapo College of New Jersey",
+        "description": "Public liberal arts college with a beautiful 300-acre campus in the Ramapo Mountains. The campus hosts cultural events, art galleries, and nature trails open to the public.",
+        "address": "505 Ramapo Valley Road, Mahwah, NJ 07430",
+        "category": "Education/Culture"
+      },
+      {
+        "name": "Ramapo Valley County Reservation",
+        "description": "Expansive nature reserve with miles of hiking trails, scenic overlooks, Scarlet Oak Pond, and diverse forest habitats.",
+        "address": "584 Ramapo Valley Road, Mahwah, NJ 07430",
+        "category": "Nature/Hiking"
+      }
+    ],
+    "shoppingAreas": [
+      "Route 17 North — Major retail corridor with shopping centers",
+      "Mahwah Town Center — Shops and services near the municipal center",
+      "Ramsey Town Center — Nearby shops and restaurants",
+      "Woodbury Common Premium Outlets (NY) — 20 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Township Council (Council-Manager form of government)",
+    "mayor": {
+      "name": "James Wysocki",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Janet Ariemma",
+        "title": "Council President",
+        "term": "4-year term"
+      },
+      {
+        "name": "Robert Ferguson",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "David May",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "George Erland",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Jonathan Wong",
+        "title": "Council Member",
+        "term": "4-year term"
+      }
+    ],
+    "meetingSchedule": "Township Council meets the 2nd and 4th Thursday of each month at 7:30 PM",
+    "meetingLocation": "Municipal Building, 475 Corporate Drive, Mahwah, NJ 07430",
+    "municipalWebsite": "https://www.mahwahtwp.org",
+    "importantContacts": [
+      {
+        "department": "Township Manager",
+        "phone": "(201) 529-5757",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Township Clerk",
+        "phone": "(201) 529-5757",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 529-5757",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 529-5757",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 529-5757",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 529-5757",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 529-1000",
+      "address": "221 Franklin Turnpike, Mahwah, NJ 07430"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 529-5757",
+      "address": "Mahwah, NJ 07430"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 529-5757",
+      "address": "Mahwah, NJ 07430"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "address": "255 Lafayette Avenue, Suffern, NY 10901",
+        "phone": "(845) 368-5000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G / Orange & Rockland (some areas)",
+        "phone": "1-800-436-7734 / 1-877-434-4100",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Mahwah Township Water Department",
+        "phone": "(201) 529-5757",
+        "url": "https://www.mahwahtwp.org"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Mahwah Police (Non-Emergency)",
+        "number": "(201) 529-1000"
+      },
+      {
+        "label": "Municipal Building",
+        "number": "(201) 529-5757"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "NJ Division of Fish & Wildlife (Bear Reports)",
+        "number": "(877) 927-6337"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

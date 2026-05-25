@@ -1,0 +1,495 @@
+{
+  "meta": {
+    "slug": "oradell",
+    "name": "Oradell",
+    "fullName": "Borough of Oradell",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "oradell.info",
+    "zipCodes": ["07649"],
+    "themeColor": "#00838f",
+    "accentColor": "#00979d"
+  },
+  "overview": {
+    "tagline": "A classic Bergen County suburb with walkable charm, excellent schools, and the Oradell Reservoir",
+    "description": "Oradell is a charming residential borough in central Bergen County known for its tree-lined streets, walkable downtown, excellent schools, and the scenic Oradell Reservoir. With a population of about 8,300, the borough offers a quintessential Bergen County suburban experience. Oradell is home to the Oradell Reservoir, a major water supply for the region, and its surrounding open space provides a natural centerpiece for the community. The borough features a pleasant downtown along Kinderkamack Road with local shops and restaurants, and its schools are well-regarded within the River Dell Regional district.",
+    "population": 8301,
+    "populationYear": 2020,
+    "areaSqMi": 2.36,
+    "elevation": "50 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Oradell Public Schools / River Dell Regional",
+    "highlights": [
+      "Scenic Oradell Reservoir and surrounding green space",
+      "Walkable downtown along Kinderkamack Road",
+      "Excellent schools in the River Dell Regional district",
+      "Tree-lined residential streets with classic suburban homes",
+      "NJ Transit Pascack Valley Line station for NYC commuters"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$650,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.60%",
+    "averagePropertyTax": "$14,500",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Bergen County conducts periodic revaluations. Oradell's walkability and school district quality are key drivers of property values.",
+    "recentTrends": "Oradell's market has been strong, with consistent demand from families attracted to the walkable downtown, school quality, and classic suburban character. Homes near the reservoir and downtown command premium prices. The market favors sellers with limited inventory.",
+    "neighborhoodNotes": [
+      "Kinderkamack Road corridor — Walking distance to shops, restaurants, and the train station",
+      "Oradell Avenue area — Classic colonial homes on tree-lined streets",
+      "Reservoir section — Properties near the Oradell Reservoir with scenic views",
+      "Grant Avenue/Elm Street — Family-friendly streets near schools",
+      "New Milford border area — Diverse housing options near Hackensack River"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection provided by a contracted hauler for the Borough.",
+      "details": [
+        "Trash pickup occurs twice per week",
+        "Containers at curbside by 6:00 AM on collection day",
+        "Maximum 50 lbs per container with secure lids",
+        "Bulk item pickup available by scheduling with DPW",
+        "Holiday schedule posted on borough website"
+      ],
+      "contactPhone": "(201) 261-8200",
+      "contactUrl": "https://www.oradell.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling collected on a regular schedule.",
+      "details": [
+        "Commingled recyclables collected biweekly",
+        "Paper and cardboard on alternate weeks",
+        "Yard waste collected seasonally from April through November",
+        "Recycling bins provided by the Borough",
+        "Special recycling events held periodically"
+      ],
+      "contactPhone": "(201) 261-8200",
+      "contactUrl": "https://www.oradell.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Ridgewood Water, which operates the Oradell Reservoir. Sewer service through the Borough and Bergen County Utilities Authority.",
+      "details": [
+        "Ridgewood Water provides water supply from the Oradell Reservoir system",
+        "Sewer service through Bergen County Utilities Authority (BCUA)",
+        "Water billing handled by Ridgewood Water",
+        "Annual water quality reports available from Ridgewood Water",
+        "Emergency water issues handled 24/7"
+      ],
+      "contactPhone": "(201) 670-5520",
+      "contactUrl": "https://www.ridgewoodwater.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Permits required for construction, additions, and renovations",
+        "Zoning Board of Adjustment meets monthly",
+        "Planning Board reviews site plans and subdivisions",
+        "Inspections scheduled through the Building Department",
+        "Certificate of occupancy required for new construction and major renovations"
+      ],
+      "contactPhone": "(201) 261-8200",
+      "contactUrl": "https://www.oradell.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Borough manages commuter parking at the train station and downtown street parking.",
+      "details": [
+        "Commuter parking permits available at the Oradell train station",
+        "Waitlist may apply for station parking",
+        "Street parking in downtown subject to posted time limits",
+        "Overnight parking restrictions on borough streets",
+        "Snow emergency parking rules enforced"
+      ],
+      "contactPhone": "(201) 261-8200",
+      "contactUrl": "https://www.oradell.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Oradell Free Public Library",
+        "description": "Well-regarded community library offering extensive programs and resources.",
+        "details": [
+          "Located at 375 Kinderkamack Road",
+          "Children's programs, teen events, and adult book clubs",
+          "Free Wi-Fi, computer access, and digital resources",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 262-2613",
+        "contactUrl": "https://oradell.bccls.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents.",
+        "details": [
+          "Youth sports leagues, swimming, and summer programs",
+          "Adult fitness and senior programs",
+          "Community events and holiday celebrations",
+          "Memorial Field and other park facilities"
+        ],
+        "contactPhone": "(201) 261-8200",
+        "contactUrl": "https://www.oradell.org/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Oradell enforces noise regulations to maintain the peace of its residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Leaf blowers and power equipment restricted to daytime hours",
+        "Amplified music and loud gatherings subject to limits after 10:00 PM"
+      ],
+      "source": "Borough of Oradell Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained in good condition per borough standards.",
+      "keyRules": [
+        "Lawns and landscaping must be maintained",
+        "Properties must be free of debris and unsightly conditions",
+        "Structures and fences must be kept in good repair",
+        "Sidewalks must be cleared of snow within 24 hours",
+        "Trees and shrubs must not obstruct sidewalks or sightlines"
+      ],
+      "source": "Borough of Oradell Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet owners must follow licensing and leash requirements.",
+      "keyRules": [
+        "Dogs must be licensed annually with the Borough Clerk",
+        "Dogs must be leashed when off owner's property",
+        "Pet waste must be picked up immediately",
+        "Barking dogs subject to complaints and fines",
+        "Cat licensing required"
+      ],
+      "source": "Borough of Oradell Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking rules are enforced throughout the borough.",
+      "keyRules": [
+        "No overnight parking on streets from 2:00 AM to 6:00 AM",
+        "Vehicles must be moved during declared snow emergencies",
+        "No parking within 25 feet of intersections or fire hydrants",
+        "Downtown parking subject to posted time limits",
+        "Commuter permits required at the train station lot"
+      ],
+      "source": "Borough of Oradell Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and maintained per borough ordinances.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of habitability required before tenant occupancy",
+        "Properties must meet code and safety requirements",
+        "Landlords responsible for ongoing maintenance",
+        "Short-term rentals subject to zoning restrictions"
+      ],
+      "source": "Borough of Oradell Code"
+    },
+    "other": [
+      {
+        "title": "Reservoir Area Regulations",
+        "summary": "The area surrounding the Oradell Reservoir is subject to special restrictions to protect the water supply.",
+        "keyRules": [
+          "No swimming, boating, or fishing in the Oradell Reservoir",
+          "Reservoir perimeter walking paths are open to the public",
+          "No littering or dumping near the reservoir",
+          "Dogs must be leashed on reservoir trails",
+          "Ridgewood Water manages reservoir operations and access"
+        ],
+        "source": "Ridgewood Water / Borough of Oradell"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Oradell Public Schools / River Dell Regional High School District",
+    "publicSchools": [
+      {
+        "name": "Oradell Public School",
+        "grades": "PreK-6",
+        "rating": 8,
+        "enrollment": 650,
+        "type": "public",
+        "notes": "Borough's elementary school known for strong academics and community involvement"
+      },
+      {
+        "name": "River Dell Middle School",
+        "grades": "7-8",
+        "rating": 7,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Regional middle school located in Oradell serving Oradell and River Edge students"
+      },
+      {
+        "name": "River Dell Regional High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 800,
+        "type": "public",
+        "notes": "Regional high school serving Oradell and River Edge; strong academics and athletics"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Bergen Catholic High School",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 650,
+        "notes": "All-boys Catholic college-prep school located in Oradell; nationally recognized athletics programs"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 5 miles",
+      "Fairleigh Dickinson University (Teaneck) — 6 miles",
+      "Felician University (Rutherford) — 8 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Walkable downtown with local shops and restaurants",
+      "Scenic Oradell Reservoir and surrounding green space",
+      "Good schools in the River Dell Regional district",
+      "NJ Transit train station in the borough for NYC commuters",
+      "Classic, tree-lined Bergen County suburban neighborhoods"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Rail (Pascack Valley Line)",
+      "duration": "50-70 minutes to Hoboken, then PATH to NYC",
+      "trainStation": "Oradell station (Pascack Valley Line)",
+      "busRoutes": ["165", "168"],
+      "notes": "The Oradell station on the Pascack Valley Line provides rail service to Hoboken Terminal, where commuters connect to PATH trains for Midtown or Downtown Manhattan. NJ Transit bus routes also serve the borough. Route 4 and the George Washington Bridge are accessible for driving commuters."
+    },
+    "costOfLiving": {
+      "summary": "Oradell is a mid-to-upper-range Bergen County community with home prices reflecting the walkable downtown, school quality, and reservoir proximity.",
+      "vsStateAverage": "Above the state average for housing and property taxes",
+      "vsNationalAverage": "Well above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Walkable downtown — rare for Bergen County suburbs",
+        "Train station in borough for NYC commuters",
+        "Scenic Oradell Reservoir provides green space and nature",
+        "Bergen Catholic adds to the educational options",
+        "Classic suburban character with strong property values"
+      ],
+      "cons": [
+        "Pascack Valley Line has limited off-peak train service",
+        "Property taxes are high relative to home values",
+        "Some streets experience traffic during school hours (Bergen Catholic)",
+        "Limited parking near the downtown and train station",
+        "Older housing stock may require renovation"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "New Henley's Eatery",
+        "description": "Local restaurant offering contemporary American cuisine in a warm setting.",
+        "address": "Kinderkamack Road, Oradell, NJ",
+        "category": "American"
+      },
+      {
+        "name": "Pizzaiola Café",
+        "description": "Neighborhood Italian café known for wood-fired pizza and homemade pasta.",
+        "address": "Kinderkamack Road, Oradell, NJ",
+        "category": "Italian/Pizza"
+      },
+      {
+        "name": "Seoul Garden",
+        "description": "Korean restaurant offering BBQ, bibimbap, and traditional Korean dishes.",
+        "address": "Kinderkamack Road, Oradell, NJ",
+        "category": "Korean"
+      },
+      {
+        "name": "Glen Rock Inn (nearby)",
+        "description": "Classic American restaurant just across the border in River Edge, popular for steaks and comfort food.",
+        "address": "Kinderkamack Road, River Edge, NJ",
+        "category": "American/Steakhouse"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Oradell Reservoir",
+        "description": "Scenic reservoir surrounded by walking paths and natural green space, providing a peaceful setting for walks and nature observation.",
+        "address": "Oradell, NJ",
+        "category": "Reservoir/Nature"
+      },
+      {
+        "name": "Memorial Field",
+        "description": "Borough sports complex with ball fields, track, and recreational facilities used by school and community sports leagues.",
+        "address": "Oradell, NJ",
+        "category": "Sports Complex"
+      },
+      {
+        "name": "Soldier Hill Park",
+        "description": "Neighborhood park with playground, picnic areas, and open green space for families.",
+        "address": "Oradell, NJ",
+        "category": "Neighborhood Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Oradell Day",
+        "description": "Annual community celebration featuring food vendors, live music, games, rides, and family activities.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Festive tree lighting ceremony in the downtown area with holiday music and refreshments.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Community parade honoring veterans, featuring local schools, scouts, and civic organizations.",
+        "when": "May (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Oradell Reservoir",
+        "description": "The borough's signature landmark — a scenic reservoir that serves as a regional water supply and provides a beautiful natural setting for walking and nature enjoyment.",
+        "address": "Oradell, NJ",
+        "category": "Nature/Landmark"
+      },
+      {
+        "name": "Downtown Oradell",
+        "description": "Walkable downtown district along Kinderkamack Road with local shops, restaurants, and the train station.",
+        "address": "Kinderkamack Road, Oradell, NJ",
+        "category": "Shopping District"
+      },
+      {
+        "name": "Bergen Catholic High School",
+        "description": "Nationally recognized Catholic boys' school known for its championship athletic programs and notable alumni.",
+        "address": "1040 Oradell Avenue, Oradell, NJ",
+        "category": "Education/Landmark"
+      }
+    ],
+    "shoppingAreas": [
+      "Kinderkamack Road downtown district",
+      "Nearby River Edge and Paramus shopping",
+      "Westwood downtown shops"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Dianne Didio",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Justin Hunt", "title": "Council Member" },
+      { "name": "Steve Van Horne", "title": "Council Member" },
+      { "name": "Tony Campos", "title": "Council Member" },
+      { "name": "Neil Lazurus", "title": "Council Member" },
+      { "name": "Karen Connors", "title": "Council Member" },
+      { "name": "Michael Hasner", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Oradell Borough Hall, 355 Kinderkamack Road",
+    "municipalWebsite": "https://www.oradell.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 261-8200",
+        "email": "clerk@oradell.org",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 261-8200",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 261-8200",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 261-1148",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 261-1400",
+      "address": "355 Kinderkamack Road, Oradell, NJ 07649"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 261-3400",
+      "address": "Oradell, NJ 07649"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-4455",
+      "address": "Oradell, NJ 07649"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Ridgewood Water",
+        "phone": "(201) 670-5520",
+        "url": "https://www.ridgewoodwater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

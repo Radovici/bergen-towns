@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "slug": "north-arlington",
+    "name": "North Arlington",
+    "fullName": "Borough of North Arlington",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "north-arlington.info",
+    "zipCodes": ["07031"],
+    "themeColor": "#bf360c",
+    "accentColor": "#d84315"
+  },
+  "overview": {
+    "tagline": "A hardworking, family-oriented borough with strong roots and quick NYC access",
+    "description": "North Arlington is a densely populated borough in southern Bergen County with a proud blue-collar heritage and a strong sense of community. Bordered by the Passaic River and the Meadowlands, the borough offers residents practical benefits including some of the shortest commutes to New York City in Bergen County. North Arlington has a diverse population with significant Irish-American, Italian-American, and growing Latino communities. The borough features an active downtown along Ridge Road and is home to multiple parks and recreational facilities.",
+    "population": 15806,
+    "populationYear": 2020,
+    "areaSqMi": 2.54,
+    "elevation": "100 ft",
+    "incorporated": "1896",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "North Arlington Public Schools",
+    "highlights": [
+      "One of the shortest commutes to NYC in Bergen County",
+      "Active Ridge Road commercial district",
+      "Strong community heritage and civic pride",
+      "Affordable housing with good value for location",
+      "Proximity to Meadowlands sports and entertainment"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$450,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.75%",
+    "averagePropertyTax": "$10,800",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. North Arlington has seen significant redevelopment in recent years, particularly near the Meadowlands and along Ridge Road.",
+    "recentTrends": "North Arlington's real estate market has benefited from its proximity to NYC and competitive pricing compared to neighboring communities. New development projects have added modern housing options. The market has seen strong appreciation, particularly for renovated homes and new construction.",
+    "neighborhoodNotes": [
+      "Ridge Road corridor — Close to shops, restaurants, and bus routes",
+      "Porete Avenue area — Near the Meadowlands with newer development",
+      "Canterbury Avenue — Established residential neighborhood with single-family homes",
+      "Sunset Avenue area — Quiet streets near the Lyndhurst border",
+      "Schuyler Avenue section — Mix of single-family and multi-family housing near transit"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided by the Borough's contracted hauler.",
+      "details": [
+        "Trash pickup occurs twice per week",
+        "Containers must be placed at curbside by 6:00 AM on collection day",
+        "Maximum 50 lbs per container with secure lids",
+        "Bulk item pickup scheduled through the DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 991-6060",
+      "contactUrl": "https://www.northarlington.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling is collected on a regular schedule by the Borough.",
+      "details": [
+        "Commingled recyclables collected biweekly",
+        "Paper and cardboard collected on alternate weeks",
+        "Recycling bins provided by the Borough",
+        "Yard waste collected seasonally",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 991-6060",
+      "contactUrl": "https://www.northarlington.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Passaic Valley Water Commission. Sewer service is through the Bergen County Utilities Authority.",
+      "details": [
+        "Passaic Valley Water Commission provides water supply",
+        "Sewer service through Bergen County Utilities Authority (BCUA)",
+        "Water billing handled by Passaic Valley Water Commission",
+        "Annual water quality reports available",
+        "Emergency water line issues available 24/7"
+      ],
+      "contactPhone": "(201) 991-6060",
+      "contactUrl": "https://www.northarlington.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Permits required for construction, renovations, and additions",
+        "Zoning Board of Adjustment meets monthly",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 991-6060",
+      "contactUrl": "https://www.northarlington.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking regulations are enforced on borough streets and municipal lots.",
+      "details": [
+        "Municipal parking lots available near Ridge Road",
+        "Street parking subject to posted restrictions and meter times",
+        "Commuter parking available near bus stops",
+        "Overnight parking restrictions enforced",
+        "Snow emergency parking rules in effect during storms"
+      ],
+      "contactPhone": "(201) 991-6060",
+      "contactUrl": "https://www.northarlington.org"
+    },
+    "additionalServices": [
+      {
+        "title": "North Arlington Public Library",
+        "description": "Public library serving the community with books, programs, and technology.",
+        "details": [
+          "Located at 210 Ridge Road",
+          "Children's programs, teen events, and adult programming",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 955-5640",
+        "contactUrl": "https://northarlington.bccls.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues and summer recreation programs",
+          "Senior citizen programs and activities",
+          "Community events and holiday celebrations",
+          "Park facilities and playing fields"
+        ],
+        "contactPhone": "(201) 991-6060",
+        "contactUrl": "https://www.northarlington.org/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "North Arlington enforces noise regulations to maintain quality of life in residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Loud music and parties subject to limits after 10:00 PM",
+        "Power equipment and leaf blowers restricted to daytime hours"
+      ],
+      "source": "Borough of North Arlington Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "All properties must be maintained to borough standards.",
+      "keyRules": [
+        "Lawns must be mowed and maintained regularly",
+        "Properties must be free of debris, junk, and abandoned vehicles",
+        "Structures and fences must be kept in good repair",
+        "Sidewalks must be cleared of snow within 24 hours after a storm",
+        "Property owners responsible for maintaining curb appeal"
+      ],
+      "source": "Borough of North Arlington Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet ownership is subject to licensing, leash, and cleanup requirements.",
+      "keyRules": [
+        "Dogs must be licensed annually with the Borough Clerk",
+        "All dogs must be leashed when off owner's property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking is subject to complaints and fines",
+        "Pit bull and other breed restrictions may apply per borough ordinance"
+      ],
+      "source": "Borough of North Arlington Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking rules are strictly enforced throughout the borough.",
+      "keyRules": [
+        "No overnight parking on streets from 2:00 AM to 6:00 AM",
+        "Alternate-side parking enforced for street sweeping",
+        "Vehicles must be moved during snow emergencies",
+        "No parking within 25 feet of stop signs or fire hydrants",
+        "Commercial vehicles over 10,000 lbs restricted from residential streets"
+      ],
+      "source": "Borough of North Arlington Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and maintained to code standards.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of habitability required before new tenants move in",
+        "Annual registration and inspection required",
+        "Landlords responsible for all maintenance and code compliance",
+        "Multi-family properties subject to fire safety inspections"
+      ],
+      "source": "Borough of North Arlington Code"
+    },
+    "other": [
+      {
+        "title": "Garage Sales",
+        "summary": "Garage and yard sales are permitted with restrictions.",
+        "keyRules": [
+          "Permit required from the Borough Clerk for garage sales",
+          "Limited to a maximum number of sales per year",
+          "Sales must be held during daylight hours",
+          "Signs must be removed after the sale"
+        ],
+        "source": "Borough of North Arlington Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "North Arlington Public Schools",
+    "publicSchools": [
+      {
+        "name": "Jefferson School",
+        "grades": "PreK-3",
+        "rating": 5,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Primary elementary school"
+      },
+      {
+        "name": "Washington School",
+        "grades": "4-6",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Upper elementary school"
+      },
+      {
+        "name": "North Arlington Middle School",
+        "grades": "7-8",
+        "rating": 5,
+        "enrollment": 250,
+        "type": "public",
+        "notes": "Middle school with a diverse student body"
+      },
+      {
+        "name": "North Arlington High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Comprehensive high school known as the Vikings; offers a range of academic and vocational programs"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Queen of Peace Elementary School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school affiliated with Queen of Peace parish"
+      },
+      {
+        "name": "Queen of Peace High School",
+        "grades": "9-12",
+        "type": "private",
+        "notes": "Catholic high school (closed in 2020; noted for historical significance)"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Rutgers University-Newark — 8 miles",
+      "New Jersey Institute of Technology (Newark) — 8 miles",
+      "Felician University (Rutherford) — 3 miles",
+      "Bergen Community College (Paramus) — 12 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable housing with short commute times to NYC",
+      "Strong community identity with active civic organizations",
+      "Good highway access to NJ Turnpike, Routes 17 and 21",
+      "Walking-distance shopping on Ridge Road",
+      "Close to Meadowlands entertainment and sports venues"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "25-45 minutes to Port Authority or Midtown",
+      "busRoutes": ["76", "78"],
+      "notes": "North Arlington offers one of the best commute positions in Bergen County. NJ Transit bus routes run along Ridge Road to the Port Authority Bus Terminal. The NJ Turnpike and Route 21 provide direct driving access to the Lincoln Tunnel and Holland Tunnel. Newark Penn Station and the PATH system are also accessible for Midtown and Downtown NYC connections."
+    },
+    "costOfLiving": {
+      "summary": "North Arlington is one of the more affordable communities in Bergen County, offering solid value for its proximity to New York City.",
+      "vsStateAverage": "Near the state average for housing costs",
+      "vsNationalAverage": "Above the national average, mainly due to property taxes and housing"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Excellent commute to NYC — one of the shortest in Bergen County",
+        "Affordable housing with good value for location",
+        "Active commercial district on Ridge Road",
+        "Strong community spirit and civic engagement",
+        "Close to Meadowlands entertainment complex"
+      ],
+      "cons": [
+        "Higher population density than many Bergen County towns",
+        "Some areas are close to industrial zones and the Turnpike",
+        "Limited green space compared to northern Bergen County",
+        "Street parking can be competitive in denser neighborhoods",
+        "School ratings are average compared to wealthier Bergen County districts"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Arlington Diner",
+        "description": "Classic New Jersey diner serving breakfast, lunch, and dinner with generous portions.",
+        "address": "Ridge Road, North Arlington, NJ",
+        "category": "American/Diner"
+      },
+      {
+        "name": "Bel Paese Restaurant",
+        "description": "Traditional Italian restaurant with homemade pasta, veal, and seafood dishes.",
+        "address": "Ridge Road, North Arlington, NJ",
+        "category": "Italian"
+      },
+      {
+        "name": "River Road Hot Dogs",
+        "description": "Iconic roadside stand serving classic New Jersey hot dogs and burgers.",
+        "address": "River Road, North Arlington, NJ",
+        "category": "American/Fast Food"
+      },
+      {
+        "name": "La Sicilia",
+        "description": "Italian bakery and deli offering fresh bread, pastries, and prepared Italian foods.",
+        "address": "Ridge Road, North Arlington, NJ",
+        "category": "Italian/Bakery"
+      },
+      {
+        "name": "My Way Lounge",
+        "description": "Neighborhood bar and grill with pub fare, wings, and a friendly local atmosphere.",
+        "address": "Ridge Road, North Arlington, NJ",
+        "category": "American/Pub"
+      }
+    ],
+    "parks": [
+      {
+        "name": "North Arlington Recreation Complex",
+        "description": "Major recreation facility with sports fields, playground, and community gathering spaces.",
+        "address": "Porete Avenue, North Arlington, NJ",
+        "category": "Recreation Complex"
+      },
+      {
+        "name": "Riverview Park",
+        "description": "Park along the Passaic River with walking paths and scenic river views.",
+        "address": "North Arlington, NJ",
+        "category": "Riverfront Park"
+      },
+      {
+        "name": "Allan C. Hewitson Memorial Park",
+        "description": "Neighborhood park with playground equipment and open space for families.",
+        "address": "North Arlington, NJ",
+        "category": "Neighborhood Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "North Arlington Street Fair",
+        "description": "Annual street fair along Ridge Road featuring vendors, food, live music, and family entertainment.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Community parade along Ridge Road honoring veterans with marching bands and civic groups.",
+        "when": "May (annually)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual ceremony marking the start of the holiday season with tree lighting and community celebration.",
+        "when": "December (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Ridge Road Shopping District",
+        "description": "Borough's main commercial corridor with a mix of local shops, restaurants, and services.",
+        "address": "Ridge Road, North Arlington, NJ",
+        "category": "Shopping District"
+      },
+      {
+        "name": "MetLife Stadium (nearby)",
+        "description": "Home of the NFL's Giants and Jets in the Meadowlands, just minutes from North Arlington.",
+        "address": "1 MetLife Stadium Drive, East Rutherford, NJ",
+        "category": "Sports/Entertainment"
+      },
+      {
+        "name": "American Dream Mall (nearby)",
+        "description": "Major entertainment and retail destination featuring a water park, amusement park, and shopping.",
+        "address": "1 American Dream Way, East Rutherford, NJ",
+        "category": "Entertainment/Shopping"
+      }
+    ],
+    "shoppingAreas": [
+      "Ridge Road commercial district",
+      "Belleville Turnpike shopping",
+      "American Dream Mall (East Rutherford, nearby)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Daniel H. Pronti",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Brian Fitzhenry", "title": "Council President" },
+      { "name": "Allison Sheedy", "title": "Council Member" },
+      { "name": "Joseph Bianchi", "title": "Council Member" },
+      { "name": "Megan Megale-Dowling", "title": "Council Member" },
+      { "name": "Steven Tanelli", "title": "Council Member" },
+      { "name": "James Dombrowski", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Thursday of each month at 7:00 PM",
+    "meetingLocation": "North Arlington Borough Hall, 214 Ridge Road",
+    "municipalWebsite": "https://www.northarlington.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 991-6060",
+        "email": "clerk@northarlington.org",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 991-6060",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 991-6060",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 998-7104",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 991-4400",
+      "address": "214 Ridge Road, North Arlington, NJ 07031"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 991-3244",
+      "address": "North Arlington, NJ 07031"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 991-3307",
+      "address": "North Arlington, NJ 07031"
+    },
+    "hospitals": [
+      {
+        "name": "Clara Maass Medical Center",
+        "address": "1 Clara Maass Drive, Belleville, NJ 07109",
+        "phone": "(973) 450-2000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Passaic Valley Water Commission",
+        "phone": "(973) 340-4300",
+        "url": "https://www.pvwc.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

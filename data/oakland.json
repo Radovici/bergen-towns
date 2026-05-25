@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "slug": "oakland",
+    "name": "Oakland",
+    "fullName": "Borough of Oakland",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "oakland.info",
+    "zipCodes": ["07436"],
+    "themeColor": "#283593",
+    "accentColor": "#3949ab"
+  },
+  "overview": {
+    "tagline": "A scenic, nature-rich borough in the Ramapo Mountains with a strong community spirit",
+    "description": "Oakland is a spacious borough in the northwestern corner of Bergen County, nestled along the Ramapo River at the foot of the Ramapo Mountains. With over 13,000 residents spread across nearly 9 square miles, Oakland offers a more rural and nature-oriented lifestyle than most Bergen County communities. The borough is known for its access to hiking, fishing, and outdoor recreation, including proximity to Ramapo Valley County Reservation and the Ramapo River. Oakland features a mix of established neighborhoods, newer developments, and a growing commercial district along Ramapo Valley Road.",
+    "population": 13189,
+    "populationYear": 2020,
+    "areaSqMi": 8.76,
+    "elevation": "285 ft",
+    "incorporated": "1902",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Oakland Public Schools / Indian Hills High School (Ramapo Indian Hills Regional)",
+    "highlights": [
+      "Gateway to the Ramapo Mountains and extensive hiking trails",
+      "Ramapo River runs through the borough offering fishing and recreation",
+      "Large lot sizes and wooded residential neighborhoods",
+      "Access to I-287 and Route 202 for regional commuting",
+      "Active recreation programs and community sports leagues"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$600,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.75%",
+    "averagePropertyTax": "$14,500",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Oakland's larger lot sizes and proximity to natural areas contribute to a wide range of property values. Bergen County conducts periodic revaluations.",
+    "recentTrends": "Oakland's market has seen strong appreciation as buyers seek more space and nature access post-pandemic. Homes on larger lots near the Ramapo River and mountain areas command premium prices. The market is competitive for well-maintained homes in good school zones.",
+    "neighborhoodNotes": [
+      "Ramapo Valley Road corridor — Borough's main road with commercial and residential mix",
+      "Lake Drive/Crystal Lake area — Lakeside properties with scenic views",
+      "High Mountain section — Elevated properties with mountain views and wooded lots",
+      "West Oakland — More rural area near the Ramapo Reservation",
+      "Yaw Paw neighborhood — Established family neighborhood near schools"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection provided by a contracted hauler for the Borough.",
+      "details": [
+        "Trash pickup occurs once per week on designated days",
+        "Containers at curbside by 6:00 AM on collection day",
+        "Maximum 50 lbs per container with secure lids",
+        "Bulk item pickup available by scheduling with DPW",
+        "Holiday schedule posted on borough website"
+      ],
+      "contactPhone": "(201) 337-8111",
+      "contactUrl": "https://www.oakland-nj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a regular schedule.",
+      "details": [
+        "Commingled recyclables collected biweekly",
+        "Paper and cardboard on alternate weeks",
+        "Yard waste collected seasonally from spring through fall",
+        "Recycling drop-off available at the DPW yard",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 337-8111",
+      "contactUrl": "https://www.oakland-nj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by the Borough of Oakland Water Department. Sewer service is through the Borough and regional utilities.",
+      "details": [
+        "Oakland Water Department provides water from local wells and purchased sources",
+        "Some properties on private wells, particularly in the mountain areas",
+        "Sewer maintained by the Borough; some properties on septic systems",
+        "Annual water quality reports published by the Water Department",
+        "Emergency water issues handled 24/7"
+      ],
+      "contactPhone": "(201) 337-8111",
+      "contactUrl": "https://www.oakland-nj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Permits required for construction, additions, renovations, and decks",
+        "Environmental review may be required for properties near wetlands or waterways",
+        "Zoning Board and Planning Board meet monthly",
+        "Inspections coordinated through the Building Department",
+        "Certificate of occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 337-8111",
+      "contactUrl": "https://www.oakland-nj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Borough manages commuter parking and street regulations.",
+      "details": [
+        "Commuter parking available at the Oakland NJ Transit station",
+        "Permits required for commuter parking — waitlist may apply",
+        "Street parking subject to posted restrictions",
+        "Overnight parking restrictions in some areas",
+        "Snow emergency parking rules enforced"
+      ],
+      "contactPhone": "(201) 337-8111",
+      "contactUrl": "https://www.oakland-nj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Oakland Public Library",
+        "description": "Community library offering books, programs, and digital resources.",
+        "details": [
+          "Located at 2 Municipal Plaza",
+          "Children's programs, teen events, and adult programming",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 337-3742",
+        "contactUrl": "https://oaklandnjlibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues including soccer, baseball, basketball, and lacrosse",
+          "Summer recreation programs and swimming at the pool",
+          "Senior programs and trips",
+          "Community events throughout the year"
+        ],
+        "contactPhone": "(201) 337-8111",
+        "contactUrl": "https://www.oakland-nj.org/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Oakland enforces noise regulations to protect the quiet, residential character of the borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Power equipment and leaf blowers restricted to daytime hours",
+        "Amplified music prohibited after 10:00 PM"
+      ],
+      "source": "Borough of Oakland Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained to borough standards.",
+      "keyRules": [
+        "Lawns and landscaping must be maintained",
+        "Properties must be free of junk, debris, and abandoned vehicles",
+        "Structures must be kept in good repair",
+        "Driveways and walkways must be cleared of snow",
+        "Septic systems (where applicable) must be properly maintained"
+      ],
+      "source": "Borough of Oakland Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet owners must comply with licensing and leash requirements. Wildlife interactions are a consideration in this semi-rural area.",
+      "keyRules": [
+        "Dogs must be licensed annually",
+        "Dogs must be leashed when off owner's property",
+        "Pet waste must be cleaned up",
+        "Excessive barking subject to complaints",
+        "Bear-proof garbage containers recommended due to local wildlife"
+      ],
+      "source": "Borough of Oakland Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking regulations enforced borough-wide.",
+      "keyRules": [
+        "Overnight parking on streets prohibited in certain areas",
+        "Commuter lot permits required at the train station",
+        "Vehicles must be moved during snow emergencies",
+        "No parking near fire hydrants or intersections",
+        "Violations subject to fines"
+      ],
+      "source": "Borough of Oakland Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and maintained per borough requirements.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of habitability required",
+        "Properties must meet code and safety standards",
+        "Landlords responsible for property maintenance",
+        "Short-term rentals subject to zoning restrictions"
+      ],
+      "source": "Borough of Oakland Code"
+    },
+    "other": [
+      {
+        "title": "Environmental Protection",
+        "summary": "Oakland has regulations protecting wetlands, waterways, and steep slopes.",
+        "keyRules": [
+          "Development near wetlands, streams, and the Ramapo River requires environmental permits",
+          "Steep slope construction subject to additional review and restrictions",
+          "Tree removal permits may be required for significant trees",
+          "Stormwater management plans required for new development"
+        ],
+        "source": "Borough of Oakland Environmental Ordinances"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Oakland Public Schools / Ramapo Indian Hills Regional High School District",
+    "publicSchools": [
+      {
+        "name": "Dogwood Hill School",
+        "grades": "PreK-2",
+        "rating": 7,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Primary school for younger students"
+      },
+      {
+        "name": "Heights School",
+        "grades": "3-4",
+        "rating": 7,
+        "enrollment": 250,
+        "type": "public",
+        "notes": "Upper primary school"
+      },
+      {
+        "name": "Valley Middle School",
+        "grades": "5-8",
+        "rating": 7,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Middle school with comprehensive academic and arts programs"
+      },
+      {
+        "name": "Indian Hills High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 1100,
+        "type": "public",
+        "notes": "Regional high school serving Oakland and Franklin Lakes; known for strong academics and competitive athletics"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Oakland Christian School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Christian school serving the Oakland area"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 5 miles",
+      "William Paterson University (Wayne) — 10 miles",
+      "Bergen Community College (Paramus) — 15 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Access to the Ramapo Mountains and extensive outdoor recreation",
+      "Larger lot sizes and wooded properties uncommon in Bergen County",
+      "Good schools in the Ramapo Indian Hills Regional district",
+      "Ramapo River frontage and fishing opportunities",
+      "NJ Transit Pascack Valley Line train station in the borough"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Rail (Pascack Valley Line)",
+      "duration": "65-85 minutes to Hoboken, then PATH to NYC",
+      "trainStation": "Oakland station (Pascack Valley Line)",
+      "busRoutes": ["197"],
+      "notes": "The Oakland station on the Pascack Valley Line provides rail service to Hoboken Terminal with PATH connections to Manhattan. NJ Transit bus route 197 also serves the area. I-287 and Route 202 provide highway access for driving commuters, with connections to the Garden State Parkway and NJ Turnpike."
+    },
+    "costOfLiving": {
+      "summary": "Oakland offers mid-range pricing for Bergen County, with larger lots and a more rural character providing good value for space-seekers.",
+      "vsStateAverage": "Above the state average for housing and property taxes",
+      "vsNationalAverage": "Well above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Exceptional access to nature, hiking, and outdoor recreation",
+        "Larger lots and wooded properties provide space and privacy",
+        "Train station in the borough for NYC commuters",
+        "Good school district with competitive athletics",
+        "Strong community feel with active sports leagues and events"
+      ],
+      "cons": [
+        "Longer commute to NYC compared to eastern Bergen County",
+        "Limited walkable downtown or retail district",
+        "Some properties on well/septic rather than public water/sewer",
+        "Bear and wildlife encounters more common than in other Bergen towns",
+        "I-287 traffic can be heavy during rush hours"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Pluckemin Inn at Oakland",
+        "description": "Upscale American restaurant with seasonal menus and an elegant atmosphere.",
+        "address": "Ramapo Valley Road, Oakland, NJ",
+        "category": "American/Fine Dining"
+      },
+      {
+        "name": "Charlie Brown's Steakhouse",
+        "description": "Casual steakhouse chain location popular with families for its salad bar and grilled specialties.",
+        "address": "Ramapo Valley Road, Oakland, NJ",
+        "category": "American/Steakhouse"
+      },
+      {
+        "name": "Thai House",
+        "description": "Authentic Thai restaurant offering curries, noodles, and traditional Thai dishes.",
+        "address": "Ramapo Valley Road, Oakland, NJ",
+        "category": "Thai"
+      },
+      {
+        "name": "Yaw Paw Deli & Grill",
+        "description": "Local deli and grill serving sandwiches, breakfast, and comfort food.",
+        "address": "Oakland, NJ",
+        "category": "Deli/American"
+      },
+      {
+        "name": "Buon Appetito",
+        "description": "Italian restaurant with homemade pasta, wood-fired pizza, and classic Italian dishes.",
+        "address": "Ramapo Valley Road, Oakland, NJ",
+        "category": "Italian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Ramapo Valley County Reservation",
+        "description": "Expansive 4,200-acre park with hiking trails, scenic overlooks, streams, and diverse wildlife. One of northern New Jersey's premier outdoor destinations.",
+        "address": "584 Ramapo Valley Road, Mahwah, NJ",
+        "category": "County Park/Reservation"
+      },
+      {
+        "name": "Ramapo River Park",
+        "description": "Borough park along the Ramapo River with walking trails, fishing access, and picnic areas.",
+        "address": "Oakland, NJ",
+        "category": "Riverfront Park"
+      },
+      {
+        "name": "Great Oak Park",
+        "description": "Community park with sports fields, playground, and facilities for youth leagues.",
+        "address": "Oakland, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Pleasureland Park",
+        "description": "Recreation area with ball fields, playground equipment, and open space.",
+        "address": "Oakland, NJ",
+        "category": "Recreation Area"
+      }
+    ],
+    "events": [
+      {
+        "name": "Oakland Fun Day",
+        "description": "Annual community celebration with carnival rides, food vendors, live entertainment, and activities for all ages.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Fishing Derby",
+        "description": "Annual fishing event at the Ramapo River for kids and families, stocked by the borough.",
+        "when": "Spring (annually)"
+      },
+      {
+        "name": "Holiday Parade and Tree Lighting",
+        "description": "Annual holiday celebration with a parade along Ramapo Valley Road and community tree lighting.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Community parade honoring veterans with marching bands, scouts, and civic organizations.",
+        "when": "May (annually)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Ramapo Valley County Reservation",
+        "description": "Premier hiking destination with over 15 miles of trails through the Ramapo Mountains, including the scenic MacEvoy Trail and Havemeyer Falls.",
+        "address": "Ramapo Valley Road, Oakland/Mahwah, NJ",
+        "category": "Nature/Hiking"
+      },
+      {
+        "name": "Ramapo River",
+        "description": "Scenic river running through the borough offering excellent trout fishing, kayaking, and nature observation.",
+        "category": "Nature/Recreation"
+      },
+      {
+        "name": "Crystal Lake",
+        "description": "Picturesque lake in Oakland providing scenic views and a serene natural setting.",
+        "address": "Oakland, NJ",
+        "category": "Nature/Lake"
+      }
+    ],
+    "shoppingAreas": [
+      "Ramapo Valley Road commercial district",
+      "Oakland Town Center shopping area",
+      "Nearby Route 202/Ramapo shopping in Mahwah"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Linda H. Schwager",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Robert Knapp", "title": "Council Member" },
+      { "name": "John Szabo", "title": "Council Member" },
+      { "name": "Sandra Coira", "title": "Council Member" },
+      { "name": "Timothy Jensen", "title": "Council Member" },
+      { "name": "Patrick Pignatelli", "title": "Council Member" },
+      { "name": "Russell Talamini", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Oakland Borough Hall, 1 Municipal Plaza",
+    "municipalWebsite": "https://www.oakland-nj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 337-8111",
+        "email": "clerk@oakland-nj.org",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 337-8111",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 337-8111",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 337-4844",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Water Department",
+        "phone": "(201) 337-8111",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 337-5700",
+      "address": "1 Municipal Plaza, Oakland, NJ 07436"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 337-5725",
+      "address": "Oakland, NJ 07436"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 337-5700",
+      "address": "Oakland, NJ 07436"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Chilton Medical Center",
+        "address": "97 West Parkway, Pompton Plains, NJ 07444",
+        "phone": "(973) 831-5000",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "address": "255 Lafayette Avenue, Suffern, NY 10901",
+        "phone": "(845) 368-5000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Borough of Oakland Water Department",
+        "phone": "(201) 337-8111",
+        "url": "https://www.oakland-nj.org"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Bear Hotline", "number": "(877) 927-6337" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

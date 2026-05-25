@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "slug": "edgewater",
+    "name": "Edgewater",
+    "fullName": "Borough of Edgewater",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "edgewater.info",
+    "zipCodes": ["07020"],
+    "themeColor": "#1a5276",
+    "accentColor": "#2980b9"
+  },
+  "overview": {
+    "tagline": "Living on the Hudson's Edge",
+    "description": "Edgewater is a narrow, mile-wide borough stretching along the western bank of the Hudson River in Bergen County. Once an industrial waterfront of factories and ferry landings, Edgewater has transformed into a modern residential community of luxury condominiums, townhouses, and retail centers, all set against dramatic Palisades cliffs and panoramic Manhattan skyline views.",
+    "population": 13303,
+    "populationYear": 2020,
+    "areaSqMi": 1.74,
+    "elevation": "10 ft (river level) to 300 ft (Palisades top)",
+    "incorporated": "1894",
+    "governmentType": "Borough (Walsh Act, Commission)",
+    "schoolDistrict": "Edgewater School District",
+    "highlights": [
+      "Stunning Hudson River waterfront with unobstructed Manhattan skyline views",
+      "Major retail destination with Mitsuwa Marketplace and The Shops at Edgewater",
+      "NY Waterway ferry service to Midtown Manhattan",
+      "Gateway to the Palisades Interstate Park and scenic River Road",
+      "Rapid transformation from industrial waterfront to upscale residential community"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$475,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "1.35%",
+    "averagePropertyTax": "$9,800",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Edgewater's waterfront condominium developments are assessed based on unit size and river views.",
+    "recentTrends": "Edgewater's real estate market is dominated by condominiums and townhouses along the waterfront. Prices have risen steadily due to NYC proximity and ferry access. New luxury developments continue to add housing stock along River Road.",
+    "neighborhoodNotes": [
+      "The waterfront corridor along River Road features luxury condo complexes like Independence Harbor, Venetian, and City Place",
+      "The Edgewater Colony neighborhood on the Palisades bluff offers older single-family homes with sweeping views",
+      "The retail corridor near Mitsuwa and Whole Foods draws significant foot traffic and anchors the commercial district",
+      "North Edgewater near the Palisades Park border has a mix of older homes and newer townhouse developments"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by location — check the borough website for your schedule",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by appointment through the DPW"
+      ],
+      "contactPhone": "201-943-1700",
+      "contactUrl": "https://www.edgewaterboro.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream recycling is collected weekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic #1-#7, glass, cans) collected in blue bins",
+        "Paper and cardboard collected separately and must be bundled or bagged",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Condo complexes may have private recycling arrangements"
+      ],
+      "contactPhone": "201-943-1700",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water (formerly Suez) and sewer services are managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills are issued quarterly by Veolia",
+        "Sewer charges appear on property tax bills",
+        "Water quality reports published annually by Veolia",
+        "Emergency water main breaks: call the DPW immediately"
+      ],
+      "contactPhone": "201-943-1700",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Edgewater Building Department handles all construction, renovation, and zoning permit applications.",
+      "details": [
+        "Permits required for any structural work, electrical, plumbing, or HVAC modifications",
+        "Zoning applications reviewed by the Planning Board or Zoning Board of Adjustment",
+        "Certificate of Occupancy required for all new construction and changes of use",
+        "Applications submitted at Borough Hall on River Road"
+      ],
+      "contactPhone": "201-943-1700"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Edgewater manages street parking along River Road and in municipal lots. Many condo complexes have private parking.",
+      "details": [
+        "Street parking along River Road is limited and often metered",
+        "Municipal parking available near the retail areas",
+        "Overnight parking restrictions in effect on certain streets",
+        "Ferry terminal parking available for commuters"
+      ],
+      "contactPhone": "201-943-1700"
+    },
+    "additionalServices": [
+      {
+        "title": "Ferry Service",
+        "description": "NY Waterway operates ferry service from Edgewater to Midtown Manhattan.",
+        "details": [
+          "Ferry terminal located at the Edgewater waterfront",
+          "Service runs to West 39th Street in Manhattan",
+          "Free shuttle bus connections to ferry from various Edgewater locations",
+          "Monthly and multi-ride passes available"
+        ],
+        "contactPhone": "1-800-533-3779",
+        "contactUrl": "https://www.nywaterway.com"
+      },
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers youth and adult programs, seasonal events, and community activities.",
+        "details": [
+          "Youth sports programs including soccer, basketball, and baseball",
+          "Summer recreation programs for children",
+          "Community events throughout the year",
+          "Veterans Memorial Park activities and field reservations"
+        ],
+        "contactPhone": "201-943-1700"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Edgewater enforces noise restrictions given the high density of residential condominiums and apartments.",
+      "keyRules": [
+        "Construction work prohibited before 7:30 AM and after 6:00 PM on weekdays",
+        "No construction on Sundays or federal holidays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "Excessive noise from residential units subject to fines",
+        "Commercial deliveries restricted during late night hours"
+      ],
+      "source": "Edgewater Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners and condo associations must maintain their properties to borough standards.",
+      "keyRules": [
+        "Lawns and common areas must be kept trimmed and maintained",
+        "Snow and ice must be cleared from sidewalks within 12 hours of storm ending",
+        "No accumulation of trash, debris, or abandoned items on properties",
+        "Building facades must be maintained in safe condition",
+        "Vacant properties must be registered and maintained"
+      ],
+      "source": "Edgewater Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed annually and kept under control at all times.",
+      "keyRules": [
+        "All dogs must be licensed with the Borough Clerk's office",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets on public and private property",
+        "Rabies vaccination required for all dogs and cats",
+        "Condo complexes may have additional pet restrictions"
+      ],
+      "source": "Edgewater Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Edgewater has parking regulations addressing its dense waterfront development and River Road traffic.",
+      "keyRules": [
+        "No parking on River Road during rush hours in designated areas",
+        "Overnight street parking prohibited without permit in certain zones",
+        "Fire hydrant clearance of 10 feet required at all times",
+        "No double parking — strictly enforced along River Road",
+        "Handicapped space violations carry significant fines"
+      ],
+      "source": "Edgewater Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Edgewater has a large rental population in its waterfront condominium and apartment complexes.",
+      "keyRules": [
+        "Landlords must register rental units with the Borough",
+        "Certificate of Habitability required for all rental units",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act",
+        "Some condo associations restrict or limit subletting"
+      ],
+      "source": "Edgewater Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Waterfront Access",
+        "summary": "Public access to the Hudson River waterfront is protected by state and borough regulations.",
+        "keyRules": [
+          "Public walkways along the waterfront must remain accessible",
+          "No private obstruction of designated public waterfront areas",
+          "Fishing and boating subject to NJ DEP regulations",
+          "No swimming in the Hudson River from borough facilities"
+        ],
+        "source": "Edgewater Borough Code, NJ DEP"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Edgewater School District",
+    "publicSchools": [
+      {
+        "name": "Eleanor Van Gelder School",
+        "grades": "PreK-6",
+        "rating": 6,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "The sole public school in Edgewater; students attend Leonia High School for grades 7-12 through a send-receive relationship"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Academy of Gifted Children",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Small private school emphasizing individualized instruction"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (7 miles)",
+      "Bergen Community College — Paramus (12 miles)",
+      "Columbia University — NYC (via ferry or GWB, 5 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Breathtaking Hudson River and Manhattan skyline views from waterfront residences",
+      "NY Waterway ferry service offers a scenic 10-minute commute to Midtown Manhattan",
+      "Modern luxury condominiums and townhouses with resort-style amenities",
+      "Mitsuwa Marketplace and diverse international dining create a unique food destination",
+      "Proximity to Palisades Interstate Park for hiking and outdoor recreation"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NY Waterway Ferry / NJ Transit Bus",
+      "duration": "10-15 minutes by ferry; 25-40 minutes by bus",
+      "busRoutes": ["158", "156"],
+      "notes": "NY Waterway ferry runs from Edgewater to West 39th Street in Manhattan with free shuttle connections. NJ Transit buses also serve the route to Port Authority Bus Terminal. Car commute via the George Washington Bridge takes 20-45 minutes depending on traffic."
+    },
+    "costOfLiving": {
+      "summary": "Edgewater's cost of living is above the national average, driven by waterfront condo prices and proximity to Manhattan, but offers value compared to living in NYC.",
+      "vsStateAverage": "8-12% above the New Jersey average",
+      "vsNationalAverage": "30-35% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Stunning waterfront views and modern housing stock",
+        "Fast ferry commute to Midtown Manhattan",
+        "Excellent shopping and dining including Mitsuwa Marketplace and Whole Foods",
+        "Lower property taxes compared to many Bergen County towns",
+        "Access to Palisades Interstate Park for recreation"
+      ],
+      "cons": [
+        "River Road traffic congestion can be severe during rush hours",
+        "Limited single-family housing options — mostly condos and townhouses",
+        "No local middle or high school — students sent to Leonia",
+        "Narrow geography limits green space and parks within the borough",
+        "Flooding risk in low-lying waterfront areas"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Mitsuwa Marketplace Food Court",
+        "description": "Bustling Japanese food court inside the acclaimed Mitsuwa Marketplace, featuring ramen, sushi, tempura, takoyaki, and Japanese bakery stalls.",
+        "address": "595 River Road, Edgewater, NJ 07020",
+        "category": "Japanese"
+      },
+      {
+        "name": "Fleming's Prime Steakhouse",
+        "description": "Upscale steakhouse chain offering prime cuts, an extensive wine list, and a polished dining experience with river views.",
+        "address": "90 The Promenade, Edgewater, NJ 07020",
+        "category": "Steakhouse"
+      },
+      {
+        "name": "Binghamton's",
+        "description": "Casual American restaurant and bar popular for burgers, wings, and game-day gatherings in a lively atmosphere.",
+        "address": "725 River Road, Edgewater, NJ 07020",
+        "category": "American"
+      },
+      {
+        "name": "The Edgewater",
+        "description": "Waterfront Italian restaurant offering pasta, seafood, and brick-oven pizza with panoramic views of the Manhattan skyline.",
+        "address": "1203 River Road, Edgewater, NJ 07020",
+        "category": "Italian"
+      },
+      {
+        "name": "Starbucks Reserve",
+        "description": "Specialty Starbucks location at City Place offering premium coffee experiences and riverside views.",
+        "address": "City Place, Edgewater, NJ 07020",
+        "category": "Coffee"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Edgewater's main community park featuring sports fields, a playground, basketball courts, and a memorial to local veterans.",
+        "address": "River Road, Edgewater, NJ 07020",
+        "category": "Community Park"
+      },
+      {
+        "name": "Edgewater Waterfront Walkway",
+        "description": "A scenic public walkway stretching along the Hudson River waterfront, offering stunning views of the Manhattan skyline and opportunities for walking and jogging.",
+        "address": "River Road, Edgewater, NJ 07020",
+        "category": "Waterfront"
+      },
+      {
+        "name": "Palisades Interstate Park — Edgewater Section",
+        "description": "The dramatic Palisades cliffs rise above Edgewater, with hiking trails accessible from the borough leading to stunning overlooks above the Hudson River.",
+        "address": "Palisades Interstate Park, Edgewater, NJ",
+        "category": "State Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Edgewater Street Fair",
+        "description": "Annual community street fair along River Road featuring local vendors, food trucks, live entertainment, and family activities.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Independence Day Fireworks",
+        "description": "July 4th fireworks display visible from the Edgewater waterfront, complementing the Macy's fireworks across the river in Manhattan.",
+        "when": "July 4 (annual)"
+      },
+      {
+        "name": "Holiday Lighting Celebration",
+        "description": "Annual holiday tree lighting at Veterans Memorial Park with caroling, hot chocolate, and visits from Santa.",
+        "when": "December (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Mitsuwa Marketplace",
+        "description": "The largest Japanese supermarket on the East Coast, featuring a bustling food court, grocery store, bakery, bookstore, and specialty shops. A cultural landmark drawing visitors from across the tri-state area.",
+        "address": "595 River Road, Edgewater, NJ 07020",
+        "category": "Shopping & Dining"
+      },
+      {
+        "name": "The Shops at Edgewater",
+        "description": "Open-air retail center along River Road featuring national retailers, restaurants, and entertainment options with views of the Manhattan skyline.",
+        "address": "River Road, Edgewater, NJ 07020",
+        "category": "Shopping"
+      },
+      {
+        "name": "Hudson River Waterfront",
+        "description": "Edgewater's scenic waterfront offers unobstructed views of the Manhattan skyline, with public walkways, marinas, and ferry access to Midtown.",
+        "address": "River Road, Edgewater, NJ 07020",
+        "category": "Scenic"
+      }
+    ],
+    "shoppingAreas": [
+      "River Road Corridor — Major retail strip with Mitsuwa, Whole Foods, Trader Joe's, and national chains",
+      "The Promenade at Edgewater — Upscale retail and dining complex",
+      "City Place — Mixed-use development with shops and restaurants along the waterfront"
+    ]
+  },
+  "government": {
+    "governingBody": "Board of Commissioners (Walsh Act)",
+    "mayor": {
+      "name": "Michael McPartland",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Alfred Paganelli",
+        "title": "Commissioner",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Anthony Bartolomeo",
+        "title": "Commissioner",
+        "term": "Four-year term"
+      }
+    ],
+    "meetingSchedule": "Board of Commissioners meets on the second and fourth Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Edgewater Borough Hall, 916 River Road, Edgewater, NJ 07020",
+    "municipalWebsite": "https://www.edgewaterboro.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-943-1700",
+        "email": "clerk@edgewaterboro.com",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-943-1700",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-943-1700",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-943-7832",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-945-3600",
+      "address": "916 River Road, Edgewater, NJ 07020"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-945-7771",
+      "address": "916 River Road, Edgewater, NJ 07020"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-945-3600",
+      "address": "Edgewater, NJ 07020"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack Meridian Health Palisades Medical Center",
+        "address": "7600 River Road, North Bergen, NJ 07047",
+        "phone": "201-854-5000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 10
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Edgewater Police (Non-Emergency)",
+        "number": "201-945-3600"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-943-1700"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

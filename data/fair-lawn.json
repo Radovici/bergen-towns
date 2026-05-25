@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "slug": "fair-lawn",
+    "name": "Fair Lawn",
+    "fullName": "Borough of Fair Lawn",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "fair-lawn.info",
+    "zipCodes": ["07410"],
+    "themeColor": "#1d3557",
+    "accentColor": "#457b9d"
+  },
+  "overview": {
+    "tagline": "A Great Place to Live, Work, and Play",
+    "description": "Fair Lawn is a diverse, middle-class borough of over 33,000 residents in central Bergen County. Bordered by the Passaic River to the south and Saddle River to the west, Fair Lawn developed rapidly after World War II with the Radburn planned community, one of the first neighborhoods in America designed around the automobile. Today, Fair Lawn is known for its excellent schools, large Orthodox Jewish community, diverse dining scene, and convenient NJ Transit train service to Manhattan.",
+    "population": 33710,
+    "populationYear": 2020,
+    "areaSqMi": 5.17,
+    "elevation": "60 ft",
+    "incorporated": "1924",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Fair Lawn School District",
+    "highlights": [
+      "Home to the historic Radburn community — America's first planned 'Town for the Motor Age'",
+      "NJ Transit train station on the Bergen County Line with direct service to Hoboken",
+      "Large and active Orthodox Jewish community with numerous synagogues and kosher dining",
+      "Highly rated public school system with strong academics and athletics",
+      "Diverse population with excellent Korean, Middle Eastern, and kosher restaurants"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$545,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.10%",
+    "averagePropertyTax": "$13,200",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Fair Lawn features diverse housing stock ranging from pre-war homes in Radburn to post-war Cape Cods and colonials throughout the borough.",
+    "recentTrends": "Fair Lawn's market is competitive, driven by good schools, train access, and relative affordability compared to northern Bergen towns. Homes in the Radburn section and near the train station are especially sought after. Many older homes are being renovated or replaced with larger new construction.",
+    "neighborhoodNotes": [
+      "Radburn is the most distinctive neighborhood — a planned community with interior parks, pedestrian underpasses, and a swim club",
+      "The Fair Lawn Avenue corridor is the main commercial district with shops and restaurants",
+      "The Saddle River area on the western border features larger lots and Saddle River County Park access",
+      "The area near Broadway is popular with the Orthodox Jewish community and features kosher restaurants and shops",
+      "The 'Warren Point' section near the train station commands premium prices for commuter convenience"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood — check the borough website or app",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by appointment with the DPW"
+      ],
+      "contactPhone": "201-796-6230",
+      "contactUrl": "https://www.fairlawn.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream recycling is collected weekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) collected in blue bins",
+        "Paper and cardboard collected on a separate schedule",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Yard waste collected seasonally; check DPW schedule"
+      ],
+      "contactPhone": "201-796-6230",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water (formerly United Water) and sewer service is managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges appear on property tax or utility bills",
+        "Water quality reports published annually",
+        "Report water emergencies to Veolia or DPW"
+      ],
+      "contactPhone": "201-796-6230",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Fair Lawn Building Department handles construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Zoning applications reviewed by the Planning Board or Zoning Board of Adjustment",
+        "Certificate of Occupancy required for new construction and changes of use",
+        "Radburn section has additional architectural review requirements"
+      ],
+      "contactPhone": "201-796-6230"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Fair Lawn manages municipal parking lots and street parking, including commuter parking near the train station.",
+      "details": [
+        "Commuter parking available at the Fair Lawn train station with permit",
+        "Metered parking in the downtown commercial district",
+        "Residential permit parking in areas near the train station",
+        "Free parking in many neighborhood commercial areas"
+      ],
+      "contactPhone": "201-796-6230"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers extensive youth and adult programs throughout the year.",
+        "details": [
+          "Youth sports leagues including baseball, soccer, basketball, lacrosse, and football",
+          "Summer recreation program and day camps",
+          "Adult fitness programs and sports leagues",
+          "Community Center and Memorial Pool facility"
+        ],
+        "contactPhone": "201-796-6230"
+      },
+      {
+        "title": "Senior Services",
+        "description": "Fair Lawn Senior Center provides programs and services for residents aged 60+.",
+        "details": [
+          "Located at the Fair Lawn Senior Center on Fair Lawn Avenue",
+          "Daily activities, exercise programs, and social events",
+          "Transportation to medical appointments and shopping",
+          "Hot meal program and special event trips"
+        ],
+        "contactPhone": "201-796-6230"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Fair Lawn enforces noise restrictions across its residential and commercial areas.",
+      "keyRules": [
+        "Construction work prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Power equipment (leaf blowers, mowers) restricted to 8:00 AM to 8:00 PM",
+        "Excessive noise from residential properties subject to fines"
+      ],
+      "source": "Fair Lawn Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in accordance with borough standards.",
+      "keyRules": [
+        "Lawns must be kept trimmed — grass over 10 inches may result in a violation",
+        "Snow and ice must be cleared from sidewalks within 24 hours of storm ending",
+        "No accumulation of trash, debris, or abandoned vehicles on properties",
+        "Fences must comply with height and setback requirements",
+        "Radburn residents must also comply with Radburn Association rules"
+      ],
+      "source": "Fair Lawn Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed annually and controlled at all times within the borough.",
+      "keyRules": [
+        "All dogs must be licensed with the Borough Clerk by January 31 each year",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets on public and private property",
+        "Rabies vaccination required for all dogs and cats",
+        "Dog park available at the Fair Lawn Community Center"
+      ],
+      "source": "Fair Lawn Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Fair Lawn enforces parking regulations on residential and commercial streets.",
+      "keyRules": [
+        "No overnight parking on borough streets (2:00 AM to 6:00 AM) without a permit",
+        "Alternate-side parking enforced for street sweeping on designated streets",
+        "Commuter parking at the train station requires a borough permit",
+        "Fire hydrant clearance of 10 feet required at all times",
+        "Snow emergency parking bans enforced when declared"
+      ],
+      "source": "Fair Lawn Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Fair Lawn regulates rental properties to maintain housing standards.",
+      "keyRules": [
+        "Landlords must register rental properties with the Borough",
+        "Certificate of Habitability required before tenant occupancy",
+        "Fire safety inspections required for multi-family buildings",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act"
+      ],
+      "source": "Fair Lawn Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Eruv",
+        "summary": "Fair Lawn has an established eruv (symbolic boundary) for the Orthodox Jewish community.",
+        "keyRules": [
+          "The eruv is maintained by the local Orthodox community and is checked weekly",
+          "Residents should not interfere with eruv poles or wires",
+          "Borough cooperates with eruv maintenance on public utility poles",
+          "Status of the eruv announced weekly by local synagogues"
+        ],
+        "source": "Fair Lawn Borough Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Fair Lawn School District",
+    "publicSchools": [
+      {
+        "name": "Fair Lawn High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 1500,
+        "type": "public",
+        "notes": "Comprehensive high school with strong AP program, award-winning performing arts, and competitive athletics (the Cutters)"
+      },
+      {
+        "name": "Thomas Jefferson Middle School",
+        "grades": "6-8",
+        "rating": 7,
+        "enrollment": 600,
+        "type": "public",
+        "notes": "One of two middle schools; offers honors and enrichment programs"
+      },
+      {
+        "name": "Memorial Middle School",
+        "grades": "6-8",
+        "rating": 7,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "One of two middle schools serving Fair Lawn students"
+      },
+      {
+        "name": "Radburn School",
+        "grades": "K-5",
+        "rating": 8,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Located in the historic Radburn neighborhood"
+      },
+      {
+        "name": "Milnes School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 350,
+        "type": "public"
+      },
+      {
+        "name": "Westmoreland School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 380,
+        "type": "public"
+      },
+      {
+        "name": "Warren Point School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 360,
+        "type": "public"
+      },
+      {
+        "name": "Lyncrest School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 340,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Anne School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school serving Fair Lawn and surrounding communities"
+      },
+      {
+        "name": "Yavneh Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Modern Orthodox Jewish day school located in neighboring Paramus, serving many Fair Lawn families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (5 miles)",
+      "Bergen Community College — Paramus (3 miles)",
+      "William Paterson University — Wayne (8 miles)",
+      "Ramapo College — Mahwah (18 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "NJ Transit train station providing direct service to Hoboken and connections to NYC",
+      "Highly rated public schools with strong academics and extracurriculars",
+      "Active and welcoming Orthodox Jewish community with synagogues, kosher dining, and eruv",
+      "Historic Radburn neighborhood — a landmark in American urban planning",
+      "Diverse, affordable community with excellent highway and transit access"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Train (Bergen County Line) / Bus",
+      "duration": "40-55 minutes by train to Hoboken + PATH; 35-55 minutes by bus",
+      "trainStation": "Fair Lawn (Broadway, Radburn)",
+      "busRoutes": ["144", "148", "163"],
+      "notes": "Fair Lawn has two NJ Transit train stations (Broadway and Radburn) on the Bergen County Line. Trains run to Hoboken where riders transfer to the PATH for Manhattan. NJ Transit bus routes also serve the Port Authority Bus Terminal. Car commute via Routes 4 or 208 to the GWB."
+    },
+    "costOfLiving": {
+      "summary": "Fair Lawn offers a moderate cost of living for Bergen County, with solid housing values and good schools justifying property tax levels.",
+      "vsStateAverage": "5-8% above the New Jersey average",
+      "vsNationalAverage": "20-25% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Two NJ Transit train stations for NYC commuters",
+        "Strong public school system",
+        "Diverse community with rich cultural offerings",
+        "Radburn neighborhood is a unique, historic planned community",
+        "More affordable than many northern Bergen County towns"
+      ],
+      "cons": [
+        "Higher property tax rate — over 3%",
+        "Train commute to Manhattan requires a transfer at Hoboken",
+        "Route 4 and Broadway traffic can be heavy during rush hours",
+        "Some areas near the rivers have flood risk",
+        "Aging housing stock in many neighborhoods requires updates"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "The River Palm Terrace",
+        "description": "Upscale steakhouse with a sophisticated atmosphere, USDA prime cuts, fresh seafood, and an award-winning wine list.",
+        "address": "41-11 Route 4 West, Fair Lawn, NJ 07410",
+        "category": "Steakhouse"
+      },
+      {
+        "name": "Plaza Grill House",
+        "description": "Popular kosher steakhouse offering high-quality grilled meats, sides, and a welcoming atmosphere for the observant community.",
+        "address": "Broadway, Fair Lawn, NJ 07410",
+        "category": "Kosher Steakhouse"
+      },
+      {
+        "name": "Koreana",
+        "description": "Authentic Korean restaurant serving barbecue, bibimbap, and traditional Korean dishes with a loyal following.",
+        "address": "Broadway, Fair Lawn, NJ 07410",
+        "category": "Korean"
+      },
+      {
+        "name": "Roma Pizza",
+        "description": "Beloved local pizzeria serving New Jersey-style pizza, pasta, and Italian subs for decades.",
+        "address": "Fair Lawn Avenue, Fair Lawn, NJ 07410",
+        "category": "Pizza"
+      },
+      {
+        "name": "Hummus Elite",
+        "description": "Kosher Mediterranean restaurant featuring fresh hummus, falafel, shawarma, and Israeli-inspired dishes.",
+        "address": "Broadway, Fair Lawn, NJ 07410",
+        "category": "Kosher Mediterranean"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Radburn Association Parks",
+        "description": "The historic Radburn neighborhood features a network of interior parks, swimming pools, and walking paths designed as part of America's first planned community.",
+        "address": "Radburn, Fair Lawn, NJ 07410",
+        "category": "Planned Community"
+      },
+      {
+        "name": "Saddle River County Park — Fair Lawn Section",
+        "description": "Bergen County park along the Saddle River with paved walking and biking paths, sports fields, and picnic areas.",
+        "address": "Saddle River Road, Fair Lawn, NJ 07410",
+        "category": "County Park"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Community park with ball fields, a playground, a pool, basketball courts, and a memorial honoring local veterans.",
+        "address": "Fair Lawn Avenue, Fair Lawn, NJ 07410",
+        "category": "Community Park"
+      },
+      {
+        "name": "Fair Lawn Athletic Field Complex",
+        "description": "Multi-field sports complex used for youth and adult leagues, community events, and school athletics.",
+        "address": "Berdan Avenue, Fair Lawn, NJ 07410",
+        "category": "Sports Complex"
+      }
+    ],
+    "events": [
+      {
+        "name": "Fair Lawn Street Fair",
+        "description": "Massive annual street fair along Fair Lawn Avenue with hundreds of vendors, food trucks, live entertainment, and carnival rides.",
+        "when": "May (annual)"
+      },
+      {
+        "name": "Oldies Concert in the Park",
+        "description": "Summer concert series in Memorial Park featuring classic rock and oldies bands with food and family activities.",
+        "when": "Summer (weekly series)"
+      },
+      {
+        "name": "Independence Day Fireworks",
+        "description": "Annual July 4th fireworks display at Memorial Park with food vendors and pre-show entertainment.",
+        "when": "July 4 (annual)"
+      },
+      {
+        "name": "Holiday Festival",
+        "description": "Annual holiday celebration with tree lighting, menorah lighting, live entertainment, and visits from Santa.",
+        "when": "December (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Historic Radburn",
+        "description": "America's first planned community, designed in 1929 with cul-de-sacs, interior parks, and pedestrian underpasses — a National Historic Landmark in urban planning.",
+        "address": "Radburn, Fair Lawn, NJ 07410",
+        "category": "Historic"
+      },
+      {
+        "name": "Fair Lawn Public Library",
+        "description": "Modern public library offering extensive programs, meeting spaces, children's activities, and digital resources.",
+        "address": "10-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+        "category": "Library"
+      },
+      {
+        "name": "Garretson Forge and Farm",
+        "description": "Historic Dutch-Colonial homestead dating to the 18th century, preserved as a museum by the Fair Lawn Historical Society.",
+        "address": "4-02 River Road, Fair Lawn, NJ 07410",
+        "category": "Historic Site"
+      }
+    ],
+    "shoppingAreas": [
+      "Fair Lawn Avenue — Main commercial corridor with shops, restaurants, and local businesses",
+      "Broadway — Diverse shopping strip with kosher restaurants, bakeries, and specialty shops",
+      "Route 4 — Major commercial corridor with retail plazas and chain restaurants",
+      "River Road — Additional commercial strip with restaurants and services"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Kurt Peluso",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Gail Borrelli",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Josh Reinitz",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Cristina Cutrone",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Tim Heater",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Eli Nussbaum",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Sophie Hahn",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Fair Lawn Borough Hall, 8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+    "municipalWebsite": "https://www.fairlawn.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-796-6230",
+        "email": "clerk@fairlawn.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-796-6230",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-796-6230",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-796-6230",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-796-6230",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-796-1400",
+      "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-796-1230",
+      "address": "Fair Lawn, NJ 07410"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-796-1400",
+      "address": "Fair Lawn, NJ 07410"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "201-447-8000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "St. Joseph's University Medical Center",
+        "address": "703 Main Street, Paterson, NJ 07503",
+        "phone": "973-754-2000",
+        "distanceMiles": 6
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly United Water)",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Fair Lawn Police (Non-Emergency)",
+        "number": "201-796-1400"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-796-6230"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

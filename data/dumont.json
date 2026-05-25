@@ -1,0 +1,462 @@
+{
+  "meta": {
+    "slug": "dumont",
+    "name": "Dumont",
+    "fullName": "Borough of Dumont",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "dumont.info",
+    "zipCodes": ["07628"],
+    "themeColor": "#6a5b3e",
+    "accentColor": "#a89470"
+  },
+  "overview": {
+    "tagline": "A family-oriented community with hometown values and Bergen County convenience",
+    "description": "Dumont is a friendly, unpretentious borough of about 18,000 residents in central Bergen County. Known for its tight-knit community spirit, active volunteer fire department, and family-friendly neighborhoods, Dumont offers an affordable Bergen County lifestyle with excellent access to highways and bus routes. The borough's compact layout along Washington Avenue and its active recreation programs make it a popular choice for families seeking value without sacrificing suburban quality of life.",
+    "population": 18149,
+    "populationYear": 2020,
+    "areaSqMi": 2.06,
+    "elevation": "40-120 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Dumont School District",
+    "highlights": [
+      "Strong community spirit with active civic and volunteer organizations",
+      "Affordable by Bergen County standards with solid schools",
+      "Washington Avenue provides walkable access to shops and services",
+      "Active recreation department with youth and adult programs",
+      "Convenient NJ Transit bus service to NYC"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$475,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.00%",
+    "averagePropertyTax": "$11,200",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Dumont's housing stock is primarily single-family homes with some two-family properties.",
+    "recentTrends": "Dumont has experienced steady appreciation as buyers seek affordable Bergen County options. The borough attracts first-time buyers and families looking for good value. Renovations of older homes are common, and new infill construction is gradually modernizing the housing stock.",
+    "neighborhoodNotes": [
+      "North Dumont near the New Milford border features larger lots and quieter streets",
+      "Washington Avenue corridor provides walkable access to shops and dining",
+      "The area near Memorial Field is popular with families for recreation access",
+      "South Dumont near Bergenfield has a more urban feel with smaller lots"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup provided twice weekly by the borough's contracted hauler.",
+      "details": [
+        "Collection days vary by zone — check borough website",
+        "Trash must be in sealed containers by 6:00 AM",
+        "50 lb maximum per container",
+        "Bulk pickup available by scheduling with DPW"
+      ],
+      "contactPhone": "201-387-5025",
+      "contactUrl": "https://www.dumontnj.gov"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly single-stream recycling through the Bergen County Utilities Authority.",
+      "details": [
+        "Commingled recyclables in blue bins",
+        "Paper and cardboard on alternating weeks",
+        "No plastic bags, Styrofoam, or contaminated items",
+        "Recycling calendar on borough website"
+      ],
+      "contactPhone": "201-387-5025",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water provided by Veolia Water. Sewer service through the borough and BCUA.",
+      "details": [
+        "Quarterly water billing from Veolia",
+        "Sewer charges on property tax bills",
+        "Water main emergencies — contact DPW",
+        "Water quality reports available annually"
+      ],
+      "contactPhone": "201-387-5025",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Building Department processes construction and zoning permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Zoning Board handles variance applications",
+        "Certificate of Occupancy required for new construction",
+        "Applications available at Borough Hall"
+      ],
+      "contactPhone": "201-387-5025"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Municipal parking available near the Washington Avenue business district.",
+      "details": [
+        "Free municipal lots near Washington Avenue",
+        "Metered parking on Washington Avenue",
+        "Overnight street parking restricted in some areas",
+        "Snow emergency parking rules enforced"
+      ],
+      "contactPhone": "201-387-5025"
+    },
+    "additionalServices": [
+      {
+        "title": "Senior Services",
+        "description": "The borough offers programs and services for senior residents.",
+        "details": [
+          "Senior center with daily activities",
+          "Meal programs available",
+          "Transportation assistance for medical appointments",
+          "Senior tax freeze and deduction programs"
+        ],
+        "contactPhone": "201-387-5025"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Noise regulations protect residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM weekdays",
+        "Saturday construction 8:00 AM to 6:00 PM",
+        "No construction on Sundays or holidays",
+        "Loud music and disturbances prohibited between 10:00 PM and 7:00 AM"
+      ],
+      "source": "Borough of Dumont Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained to borough standards.",
+      "keyRules": [
+        "Lawns must be mowed and maintained",
+        "Sidewalks must be cleared of snow within 24 hours",
+        "No junk vehicles or debris accumulation",
+        "Fences and exterior structures maintained in good repair"
+      ],
+      "source": "Borough of Dumont Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Standard pet licensing and control ordinances.",
+      "keyRules": [
+        "Annual dog license required from Borough Clerk",
+        "Dogs must be leashed when off property",
+        "Pet waste must be picked up immediately",
+        "Rabies vaccination required for all dogs and cats"
+      ],
+      "source": "Borough of Dumont Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking regulated borough-wide.",
+      "keyRules": [
+        "No overnight street parking 2:00 AM to 6:00 AM without permit",
+        "No parking during declared snow emergencies",
+        "Alternate side parking for street cleaning",
+        "Commercial vehicles restricted in residential areas"
+      ],
+      "source": "Borough of Dumont Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must be registered and inspected.",
+      "keyRules": [
+        "All rental units must be registered",
+        "Certificate of Habitability required at tenant turnover",
+        "Inspections conducted before occupancy",
+        "Landlords responsible for code compliance"
+      ],
+      "source": "Borough of Dumont Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Garage Sales",
+        "summary": "Yard and garage sales permitted with restrictions.",
+        "keyRules": [
+          "Permit required from Borough Clerk",
+          "Limited to 3 sales per year",
+          "Hours restricted to 9:00 AM to 5:00 PM",
+          "Signs must be removed after the sale"
+        ],
+        "source": "Borough of Dumont Municipal Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Dumont School District",
+    "publicSchools": [
+      {
+        "name": "Grant Elementary School",
+        "grades": "PreK-3",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public"
+      },
+      {
+        "name": "Selzer School",
+        "grades": "PreK-3",
+        "rating": 5,
+        "enrollment": 340,
+        "type": "public"
+      },
+      {
+        "name": "Honiss School",
+        "grades": "4-5",
+        "rating": 5,
+        "enrollment": 320,
+        "type": "public"
+      },
+      {
+        "name": "Lincoln Middle School",
+        "grades": "6-8",
+        "rating": 5,
+        "enrollment": 450,
+        "type": "public"
+      },
+      {
+        "name": "Dumont High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 650,
+        "type": "public",
+        "notes": "Huskies; offers AP courses, vocational programs, and competitive athletics"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Mary School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school affiliated with St. Mary Parish"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Felician University (Lodi/Rutherford)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable Bergen County living for families",
+      "Strong community spirit and neighborhood feel",
+      "Active recreation programs for all ages",
+      "Good highway and bus access for commuters",
+      "Walkable Washington Avenue with shops and restaurants"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus to Port Authority",
+      "duration": "45-60 minutes by bus",
+      "busRoutes": ["166", "167"],
+      "notes": "NJ Transit routes 166 and 167 provide direct bus service to the Port Authority Bus Terminal. Washington Avenue is the primary bus corridor. Some residents drive to nearby train stations for NJ Transit rail connections."
+    },
+    "costOfLiving": {
+      "summary": "Dumont offers solid value for Bergen County, with homes priced below the county median and good schools.",
+      "vsStateAverage": "Near or slightly above the NJ state average",
+      "vsNationalAverage": "Above the national average, consistent with the northern NJ region"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable entry to Bergen County",
+        "Strong community involvement and volunteerism",
+        "Active recreation programs and facilities",
+        "Good bus service to NYC",
+        "Family-friendly neighborhoods"
+      ],
+      "cons": [
+        "Property taxes are relatively high for the home values",
+        "Aging housing stock in some areas",
+        "Downtown could benefit from revitalization",
+        "No train station in the borough",
+        "Some traffic congestion on Washington Avenue"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Dumont Crystal Diner",
+        "description": "Classic New Jersey diner serving breakfast, lunch, and dinner 24/7 with an extensive menu.",
+        "address": "42 E Madison Ave, Dumont, NJ 07628",
+        "category": "Diner"
+      },
+      {
+        "name": "Mario's Tutto Bene",
+        "description": "Neighborhood Italian restaurant with homemade pasta, pizza, and traditional dishes.",
+        "address": "Washington Ave, Dumont, NJ 07628",
+        "category": "Italian"
+      },
+      {
+        "name": "Seoul Garden",
+        "description": "Korean restaurant offering authentic dishes including barbecue, bibimbap, and noodle soups.",
+        "address": "Washington Ave, Dumont, NJ 07628",
+        "category": "Korean"
+      },
+      {
+        "name": "La Hacienda",
+        "description": "Mexican restaurant popular with locals for tacos, burritos, and margaritas.",
+        "address": "Washington Ave, Dumont, NJ 07628",
+        "category": "Mexican"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Memorial Field / Dumont Sports Complex",
+        "description": "Main borough athletic complex with baseball diamonds, football field, track, tennis courts, and playground.",
+        "address": "New Milford Ave, Dumont, NJ 07628",
+        "category": "Athletic Complex"
+      },
+      {
+        "name": "John F. Kennedy Park",
+        "description": "Neighborhood park with playground, picnic areas, and open green space.",
+        "address": "Dumont, NJ 07628",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Weiss Field",
+        "description": "Athletic fields used for youth soccer and recreational sports.",
+        "category": "Athletic Field"
+      }
+    ],
+    "events": [
+      {
+        "name": "Dumont Day",
+        "description": "Annual community celebration with carnival rides, food vendors, live music, and fireworks.",
+        "when": "Summer (typically June)"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade honoring veterans, featuring school bands, veterans' organizations, and community groups.",
+        "when": "May (Memorial Day)"
+      },
+      {
+        "name": "Holiday Parade and Tree Lighting",
+        "description": "Borough holiday celebration with parade, tree lighting, and community festivities.",
+        "when": "December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Dumont Public Library",
+        "description": "Community library with programs for children, teens, and adults, plus digital resources.",
+        "address": "55 Washington Ave, Dumont, NJ 07628",
+        "category": "Library"
+      },
+      {
+        "name": "Dixon Homestead",
+        "description": "Historic stone house dating to the 18th century, maintained by the Dumont Historical Society.",
+        "address": "Dumont, NJ 07628",
+        "category": "Historic Site"
+      }
+    ],
+    "shoppingAreas": [
+      "Washington Avenue business district",
+      "New Milford Avenue shops",
+      "Bergen Town Center (nearby Paramus)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "James Kelly",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Peter Mayer", "title": "Council President" },
+      { "name": "Anthony Girgenti", "title": "Council Member" },
+      { "name": "David Arcuti", "title": "Council Member" },
+      { "name": "Joseph Brus", "title": "Council Member" },
+      { "name": "Andrew LaBruno", "title": "Council Member" },
+      { "name": "Richard Motta", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the first and third Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Dumont Borough Hall, 50 Washington Ave, Dumont, NJ 07628",
+    "municipalWebsite": "https://www.dumontnj.gov",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-387-5025",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-387-5025",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-387-5025",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-384-2560",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-387-5025",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-387-5000",
+      "address": "50 Washington Ave, Dumont, NJ 07628"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-387-5025",
+      "address": "Dumont Fire Department, Dumont, NJ 07628"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-387-5025"
+    },
+    "hospitals": [
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 6
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

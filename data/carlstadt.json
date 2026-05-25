@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "slug": "carlstadt",
+    "name": "Carlstadt",
+    "fullName": "Borough of Carlstadt",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "carlstadt.info",
+    "zipCodes": ["07072"],
+    "themeColor": "#6b4423",
+    "accentColor": "#a67c52"
+  },
+  "overview": {
+    "tagline": "A historic borough where industry meets community in the Meadowlands",
+    "description": "Carlstadt is a small borough in southeastern Bergen County, straddling the border between residential neighborhoods and the vast Meadowlands industrial district. Founded by German immigrants in the mid-19th century, the borough retains a charming residential section north of Route 120 while its southern portion hosts major warehousing, distribution, and commercial operations. Carlstadt offers affordable Bergen County living with unmatched proximity to MetLife Stadium, American Dream, and major transportation routes.",
+    "population": 6550,
+    "populationYear": 2020,
+    "areaSqMi": 4.08,
+    "elevation": "5-40 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Carlstadt School District",
+    "highlights": [
+      "Rich German heritage dating to 1849 founding",
+      "Adjacent to MetLife Stadium and American Dream complex",
+      "Major commercial and industrial hub in the Meadowlands",
+      "Affordable housing in a tight-knit residential community",
+      "Easy access to NJ Turnpike, Routes 17 and 3"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$430,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.15%",
+    "averagePropertyTax": "$8,500",
+    "assessmentInfo": "Carlstadt benefits from substantial commercial ratable base which helps moderate residential tax burdens. Properties assessed by Borough Tax Assessor.",
+    "recentTrends": "The residential market has seen steady growth. Carlstadt's relatively low property taxes (thanks to commercial ratables) and small-town feel attract buyers looking for Bergen County affordability. The housing stock is primarily older single-family homes with some newer townhouse developments.",
+    "neighborhoodNotes": [
+      "The residential section north of Hackensack Street has charming older homes on tree-lined streets",
+      "Newer townhouse developments offer updated living options",
+      "The Meadowlands industrial area in the south is strictly commercial",
+      "Hoboken Road area features a mix of residential and commercial properties"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection provided twice weekly by the borough's contracted hauler.",
+      "details": [
+        "Collection days vary by street — check borough website",
+        "Trash in sealed bags or covered containers by 6:00 AM",
+        "50 lb maximum per container",
+        "Bulk pickup by appointment with DPW"
+      ],
+      "contactPhone": "201-939-2850",
+      "contactUrl": "https://www.carlstadtnj.us"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly recycling collection through the Bergen County Utilities Authority.",
+      "details": [
+        "Commingled recyclables in blue containers",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food waste",
+        "BCUA recycling center available for additional items"
+      ],
+      "contactPhone": "201-939-2850",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water (formerly United Water). Sewer service managed through BCUA.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges on property tax bills",
+        "Water main emergencies — call DPW",
+        "Annual water quality reports from Veolia"
+      ],
+      "contactPhone": "201-939-2850",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "Construction and zoning permits handled by the Building Department.",
+      "details": [
+        "Permits required for all construction and renovation work",
+        "Commercial and industrial permits handled by same department",
+        "Zoning Board meets monthly for variance hearings",
+        "CO required for all new construction and changes of use"
+      ],
+      "contactPhone": "201-939-2850"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Municipal parking lots and metered street parking available in the commercial area.",
+      "details": [
+        "Free parking in municipal lots",
+        "Metered parking on Hackensack Street",
+        "NJ Transit commuter parking at Williams Avenue station",
+        "Overnight street parking requires permit"
+      ],
+      "contactPhone": "201-939-2850"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers seasonal programs for residents.",
+        "details": [
+          "Youth sports leagues (baseball, soccer, basketball)",
+          "Summer camp programs",
+          "Senior citizen activities and trips",
+          "Holiday community events"
+        ],
+        "contactPhone": "201-939-2850"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Noise regulations balance residential quiet with the borough's commercial activity.",
+      "keyRules": [
+        "Residential construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction Sundays or holidays in residential zones",
+        "Industrial zone noise regulated separately under state DEP standards"
+      ],
+      "source": "Borough of Carlstadt Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Both residential and commercial properties must be maintained to code.",
+      "keyRules": [
+        "Lawns maintained and not exceeding 10 inches",
+        "Snow removal required within 24 hours",
+        "No junk vehicles or debris accumulation",
+        "Commercial properties must maintain facades and parking areas"
+      ],
+      "source": "Borough of Carlstadt Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Standard pet licensing and control requirements.",
+      "keyRules": [
+        "Dogs must be licensed annually",
+        "Leash required when off owner's property",
+        "Clean up after pets immediately",
+        "Rabies vaccination required for dogs and cats"
+      ],
+      "source": "Borough of Carlstadt Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking regulated in both residential and commercial zones.",
+      "keyRules": [
+        "No overnight parking on streets without permit",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicle parking restricted in residential areas",
+        "Time-limited parking enforced in business district"
+      ],
+      "source": "Borough of Carlstadt Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental housing must meet borough inspection standards.",
+      "keyRules": [
+        "Rental registration required with the borough",
+        "Pre-occupancy inspection for Certificate of Habitability",
+        "Landlord responsible for compliance with fire and building codes",
+        "Multi-family units subject to additional fire safety requirements"
+      ],
+      "source": "Borough of Carlstadt Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Meadowlands Commission Regulations",
+        "summary": "Properties in the Meadowlands district are subject to additional regulations from the NJ Sports and Exposition Authority.",
+        "keyRules": [
+          "Development in the Meadowlands zone requires NJSEA review",
+          "Environmental impact considerations for wetlands areas",
+          "Height and use restrictions specific to Meadowlands zoning",
+          "Stormwater management requirements are stricter in flood-prone areas"
+        ],
+        "source": "NJ Meadowlands Commission / NJSEA"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Carlstadt School District",
+    "publicSchools": [
+      {
+        "name": "Carlstadt Public School",
+        "grades": "PreK-8",
+        "rating": 6,
+        "enrollment": 480,
+        "type": "public",
+        "notes": "Single K-8 school serving the borough. High school students attend Becton Regional High School in East Rutherford."
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Joseph School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school in nearby East Rutherford"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck and Hackensack campuses)",
+      "Bergen Community College (Paramus)",
+      "Felician University (Lodi/Rutherford)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Lower property taxes thanks to strong commercial ratable base",
+      "Affordable homes in a charming residential neighborhood",
+      "Close to MetLife Stadium, American Dream, and Meadowlands entertainment",
+      "Excellent highway access for commuters",
+      "Small-town community feel in a metro-accessible location"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus or train from nearby stations",
+      "duration": "30-45 minutes",
+      "trainStation": "Williams Avenue (NJ Transit Pascack Valley Line, limited service)",
+      "busRoutes": ["165"],
+      "notes": "NJ Transit bus service available along Route 17. The Williams Avenue station on the Pascack Valley Line offers limited rail service. Many commuters drive to Secaucus Junction for transfer to NJ Transit or PATH trains. The NJ Turnpike and Routes 3 and 17 provide direct highway access."
+    },
+    "costOfLiving": {
+      "summary": "Carlstadt offers a cost advantage over many Bergen County towns, with relatively lower property taxes due to its robust commercial and industrial tax base.",
+      "vsStateAverage": "Below the Bergen County average for property taxes, near the state average overall",
+      "vsNationalAverage": "Above the national average, in line with the northern NJ metropolitan area"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Lower property taxes than most Bergen County towns",
+        "Charming small residential neighborhood",
+        "Adjacent to major sports and entertainment venues",
+        "Excellent highway access (NJ Turnpike, Rt 3, Rt 17)",
+        "Strong community events and traditions"
+      ],
+      "cons": [
+        "Industrial area in southern portion of borough",
+        "Meadowlands area can have odor issues at times",
+        "Limited dining and retail in the residential section",
+        "Flood risk in low-lying areas near the Meadowlands",
+        "Small school district with one K-8 school"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Grasshopper Irish Pub",
+        "description": "Friendly neighborhood pub serving American and Irish comfort food with a great beer selection.",
+        "address": "419 Hackensack St, Carlstadt, NJ 07072",
+        "category": "Irish Pub"
+      },
+      {
+        "name": "Carriage House Restaurant",
+        "description": "Upscale American dining in a restored historic building, popular for special occasions.",
+        "address": "Hackensack St, Carlstadt, NJ 07072",
+        "category": "American"
+      },
+      {
+        "name": "Rommel's Ace Hardware & Garden Center Cafe",
+        "description": "Unique local institution combining a hardware store with a community gathering cafe.",
+        "address": "Hackensack St, Carlstadt, NJ 07072",
+        "category": "Cafe"
+      },
+      {
+        "name": "Il Villaggio",
+        "description": "Italian restaurant serving classic pastas, seafood, and brick-oven pizza.",
+        "address": "651 Rt 17 South, Carlstadt, NJ 07072",
+        "category": "Italian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Carlstadt Veterans Memorial Park",
+        "description": "Community park with playground, athletic fields, walking paths, and memorials honoring veterans.",
+        "address": "Carlstadt, NJ 07072",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Third Street Park",
+        "description": "Neighborhood park with playground equipment, basketball courts, and open green space.",
+        "category": "Neighborhood Park"
+      },
+      {
+        "name": "DeKorte Park (Meadowlands)",
+        "description": "Part of the Meadowlands Environment Center, offering nature trails, bird watching, and wetlands views. Just south of the borough.",
+        "address": "1 DeKorte Park Plaza, Lyndhurst, NJ 07071",
+        "category": "Nature Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Carlstadt Community Day",
+        "description": "Annual celebration featuring food, rides, games, and live entertainment for the whole community.",
+        "when": "Summer"
+      },
+      {
+        "name": "Halloween Parade",
+        "description": "Borough-wide Halloween parade with costumed participants, floats, and prizes.",
+        "when": "October"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community holiday event with tree lighting ceremony, carols, and refreshments.",
+        "when": "December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "American Dream",
+        "description": "Massive entertainment and retail complex adjacent to Carlstadt featuring Nickelodeon Universe, DreamWorks Water Park, an NHL-sized ice rink, and hundreds of stores.",
+        "address": "1 American Dream Way, East Rutherford, NJ 07073",
+        "category": "Entertainment"
+      },
+      {
+        "name": "MetLife Stadium",
+        "description": "Home of the NFL's New York Giants and New York Jets, also hosting major concerts and events.",
+        "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073",
+        "category": "Sports Venue"
+      },
+      {
+        "name": "Meadowlands Environment Center",
+        "description": "Environmental education center in nearby DeKorte Park with exhibits on Meadowlands ecology, trails, and bird-watching platforms.",
+        "address": "1 DeKorte Park Plaza, Lyndhurst, NJ 07071",
+        "category": "Nature Center"
+      }
+    ],
+    "shoppingAreas": [
+      "Hackensack Street business district",
+      "Route 17 commercial corridor",
+      "American Dream (adjacent East Rutherford)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Robert Zimmermann",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "David Stoltz", "title": "Council President" },
+      { "name": "Joseph Crifasi", "title": "Council Member" },
+      { "name": "Richard Bartlett", "title": "Council Member" },
+      { "name": "Corey Marques", "title": "Council Member" },
+      { "name": "Paul Zarillo", "title": "Council Member" },
+      { "name": "Craig Lahullier", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the first and third Monday of each month at 8:00 PM",
+    "meetingLocation": "Carlstadt Borough Hall, 500 Madison Street, Carlstadt, NJ 07072",
+    "municipalWebsite": "https://www.carlstadtnj.us",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-939-2850",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-939-2850",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-939-2850",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-939-2850",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-438-4100",
+      "address": "500 Madison Street, Carlstadt, NJ 07072"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-939-2850",
+      "address": "Carlstadt Fire Department, Carlstadt, NJ 07072"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-939-2850"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Clara Maass Medical Center",
+        "address": "1 Clara Maass Drive, Belleville, NJ 07109",
+        "phone": "973-450-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

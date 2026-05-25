@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "slug": "bogota",
+    "name": "Bogota",
+    "fullName": "Borough of Bogota",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "bogota.info",
+    "zipCodes": ["07603"],
+    "themeColor": "#5c4d7d",
+    "accentColor": "#9b8ec4"
+  },
+  "overview": {
+    "tagline": "A tight-knit community along the Hackensack River",
+    "description": "Bogota is a compact, working-class borough situated along the west bank of the Hackensack River in Bergen County. With just under one square mile of land, Bogota packs a strong sense of community into its small footprint. The borough features affordable housing, a friendly downtown along Queen Anne Road, and easy access to Route 80 and major NJ Transit bus routes. Its diverse population and community-oriented character make it a welcoming place for families and newcomers.",
+    "population": 8482,
+    "populationYear": 2020,
+    "areaSqMi": 0.97,
+    "elevation": "20-50 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Bogota School District",
+    "highlights": [
+      "Compact, walkable community with small-town character",
+      "Affordable housing by Bergen County standards",
+      "Scenic Hackensack River waterfront",
+      "Strong community spirit with active volunteer organizations",
+      "Convenient access to Route 80 and NYC bus routes"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$385,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.10%",
+    "averagePropertyTax": "$9,200",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. The borough participates in Bergen County assessment programs.",
+    "recentTrends": "Bogota has seen healthy appreciation as buyers seek affordable entry points to Bergen County. The compact size and community feel attract young families and first-time homebuyers. Two-family homes are common and popular with investors.",
+    "neighborhoodNotes": [
+      "Queen Anne Road corridor is the main commercial street with mixed-use properties",
+      "Riverfront properties along the Hackensack offer water views",
+      "The residential core features modest single-family and two-family homes on small lots",
+      "Areas near Olsen Park are popular with families"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the borough's contracted hauler.",
+      "details": [
+        "Collection days are Monday and Thursday",
+        "Trash must be curbside by 6:00 AM in sealed containers",
+        "Maximum weight per container is 50 lbs",
+        "Bulk pickup available by appointment"
+      ],
+      "contactPhone": "201-342-1736",
+      "contactUrl": "https://www.bogotaonline.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling is collected weekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables in designated bins",
+        "Paper and cardboard collected on alternating weeks",
+        "Check borough website for recycling calendar",
+        "Electronics and hazardous waste drop-off events held periodically"
+      ],
+      "contactPhone": "201-342-1736",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water. Sewer service is managed by the borough with treatment through BCUA.",
+      "details": [
+        "Water bills issued quarterly",
+        "Sewer charges appear on property tax bills",
+        "Report water emergencies to DPW",
+        "Water quality reports available annually"
+      ],
+      "contactPhone": "201-342-1736",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Construction Department handles all building permits and inspections.",
+      "details": [
+        "Permits required for all structural, electrical, and plumbing work",
+        "Zoning Board reviews variance applications",
+        "Certificate of Occupancy required for new construction and renovations",
+        "Applications available at Borough Hall"
+      ],
+      "contactPhone": "201-342-1736"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "On-street parking is regulated throughout the borough with some municipal lot parking available.",
+      "details": [
+        "Metered parking along Queen Anne Road commercial district",
+        "Residential parking permits may be required in certain areas",
+        "Overnight street parking restricted",
+        "Snow emergency parking rules strictly enforced"
+      ],
+      "contactPhone": "201-342-1736"
+    },
+    "additionalServices": [
+      {
+        "title": "Yard Waste Collection",
+        "description": "Seasonal yard waste pickup for leaves, grass clippings, and brush.",
+        "details": [
+          "Fall leaf collection October through December",
+          "Grass and brush must be in biodegradable bags or bundles",
+          "No mixing yard waste with regular trash"
+        ],
+        "contactPhone": "201-342-1736"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Noise regulations protect the residential character of this compact borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM only",
+        "No construction on Sundays or holidays",
+        "Excessive noise complaints subject to municipal court action"
+      ],
+      "source": "Borough of Bogota Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to borough standards.",
+      "keyRules": [
+        "Lawns must be kept trimmed and orderly",
+        "Sidewalks must be maintained and cleared of snow within 24 hours",
+        "No storage of inoperable vehicles on residential properties",
+        "Fences must be maintained in good repair"
+      ],
+      "source": "Borough of Bogota Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "All dogs must be licensed and controlled.",
+      "keyRules": [
+        "Dog licenses required annually from Borough Clerk",
+        "Dogs must be leashed at all times when off property",
+        "Owners must immediately clean up pet waste",
+        "Rabies vaccination required"
+      ],
+      "source": "Borough of Bogota Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated given the borough's compact layout.",
+      "keyRules": [
+        "No overnight street parking 2:00 AM to 6:00 AM",
+        "No parking during snow emergencies",
+        "Alternate side parking enforced for street cleaning",
+        "Violations result in ticketing and potential towing"
+      ],
+      "source": "Borough of Bogota Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must be registered and comply with housing codes.",
+      "keyRules": [
+        "All rental units must be registered with the borough",
+        "Inspections required at tenant turnover",
+        "Certificate of Habitability required",
+        "Landlords responsible for code compliance"
+      ],
+      "source": "Borough of Bogota Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Flood Zone Regulations",
+        "summary": "Parts of Bogota along the Hackensack River are in flood zones with special building requirements.",
+        "keyRules": [
+          "Properties in flood zones must carry flood insurance",
+          "New construction and substantial improvements must meet elevation requirements",
+          "Fill and grading in flood zones require permits",
+          "Borough participates in FEMA's National Flood Insurance Program"
+        ],
+        "source": "Borough of Bogota Flood Damage Prevention Ordinance"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Bogota School District",
+    "publicSchools": [
+      {
+        "name": "Steen Elementary School",
+        "grades": "PreK-4",
+        "rating": 4,
+        "enrollment": 450,
+        "type": "public"
+      },
+      {
+        "name": "Bogota Junior/Senior High School",
+        "grades": "5-12",
+        "rating": 4,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "Combined junior and senior high school serving the borough's older students"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Joseph School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school affiliated with St. Joseph Parish"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Felician University (Lodi/Rutherford)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "One of the most affordable towns in Bergen County",
+      "Tight-knit, welcoming community atmosphere",
+      "Hackensack River waterfront access",
+      "Easy highway access to Route 80 and the GWB",
+      "Good starter-home market for first-time buyers"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus to Port Authority or PATH",
+      "duration": "40-55 minutes by bus",
+      "busRoutes": ["165", "168"],
+      "notes": "NJ Transit buses run along River Road and Route 46 providing service to the Port Authority Bus Terminal. Driving to the GWB takes about 20 minutes. Some commuters drive to Teterboro or Anderson Street stations for rail connections."
+    },
+    "costOfLiving": {
+      "summary": "Bogota is one of Bergen County's most affordable communities, making it attractive for first-time buyers and young families.",
+      "vsStateAverage": "Near or slightly below the New Jersey average for housing, but property taxes are comparable",
+      "vsNationalAverage": "Above the national average, consistent with the northern NJ region"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable entry to Bergen County",
+        "Strong community spirit and neighborliness",
+        "Compact and walkable",
+        "Good highway access for commuters",
+        "Hackensack River recreation"
+      ],
+      "cons": [
+        "High property tax rates despite lower home values",
+        "Flood risk for riverside properties",
+        "Limited retail and dining options",
+        "Small school district with limited program variety",
+        "Compact lots with limited yard space"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Sagres Bar & Grill",
+        "description": "Portuguese and Spanish cuisine with a casual, neighborhood atmosphere.",
+        "address": "77 Queen Anne Rd, Bogota, NJ 07603",
+        "category": "Portuguese"
+      },
+      {
+        "name": "Queen Anne Pizza",
+        "description": "Classic New Jersey pizzeria serving pies, heroes, and Italian favorites.",
+        "address": "106 Queen Anne Rd, Bogota, NJ 07603",
+        "category": "Pizza"
+      },
+      {
+        "name": "Sabor Latino",
+        "description": "Authentic Latin American home cooking popular with locals.",
+        "address": "Queen Anne Rd, Bogota, NJ 07603",
+        "category": "Latin American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Olsen Park",
+        "description": "Main borough park with playgrounds, athletic fields, basketball courts, and picnic areas.",
+        "address": "W Fort Lee Rd, Bogota, NJ 07603",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Riverside Park",
+        "description": "Small waterfront park along the Hackensack River with benches and river views.",
+        "address": "River Rd, Bogota, NJ 07603",
+        "category": "Waterfront Park"
+      },
+      {
+        "name": "Bogota Recreation Fields",
+        "description": "Athletic complex with fields for soccer, baseball, and community sports leagues.",
+        "category": "Athletic Complex"
+      }
+    ],
+    "events": [
+      {
+        "name": "Bogota Day",
+        "description": "Annual community celebration with food vendors, live entertainment, games, and activities in Olsen Park.",
+        "when": "Summer (typically September)"
+      },
+      {
+        "name": "Holiday Parade",
+        "description": "Annual holiday parade through the borough featuring local organizations, school bands, and Santa Claus.",
+        "when": "December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Bogota Public Library",
+        "description": "Community library offering programs, book clubs, and children's activities.",
+        "address": "375 Larch Ave, Bogota, NJ 07603",
+        "category": "Library"
+      },
+      {
+        "name": "Hackensack Riverfront",
+        "description": "Scenic riverfront offering views, fishing, and peaceful walks along the Hackensack River.",
+        "category": "Waterfront"
+      }
+    ],
+    "shoppingAreas": [
+      "Queen Anne Road commercial district",
+      "River Road corridor",
+      "Bergen Town Center (nearby Paramus)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Chris Kelemen",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Pat McAleavey", "title": "Council President" },
+      { "name": "Gregory Spagnuolo", "title": "Council Member" },
+      { "name": "Rosa Marie Fagan", "title": "Council Member" },
+      { "name": "Maria Santiago", "title": "Council Member" },
+      { "name": "Tony Gallo", "title": "Council Member" },
+      { "name": "James Barone", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Thursday of each month at 7:30 PM",
+    "meetingLocation": "Bogota Borough Hall, 375 Larch Ave, Bogota, NJ 07603",
+    "municipalWebsite": "https://www.bogotaonline.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-342-1736",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-342-1736",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-342-1736",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-342-1736",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-487-2400",
+      "address": "375 Larch Ave, Bogota, NJ 07603"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-342-1736",
+      "address": "Bogota Fire Department, Bogota, NJ 07603"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-342-1736"
+    },
+    "hospitals": [
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 4
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

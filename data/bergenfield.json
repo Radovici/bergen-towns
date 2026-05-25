@@ -1,0 +1,477 @@
+{
+  "meta": {
+    "slug": "bergenfield",
+    "name": "Bergenfield",
+    "fullName": "Borough of Bergenfield",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "bergenfield.info",
+    "zipCodes": ["07621"],
+    "themeColor": "#1b4965",
+    "accentColor": "#5fa8d3"
+  },
+  "overview": {
+    "tagline": "A diverse, family-friendly community in the heart of Bergen County",
+    "description": "Bergenfield is a culturally diverse borough of approximately 28,000 residents situated in the heart of Bergen County. Known for its welcoming neighborhoods, strong school system, and vibrant mix of cultures, Bergenfield offers an affordable entry point to Bergen County living. The borough features a walkable downtown along Washington Avenue, numerous parks, and excellent transit connections to New York City.",
+    "population": 28500,
+    "populationYear": 2020,
+    "areaSqMi": 2.92,
+    "elevation": "60-100 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Bergenfield School District",
+    "highlights": [
+      "One of Bergen County's most culturally diverse communities",
+      "Affordable housing compared to surrounding towns",
+      "Strong public school system with dedicated community support",
+      "Walkable downtown along Washington Avenue",
+      "Excellent NJ Transit bus access to New York City"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$480,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.95%",
+    "averagePropertyTax": "$10,800",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Bergen County periodically conducts revaluations.",
+    "recentTrends": "Bergenfield has seen steady appreciation in recent years as buyers priced out of neighboring towns discover its value. The mix of single-family homes, two-family dwellings, and condominiums provides options across price points.",
+    "neighborhoodNotes": [
+      "The north end near Dumont features larger lots and established single-family homes",
+      "The Washington Avenue corridor offers walkable living near shops and restaurants",
+      "South Bergenfield has a mix of housing types including two-family homes",
+      "The area around Cooper's Pond Park is popular with families"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the borough's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood zone",
+        "Trash must be in sealed bags or covered containers curbside by 6:00 AM",
+        "Maximum container weight is 50 lbs",
+        "Bulk item pickup available by scheduling with DPW"
+      ],
+      "contactPhone": "201-387-4055",
+      "contactUrl": "https://www.bergenfield.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream recycling is collected weekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Recycling calendar available on borough website"
+      ],
+      "contactPhone": "201-387-4055",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water and sewer service is managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges included in property tax bills",
+        "Report water main breaks to DPW immediately",
+        "Annual water quality reports available from Veolia"
+      ],
+      "contactPhone": "201-387-4055",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Building Department handles all construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural work, electrical, plumbing, and HVAC",
+        "Zoning Board of Adjustment handles variance requests",
+        "Certificate of Occupancy required for new construction",
+        "Applications available at Borough Hall or online"
+      ],
+      "contactPhone": "201-387-4055"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The borough manages municipal parking lots near the downtown area and enforces street parking regulations.",
+      "details": [
+        "Free municipal parking lots available near Washington Avenue",
+        "Metered parking in the downtown business district",
+        "Overnight street parking requires a permit in certain areas",
+        "Snow emergency parking restrictions enforced"
+      ],
+      "contactPhone": "201-387-4055"
+    },
+    "additionalServices": [
+      {
+        "title": "Senior Services",
+        "description": "The Bergenfield Senior Center provides programs, meals, and transportation for senior residents.",
+        "details": [
+          "Daily activities and social programs",
+          "Meals on Wheels and congregate meals",
+          "Medical appointment transportation available",
+          "Annual senior citizen property tax deduction available"
+        ],
+        "contactPhone": "201-387-5007"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Bergenfield enforces noise regulations to protect residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction on Sundays or holidays",
+        "Loud music and disturbances prohibited between 10:00 PM and 7:00 AM"
+      ],
+      "source": "Borough of Bergenfield Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must keep their properties in good condition per borough code.",
+      "keyRules": [
+        "Lawns must be maintained and not exceed 10 inches",
+        "Sidewalks must be kept clear and in good repair",
+        "Snow removal required within 24 hours of snowfall",
+        "No accumulation of junk, debris, or abandoned vehicles"
+      ],
+      "source": "Borough of Bergenfield Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "All dogs must be licensed and controlled. The borough enforces animal control ordinances.",
+      "keyRules": [
+        "Annual dog license required — available from Borough Clerk",
+        "Dogs must be leashed when off owner's property",
+        "Pet waste must be picked up immediately",
+        "Maximum number of pets per household may apply"
+      ],
+      "source": "Borough of Bergenfield Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "On-street parking is regulated throughout the borough.",
+      "keyRules": [
+        "Overnight parking on streets prohibited 2:00 AM to 6:00 AM without permit",
+        "No parking during declared snow emergencies",
+        "Commercial vehicles restricted in residential areas",
+        "Handicapped parking violations strictly enforced"
+      ],
+      "source": "Borough of Bergenfield Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must be registered and inspected.",
+      "keyRules": [
+        "All rental units must be registered with the borough",
+        "Certificate of Habitability required before tenant occupancy",
+        "Inspections conducted upon tenant turnover",
+        "Landlords responsible for property maintenance compliance"
+      ],
+      "source": "Borough of Bergenfield Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Garage Sales",
+        "summary": "Garage and yard sales are permitted with restrictions.",
+        "keyRules": [
+          "Permit required from Borough Clerk",
+          "Limited to 3 sales per year per household",
+          "Sales hours restricted to 9:00 AM to 5:00 PM",
+          "Signs must be removed within 24 hours after the sale"
+        ],
+        "source": "Borough of Bergenfield Municipal Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Bergenfield School District",
+    "publicSchools": [
+      {
+        "name": "Franklin Elementary School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 380,
+        "type": "public"
+      },
+      {
+        "name": "Jefferson Elementary School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public"
+      },
+      {
+        "name": "Lincoln Elementary School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 360,
+        "type": "public"
+      },
+      {
+        "name": "Washington Elementary School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 340,
+        "type": "public"
+      },
+      {
+        "name": "Hoover Elementary School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 370,
+        "type": "public"
+      },
+      {
+        "name": "Roy W. Brown Middle School",
+        "grades": "6-8",
+        "rating": 5,
+        "enrollment": 750,
+        "type": "public"
+      },
+      {
+        "name": "Bergenfield High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 1100,
+        "type": "public",
+        "notes": "Comprehensive high school offering AP courses, vocational programs, and competitive athletics"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Transfiguration Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school serving the parish community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Felician University (Lodi/Rutherford)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable Bergen County living with good schools",
+      "Culturally diverse community with restaurants from many cuisines",
+      "Walkable downtown along Washington Avenue",
+      "Strong community spirit with active recreation programs",
+      "Convenient bus commute to Manhattan"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus to Port Authority",
+      "duration": "45-60 minutes by bus",
+      "busRoutes": ["166", "167"],
+      "notes": "NJ Transit bus routes run along Washington Avenue providing direct service to the Port Authority Bus Terminal in Midtown Manhattan. Some residents also drive to nearby train stations in Teaneck or New Bridge Landing."
+    },
+    "costOfLiving": {
+      "summary": "Bergenfield offers one of the more affordable options in Bergen County while still providing good services and schools.",
+      "vsStateAverage": "Slightly above the New Jersey state average, primarily due to property taxes",
+      "vsNationalAverage": "Above the national average, consistent with the northern New Jersey region"
+    },
+    "prosAndCons": {
+      "pros": [
+        "More affordable than many Bergen County towns",
+        "Diverse, welcoming community",
+        "Good public schools with community investment",
+        "Walkable downtown with varied dining options",
+        "Active recreation and senior programs"
+      ],
+      "cons": [
+        "Property taxes are high relative to home values",
+        "Downtown could benefit from further revitalization",
+        "No train station — bus commute can be lengthy",
+        "Some areas have aging housing stock",
+        "Traffic congestion on main roads during rush hours"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Jessica's Restaurant",
+        "description": "Popular local spot serving Latin American and American comfort food.",
+        "address": "65 S Washington Ave, Bergenfield, NJ 07621",
+        "category": "Latin American"
+      },
+      {
+        "name": "Gerry's Filipino Kitchen",
+        "description": "Authentic Filipino cuisine reflecting Bergenfield's vibrant Filipino community.",
+        "address": "56 S Washington Ave, Bergenfield, NJ 07621",
+        "category": "Filipino"
+      },
+      {
+        "name": "Amici Ristorante",
+        "description": "Classic Italian dining with homemade pasta and traditional dishes.",
+        "address": "87 N Washington Ave, Bergenfield, NJ 07621",
+        "category": "Italian"
+      },
+      {
+        "name": "El Unico Restaurant",
+        "description": "Colombian and Latin American cuisine popular with the local community.",
+        "address": "39 S Washington Ave, Bergenfield, NJ 07621",
+        "category": "Colombian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Cooper's Pond Park",
+        "description": "Scenic park centered around a pond, offering walking paths, playgrounds, and picnic areas. A community gathering spot.",
+        "address": "Hickory Avenue, Bergenfield, NJ 07621",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Large community park with athletic fields, tennis courts, basketball courts, and a playground.",
+        "address": "East Church Street, Bergenfield, NJ 07621",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Park honoring veterans with memorials, walking paths, and green space.",
+        "address": "S Washington Ave, Bergenfield, NJ 07621",
+        "category": "Memorial Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Bergenfield Street Fair",
+        "description": "Annual street fair along Washington Avenue with vendors, food, live entertainment, and activities for all ages.",
+        "when": "Spring (typically May)"
+      },
+      {
+        "name": "National Night Out",
+        "description": "Community event building police-community partnerships with activities, food, and demonstrations.",
+        "when": "August (first Tuesday)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday celebration with tree lighting, caroling, refreshments, and visits with Santa Claus.",
+        "when": "December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Bergenfield Public Library",
+        "description": "Community library offering programs, events, and resources for all ages. A cultural hub for the borough.",
+        "address": "50 W Clinton Ave, Bergenfield, NJ 07621",
+        "category": "Library"
+      },
+      {
+        "name": "Cooper's Pond",
+        "description": "Picturesque pond surrounded by walking trails and gardens, popular for bird watching and relaxation.",
+        "category": "Natural Area"
+      }
+    ],
+    "shoppingAreas": [
+      "Washington Avenue downtown corridor",
+      "South Washington Avenue commercial district",
+      "Bergen Town Center (nearby Paramus)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Arvin Amatorio",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Thomas Lodato", "title": "Council President" },
+      { "name": "Buddy Delaney", "title": "Council Member" },
+      { "name": "Rafael Marte", "title": "Council Member" },
+      { "name": "Ora Kornbluth", "title": "Council Member" },
+      { "name": "Mark Fosdick", "title": "Council Member" },
+      { "name": "Salvador Deauna", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the first and third Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Bergenfield Borough Hall, 198 N Washington Ave, Bergenfield, NJ 07621",
+    "municipalWebsite": "https://www.bergenfield.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-387-4055",
+        "email": "clerk@bergenfield.com",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-387-4055",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-387-4055",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-387-4600",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-387-5007",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-387-4000",
+      "address": "198 N Washington Ave, Bergenfield, NJ 07621"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-387-4600",
+      "address": "40 S Prospect Ave, Bergenfield, NJ 07621"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-387-4040"
+    },
+    "hospitals": [
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "slug": "elmwood-park",
+    "name": "Elmwood Park",
+    "fullName": "Borough of Elmwood Park",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "elmwood-park.info",
+    "zipCodes": ["07407"],
+    "themeColor": "#7b3f00",
+    "accentColor": "#a0522d"
+  },
+  "overview": {
+    "tagline": "Community, Character, Convenience",
+    "description": "Elmwood Park is a diverse, working-class borough in southern Bergen County bordered by the Passaic River to the south and Saddle River to the west. Originally part of Saddle River Township, it became an independent borough in 1916. Elmwood Park offers affordable housing by Bergen County standards, convenient access to major highways, and a tight-knit community with strong ethnic heritage — particularly Italian-American and Polish-American traditions.",
+    "population": 20718,
+    "populationYear": 2020,
+    "areaSqMi": 2.82,
+    "elevation": "60 ft",
+    "incorporated": "1916",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Elmwood Park School District",
+    "highlights": [
+      "Affordable housing compared to much of Bergen County",
+      "Strong Italian-American and Polish-American cultural heritage",
+      "Convenient access to Routes 4, 17, 46, and I-80",
+      "Bordered by the scenic Passaic and Saddle Rivers",
+      "Active recreation programs and community events"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$465,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.85%",
+    "averagePropertyTax": "$10,200",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Elmwood Park's housing stock is predominantly single-family homes and two-family homes built in the mid-20th century.",
+    "recentTrends": "Elmwood Park has seen steady price appreciation as buyers seek more affordable alternatives to pricier Bergen County towns. The market is strong for starter homes and two-family investment properties. Renovation activity is increasing as older housing stock is updated.",
+    "neighborhoodNotes": [
+      "The Market Street corridor serves as the main commercial artery with shops, restaurants, and services",
+      "The area near Memorial School features well-kept single-family homes on tree-lined streets",
+      "The Passaic River area in the south has larger lots but some flood risk",
+      "The Route 4 corridor on the northern border has more commercial development and multi-family housing"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood — check the borough website",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup available by scheduling with the DPW"
+      ],
+      "contactPhone": "201-796-1096",
+      "contactUrl": "https://www.elmwoodparknj.us"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling is collected biweekly through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (plastic, glass, cans) collected in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Yard waste collected seasonally in biodegradable bags"
+      ],
+      "contactPhone": "201-796-1096",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Passaic Valley Water Commission and sewer service is provided by the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Passaic Valley Water Commission",
+        "Sewer charges included in property tax bills",
+        "Water quality reports available annually from PVWC",
+        "Report water main breaks to the DPW"
+      ],
+      "contactPhone": "201-796-1096",
+      "contactUrl": "https://www.pvwc.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Elmwood Park Building Department handles construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for structural work, electrical, plumbing, and HVAC modifications",
+        "Zoning applications reviewed by the Planning Board or Zoning Board of Adjustment",
+        "Certificate of Occupancy required for new construction and changes of use",
+        "Applications submitted at Borough Hall on Market Street"
+      ],
+      "contactPhone": "201-796-1096"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Elmwood Park manages street parking and municipal lots throughout the borough.",
+      "details": [
+        "Free street parking available on most residential streets",
+        "Municipal parking near the Market Street commercial area",
+        "Overnight parking restrictions during winter snow emergencies",
+        "No parking within 25 feet of intersections"
+      ],
+      "contactPhone": "201-796-1096"
+    },
+    "additionalServices": [
+      {
+        "title": "Senior Services",
+        "description": "The Elmwood Park Senior Center offers programs, transportation, and social activities for residents aged 60+.",
+        "details": [
+          "Located at the Recreation Center on Market Street",
+          "Transportation to medical appointments and shopping",
+          "Daily activities including cards, bingo, and exercise classes",
+          "Annual trips and seasonal celebrations"
+        ],
+        "contactPhone": "201-796-1096"
+      },
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department runs youth sports, summer camps, and community events throughout the year.",
+        "details": [
+          "Youth basketball, soccer, baseball, and football leagues",
+          "Summer recreation program for school-age children",
+          "Adult fitness and recreational programs",
+          "Community pool at Boro Field during summer months"
+        ],
+        "contactPhone": "201-796-1096"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Elmwood Park enforces noise restrictions to maintain residential quality of life.",
+      "keyRules": [
+        "Construction work prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Excessive noise from residential properties (music, parties) subject to fines",
+        "Leaf blower use restricted to certain hours"
+      ],
+      "source": "Elmwood Park Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to borough standards including landscaping and structural upkeep.",
+      "keyRules": [
+        "Lawns must be kept trimmed — grass over 10 inches may result in violation",
+        "Snow and ice must be cleared from sidewalks within 24 hours of storm ending",
+        "No accumulation of trash, debris, or abandoned vehicles on properties",
+        "Building facades must be maintained in safe condition",
+        "Fences must not exceed 6 feet in height in rear yards, 4 feet in front yards"
+      ],
+      "source": "Elmwood Park Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed annually and kept under control at all times.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed with the Borough Clerk",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets on public and private property",
+        "Rabies vaccination required for all dogs and cats",
+        "Maximum number of pets may be limited by ordinance"
+      ],
+      "source": "Elmwood Park Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Elmwood Park enforces parking regulations on residential and commercial streets.",
+      "keyRules": [
+        "No parking during snow emergencies on designated streets",
+        "Alternate-side parking enforced for street sweeping in some areas",
+        "Commercial vehicles over certain weight limits prohibited from parking on residential streets",
+        "Fire hydrant clearance of 10 feet required at all times",
+        "No parking on lawns or unpaved surfaces"
+      ],
+      "source": "Elmwood Park Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Elmwood Park regulates rental properties to ensure safety and habitability standards.",
+      "keyRules": [
+        "Landlords must register rental units with the Borough",
+        "Certificate of Habitability required for all rental units",
+        "Fire safety inspections required for multi-family dwellings",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act"
+      ],
+      "source": "Elmwood Park Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Garage Sales",
+        "summary": "Garage and yard sales are permitted but regulated by borough ordinance.",
+        "keyRules": [
+          "Permit required from the Borough Clerk's office",
+          "Limited to a certain number of sales per year per property",
+          "Signs must be removed after the sale concludes",
+          "Sales restricted to personal household items"
+        ],
+        "source": "Elmwood Park Borough Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Elmwood Park School District",
+    "publicSchools": [
+      {
+        "name": "Elmwood Park Memorial High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Comprehensive high school offering AP courses, vocational programs, and a strong athletics program"
+      },
+      {
+        "name": "Elmwood Park Memorial Middle School",
+        "grades": "6-8",
+        "rating": 5,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Serves all borough middle school students with honors and enrichment programs"
+      },
+      {
+        "name": "Gilbert Avenue School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 400,
+        "type": "public"
+      },
+      {
+        "name": "Crestwood School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Leo School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school affiliated with St. Leo's Parish, offering faith-based education"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (4 miles)",
+      "Bergen Community College — Paramus (5 miles)",
+      "William Paterson University — Wayne (8 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "More affordable housing compared to many Bergen County communities",
+      "Convenient highway access to Routes 4, 17, 46, and I-80",
+      "Strong sense of community with active civic organizations",
+      "Diverse population with rich Italian-American and Polish-American heritage",
+      "Close proximity to Paramus shopping and entertainment"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Car",
+      "duration": "30-50 minutes by bus; 30-60 minutes by car",
+      "busRoutes": ["144", "148", "163"],
+      "notes": "NJ Transit bus service runs to the Port Authority Bus Terminal in Manhattan. Car commute via Route 4 to the George Washington Bridge or via I-80 to the Lincoln Tunnel. Nearby Saddle Brook and Fair Lawn offer additional bus routes."
+    },
+    "costOfLiving": {
+      "summary": "Elmwood Park offers a more affordable cost of living compared to northern Bergen County, making it attractive for first-time buyers and families.",
+      "vsStateAverage": "Near the New Jersey average",
+      "vsNationalAverage": "15-20% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable home prices relative to Bergen County",
+        "Excellent highway access for commuters",
+        "Strong community feel with active local organizations",
+        "Good local dining scene with authentic Italian and Polish restaurants",
+        "Borough pool and recreation programs for families"
+      ],
+      "cons": [
+        "Highway noise near Routes 4 and 46 corridors",
+        "Some areas prone to flooding near the Passaic River",
+        "School ratings below Bergen County's top districts",
+        "Limited nightlife and upscale dining within the borough",
+        "Aging housing stock requiring renovation in some areas"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "EJ's Luncheonette",
+        "description": "Classic family-owned diner serving generous portions of traditional American breakfast and lunch fare in a nostalgic setting.",
+        "address": "337 Market Street, Elmwood Park, NJ 07407",
+        "category": "American"
+      },
+      {
+        "name": "Taste of Poland",
+        "description": "Authentic Polish restaurant offering pierogis, kielbasa, stuffed cabbage, and other traditional Eastern European dishes.",
+        "address": "Market Street, Elmwood Park, NJ 07407",
+        "category": "Polish"
+      },
+      {
+        "name": "La Pergola",
+        "description": "Popular Italian restaurant serving classic red-sauce dishes, fresh pasta, and wood-fired pizza in a warm family setting.",
+        "address": "Market Street, Elmwood Park, NJ 07407",
+        "category": "Italian"
+      },
+      {
+        "name": "Cubby's BBQ",
+        "description": "Local barbecue joint known for smoked brisket, ribs, pulled pork, and hearty sides with a loyal following.",
+        "address": "Boulevard, Elmwood Park, NJ 07407",
+        "category": "BBQ"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Boro Field",
+        "description": "Elmwood Park's main recreation complex featuring baseball fields, a community pool, basketball courts, and a playground.",
+        "address": "Market Street, Elmwood Park, NJ 07407",
+        "category": "Recreation Complex"
+      },
+      {
+        "name": "Saddle River County Park — Elmwood Park Section",
+        "description": "A section of the linear Bergen County park along the Saddle River, offering walking trails, picnic areas, and nature viewing.",
+        "address": "Saddle River Road, Elmwood Park, NJ 07407",
+        "category": "County Park"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Quiet memorial park honoring local veterans with monuments, benches, and green space for reflection.",
+        "address": "Market Street, Elmwood Park, NJ 07407",
+        "category": "Memorial Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Elmwood Park Day",
+        "description": "Annual borough-wide celebration featuring live music, food vendors, carnival rides, and community entertainment.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Independence Day Celebration",
+        "description": "Fourth of July festivities with a parade, family activities at Boro Field, and evening fireworks.",
+        "when": "July 4 (annual)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual tree lighting ceremony at Borough Hall with holiday music, refreshments, and a visit from Santa.",
+        "when": "December (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Elmwood Park Public Library",
+        "description": "Community library offering an extensive collection, children's programs, computer access, and cultural events throughout the year.",
+        "address": "210 Lee Street, Elmwood Park, NJ 07407",
+        "category": "Library"
+      },
+      {
+        "name": "Saddle River Greenway",
+        "description": "Multi-use path along the Saddle River suitable for walking, jogging, and cycling, connecting to adjacent towns' trail systems.",
+        "address": "Along the Saddle River, Elmwood Park, NJ",
+        "category": "Trail"
+      }
+    ],
+    "shoppingAreas": [
+      "Market Street — Main commercial strip with shops, restaurants, bakeries, and local businesses",
+      "Broadway — Additional retail and services along the major road corridor",
+      "Route 4 Corridor — Big-box retail and chain restaurants near the Paramus border"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Daniel Golabek",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Robert Colletti",
+        "title": "Council President",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Joseph Dombrowski",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Jeffrey Reyers",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Loriann DeLuca",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Frank Nasto",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Michele Ferreira",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Elmwood Park Borough Hall, 182 Market Street, Elmwood Park, NJ 07407",
+    "municipalWebsite": "https://www.elmwoodparknj.us",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-796-1096",
+        "email": "clerk@elmwoodparknj.us",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-796-1096",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-796-1096",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-796-8003",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-796-1096",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-796-0700",
+      "address": "182 Market Street, Elmwood Park, NJ 07407"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-796-0600",
+      "address": "Elmwood Park, NJ 07407"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-796-0700",
+      "address": "Elmwood Park, NJ 07407"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "201-447-8000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "St. Joseph's University Medical Center",
+        "address": "703 Main Street, Paterson, NJ 07503",
+        "phone": "973-754-2000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Passaic Valley Water Commission",
+        "phone": "973-340-4300",
+        "url": "https://www.pvwc.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Elmwood Park Police (Non-Emergency)",
+        "number": "201-796-0700"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-796-1096"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

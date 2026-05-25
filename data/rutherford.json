@@ -1,0 +1,618 @@
+{
+  "meta": {
+    "slug": "rutherford",
+    "name": "Rutherford",
+    "fullName": "Borough of Rutherford",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "rutherford.info",
+    "zipCodes": ["07070"],
+    "themeColor": "#880e4f",
+    "accentColor": "#ad1457"
+  },
+  "overview": {
+    "tagline": "The Borough of Trees — a historic, walkable community with small-town elegance",
+    "description": "Rutherford, known as the 'Borough of Trees,' is a charming, historic community in southern Bergen County that offers a rare combination of walkability, architectural beauty, and convenient access to New York City. The borough features a vibrant downtown along Park Avenue, stunning Victorian and Edwardian homes, and an engaged community that values its heritage. Home to Felician University and the acclaimed Williams Center for the Arts, Rutherford attracts families, young professionals, and those seeking a cultured suburban lifestyle just minutes from the Meadowlands and Manhattan.",
+    "population": 18439,
+    "populationYear": 2020,
+    "areaSqMi": 2.91,
+    "elevation": "100 ft",
+    "incorporated": "1881",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Rutherford Public Schools",
+    "highlights": [
+      "Known as the 'Borough of Trees' for its magnificent tree-lined streets",
+      "Historic Victorian and Edwardian architecture",
+      "Walkable Park Avenue downtown with shops, restaurants, and cafes",
+      "Home to Felician University and the Williams Center for the Arts",
+      "NJ Transit rail service and bus routes to NYC"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$570,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.15%",
+    "averagePropertyTax": "$13,500",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Rutherford features a diverse housing stock including Victorian homes, colonials, split-levels, and condominiums in both historic and newer developments.",
+    "recentTrends": "Rutherford has seen strong buyer interest driven by its walkability, NYC commuter convenience, and historic charm. Home prices have appreciated significantly, especially for well-maintained Victorian and Edwardian homes near the downtown. The condo market has also been active with new developments adding inventory.",
+    "neighborhoodNotes": [
+      "Park Avenue area — Walking distance to downtown shops, restaurants, and the train station",
+      "The Hutton Park neighborhood — Stately homes surrounding the park, one of the most desirable areas",
+      "West End — Mix of colonials and split-levels with a quieter residential feel",
+      "East Rutherford border — More affordable homes with Meadowlands access",
+      "Ridge Road area — Mix of residential and commercial properties"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Rutherford Department of Public Works.",
+      "details": [
+        "Pickup occurs twice per week on designated days by zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment with DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 460-3000",
+      "contactUrl": "https://www.rutherfordboronj.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling collected weekly.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic #1-#7) collected weekly",
+        "Paper and cardboard collected on the same recycling day",
+        "Recycling bins provided by the Borough",
+        "Yard waste collected seasonally from April through December",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 460-3000",
+      "contactUrl": "https://www.rutherfordboronj.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water and sewer service is maintained by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water (formerly Suez/United Water)",
+        "Sewer service maintained by the Borough DPW",
+        "Water billing handled by Veolia quarterly",
+        "Annual water quality reports available online",
+        "Emergency water repairs available 24/7"
+      ],
+      "contactPhone": "(201) 460-3000",
+      "contactUrl": "https://www.rutherfordboronj.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement. Historic preservation guidelines may apply.",
+      "details": [
+        "Building permits required for construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Historic preservation considerations for properties in certain districts",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction and changes of use"
+      ],
+      "contactPhone": "(201) 460-3000",
+      "contactUrl": "https://www.rutherfordboronj.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough operates commuter parking, downtown municipal lots, and metered street parking.",
+      "details": [
+        "Commuter parking permits available for train station lots",
+        "Metered parking along Park Avenue downtown",
+        "Municipal parking lots near the downtown shopping district",
+        "ParkMobile app accepted at metered spaces",
+        "Overnight parking restrictions enforced on borough streets"
+      ],
+      "contactPhone": "(201) 460-3000",
+      "contactUrl": "https://www.rutherfordboronj.com"
+    },
+    "additionalServices": [
+      {
+        "title": "Rutherford Public Library",
+        "description": "Full-service public library in a beautiful building offering extensive collections, programs, and community spaces.",
+        "details": [
+          "Located at 150 Park Avenue",
+          "Children's story times, teen programs, and adult events",
+          "Free Wi-Fi, computer access, and meeting rooms",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Historic building near the center of downtown"
+        ],
+        "contactPhone": "(201) 939-8600",
+        "contactUrl": "https://www.rutherfordlibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues and summer camp programs",
+          "Adult fitness and wellness programs",
+          "Senior citizen programs and trips",
+          "Seasonal events at Memorial Park and Hutton Park"
+        ],
+        "contactPhone": "(201) 460-3015",
+        "contactUrl": "https://www.rutherfordboronj.com"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Rutherford enforces noise regulations to preserve the residential character of its historic neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to certain hours",
+        "Loud music and amplified sound restricted after 10:00 PM"
+      ],
+      "source": "Borough of Rutherford Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties, preserving the borough's attractive streetscapes.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept under 10 inches",
+        "Property owners responsible for sidewalk snow removal within 24 hours",
+        "Fences must not exceed 6 feet in rear yards and 4 feet in front yards",
+        "Abandoned or inoperable vehicles must be removed",
+        "Historic properties should maintain architectural integrity where applicable"
+      ],
+      "source": "Borough of Rutherford Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Rutherford requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies vaccination proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately by the owner",
+        "Excessive barking may result in violation notices",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Rutherford Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough, especially in the downtown.",
+      "keyRules": [
+        "No overnight parking on borough streets between 2:00 AM and 6:00 AM without permit",
+        "Metered parking in downtown zone — 2-hour limit",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles over 4 tons prohibited on residential streets",
+        "Commuter lots require valid borough permits"
+      ],
+      "source": "Borough of Rutherford Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and comply with borough housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before occupancy",
+        "Landlords must maintain properties to housing code standards",
+        "Short-term rentals (under 30 days) are not permitted in residential zones",
+        "Inspections conducted at change of tenancy"
+      ],
+      "source": "Borough of Rutherford Code"
+    },
+    "other": [
+      {
+        "title": "Historic Preservation",
+        "summary": "Rutherford has guidelines for preserving the character of its historic residential architecture.",
+        "keyRules": [
+          "Properties in designated historic zones may have additional review requirements",
+          "Exterior alterations to historic properties should be sympathetic to original architecture",
+          "The Historic Preservation Commission reviews applications as needed",
+          "Demolition of historically significant structures may face additional scrutiny"
+        ],
+        "source": "Borough of Rutherford Code"
+      },
+      {
+        "title": "Tree Preservation",
+        "summary": "As the 'Borough of Trees,' Rutherford has strong protections for its tree canopy.",
+        "keyRules": [
+          "Permit required to remove trees over a specified diameter on private property",
+          "Borough Shade Tree Commission oversees public tree management",
+          "Replacement planting may be required when significant trees are removed",
+          "Damage to borough shade trees subject to fines"
+        ],
+        "source": "Borough of Rutherford Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Rutherford Public Schools",
+    "publicSchools": [
+      {
+        "name": "Lincoln Elementary School",
+        "grades": "PreK-5",
+        "rating": 7,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Elementary school serving the eastern section of the borough"
+      },
+      {
+        "name": "Washington Elementary School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Elementary school serving the western section"
+      },
+      {
+        "name": "Union Elementary School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Elementary school serving the central section"
+      },
+      {
+        "name": "Pierrepont School",
+        "grades": "6-8",
+        "rating": 6,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "Middle school serving all borough students in grades 6-8"
+      },
+      {
+        "name": "Rutherford High School",
+        "grades": "9-12",
+        "rating": 6,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Comprehensive high school with a range of academic and extracurricular programs"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Mary High School",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 450,
+        "notes": "Catholic high school in the Archdiocese of Newark"
+      },
+      {
+        "name": "St. Mary Elementary School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 250,
+        "notes": "Catholic elementary school affiliated with St. Mary Church"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Felician University (Rutherford) — in town",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "Montclair State University (Montclair) — 15 minutes",
+      "Rutgers University (Newark) — 15 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Stunning Victorian and Edwardian architecture on tree-lined streets",
+      "Walkable downtown with independently owned shops, restaurants, and cafes",
+      "NJ Transit train service and bus routes for easy NYC commuting",
+      "Strong community with active civic and cultural organizations",
+      "Home to Felician University and the Williams Center for the Arts",
+      "Beautiful parks including Hutton Park and Memorial Park"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bergen County Line / Bus",
+      "duration": "30-45 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "Rutherford Station (on Erie Avenue near Park Avenue)",
+      "busRoutes": ["NJ Transit Bus 190", "NJ Transit Bus 191"],
+      "notes": "The Rutherford train station is centrally located near downtown. Trains run on the Bergen County Line to Hoboken Terminal, with connections to Manhattan via PATH or ferry. Bus routes 190 and 191 provide direct service to the Port Authority Bus Terminal in Midtown Manhattan. The Lincoln Tunnel is also accessible via Route 3."
+    },
+    "costOfLiving": {
+      "summary": "Rutherford offers moderate costs by Bergen County standards, with historic character and walkability that provide strong value. Property taxes are on the higher side.",
+      "vsStateAverage": "Approximately 20% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 50% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Beautiful historic homes and tree-lined streets",
+        "Vibrant, walkable downtown with character",
+        "Convenient NJ Transit train and bus service to NYC",
+        "Active cultural scene with Williams Center and community events",
+        "Strong sense of community and civic pride"
+      ],
+      "cons": [
+        "Property taxes are high relative to home prices",
+        "Train commute requires transfer at Hoboken for Manhattan",
+        "Some flooding concerns in low-lying areas near the Meadowlands",
+        "Downtown parking can be tight during peak times",
+        "Proximity to the Meadowlands can mean occasional odors or traffic"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Café Matisse",
+        "description": "Award-winning fine dining restaurant offering creative, globally inspired cuisine in a beautifully renovated firehouse. One of Bergen County's premier dining destinations.",
+        "address": "167 Park Avenue, Rutherford, NJ 07070",
+        "category": "Fine Dining/International"
+      },
+      {
+        "name": "Mambo Italiano",
+        "description": "Italian restaurant and bar serving classic pasta dishes, brick-oven pizza, and Italian-American favorites in a lively setting.",
+        "address": "77 Park Avenue, Rutherford, NJ 07070",
+        "category": "Italian"
+      },
+      {
+        "name": "Volare's",
+        "description": "Popular Italian restaurant offering traditional red-sauce Italian dishes and a warm, family-friendly atmosphere.",
+        "address": "7 Station Square, Rutherford, NJ 07070",
+        "category": "Italian"
+      },
+      {
+        "name": "Village Gourmet",
+        "description": "Gourmet deli and cafe offering sandwiches, salads, prepared foods, and specialty coffee in a cozy downtown setting.",
+        "address": "73 Park Avenue, Rutherford, NJ 07070",
+        "category": "Deli/Cafe"
+      },
+      {
+        "name": "Noches de Colombia",
+        "description": "Colombian restaurant serving authentic dishes including bandeja paisa, empanadas, and arepas.",
+        "address": "Park Avenue, Rutherford, NJ 07070",
+        "category": "Colombian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Hutton Park",
+        "description": "Beautiful, tree-filled park in the center of a prestigious residential neighborhood, featuring walking paths, benches, and a serene setting ideal for relaxation.",
+        "address": "West Passaic Avenue, Rutherford, NJ 07070",
+        "category": "Park/Scenic"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Major borough park with baseball fields, tennis courts, basketball courts, a bandshell for concerts, and memorial installations.",
+        "address": "Darwin Avenue, Rutherford, NJ 07070",
+        "category": "Sports/Recreation"
+      },
+      {
+        "name": "Lincoln Park",
+        "description": "Neighborhood park with playground equipment, open green space, and benches in a family-friendly setting.",
+        "address": "Park Avenue, Rutherford, NJ 07070",
+        "category": "Playground/Park"
+      },
+      {
+        "name": "Tamblyn Field & Civic Center",
+        "description": "Multi-use field and civic center used for community events, sports, and recreational activities.",
+        "address": "Woodland Avenue, Rutherford, NJ 07070",
+        "category": "Sports/Community"
+      }
+    ],
+    "events": [
+      {
+        "name": "Rutherford Labor Day Street Fair",
+        "description": "One of the largest street fairs in Bergen County, featuring hundreds of vendors, food, live entertainment, and activities spanning Park Avenue.",
+        "when": "Labor Day (first Monday in September)"
+      },
+      {
+        "name": "Rutherford Multicultural Festival",
+        "description": "Annual celebration of cultural diversity with food, music, dance, and performances from around the world.",
+        "when": "September or October annually"
+      },
+      {
+        "name": "Holiday Stroll & Tree Lighting",
+        "description": "Annual holiday celebration on Park Avenue with tree lighting, caroling, special shopping events, and Santa visits.",
+        "when": "December, first Saturday"
+      },
+      {
+        "name": "Summer Concert Series at Memorial Park",
+        "description": "Free outdoor concerts held at the Memorial Park bandshell throughout the summer months.",
+        "when": "Thursday evenings, June through August"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Park Avenue Downtown",
+        "description": "Rutherford's charming main street lined with independently owned boutiques, restaurants, cafes, and professional services. The tree-lined avenue is the heart of the community.",
+        "address": "Park Avenue, Rutherford, NJ 07070",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Williams Center for the Arts",
+        "description": "Cultural venue housed in a restored theater, offering films, live performances, community events, and arts programming.",
+        "address": "1 Williams Plaza, Rutherford, NJ 07070",
+        "category": "Arts/Culture"
+      },
+      {
+        "name": "Felician University",
+        "description": "Private Franciscan university located in Rutherford, with a scenic campus, art galleries, and community events open to the public.",
+        "address": "262 South Main Street, Rutherford, NJ 07070",
+        "category": "Education/Culture"
+      }
+    ],
+    "shoppingAreas": [
+      "Park Avenue — Downtown boutiques, restaurants, cafes, and services",
+      "Station Square — Shops near the train station",
+      "Ridge Road — Additional retail and services",
+      "American Dream (East Rutherford) — Major entertainment and shopping complex nearby",
+      "Garden State Plaza (Paramus) — Regional shopping center nearby"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Frank Nunziato",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Mark Goldsack",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Stephanie McGowan",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Tom Mullahey",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Matt Cokeley",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Ray Frazier",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Christie Del Rey",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the 2nd and 4th Monday of each month at 7:00 PM",
+    "meetingLocation": "Borough Hall, 176 Park Avenue, Rutherford, NJ 07070",
+    "municipalWebsite": "https://www.rutherfordboronj.com",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator",
+        "phone": "(201) 460-3000",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 460-3000",
+        "email": "clerk@rutherfordboronj.com",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 460-3000",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 460-3000",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 460-3000",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 460-3015",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-6000",
+      "address": "184 Park Avenue, Rutherford, NJ 07070"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 460-3000",
+      "address": "Rutherford, NJ 07070"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-6003",
+      "address": "Rutherford, NJ 07070"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Clara Maass Medical Center",
+        "address": "1 Clara Maass Drive, Belleville, NJ 07109",
+        "phone": "(973) 450-2000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 7
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Rutherford DPW",
+        "phone": "(201) 460-3000"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Rutherford Police (Non-Emergency)",
+        "number": "(201) 939-6000"
+      },
+      {
+        "label": "Rutherford Fire Department",
+        "number": "(201) 460-3000"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 460-3000"
+      },
+      {
+        "label": "Rutherford Ambulance Corps",
+        "number": "(201) 939-6003"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

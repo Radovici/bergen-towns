@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "slug": "waldwick",
+    "name": "Waldwick",
+    "fullName": "Borough of Waldwick",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "waldwick.info",
+    "zipCodes": ["07463"],
+    "themeColor": "#b71c1c",
+    "accentColor": "#d32f2f"
+  },
+  "overview": {
+    "tagline": "A classic small-town borough with train service, strong schools, and enduring community spirit",
+    "description": "The Borough of Waldwick is a charming, close-knit community in northwestern Bergen County that embodies the best of small-town New Jersey living. With NJ Transit rail service, well-regarded schools, and a compact, walkable layout, Waldwick offers residents a blend of suburban comfort and convenient commuting. The borough is home to a mix of Colonial, Cape Cod, and split-level homes on tree-lined streets, with an active volunteer community and a proud sense of local identity.",
+    "population": 10048,
+    "populationYear": 2020,
+    "areaSqMi": 2.16,
+    "elevation": "230 ft",
+    "incorporated": "1919",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Waldwick Public Schools",
+    "highlights": [
+      "NJ Transit Main/Bergen County Line train station for NYC commuting",
+      "Tight-knit community with active civic organizations",
+      "Well-maintained borough parks and recreation programs",
+      "Affordable entry point for Bergen County with good schools",
+      "Walkable residential neighborhoods near the train station"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$525,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.90%",
+    "averagePropertyTax": "$12,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Waldwick's compact size and consistent housing stock make for relatively straightforward property assessments.",
+    "recentTrends": "Waldwick has experienced strong demand, particularly from young families attracted by the combination of NJ Transit train service, good schools, and relative affordability. Homes near the train station are especially desirable. Prices have risen steadily, and well-updated homes sell quickly.",
+    "neighborhoodNotes": [
+      "Train station area — Walkable to commuter rail; popular with NYC commuters",
+      "Wyckoff Avenue section — Established homes along the main commercial street",
+      "Prospect Street area — Quiet residential streets with family homes",
+      "North Waldwick — Homes near the Ho-Ho-Kus border",
+      "South Waldwick — Properties near Midland Park border with easy Route 17 access"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by a contracted hauler.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 652-5300",
+      "contactUrl": "https://www.waldwicknj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling is collected weekly.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on recycling day",
+        "Yard waste collected seasonally",
+        "Recycling bins available from the borough",
+        "Electronics recycling through Bergen County programs"
+      ],
+      "contactPhone": "(201) 652-5300",
+      "contactUrl": "https://www.waldwicknj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer services are provided through the Waldwick Water Department and municipal sewer system.",
+      "details": [
+        "Waldwick operates its own water utility",
+        "Water sourced from local wells and regional supply",
+        "Quarterly billing for water and sewer service",
+        "Water quality reports published annually",
+        "Emergency water repairs available 24/7"
+      ],
+      "contactPhone": "(201) 652-5300",
+      "contactUrl": "https://www.waldwicknj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning approvals, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 652-5300",
+      "contactUrl": "https://www.waldwicknj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough operates commuter parking near the train station and enforces parking regulations.",
+      "details": [
+        "Commuter parking permits available for the train station lot",
+        "Street parking in the downtown area",
+        "Overnight parking restrictions on certain streets",
+        "Snow emergency parking bans enforced",
+        "Resident parking permits available for impacted zones"
+      ],
+      "contactPhone": "(201) 652-5300",
+      "contactUrl": "https://www.waldwicknj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Waldwick Public Library",
+        "description": "Community library offering books, digital resources, and programs for all ages.",
+        "details": [
+          "Located at 19 East Prospect Street",
+          "Children's story time, teen events, and adult programs",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 652-5104",
+        "contactUrl": "https://www.waldwicklibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Adult fitness classes and senior activities",
+          "Community events and seasonal celebrations",
+          "Facilities at borough parks"
+        ],
+        "contactPhone": "(201) 652-5300",
+        "contactUrl": "https://www.waldwicknj.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Waldwick enforces noise regulations to maintain the peaceful character of its residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers restricted to daytime hours",
+        "Loud music and amplified sound restricted after 10:00 PM"
+      ],
+      "source": "Borough of Waldwick Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Sidewalk snow removal required within 24 hours after snowfall",
+        "Fences must comply with height limits — 6 feet rear, 4 feet front",
+        "Abandoned vehicles must be removed from property",
+        "Property exteriors must be maintained in good repair"
+      ],
+      "source": "Borough of Waldwick Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Waldwick requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Barking dog complaints are enforced",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Waldwick Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated on borough streets, especially near the train station.",
+      "keyRules": [
+        "No overnight parking on borough streets between 2:00 AM and 6:00 AM",
+        "Commuter parking lot requires a permit",
+        "Snow emergency parking bans enforced",
+        "No parking of commercial vehicles on residential streets overnight",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Waldwick Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough housing codes.",
+      "keyRules": [
+        "Rental units must meet housing code standards",
+        "Certificate of Occupancy may be required at change of tenancy",
+        "Landlords must maintain properties to code",
+        "Fire safety requirements for multi-family dwellings",
+        "Short-term rentals subject to borough regulations"
+      ],
+      "source": "Borough of Waldwick Code"
+    },
+    "other": [
+      {
+        "title": "Garage Sales",
+        "summary": "Garage and yard sales are permitted with restrictions.",
+        "keyRules": [
+          "Permit may be required from the Borough Clerk",
+          "Limited number of sales per year per household",
+          "Signs must be removed after the sale",
+          "Sales restricted to designated hours"
+        ],
+        "source": "Borough of Waldwick Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Waldwick Public Schools",
+    "publicSchools": [
+      {
+        "name": "Waldwick High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Small high school known for personalized attention, strong academics, and competitive athletics"
+      },
+      {
+        "name": "Crescent School",
+        "grades": "5-8",
+        "rating": 7,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Middle school serving all Waldwick students in grades 5-8"
+      },
+      {
+        "name": "Traphagen School",
+        "grades": "K-4",
+        "rating": 7,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Elementary school serving all Waldwick students in grades K-4"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Luke's School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 180,
+        "notes": "Catholic parish school serving the Waldwick and Ho-Ho-Kus community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 20 minutes",
+      "William Paterson University (Wayne) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "NJ Transit train station with direct service toward NYC",
+      "Affordable entry point for Bergen County home ownership",
+      "Small-town feel with active community organizations",
+      "Well-regarded public school district (K-12)",
+      "Compact, walkable neighborhoods",
+      "Strong sense of community and civic pride"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Main/Bergen County Line",
+      "duration": "55-70 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "Waldwick Station (on Franklin Turnpike)",
+      "busRoutes": ["NJ Transit Bus 175"],
+      "notes": "Waldwick has its own NJ Transit train station on the Main/Bergen County Line, providing direct service to Hoboken Terminal where commuters connect via PATH or ferry to Manhattan. Trains run frequently during rush hours. The total commute to Midtown Manhattan is approximately 55-70 minutes."
+    },
+    "costOfLiving": {
+      "summary": "Waldwick offers a moderate cost of living for Bergen County, with home prices below the county median and a compact community that minimizes transportation costs.",
+      "vsStateAverage": "Approximately 25% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 55% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Own NJ Transit train station for convenient NYC commuting",
+        "Affordable homes by Bergen County standards",
+        "Tight-knit community with strong civic engagement",
+        "K-12 school district entirely within the borough",
+        "Safe neighborhood streets and low crime"
+      ],
+      "cons": [
+        "Train commute requires transfer at Hoboken for Manhattan access",
+        "Limited dining and shopping within the borough",
+        "Small town with fewer amenities than larger communities",
+        "Property taxes remain significant by national standards",
+        "Compact lots — less yard space than neighboring towns"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Waldwick Station Deli",
+        "description": "Local deli near the train station offering sandwiches, salads, and breakfast items popular with commuters.",
+        "address": "Franklin Turnpike, Waldwick, NJ 07463",
+        "category": "Deli/Breakfast"
+      },
+      {
+        "name": "Il Mulino",
+        "description": "Italian restaurant and pizzeria serving classic pasta dishes, brick-oven pizza, and family-style meals.",
+        "address": "Wyckoff Avenue, Waldwick, NJ 07463",
+        "category": "Italian/Pizza"
+      },
+      {
+        "name": "Brian's Waffle House",
+        "description": "Beloved breakfast spot known for creative waffle combinations, omelets, and a friendly atmosphere.",
+        "address": "Franklin Turnpike, Waldwick, NJ 07463",
+        "category": "Breakfast/American"
+      },
+      {
+        "name": "The Brickhouse",
+        "description": "Casual American restaurant and bar offering burgers, wings, and pub fare in a relaxed setting.",
+        "address": "Wyckoff Avenue, Waldwick, NJ 07463",
+        "category": "American/Pub"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Memorial Park",
+        "description": "Borough's main park featuring sports fields, playground equipment, tennis courts, and a walking path around the perimeter.",
+        "address": "Prospect Street, Waldwick, NJ 07463",
+        "category": "Recreation/Sports"
+      },
+      {
+        "name": "Pavilion Park",
+        "description": "Community park with a covered pavilion for events, playground, and open green space.",
+        "address": "Waldwick, NJ 07463",
+        "category": "Park/Events"
+      },
+      {
+        "name": "Veterans Park",
+        "description": "Quiet memorial park honoring local veterans with walking paths and benches.",
+        "address": "Waldwick, NJ 07463",
+        "category": "Memorial/Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Waldwick Street Fair",
+        "description": "Annual street fair along Wyckoff Avenue featuring vendors, food, live music, and activities for all ages.",
+        "when": "Spring or Fall, typically May or October"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual borough parade honoring veterans and service members, marching through the main streets.",
+        "when": "Memorial Day, last Monday in May"
+      },
+      {
+        "name": "Holiday Tree Lighting & Festivities",
+        "description": "Community holiday celebration with tree lighting, caroling, and a visit from Santa.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Downtown Waldwick",
+        "description": "Small commercial district along Wyckoff Avenue and Franklin Turnpike with local shops, restaurants, and services.",
+        "address": "Wyckoff Avenue, Waldwick, NJ 07463",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Waldwick Train Station",
+        "description": "Historic NJ Transit station serving the Main/Bergen County Line, a landmark of the borough's commuter community.",
+        "address": "Franklin Turnpike, Waldwick, NJ 07463",
+        "category": "Historic/Transportation"
+      }
+    ],
+    "shoppingAreas": [
+      "Wyckoff Avenue — Local shops, restaurants, and services",
+      "Franklin Turnpike — Businesses near the train station",
+      "Midland Park — Neighboring shops and dining",
+      "Westwood downtown — Larger shopping district nearby"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Laurie Dinardo",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Patricia Cullen",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Kenneth Rossi",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Walter Gawlik",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Edward Bettendorf",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Joseph Marturano",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Michael Esteve",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 3rd Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 15 East Prospect Street, Waldwick, NJ 07463",
+    "municipalWebsite": "https://www.waldwicknj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 652-5300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 652-5300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 652-5300",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 652-5300",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-5700",
+      "address": "15 East Prospect Street, Waldwick, NJ 07463"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-4800",
+      "address": "Franklin Turnpike, Waldwick, NJ 07463"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-5700",
+      "address": "Waldwick, NJ 07463"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 12
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Waldwick Water Department",
+        "phone": "(201) 652-5300"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Waldwick DPW",
+        "phone": "(201) 652-5300"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Waldwick Police (Non-Emergency)",
+        "number": "(201) 652-5700"
+      },
+      {
+        "label": "Waldwick Fire Department",
+        "number": "(201) 652-4800"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 652-5300"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

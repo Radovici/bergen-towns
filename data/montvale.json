@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "slug": "montvale",
+    "name": "Montvale",
+    "fullName": "Borough of Montvale",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "montvale.info",
+    "zipCodes": ["07645"],
+    "themeColor": "#004d40",
+    "accentColor": "#00695c"
+  },
+  "overview": {
+    "tagline": "A premier corporate and residential community at the crossroads of Bergen County",
+    "description": "Montvale is a prosperous borough in northern Bergen County known for its blend of corporate headquarters, upscale residential neighborhoods, and excellent schools. Home to major companies including Mercedes-Benz USA (formerly) and A&P's legacy, the borough occupies a strategic position at the intersection of the Garden State Parkway and Route 202. Despite its corporate presence, Montvale maintains a family-friendly residential character with well-kept neighborhoods, active recreation programs, and a strong sense of community.",
+    "population": 8636,
+    "populationYear": 2020,
+    "areaSqMi": 3.96,
+    "elevation": "350 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Montvale Public Schools",
+    "highlights": [
+      "Major corporate office park community",
+      "Excellent public schools sending to Pascack Hills High School",
+      "Easy access to Garden State Parkway and Route 202",
+      "Huff Pond and extensive recreation facilities",
+      "Upscale residential neighborhoods with larger lots"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$725,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.45%",
+    "averagePropertyTax": "$15,500",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Bergen County conducts periodic revaluations. Montvale benefits from a strong commercial tax base that helps offset residential tax burden.",
+    "recentTrends": "Montvale's real estate market has been robust, with demand driven by the excellent school district, corporate proximity, and parkway access. Home prices have appreciated steadily. The corporate tax base helps keep residential taxes relatively moderate for Bergen County.",
+    "neighborhoodNotes": [
+      "Chestnut Ridge Road area — Upscale homes on larger lots with a semi-rural feel",
+      "Akers Avenue/Spring Valley Road — Established family neighborhoods near schools",
+      "Corporate Park area — Newer developments near the office parks",
+      "Bear Brook section — Wooded lots with privacy near the Woodcliff Lake border",
+      "Summit Avenue corridor — Classic suburban homes with easy parkway access"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided weekly by a contracted hauler for the Borough of Montvale.",
+      "details": [
+        "Trash pickup occurs twice per week on designated days",
+        "Containers must be placed curbside by 6:00 AM on collection day",
+        "Maximum 50 lbs per container with secure lids required",
+        "Bulk item pickup scheduled through the DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 391-5700",
+      "contactUrl": "https://www.montvale.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a regular schedule by the Borough's contracted hauler.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastics) collected biweekly",
+        "Paper and cardboard collected on alternate weeks",
+        "Yard waste collected seasonally from April through November",
+        "Recycling drop-off available at the DPW yard",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 391-5700",
+      "contactUrl": "https://www.montvale.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by United Water (SUEZ/Veolia). Sewer service is maintained by the Borough.",
+      "details": [
+        "Veolia (formerly United Water/SUEZ) provides water service",
+        "Sewer maintained by the Borough and Northwest Bergen County Utilities Authority",
+        "Water billing is handled by Veolia",
+        "Annual water quality reports available from the provider",
+        "Emergency water issues: contact Veolia 24/7"
+      ],
+      "contactPhone": "(201) 391-5700",
+      "contactUrl": "https://www.montvale.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Planning Board and Zoning Board review applications monthly",
+        "Permit applications available at Borough Hall or online",
+        "Inspections scheduled through the Building Department",
+        "Certificate of occupancy required before moving into new construction"
+      ],
+      "contactPhone": "(201) 391-5700",
+      "contactUrl": "https://www.montvale.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages commuter parking and municipal lots.",
+      "details": [
+        "Commuter parking available at NJ Transit park-and-ride lots",
+        "Permits required for commuter parking — waitlist may apply",
+        "Street parking subject to posted restrictions",
+        "Overnight parking prohibited on borough streets",
+        "Snow emergency parking rules enforced during winter"
+      ],
+      "contactPhone": "(201) 391-5700",
+      "contactUrl": "https://www.montvale.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Montvale Free Public Library",
+        "description": "Community library offering books, programs, and digital resources.",
+        "details": [
+          "Located at 12 DeSomer Drive",
+          "Children's programs, teen events, and adult programming",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 391-5090",
+        "contactUrl": "https://www.montvalelibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for all ages.",
+        "details": [
+          "Youth sports, swim lessons, and summer camps",
+          "Adult fitness classes and senior programs",
+          "Huff Pond recreation area with swimming and fishing",
+          "Online registration available"
+        ],
+        "contactPhone": "(201) 391-5700",
+        "contactUrl": "https://www.montvale.org/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Montvale enforces noise regulations to protect the residential character of neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction noise on Sundays or holidays",
+        "Power equipment and leaf blowers restricted to daytime hours",
+        "Amplified music prohibited after 10:00 PM"
+      ],
+      "source": "Borough of Montvale Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "All properties must be kept in good condition per borough standards.",
+      "keyRules": [
+        "Lawns must be maintained and mowed regularly",
+        "Properties must be free of debris, junk, and abandoned vehicles",
+        "Structures and fences must be kept in good repair",
+        "Sidewalks must be cleared of snow within 24 hours",
+        "Swimming pools must be fenced and properly maintained"
+      ],
+      "source": "Borough of Montvale Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Pet owners must comply with licensing and leash laws.",
+      "keyRules": [
+        "Dogs must be licensed annually with the Borough Clerk",
+        "Dogs must be kept on a leash at all times when off owner's property",
+        "Pet waste must be cleaned up immediately",
+        "Excessive barking is subject to complaints and fines",
+        "Maximum number of pets may be limited by ordinance"
+      ],
+      "source": "Borough of Montvale Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking regulations are enforced throughout the borough.",
+      "keyRules": [
+        "No overnight parking on borough streets from 2:00 AM to 6:00 AM",
+        "Vehicles must be moved during snow emergencies",
+        "No parking within 25 feet of stop signs or intersections",
+        "Commercial vehicles restricted from parking in residential areas overnight",
+        "Violations subject to fines"
+      ],
+      "source": "Borough of Montvale Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough registration and safety requirements.",
+      "keyRules": [
+        "Rental units must be registered with the Borough",
+        "Certificate of habitability required before occupancy",
+        "Properties must meet all building code and safety standards",
+        "Landlords responsible for property maintenance",
+        "Short-term rentals subject to local zoning restrictions"
+      ],
+      "source": "Borough of Montvale Code"
+    },
+    "other": [
+      {
+        "title": "Tree Removal",
+        "summary": "Permits may be required for removing certain trees on private property.",
+        "keyRules": [
+          "Permit required to remove trees over a certain diameter",
+          "Replacement planting may be required",
+          "Tree removal near property lines requires notification of neighbors",
+          "Borough Shade Tree Commission oversees tree preservation"
+        ],
+        "source": "Borough of Montvale Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Montvale Public Schools",
+    "publicSchools": [
+      {
+        "name": "Memorial Elementary School",
+        "grades": "PreK-2",
+        "rating": 8,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Primary school for younger students in the borough"
+      },
+      {
+        "name": "Fieldstone Middle School",
+        "grades": "3-8",
+        "rating": 8,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Upper elementary and middle school with strong academics"
+      },
+      {
+        "name": "Pascack Hills High School",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 950,
+        "type": "public",
+        "notes": "Regional high school in Montvale serving Montvale, Woodcliff Lake, and River Vale through the Pascack Valley Regional High School District"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Joseph's School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic elementary school affiliated with St. Joseph's Church"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 10 miles",
+      "Bergen Community College (Paramus) — 10 miles",
+      "Fairleigh Dickinson University (Teaneck) — 15 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Excellent public schools in the Pascack Valley district",
+      "Strong commercial tax base helps moderate residential taxes",
+      "Convenient access to Garden State Parkway and Route 202",
+      "Upscale residential neighborhoods with larger lots",
+      "Corporate employers within the borough reduce commute needs"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "50-70 minutes to Port Authority",
+      "busRoutes": ["165"],
+      "notes": "NJ Transit bus route 165 provides service to Port Authority Bus Terminal. Many residents also drive to nearby Pascack Valley Line train stations in Park Ridge or Woodcliff Lake for rail service to Hoboken. Garden State Parkway provides direct highway access to the George Washington Bridge."
+    },
+    "costOfLiving": {
+      "summary": "Montvale is an upper-middle-income community with home prices reflecting the quality of schools and amenities.",
+      "vsStateAverage": "Above the state average, consistent with affluent Bergen County suburbs",
+      "vsNationalAverage": "Well above the national average, particularly in housing and property taxes"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Top-rated Pascack Valley school district",
+        "Corporate tax base helps offset residential property taxes",
+        "Easy access to major highways (GSP, Route 202)",
+        "Quiet, suburban atmosphere with larger lot sizes",
+        "Good recreation facilities including Huff Pond"
+      ],
+      "cons": [
+        "Limited walkable downtown or shopping district",
+        "No direct rail service — reliant on bus or driving to nearby stations",
+        "Corporate office parks can generate weekday traffic",
+        "Higher home prices limit entry-level options",
+        "Distance from Bergen County's southern cultural amenities"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Aldo & Gianni Ristorante",
+        "description": "Upscale Italian dining with classic dishes and an elegant atmosphere.",
+        "address": "28 West Grand Avenue, Montvale, NJ",
+        "category": "Italian"
+      },
+      {
+        "name": "Teak Restaurant",
+        "description": "Pan-Asian fusion restaurant offering sushi, Thai, and Malaysian cuisine.",
+        "address": "Chestnut Ridge Road, Montvale, NJ",
+        "category": "Asian Fusion"
+      },
+      {
+        "name": "Davinci Ristorante",
+        "description": "Family-friendly Italian restaurant with homemade pastas and wood-fired pizza.",
+        "address": "Kinderkamack Road, Montvale, NJ",
+        "category": "Italian"
+      },
+      {
+        "name": "Paragon Tap & Table",
+        "description": "Gastropub with craft cocktails, local beers, and creative American cuisine.",
+        "address": "Grand Avenue, Montvale, NJ",
+        "category": "American/Gastropub"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Huff Pond",
+        "description": "Borough-owned recreation area with swimming, fishing, and picnic facilities open to residents in summer.",
+        "address": "Huff Pond Drive, Montvale, NJ",
+        "category": "Recreation Area"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Central park with sports fields, playground, and walking paths.",
+        "address": "Memorial Drive, Montvale, NJ",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Bear Brook Park",
+        "description": "Wooded park with nature trails along Bear Brook, ideal for walking and birdwatching.",
+        "address": "Montvale, NJ",
+        "category": "Nature Area"
+      }
+    ],
+    "events": [
+      {
+        "name": "Montvale Day",
+        "description": "Annual community celebration with food, games, live entertainment, and activities for all ages.",
+        "when": "September (annually)"
+      },
+      {
+        "name": "Holiday Celebration and Tree Lighting",
+        "description": "Festive holiday event with tree lighting, visits from Santa, and seasonal refreshments.",
+        "when": "December (annually)"
+      },
+      {
+        "name": "Summer Concert Series",
+        "description": "Free outdoor concerts held at Memorial Park during summer months.",
+        "when": "July-August (weekly)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Montvale Corporate Center",
+        "description": "Major corporate campus that has housed headquarters of companies like Mercedes-Benz USA and Benjamin Moore.",
+        "address": "Montvale, NJ",
+        "category": "Business/Landmark"
+      },
+      {
+        "name": "Historic Montvale Train Station",
+        "description": "Preserved historic train station from the Erie Railroad era, a reminder of the borough's rail heritage.",
+        "address": "Montvale, NJ",
+        "category": "Historic"
+      }
+    ],
+    "shoppingAreas": [
+      "Grand Avenue commercial district",
+      "Chestnut Ridge Road shopping",
+      "Nearby Woodcliff Lake and Park Ridge retail"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Michael Ghassali",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      { "name": "Jill Ruzich", "title": "Council Member" },
+      { "name": "Timothy Lane", "title": "Council Member" },
+      { "name": "Christine Botta", "title": "Council Member" },
+      { "name": "Steve Bicking", "title": "Council Member" },
+      { "name": "Karen Sena", "title": "Council Member" },
+      { "name": "Roger Garwood", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Tuesday of each month at 8:00 PM",
+    "meetingLocation": "Montvale Borough Hall, 12 Mercedes Drive",
+    "municipalWebsite": "https://www.montvale.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 391-5700",
+        "email": "clerk@montvale.org",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 391-5700",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 391-5700",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 391-0900",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 391-5400",
+      "address": "12 Mercedes Drive, Montvale, NJ 07645"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 391-2928",
+      "address": "25 DePiero Drive, Montvale, NJ 07645"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 391-5400",
+      "address": "Montvale, NJ 07645"
+    },
+    "hospitals": [
+      {
+        "name": "Pascack Valley Medical Center",
+        "address": "250 Old Hook Road, Westwood, NJ 07675",
+        "phone": "(201) 358-3000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electricity",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-0850",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "Bergen County OEM", "number": "(201) 785-5700" },
+      { "label": "NJ Domestic Violence Hotline", "number": "1-800-572-7233" }
+    ]
+  }
+}

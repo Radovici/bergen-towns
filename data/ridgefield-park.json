@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "slug": "ridgefield-park",
+    "name": "Ridgefield Park",
+    "fullName": "Village of Ridgefield Park",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "ridgefield-park.info",
+    "zipCodes": ["07660"],
+    "themeColor": "#006064",
+    "accentColor": "#00838f"
+  },
+  "overview": {
+    "tagline": "One of New Jersey's few remaining villages, with small-town heart and big-city access",
+    "description": "Ridgefield Park is one of only four remaining villages in New Jersey, a distinction that reflects its strong sense of community identity. Located in southern Bergen County along the Hackensack River and Overpeck Creek, the village offers affordable housing, a diverse population, and convenient access to New York City. Ridgefield Park maintains its own police department, fire department, and school district while fostering a close-knit community atmosphere with tree-lined streets and active civic organizations.",
+    "population": 13052,
+    "populationYear": 2020,
+    "areaSqMi": 2.42,
+    "elevation": "30 ft",
+    "incorporated": "1892",
+    "governmentType": "Village (Board of Commissioners)",
+    "schoolDistrict": "Ridgefield Park Public Schools",
+    "highlights": [
+      "One of only four villages remaining in New Jersey",
+      "Affordable housing by Bergen County standards",
+      "Tree-lined streets with a strong neighborhood feel",
+      "Annual July 4th parade — one of the longest-running in the nation",
+      "Convenient access to NJ Transit bus service to NYC"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$430,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.10%",
+    "averagePropertyTax": "$10,200",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. The village features a mix of single-family homes, two-family homes, and smaller apartment buildings.",
+    "recentTrends": "Ridgefield Park has seen increased buyer interest due to its affordability relative to surrounding Bergen County communities. First-time buyers and young families have been drawn to the village. Home prices have appreciated moderately, and the two-family home market provides income potential for owner-occupants.",
+    "neighborhoodNotes": [
+      "Main Street area — Center of village life with shops and services",
+      "The Heights — Elevated section with single-family homes and river views",
+      "Eastern section — Near Overpeck Park and the Hackensack River",
+      "Western section — Residential streets near the Bogota border"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Village of Ridgefield Park Department of Public Works.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment with DPW",
+        "Holiday schedule adjustments posted on village website"
+      ],
+      "contactPhone": "(201) 641-4950",
+      "contactUrl": "https://www.ridgefieldpark.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling collected weekly by the Village.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic) collected weekly",
+        "Paper and cardboard collected on recycling day",
+        "Recycling bins provided by the Village",
+        "Yard waste collected seasonally from spring through fall",
+        "Recycling drop-off available at DPW yard"
+      ],
+      "contactPhone": "(201) 641-4950",
+      "contactUrl": "https://www.ridgefieldpark.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water and sewer service is maintained by the Village.",
+      "details": [
+        "Water supplied by Veolia Water (formerly Suez/United Water)",
+        "Sewer service maintained by the Village DPW",
+        "Water billing handled by Veolia quarterly",
+        "Sewer charges included on property tax bills",
+        "Emergency water repairs available through Veolia 24/7"
+      ],
+      "contactPhone": "(201) 641-4950",
+      "contactUrl": "https://www.ridgefieldpark.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board",
+        "Permit applications available at Village Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new work"
+      ],
+      "contactPhone": "(201) 641-4950",
+      "contactUrl": "https://www.ridgefieldpark.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Village regulates street parking and operates municipal lots.",
+      "details": [
+        "Municipal parking lots available in the downtown area",
+        "Street parking subject to posted regulations",
+        "Alternate side parking enforced for street cleaning",
+        "Overnight parking restrictions on village streets",
+        "Snow emergency parking bans enforced"
+      ],
+      "contactPhone": "(201) 641-4950",
+      "contactUrl": "https://www.ridgefieldpark.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Ridgefield Park Public Library",
+        "description": "Public library offering books, digital resources, programs, and community spaces.",
+        "details": [
+          "Located at 107 Cedar Street",
+          "Children's programs, teen events, and adult book clubs",
+          "Free Wi-Fi and computer access",
+          "Community meeting room available for public use",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 641-0689",
+        "contactUrl": "https://www.ridgefieldparklibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for village residents.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Senior citizen programs at the Community Center",
+          "Community pool at Veterans Park",
+          "Annual village events and celebrations"
+        ],
+        "contactPhone": "(201) 641-4950",
+        "contactUrl": "https://www.ridgefieldpark.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Ridgefield Park enforces noise regulations to protect residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise on Sundays or federal holidays",
+        "Loud music and amplified sound restricted after 10:00 PM",
+        "Leaf blowers and power equipment restricted to daytime hours"
+      ],
+      "source": "Village of Ridgefield Park Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Property owners responsible for sidewalk snow removal within 24 hours",
+        "Fences must comply with village height regulations",
+        "Property owners must maintain curbs and sidewalks abutting their property",
+        "Abandoned vehicles must be removed from property"
+      ],
+      "source": "Village of Ridgefield Park Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dog licensing and leash laws are enforced throughout the village.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies vaccination proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking may result in violation notices",
+        "No exotic or dangerous animals permitted as pets"
+      ],
+      "source": "Village of Ridgefield Park Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the village.",
+      "keyRules": [
+        "No overnight parking on village streets between 2:00 AM and 6:00 AM",
+        "Alternate side parking enforced for street cleaning",
+        "Snow emergency bans require vehicles off-street",
+        "Commercial vehicles over a certain weight prohibited on residential streets overnight",
+        "Parking meters enforced in commercial zones"
+      ],
+      "source": "Village of Ridgefield Park Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and inspected.",
+      "keyRules": [
+        "Rental properties must be registered with the Village",
+        "Certificate of Habitability required before occupancy",
+        "Landlords must maintain properties to housing code standards",
+        "Inspections conducted at change of tenancy",
+        "Occupancy limits enforced based on unit size"
+      ],
+      "source": "Village of Ridgefield Park Code"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Ridgefield Park protects its tree canopy through ordinances regulating tree removal.",
+        "keyRules": [
+          "Permit required to remove significant trees on private property",
+          "Village Shade Tree Commission oversees public tree management",
+          "Replacement planting may be required when trees are removed",
+          "Damage to public trees subject to fines"
+        ],
+        "source": "Village of Ridgefield Park Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Ridgefield Park Public Schools",
+    "publicSchools": [
+      {
+        "name": "Lincoln Elementary School",
+        "grades": "PreK-2",
+        "rating": 4,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Primary school serving early elementary grades"
+      },
+      {
+        "name": "Grant Elementary School",
+        "grades": "3-5",
+        "rating": 4,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Upper elementary school"
+      },
+      {
+        "name": "Ridgefield Park Jr./Sr. High School",
+        "grades": "6-12",
+        "rating": 4,
+        "enrollment": 750,
+        "type": "public",
+        "notes": "Combined junior and senior high school known as the Scarlets"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Francis Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic school serving the village and surrounding communities"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck) — 10 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Rutgers University (Newark) — 20 minutes",
+      "New Jersey City University (Jersey City) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "One of the most affordable communities in Bergen County",
+      "Strong small-town feel as one of NJ's few remaining villages",
+      "Convenient bus service to Manhattan via NJ Transit",
+      "Diverse, welcoming community with active civic life",
+      "Near Overpeck County Park for outdoor recreation"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "30-50 minutes to Midtown Manhattan by bus",
+      "busRoutes": ["NJ Transit Bus 165", "NJ Transit Bus 168", "NJ Transit Bus 175"],
+      "notes": "Multiple NJ Transit bus routes provide service to the Port Authority Bus Terminal in Manhattan. The village does not have a train station, but bus service is frequent and direct. The George Washington Bridge and Lincoln Tunnel are accessible via local highways."
+    },
+    "costOfLiving": {
+      "summary": "Ridgefield Park offers one of the most affordable cost of living options in Bergen County, making it attractive to first-time homebuyers and families on a budget.",
+      "vsStateAverage": "Approximately 5% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 30% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Very affordable by Bergen County standards",
+        "Strong community identity and village governance",
+        "Good bus access to Manhattan",
+        "Close to Overpeck County Park",
+        "Annual July 4th parade tradition dating back over 100 years"
+      ],
+      "cons": [
+        "No train station within the village",
+        "Schools rated below Bergen County average",
+        "Some flood-prone areas near the Hackensack River",
+        "Higher property tax rate compared to some neighboring towns",
+        "Limited upscale dining and shopping"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Ridgefield Park Pizzeria",
+        "description": "Classic neighborhood pizzeria serving thin-crust pizza, heroes, and Italian-American favorites for decades.",
+        "address": "Main Street, Ridgefield Park, NJ 07660",
+        "category": "Italian/Pizza"
+      },
+      {
+        "name": "El Unico Restaurant",
+        "description": "Peruvian and Latin American restaurant serving authentic dishes including ceviche, lomo saltado, and rotisserie chicken.",
+        "address": "Main Street, Ridgefield Park, NJ 07660",
+        "category": "Peruvian/Latin"
+      },
+      {
+        "name": "Top's Diner",
+        "description": "Iconic New Jersey diner consistently rated among the best diners in the state, famous for its extensive menu and classic ambiance.",
+        "address": "500 Passaic Street, East Newark, NJ 07029",
+        "category": "American/Diner"
+      },
+      {
+        "name": "Mekong Restaurant",
+        "description": "Vietnamese and Thai restaurant serving pho, pad Thai, and other Southeast Asian favorites.",
+        "address": "Main Street, Ridgefield Park, NJ 07660",
+        "category": "Vietnamese/Thai"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Overpeck County Park",
+        "description": "Large Bergen County park along the Overpeck Creek featuring walking and biking trails, sports fields, picnic areas, and the Overpeck Golf Course.",
+        "address": "40 Fort Lee Road, Leonia, NJ 07605",
+        "category": "County Park/Recreation"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Village park with a community pool, sports fields, playground, and memorial honoring local veterans.",
+        "address": "Cedar Street, Ridgefield Park, NJ 07660",
+        "category": "Memorial/Recreation"
+      },
+      {
+        "name": "George Washington Bridge County Park (nearby)",
+        "description": "Scenic park at the eastern end of Bergen County offering walking paths and views of the Hudson River and George Washington Bridge.",
+        "address": "Fort Lee, NJ 07024",
+        "category": "County Park/Scenic"
+      }
+    ],
+    "events": [
+      {
+        "name": "Ridgefield Park 4th of July Parade",
+        "description": "One of the oldest and longest-running Independence Day parades in the United States, a beloved village tradition since the early 1900s.",
+        "when": "July 4th annually"
+      },
+      {
+        "name": "Ridgefield Park Community Day",
+        "description": "Annual village celebration with food, entertainment, games, and activities for all ages.",
+        "when": "Fall, typically September or October"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday celebration with tree lighting, caroling, and community festivities at Village Hall.",
+        "when": "December, first week"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Overpeck County Park",
+        "description": "Expansive county park offering outdoor recreation, nature trails, sports facilities, and scenic waterway views along Overpeck Creek.",
+        "address": "40 Fort Lee Road, Leonia, NJ 07605",
+        "category": "Nature/Recreation"
+      },
+      {
+        "name": "Historic Village Downtown",
+        "description": "The village's Main Street retains a traditional small-town character with local shops and services reflecting the community's diverse population.",
+        "address": "Main Street, Ridgefield Park, NJ 07660",
+        "category": "Historic/Shopping"
+      }
+    ],
+    "shoppingAreas": [
+      "Main Street — Village center with local shops and services",
+      "Bergen Boulevard — Commercial corridor nearby",
+      "Bergen Town Center (Paramus) — Regional shopping center nearby",
+      "Edgewater Promenade — Waterfront shopping nearby"
+    ]
+  },
+  "government": {
+    "governingBody": "Board of Commissioners (Walsh Act Commission form)",
+    "mayor": {
+      "name": "George Fosdick",
+      "title": "Mayor / Commissioner of Public Affairs",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "David Schwegel",
+        "title": "Commissioner of Revenue and Finance",
+        "term": "4-year term"
+      },
+      {
+        "name": "Mark Payne",
+        "title": "Commissioner of Public Safety",
+        "term": "4-year term"
+      },
+      {
+        "name": "Jerry Dietz",
+        "title": "Commissioner of Streets and Public Improvements",
+        "term": "4-year term"
+      },
+      {
+        "name": "Robert Faziola",
+        "title": "Commissioner of Parks and Public Property",
+        "term": "4-year term"
+      }
+    ],
+    "meetingSchedule": "Board of Commissioners meets on the 2nd and 4th Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Village Hall, 234 Main Street, Ridgefield Park, NJ 07660",
+    "municipalWebsite": "https://www.ridgefieldpark.org",
+    "importantContacts": [
+      {
+        "department": "Village Clerk",
+        "phone": "(201) 641-4950",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 641-4950",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 641-4950",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 641-0459",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 641-4950",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-6400",
+      "address": "234 Main Street, Ridgefield Park, NJ 07660"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-4734",
+      "address": "Ridgefield Park, NJ 07660"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-6400",
+      "address": "Ridgefield Park, NJ 07660"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 3
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Village of Ridgefield Park DPW",
+        "phone": "(201) 641-0459"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Ridgefield Park Police (Non-Emergency)",
+        "number": "(201) 641-6400"
+      },
+      {
+        "label": "Ridgefield Park Fire Department",
+        "number": "(201) 641-4734"
+      },
+      {
+        "label": "Village Hall",
+        "number": "(201) 641-4950"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

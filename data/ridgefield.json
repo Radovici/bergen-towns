@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "slug": "ridgefield",
+    "name": "Ridgefield",
+    "fullName": "Borough of Ridgefield",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "ridgefield.info",
+    "zipCodes": ["07657"],
+    "themeColor": "#4e342e",
+    "accentColor": "#795548"
+  },
+  "overview": {
+    "tagline": "A diverse borough with easy access to Manhattan and a growing community",
+    "description": "Ridgefield is a compact, diverse borough in southern Bergen County situated just west of the Palisades. With a strategic location along Route 1/9 and near the George Washington Bridge, Ridgefield offers convenient access to New York City while maintaining an affordable, suburban environment. The borough features a mix of residential neighborhoods, commercial corridors, and light industrial areas, and has a growing multicultural population that contributes to its vibrant community life.",
+    "population": 11748,
+    "populationYear": 2020,
+    "areaSqMi": 2.64,
+    "elevation": "150 ft",
+    "incorporated": "1892",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Ridgefield Public Schools",
+    "highlights": [
+      "Close proximity to George Washington Bridge and NYC",
+      "Diverse, multicultural community",
+      "Affordable housing by Bergen County standards",
+      "Access to major highways (Route 1/9, I-95, Route 46)",
+      "Growing commercial and retail development"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$475,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.55%",
+    "averagePropertyTax": "$9,200",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Ridgefield features a mix of single-family homes, multi-family residences, condominiums, and townhouses.",
+    "recentTrends": "Ridgefield has seen moderate price appreciation, benefiting from its proximity to NYC and relative affordability compared to neighboring towns. The condo and townhouse market is particularly active, attracting young professionals and first-time buyers. Redevelopment projects along commercial corridors are enhancing the borough's appeal.",
+    "neighborhoodNotes": [
+      "Bergen Boulevard area — Commercial corridor with nearby residential streets",
+      "Edgewater border — Higher-density residential development near the waterfront",
+      "Northern section — Quieter residential neighborhoods toward Palisades Park",
+      "Route 1/9 corridor — Commercial and mixed-use areas"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Ridgefield Department of Public Works.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment with DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 943-5215",
+      "contactUrl": "https://www.ridgefieldboro.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling is collected weekly.",
+      "details": [
+        "Commingled recyclables collected weekly on designated day",
+        "Paper and cardboard collected on the same day",
+        "Recycling bins available from the DPW",
+        "Yard waste collected seasonally",
+        "Electronic waste recycling events held periodically"
+      ],
+      "contactPhone": "(201) 943-5215",
+      "contactUrl": "https://www.ridgefieldboro.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by Veolia Water and sewer service is maintained by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water (formerly Suez/United Water)",
+        "Sewer service maintained by the Borough DPW",
+        "Water billing handled by Veolia quarterly",
+        "Sewer charges included on property tax bills",
+        "Emergency water service available 24/7 through Veolia"
+      ],
+      "contactPhone": "(201) 943-5215",
+      "contactUrl": "https://www.ridgefieldboro.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction, additions, and renovations",
+        "Zoning applications reviewed by Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction and changes of use"
+      ],
+      "contactPhone": "(201) 943-5215",
+      "contactUrl": "https://www.ridgefieldboro.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough enforces street parking regulations and operates municipal lots.",
+      "details": [
+        "Municipal parking lots in commercial areas",
+        "Street parking regulated by posted signs",
+        "Overnight parking restrictions on borough streets",
+        "Snow emergency parking bans enforced",
+        "Alternate side parking for street cleaning"
+      ],
+      "contactPhone": "(201) 943-5215",
+      "contactUrl": "https://www.ridgefieldboro.com"
+    },
+    "additionalServices": [
+      {
+        "title": "Ridgefield Public Library",
+        "description": "Public library offering books, digital resources, bilingual programs, and community spaces.",
+        "details": [
+          "Located at 527 Morse Avenue",
+          "Children's programs, teen events, and adult programs",
+          "ESL and bilingual resources available",
+          "Free Wi-Fi and computer access",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 943-5600",
+        "contactUrl": "https://www.ridgefieldlibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Senior citizen programs and activities",
+          "Community events throughout the year",
+          "Borough pool open seasonally"
+        ],
+        "contactPhone": "(201) 943-5215",
+        "contactUrl": "https://www.ridgefieldboro.com"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Ridgefield enforces noise regulations to maintain quality of life in residential areas.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise on Sundays or federal holidays",
+        "Loud music and amplified sound restricted after 10:00 PM",
+        "Commercial noise must not exceed limits in residential zones"
+      ],
+      "source": "Borough of Ridgefield Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns and yards must be maintained and free of debris",
+        "Property owners responsible for sidewalk snow removal within 24 hours",
+        "Fences must comply with borough height regulations",
+        "Abandoned vehicles must be removed from property",
+        "Commercial properties must maintain storefronts and signage"
+      ],
+      "source": "Borough of Ridgefield Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Ridgefield requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with rabies vaccination proof",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Excessive barking may result in violation notices",
+        "Limit on number of pets per household enforced"
+      ],
+      "source": "Borough of Ridgefield Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated on borough streets and in commercial areas.",
+      "keyRules": [
+        "No overnight parking on borough streets without permit",
+        "Alternate side parking enforced for street cleaning",
+        "Snow emergency bans require vehicles off-street",
+        "Commercial vehicles restricted from residential street parking overnight",
+        "Double parking and blocking driveways subject to ticketing"
+      ],
+      "source": "Borough of Ridgefield Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and inspected per borough code.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before occupancy",
+        "Landlords must maintain properties to housing code standards",
+        "Overcrowding violations enforced based on occupancy limits",
+        "Inspections conducted at change of tenancy"
+      ],
+      "source": "Borough of Ridgefield Code"
+    },
+    "other": [
+      {
+        "title": "Fence Regulations",
+        "summary": "Fences must comply with borough standards for height, material, and placement.",
+        "keyRules": [
+          "Rear and side yard fences may not exceed 6 feet in height",
+          "Front yard fences may not exceed 4 feet in height",
+          "Permits required for fence installation",
+          "Chain-link fences in front yards may be restricted in certain zones"
+        ],
+        "source": "Borough of Ridgefield Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Ridgefield Public Schools",
+    "publicSchools": [
+      {
+        "name": "Slocum Skewes Elementary School",
+        "grades": "PreK-4",
+        "rating": 5,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "Primary elementary school serving the borough"
+      },
+      {
+        "name": "Shaler Academy (Bergen Arts & Sciences Charter School)",
+        "grades": "5-8",
+        "rating": 5,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Upper elementary and middle school grades"
+      },
+      {
+        "name": "Ridgefield Memorial High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 420,
+        "type": "public",
+        "notes": "The borough's high school serving Ridgefield students; also receives students from Edgewater"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Matthew School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 180,
+        "notes": "Catholic parish school in the Archdiocese of Newark"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck) — 10 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "New Jersey City University (Jersey City) — 20 minutes",
+      "Rutgers University (Newark) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable housing compared to neighboring Bergen County communities",
+      "Excellent proximity to George Washington Bridge and NYC",
+      "Growing, diverse community with multicultural amenities",
+      "Access to major highways for commuters",
+      "Close to Edgewater waterfront dining and entertainment"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus via Route 1/9 corridor",
+      "duration": "25-45 minutes to Midtown Manhattan by bus",
+      "busRoutes": ["NJ Transit Bus 156", "NJ Transit Bus 128", "NJ Transit Bus 166"],
+      "notes": "Multiple NJ Transit bus routes provide service to the Port Authority Bus Terminal. The George Washington Bridge is minutes away for drivers. The borough is also near the Edgewater Ferry terminal for service to Manhattan."
+    },
+    "costOfLiving": {
+      "summary": "Ridgefield offers one of the more affordable options in Bergen County, with moderate home prices and property taxes compared to neighboring municipalities.",
+      "vsStateAverage": "Approximately 10% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 35% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable housing in a convenient Bergen County location",
+        "Very close to NYC via bus and the George Washington Bridge",
+        "Diverse, welcoming community",
+        "Proximity to Edgewater waterfront for dining and shopping",
+        "Good highway access for commuters (Route 1/9, I-95)"
+      ],
+      "cons": [
+        "Route 1/9 traffic can be heavy during peak hours",
+        "Limited parks and open green space",
+        "Schools rated below Bergen County average",
+        "Some areas have an industrial or commercial character",
+        "Limited nightlife and entertainment options within the borough"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Ridgefield Pizza & Restaurant",
+        "description": "Family-owned pizzeria serving thin-crust pizza, calzones, and Italian-American favorites.",
+        "address": "Bergen Boulevard, Ridgefield, NJ 07657",
+        "category": "Italian/Pizza"
+      },
+      {
+        "name": "Corleone's Ristorante",
+        "description": "Italian restaurant offering classic pasta dishes, seafood, and warm hospitality in a neighborhood setting.",
+        "address": "520 Bergen Boulevard, Ridgefield, NJ 07657",
+        "category": "Italian"
+      },
+      {
+        "name": "El Paso Mexican Grill",
+        "description": "Casual Mexican restaurant serving tacos, burritos, enchiladas, and other traditional favorites.",
+        "address": "Bergen Boulevard, Ridgefield, NJ 07657",
+        "category": "Mexican"
+      },
+      {
+        "name": "Pho Viet Huong",
+        "description": "Vietnamese restaurant specializing in pho noodle soup, banh mi sandwiches, and traditional Vietnamese cuisine.",
+        "address": "Bergen Boulevard, Ridgefield, NJ 07657",
+        "category": "Vietnamese"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Borough park honoring local veterans, featuring walking paths, memorial installations, and green space.",
+        "address": "Bergen Boulevard, Ridgefield, NJ 07657",
+        "category": "Memorial/Park"
+      },
+      {
+        "name": "Ridgefield Recreation Complex",
+        "description": "Multi-sport recreation facility with fields, courts, and playground areas for community use.",
+        "address": "Ridgefield, NJ 07657",
+        "category": "Sports/Recreation"
+      },
+      {
+        "name": "Overpeck County Park (nearby)",
+        "description": "Large Bergen County park featuring sports fields, walking trails, picnic areas, and a golf course, accessible from Ridgefield.",
+        "address": "40 Fort Lee Road, Leonia, NJ 07605",
+        "category": "County Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Ridgefield Independence Day Celebration",
+        "description": "Annual Fourth of July festivities with live music, food, family activities, and a fireworks display.",
+        "when": "July 4th annually"
+      },
+      {
+        "name": "Ridgefield Community Day",
+        "description": "Borough-wide celebration featuring food vendors, entertainment, games, and activities for all ages.",
+        "when": "Fall, typically October"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday celebration at Borough Hall with tree lighting, caroling, and refreshments.",
+        "when": "December, first week"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Edgewater Waterfront (nearby)",
+        "description": "Adjacent Edgewater offers waterfront dining, shopping at The Promenade, and scenic Hudson River views.",
+        "address": "River Road, Edgewater, NJ 07020",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Bergen Boulevard Commercial District",
+        "description": "The borough's main commercial corridor with a variety of ethnic restaurants, shops, and services.",
+        "address": "Bergen Boulevard, Ridgefield, NJ 07657",
+        "category": "Shopping/Dining"
+      }
+    ],
+    "shoppingAreas": [
+      "Bergen Boulevard — Main commercial corridor with restaurants and shops",
+      "Edgewater Promenade — Waterfront shopping center in adjacent Edgewater",
+      "Route 46 shopping — Commercial strip with retail stores",
+      "Bergen Town Center (Paramus) — Regional shopping center nearby"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Anthony R. Suarez",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Russell Castelli",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Nick Lonzisero",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Jose Martinez",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Brenda Boney",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Timothy Gould",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Claudio Destro",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the 2nd and 4th Thursday of each month at 7:00 PM",
+    "meetingLocation": "Borough Hall, 604 Broad Avenue, Ridgefield, NJ 07657",
+    "municipalWebsite": "https://www.ridgefieldboro.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 943-5215",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 943-5215",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 943-5215",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 943-5215",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 943-5100",
+      "address": "604 Broad Avenue, Ridgefield, NJ 07657"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 943-4949",
+      "address": "Ridgefield, NJ 07657"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 943-5100",
+      "address": "Ridgefield, NJ 07657"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Ridgefield DPW",
+        "phone": "(201) 943-5215"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Ridgefield Police (Non-Emergency)",
+        "number": "(201) 943-5100"
+      },
+      {
+        "label": "Ridgefield Fire Department",
+        "number": "(201) 943-4949"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 943-5215"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

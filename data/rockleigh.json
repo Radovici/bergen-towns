@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "slug": "rockleigh",
+    "name": "Rockleigh",
+    "fullName": "Borough of Rockleigh",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "rockleigh.info",
+    "zipCodes": ["07647"],
+    "themeColor": "#37474f",
+    "accentColor": "#546e7a"
+  },
+  "overview": {
+    "tagline": "Bergen County's smallest and most exclusive residential enclave",
+    "description": "Rockleigh is the smallest borough in Bergen County by population, a quiet, exclusive residential community tucked along the New York State border in the northeastern corner of the county. With only a few hundred residents spread across large, wooded estates, Rockleigh offers a level of privacy, open space, and natural beauty that is virtually unmatched in Bergen County. The borough has no commercial district and no school system of its own — it is purely residential. Rockleigh is also home to the former Rockleigh Country Club and several corporate campuses along the Palisades Interstate Parkway corridor.",
+    "population": 541,
+    "populationYear": 2020,
+    "areaSqMi": 1.32,
+    "elevation": "350 ft",
+    "incorporated": "1923",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Northern Valley Regional High School District (sends to Northvale/Norwood K-8 schools)",
+    "highlights": [
+      "Smallest municipality by population in Bergen County",
+      "Large, wooded estate properties with exceptional privacy",
+      "Adjacent to Palisades Interstate Park for hiking and nature",
+      "No commercial development — purely residential character",
+      "Minutes from the Alpine and Tappan areas along the NY border"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$1,200,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "1.80%",
+    "averagePropertyTax": "$22,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Rockleigh features large estate-sized lots, many over an acre, with high-end custom homes set in wooded, private settings.",
+    "recentTrends": "Rockleigh's real estate market is extremely small with very few transactions per year. When properties become available, they attract buyers seeking privacy, large lots, and exclusivity. The unique nature of Rockleigh means traditional market trends are less applicable — each sale is essentially a one-of-a-kind transaction.",
+    "neighborhoodNotes": [
+      "Rockleigh Road — Main residential road with estate homes on large lots",
+      "Paris Avenue area — Wooded properties along quiet lanes",
+      "Palisades Interstate Parkway vicinity — Properties near the parkway with wooded buffers",
+      "Northern section — Closest to the New York State border"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Trash collection is provided by a private hauler contracted by the Borough.",
+      "details": [
+        "Pickup occurs weekly on a designated day",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by arrangement",
+        "Contact Borough Hall for schedule information"
+      ],
+      "contactPhone": "(201) 768-4217",
+      "contactUrl": "https://www.rockleighnj.gov"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling collected on a regular schedule.",
+      "details": [
+        "Recyclables collected weekly or bi-weekly depending on schedule",
+        "Paper, cardboard, glass, cans, and plastics accepted",
+        "Yard waste may be composted on-site due to large lot sizes",
+        "Contact Borough Hall for specific recycling schedule"
+      ],
+      "contactPhone": "(201) 768-4217",
+      "contactUrl": "https://www.rockleighnj.gov"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Some properties are served by municipal water while others rely on private wells. Septic systems are common.",
+      "details": [
+        "Municipal water service available in some areas",
+        "Many properties use private wells and septic systems",
+        "Septic systems must comply with Bergen County Health Department regulations",
+        "Well water testing required per state regulations",
+        "Contact Borough Hall for service area information"
+      ],
+      "contactPhone": "(201) 768-4217",
+      "contactUrl": "https://www.rockleighnj.gov"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board",
+        "Minimum lot sizes enforced to maintain the borough's residential character",
+        "Environmental permits may be required for properties near wetlands",
+        "Tree removal permits required in certain circumstances"
+      ],
+      "contactPhone": "(201) 768-4217",
+      "contactUrl": "https://www.rockleighnj.gov"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "As a small residential borough with no commercial district, parking regulations are minimal.",
+      "details": [
+        "Residential properties have private driveways and garages",
+        "No commercial parking facilities in the borough",
+        "Snow emergency parking regulations may apply on borough roads",
+        "No metered parking anywhere in Rockleigh"
+      ],
+      "contactPhone": "(201) 768-4217",
+      "contactUrl": "https://www.rockleighnj.gov"
+    },
+    "additionalServices": [
+      {
+        "title": "Nearby Libraries",
+        "description": "Rockleigh residents use neighboring town libraries through BCCLS reciprocal borrowing.",
+        "details": [
+          "Northvale Public Library — closest library facility",
+          "Norwood Public Library — also nearby",
+          "Bergen County Cooperative Library System (BCCLS) card honored at all member libraries",
+          "Online digital resources available through BCCLS"
+        ],
+        "contactPhone": "(201) 768-4784"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Rockleigh enforces noise regulations to preserve the borough's quiet, residential character.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 6:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 4:00 PM only",
+        "No construction noise on Sundays or federal holidays",
+        "Amplified music and loud gatherings restricted",
+        "The borough's quiet, rural character is emphasized in enforcement"
+      ],
+      "source": "Borough of Rockleigh Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their estates in good condition.",
+      "keyRules": [
+        "Properties must be maintained in a neat and orderly condition",
+        "Driveways and private roads must be maintained by property owners",
+        "Dead or hazardous trees must be removed promptly",
+        "Structures must be maintained in good repair",
+        "Fences and walls must comply with borough regulations"
+      ],
+      "source": "Borough of Rockleigh Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dog licensing and leash laws apply throughout the borough.",
+      "keyRules": [
+        "All dogs must be licensed annually with rabies vaccination proof",
+        "Dogs must be under owner control at all times",
+        "Pet waste must be managed on private property",
+        "Wildlife encounters common — pets should be supervised outdoors",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Rockleigh Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Minimal parking regulations due to the residential nature of the borough.",
+      "keyRules": [
+        "No overnight parking on borough roads",
+        "Snow emergency bans may be declared",
+        "Commercial vehicles prohibited from parking on residential streets",
+        "Vehicles must not obstruct borough roads or rights-of-way"
+      ],
+      "source": "Borough of Rockleigh Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental activity is minimal in this predominantly owner-occupied community.",
+      "keyRules": [
+        "Rental properties must comply with all borough zoning regulations",
+        "Certificate of Occupancy required for all dwelling units",
+        "Short-term rentals may be restricted under zoning",
+        "Property owner remains responsible for maintenance and code compliance"
+      ],
+      "source": "Borough of Rockleigh Code"
+    },
+    "other": [
+      {
+        "title": "Environmental and Land Use Regulations",
+        "summary": "Rockleigh has strict land use regulations to preserve its wooded, estate character.",
+        "keyRules": [
+          "Large minimum lot sizes enforced (typically 1-2 acres or more)",
+          "Tree preservation ordinances protect significant specimens",
+          "Wetlands and stream buffers must be maintained",
+          "Impervious surface coverage limits enforced",
+          "New development must preserve the natural landscape to the extent possible"
+        ],
+        "source": "Borough of Rockleigh Code / NJDEP"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Northern Valley Regional High School District (K-8 via sending arrangement)",
+    "publicSchools": [
+      {
+        "name": "Northvale Public School",
+        "grades": "K-8",
+        "rating": 7,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Rockleigh students attend Northvale Public School for elementary and middle school through a sending arrangement"
+      },
+      {
+        "name": "Northern Valley Regional High School at Demarest",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 950,
+        "type": "public",
+        "notes": "Regional high school serving Rockleigh along with Closter, Demarest, Haworth, and Norwood"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Elisabeth Morrow School (Englewood)",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 450,
+        "notes": "Prestigious independent school nearby in Englewood"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 20 minutes",
+      "Bergen Community College (Paramus) — 20 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 25 minutes",
+      "Columbia University (NYC) — accessible via Palisades Interstate Parkway"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Unparalleled privacy on large, wooded estate lots",
+      "Smallest borough in Bergen County with exclusive, close-knit community",
+      "Adjacent to Palisades Interstate Park for hiking and nature",
+      "Access to excellent Northern Valley Regional High School",
+      "Low-density zoning ensures preservation of the natural landscape"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "Drive to Palisades Interstate Parkway / Route 9W",
+      "duration": "40-60 minutes to Midtown Manhattan by car",
+      "busRoutes": ["NJ Transit Bus 9A (nearby)"],
+      "notes": "Rockleigh is car-dependent for commuting. The Palisades Interstate Parkway provides scenic highway access to the George Washington Bridge. Some residents drive to nearby NJ Transit bus stops or the Alpine Boat Basin area. There is no train station in or near the borough."
+    },
+    "costOfLiving": {
+      "summary": "Rockleigh is an affluent community with very high property values due to its large lots and exclusive character. The cost of living is well above state and national averages.",
+      "vsStateAverage": "Approximately 75% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 130% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Maximum privacy with large, wooded estate lots",
+        "Quiet, exclusive community with very low density",
+        "Beautiful natural surroundings and proximity to the Palisades",
+        "Low property tax rate (though high assessments)",
+        "Access to well-regarded Northern Valley schools"
+      ],
+      "cons": [
+        "Completely car-dependent with no public transit within the borough",
+        "No shops, restaurants, or commercial services in town",
+        "Very limited housing inventory — rarely anything available",
+        "No local schools — students must be transported to other towns",
+        "Septic and well systems require private maintenance on many properties"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "The Restaurant at The Rockleigh",
+        "description": "Upscale dining at the Rockleigh estate venue, offering refined cuisine in elegant surroundings for special occasions and events.",
+        "address": "26 Paris Avenue, Rockleigh, NJ 07647",
+        "category": "Fine Dining/Events"
+      },
+      {
+        "name": "Restaurants in Alpine/Closter (nearby)",
+        "description": "The nearby communities of Alpine and Closter offer various dining options within a short drive of Rockleigh.",
+        "address": "Alpine/Closter, NJ",
+        "category": "Various"
+      },
+      {
+        "name": "Old Tappan dining (nearby)",
+        "description": "Neighboring Old Tappan offers several restaurants and cafes easily accessible from Rockleigh.",
+        "address": "Old Tappan, NJ",
+        "category": "Various"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Palisades Interstate Park",
+        "description": "Spectacular park along the Hudson River Palisades offering hiking trails, scenic overlooks, picnic areas, and historic sites. One of the premier outdoor destinations in the region.",
+        "address": "Palisades Interstate Parkway, NJ",
+        "category": "Nature/Hiking"
+      },
+      {
+        "name": "Tallman Mountain State Park (NY)",
+        "description": "New York State park just across the border from Rockleigh with hiking trails, cross-country skiing, and Hudson River views.",
+        "address": "Route 9W, Sparkill, NY 10976",
+        "category": "Nature/State Park"
+      },
+      {
+        "name": "Rockleigh Borough Green Spaces",
+        "description": "The borough itself features extensive wooded areas and natural landscapes that contribute to its pastoral character.",
+        "address": "Rockleigh, NJ 07647",
+        "category": "Nature/Open Space"
+      }
+    ],
+    "events": [
+      {
+        "name": "Events at The Rockleigh",
+        "description": "The Rockleigh estate venue hosts weddings, galas, corporate events, and seasonal celebrations in a stunning garden setting.",
+        "when": "Year-round, by reservation"
+      },
+      {
+        "name": "Borough Community Gathering",
+        "description": "Small annual community gathering for Rockleigh residents, reflecting the borough's intimate scale.",
+        "when": "Varies annually"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "The Rockleigh",
+        "description": "Stunning event venue and estate featuring manicured gardens, elegant ballrooms, and a historic property that hosts weddings and special events.",
+        "address": "26 Paris Avenue, Rockleigh, NJ 07647",
+        "category": "Events/Venue"
+      },
+      {
+        "name": "Palisades Interstate Park — State Line Lookout",
+        "description": "Scenic overlook on the Palisades with panoramic views of the Hudson River and New York. Located along the Palisades Interstate Parkway near Rockleigh.",
+        "address": "Palisades Interstate Parkway, Alpine, NJ 07620",
+        "category": "Scenic/Nature"
+      },
+      {
+        "name": "Lamont-Doherty Earth Observatory (nearby)",
+        "description": "Columbia University's earth science research facility in Palisades, NY, just across the border. Occasionally hosts public lectures and events.",
+        "address": "61 Route 9W, Palisades, NY 10964",
+        "category": "Science/Education"
+      }
+    ],
+    "shoppingAreas": [
+      "Closter Plaza (Closter) — Nearest shopping center with grocery and retail",
+      "Northvale — Small shops and services nearby",
+      "Old Tappan — Local shops and restaurants",
+      "Garden State Plaza (Paramus) — Major regional mall, 20 minutes south"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "John Thoens",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Thomas DiRocco",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Ivette Ramirez",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Robert DeLeo",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Glenn Hess",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Thomas Worden",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Martin Seiffert",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the 3rd Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 26 Rockleigh Road, Rockleigh, NJ 07647",
+    "municipalWebsite": "https://www.rockleighnj.gov",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 768-4217",
+        "hours": "By appointment"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 768-4217",
+        "hours": "By appointment"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 768-4217",
+        "hours": "By appointment"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 768-0880",
+      "address": "26 Rockleigh Road, Rockleigh, NJ 07647"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 768-3700",
+      "address": "Northvale, NJ 07647"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 768-0880",
+      "address": "Rockleigh, NJ 07647"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Nyack Hospital (Montefiore Health System)",
+        "address": "160 North Midland Avenue, Nyack, NY 10960",
+        "phone": "(845) 348-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G / Orange & Rockland",
+        "phone": "1-800-436-7734 / 1-877-434-4100",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Private wells / Veolia Water (limited areas)",
+        "phone": "(201) 768-4217"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Private septic systems (most properties)",
+        "phone": "(201) 768-4217"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Rockleigh Police (Non-Emergency)",
+        "number": "(201) 768-0880"
+      },
+      {
+        "label": "Northvale Fire Department (serves Rockleigh)",
+        "number": "(201) 768-3700"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 768-4217"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

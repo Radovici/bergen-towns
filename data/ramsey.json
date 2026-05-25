@@ -1,0 +1,579 @@
+{
+  "meta": {
+    "slug": "ramsey",
+    "name": "Ramsey",
+    "fullName": "Borough of Ramsey",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "ramsey.info",
+    "zipCodes": ["07446"],
+    "themeColor": "#0d47a1",
+    "accentColor": "#1976d2"
+  },
+  "overview": {
+    "tagline": "A welcoming suburban borough with a vibrant Main Street and outdoor spirit",
+    "description": "Ramsey is a charming borough in northern Bergen County that blends small-town character with modern suburban living. Known for its walkable Main Street, strong community events, and proximity to the Ramapo Valley and Campgaw Mountain, Ramsey attracts families seeking excellent schools, safe neighborhoods, and easy access to both outdoor recreation and New York City. The borough also serves as the home of the Darlington County Park and several corporate headquarters.",
+    "population": 14899,
+    "populationYear": 2020,
+    "areaSqMi": 5.53,
+    "elevation": "373 ft",
+    "incorporated": "1908",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Ramsey Public Schools",
+    "highlights": [
+      "Walkable Main Street with local shops, restaurants, and cafes",
+      "Home to Campgaw Mountain Reservation for skiing and hiking",
+      "NJ Transit Pascack Valley Line and Main Line stations",
+      "Strong community with numerous annual events and festivals",
+      "Corporate hub with Konica Minolta and other major employers"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$625,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.65%",
+    "averagePropertyTax": "$13,200",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Ramsey features a diverse housing stock including colonials, split-levels, ranches, and newer construction.",
+    "recentTrends": "Ramsey's real estate market has been strong with steady price appreciation, driven by its school district, community amenities, and relative affordability compared to southern Bergen towns. Homes near the downtown and train station command premium prices. The market has seen increased demand from families relocating from more urban areas.",
+    "neighborhoodNotes": [
+      "Main Street area — Walking distance to shops, restaurants, and the train station",
+      "North Ramsey — Larger lots and newer construction near Campgaw Mountain",
+      "South Ramsey — Established neighborhoods with split-levels and ranches",
+      "Darlington area — Properties near the county park and lake",
+      "West Ramsey — Quiet residential streets near the Mahwah border"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Ramsey.",
+      "details": [
+        "Pickup occurs twice per week on designated days by zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment with the DPW",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 825-3400",
+      "contactUrl": "https://www.ramseynj.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling is collected weekly.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic #1-#7) collected weekly",
+        "Paper and cardboard collected on recycling day",
+        "Recycling bins provided by the Borough",
+        "Yard waste collected seasonally from April through December",
+        "Electronics recycling drop-off available at DPW yard"
+      ],
+      "contactPhone": "(201) 825-3400",
+      "contactUrl": "https://www.ramseynj.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by Veolia Water and sewer service is maintained by the Borough.",
+      "details": [
+        "Water supplied by Veolia Water (formerly United Water/Suez)",
+        "Sewer service maintained by the Borough DPW",
+        "Water billing handled by Veolia quarterly",
+        "Annual water quality reports available online",
+        "Emergency water line repairs available 24/7 through Veolia"
+      ],
+      "contactPhone": "(201) 825-3400",
+      "contactUrl": "https://www.ramseynj.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning approvals, and code enforcement.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available online and in person at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 825-3400",
+      "contactUrl": "https://www.ramseynj.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough operates commuter parking and downtown municipal lots.",
+      "details": [
+        "Commuter parking permits available for train station lots",
+        "Free parking available in municipal lots downtown",
+        "Metered parking along Main Street with time limits",
+        "Overnight parking restrictions on borough streets",
+        "Snow emergency parking regulations enforced"
+      ],
+      "contactPhone": "(201) 825-3400",
+      "contactUrl": "https://www.ramseynj.com"
+    },
+    "additionalServices": [
+      {
+        "title": "Ramsey Free Public Library",
+        "description": "Full-service public library offering books, digital resources, programs, and community meeting spaces.",
+        "details": [
+          "Located at 30 Wyckoff Avenue",
+          "Children's programs, teen activities, and adult book clubs",
+          "Free Wi-Fi, computer access, and meeting rooms",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 327-1445",
+        "contactUrl": "https://www.ramseylibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues including soccer, baseball, and basketball",
+          "Summer day camp programs at Finch Park",
+          "Adult fitness programs and senior activities",
+          "Community pool membership available seasonally"
+        ],
+        "contactPhone": "(201) 825-3400",
+        "contactUrl": "https://www.ramseynj.com"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Ramsey enforces noise regulations to maintain the residential character of the borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to certain hours",
+        "Loud music and gatherings subject to noise limits after 10:00 PM"
+      ],
+      "source": "Borough of Ramsey Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept at a reasonable height",
+        "Property owners responsible for sidewalk snow removal within 24 hours",
+        "Fences must not exceed 6 feet in rear yards and 4 feet in front yards",
+        "Abandoned or inoperable vehicles must be removed from property",
+        "Swimming pools must be properly fenced and maintained"
+      ],
+      "source": "Borough of Ramsey Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Ramsey requires dog licensing and enforces leash laws throughout the borough.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately by the owner",
+        "Excessive barking may result in violation notices",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Borough of Ramsey Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough.",
+      "keyRules": [
+        "No overnight parking on borough streets between 2:00 AM and 6:00 AM without permit",
+        "Snow emergency parking bans enforced — vehicles must be off-street",
+        "Commuter parking lots require valid permits",
+        "Commercial vehicles over 4 tons prohibited on residential streets",
+        "Time-limited parking in downtown zone enforced"
+      ],
+      "source": "Borough of Ramsey Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and comply with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required before occupancy",
+        "Landlords must maintain properties to housing code standards",
+        "Short-term rentals (under 30 days) are not permitted in residential zones",
+        "Inspections conducted at change of tenancy"
+      ],
+      "source": "Borough of Ramsey Code"
+    },
+    "other": [
+      {
+        "title": "Swimming Pool Regulations",
+        "summary": "Private swimming pools must comply with safety and setback requirements.",
+        "keyRules": [
+          "Pools must be enclosed by a fence at least 4 feet high with a self-closing gate",
+          "Building permit required for pool installation",
+          "Pools must meet setback requirements from property lines",
+          "Pool water discharge must not impact neighboring properties"
+        ],
+        "source": "Borough of Ramsey Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Ramsey Public Schools",
+    "publicSchools": [
+      {
+        "name": "Hubbard Elementary School",
+        "grades": "K-2",
+        "rating": 8,
+        "enrollment": 380,
+        "type": "public",
+        "notes": "Primary school serving the younger elementary students"
+      },
+      {
+        "name": "Dater Elementary School",
+        "grades": "3-5",
+        "rating": 8,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Upper elementary school for grades 3-5"
+      },
+      {
+        "name": "Eric S. Smith Middle School",
+        "grades": "6-8",
+        "rating": 8,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Middle school with strong academics and extracurricular programs"
+      },
+      {
+        "name": "Ramsey High School",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Well-regarded high school with competitive athletics and college preparatory programs"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Paul School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 220,
+        "notes": "Catholic school in the Archdiocese of Newark"
+      },
+      {
+        "name": "Don Bosco Preparatory High School",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 750,
+        "notes": "All-boys Catholic preparatory school known for strong academics and championship athletics programs"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 10 minutes",
+      "Bergen Community College (Paramus) — 20 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 25 minutes",
+      "William Paterson University (Wayne) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Strong public school district with a community-focused atmosphere",
+      "Walkable Main Street with local shops, restaurants, and services",
+      "NJ Transit train service on two lines (Main Line and Pascack Valley)",
+      "Close to Campgaw Mountain for skiing, snowboarding, and hiking",
+      "Family-oriented community with numerous annual events and activities"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Main Line / Pascack Valley Line",
+      "duration": "55-70 minutes to Hoboken or Suffern connection",
+      "trainStation": "Ramsey Station (Main Street) and Ramsey Route 17 Station",
+      "busRoutes": ["NJ Transit Bus 165"],
+      "notes": "Ramsey is served by two train stations — Ramsey on Main Street (Main Line) and Ramsey Route 17 (limited service). The Main Line runs to Hoboken Terminal. Bus 165 provides service to the Port Authority Bus Terminal. Route 17 provides highway access to the Lincoln Tunnel during off-peak hours."
+    },
+    "costOfLiving": {
+      "summary": "Ramsey offers a moderate cost of living by Bergen County standards, balancing good schools and amenities with relatively accessible home prices.",
+      "vsStateAverage": "Approximately 30% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 60% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Strong school system with dedicated community support",
+        "Charming Main Street with local character",
+        "Two NJ Transit train stations for commuter flexibility",
+        "Access to Campgaw Mountain and outdoor recreation",
+        "Active community events year-round"
+      ],
+      "cons": [
+        "Longer commute to NYC compared to southern Bergen County",
+        "Property taxes are high relative to home values",
+        "Route 17 traffic can cause congestion during peak hours",
+        "Limited public transportation options beyond the train",
+        "Some areas of the borough have older housing stock"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Cafe Amici",
+        "description": "Popular Italian restaurant serving classic pasta dishes, brick-oven pizza, and seasonal specials in a cozy setting.",
+        "address": "43 East Main Street, Ramsey, NJ 07446",
+        "category": "Italian"
+      },
+      {
+        "name": "The Station Bar & Grill",
+        "description": "Casual bar and grill near the train station offering burgers, pub fare, and a lively atmosphere.",
+        "address": "5 West Main Street, Ramsey, NJ 07446",
+        "category": "American/Pub"
+      },
+      {
+        "name": "Sakura Japanese Restaurant",
+        "description": "Japanese restaurant offering fresh sushi, sashimi, and traditional Japanese cuisine.",
+        "address": "19 North Central Avenue, Ramsey, NJ 07446",
+        "category": "Japanese/Sushi"
+      },
+      {
+        "name": "Ramsey Tap House",
+        "description": "Craft beer-focused gastropub with a rotating selection of taps and upscale pub food.",
+        "address": "31 West Main Street, Ramsey, NJ 07446",
+        "category": "Gastropub"
+      },
+      {
+        "name": "Suburbia Diner",
+        "description": "Classic New Jersey diner with an extensive menu serving breakfast all day, plus lunch and dinner favorites.",
+        "address": "Route 17 South, Ramsey, NJ 07446",
+        "category": "American/Diner"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Campgaw Mountain Reservation",
+        "description": "Bergen County park featuring ski slopes, hiking trails, disc golf, and mountain biking. The only ski area in Bergen County.",
+        "address": "200 Campgaw Road, Mahwah, NJ 07430",
+        "category": "Skiing/Hiking/Recreation"
+      },
+      {
+        "name": "Finch Park",
+        "description": "Borough's primary recreation park with baseball fields, soccer fields, tennis courts, a playground, and a community pool.",
+        "address": "Finch Street, Ramsey, NJ 07446",
+        "category": "Sports/Recreation"
+      },
+      {
+        "name": "Ramsey Reservoir & Hiking Trails",
+        "description": "Scenic reservoir area with walking and hiking trails through wooded areas, popular with joggers and nature enthusiasts.",
+        "address": "North Central Avenue, Ramsey, NJ 07446",
+        "category": "Nature/Hiking"
+      },
+      {
+        "name": "Valley Social Park",
+        "description": "Neighborhood park with picnic areas, playground equipment, and open green space.",
+        "address": "Valley Road, Ramsey, NJ 07446",
+        "category": "Park/Playground"
+      }
+    ],
+    "events": [
+      {
+        "name": "Ramsey Day",
+        "description": "Annual borough-wide celebration featuring live music, food vendors, carnival rides, craft booths, and fireworks.",
+        "when": "September, typically the second Saturday"
+      },
+      {
+        "name": "Ramsey Farmers Market",
+        "description": "Weekly outdoor market offering fresh produce, baked goods, artisan foods, and locally made products.",
+        "when": "Sundays, June through November"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual parade through downtown Ramsey honoring veterans, featuring local organizations, scouts, and marching bands.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Holiday Tree Lighting & Santa Visit",
+        "description": "Annual holiday celebration on Main Street with tree lighting, caroling, hot cocoa, and a visit from Santa.",
+        "when": "December, first Saturday"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Main Street Ramsey",
+        "description": "Walkable downtown strip with independently owned shops, restaurants, and services giving the borough its small-town charm.",
+        "address": "Main Street, Ramsey, NJ 07446",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Campgaw Mountain Reservation",
+        "description": "Year-round outdoor recreation area offering skiing and snowboarding in winter, hiking and mountain biking in warmer months.",
+        "address": "200 Campgaw Road, Mahwah, NJ 07430",
+        "category": "Outdoor Recreation"
+      },
+      {
+        "name": "Old Stone House (Historical)",
+        "description": "Historic stone house dating to the colonial era, preserved as a local landmark reflecting Ramsey's early history.",
+        "address": "Ramsey, NJ 07446",
+        "category": "Historic Site"
+      }
+    ],
+    "shoppingAreas": [
+      "Main Street — Local shops, cafes, and services in the downtown core",
+      "Interstate Shopping Center (Route 17) — Major retail and shopping",
+      "Ramsey Square — Small shopping plaza with convenience stores and services",
+      "Garden State Plaza (Paramus) — Major regional mall nearby"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Deirdre Bolger",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Harry Weber",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Vanessa Jachzel",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Ken Tyburczy",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Lars Ortiz",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Michael Gutwetter",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Thomas Verdeal",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the 2nd and 4th Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 33 North Central Avenue, Ramsey, NJ 07446",
+    "municipalWebsite": "https://www.ramseynj.com",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator",
+        "phone": "(201) 825-3400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 825-3400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 825-3400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 825-3400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 825-3400",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-2400",
+      "address": "25 North Central Avenue, Ramsey, NJ 07446"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-0706",
+      "address": "10 North Central Avenue, Ramsey, NJ 07446"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-2400",
+      "address": "Ramsey, NJ 07446"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "address": "255 Lafayette Avenue, Suffern, NY 10901",
+        "phone": "(845) 368-5000",
+        "distanceMiles": 6
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "1-800-422-5987",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Ramsey DPW",
+        "phone": "(201) 825-3400"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Ramsey Police (Non-Emergency)",
+        "number": "(201) 327-2400"
+      },
+      {
+        "label": "Ramsey Fire Department",
+        "number": "(201) 327-0706"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 825-3400"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

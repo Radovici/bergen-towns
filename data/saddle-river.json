@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "slug": "saddle-river",
+    "name": "Saddle River",
+    "fullName": "Borough of Saddle River",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "saddle-river.info",
+    "zipCodes": ["07458"],
+    "themeColor": "#1a237e",
+    "accentColor": "#3949ab"
+  },
+  "overview": {
+    "tagline": "An exclusive estate community of rolling hills, horse farms, and timeless elegance",
+    "description": "The Borough of Saddle River is one of Bergen County's most prestigious and affluent communities. Known for its expansive estate properties, equestrian culture, and strict two-acre minimum lot zoning, Saddle River maintains a rural, pastoral character that is unique among northern New Jersey suburbs. Home to prominent business leaders, celebrities, and professionals, the borough offers unmatched privacy and natural beauty just 25 miles from Midtown Manhattan.",
+    "population": 3549,
+    "populationYear": 2020,
+    "areaSqMi": 4.98,
+    "elevation": "150 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Saddle River Public Schools / Ramsey High School (sending district)",
+    "highlights": [
+      "Two-acre minimum lot zoning preserves estate-like character",
+      "Equestrian-friendly community with horse farms and bridle paths",
+      "One of the wealthiest communities in the United States",
+      "Scenic Saddle River running through the borough",
+      "Exceptional privacy within 25 miles of Manhattan"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$2,200,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "1.85%",
+    "averagePropertyTax": "$32,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Due to the high value and unique nature of Saddle River estates, individual assessments can vary significantly.",
+    "recentTrends": "Saddle River's luxury market has seen renewed interest as affluent buyers seek privacy and space. Properties range from $1.5 million to well over $10 million, with significant variation based on lot size, home condition, and amenities. The market moves slowly due to limited inventory and the exclusive nature of the community.",
+    "neighborhoodNotes": [
+      "East Saddle River Road — Grand estates along the main thoroughfare",
+      "West Saddle River Road — Secluded properties with wooded lots",
+      "Chestnut Ridge Road area — Elevated properties with panoramic views",
+      "Woodcliff area — Homes near the Woodcliff Lake border",
+      "Northern section — Horse farms and large rural estates"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Private trash collection is arranged by individual homeowners in Saddle River. The borough does not provide municipal trash service.",
+      "details": [
+        "Homeowners contract with private haulers for trash collection",
+        "Several licensed haulers serve the borough",
+        "Collection schedules vary by private provider",
+        "Bulk item removal arranged directly with haulers",
+        "Borough recycling drop-off available at the DPW yard"
+      ],
+      "contactPhone": "(201) 327-2609",
+      "contactUrl": "https://www.saddleriver.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling services are available through both private haulers and the municipal recycling depot.",
+      "details": [
+        "Municipal recycling depot available for residents",
+        "Private haulers also collect recyclables",
+        "Yard waste must be composted on-site or removed by private haulers",
+        "Electronics and hazardous waste handled through Bergen County programs",
+        "Leaf collection conducted by DPW in autumn months"
+      ],
+      "contactPhone": "(201) 327-2609",
+      "contactUrl": "https://www.saddleriver.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Most Saddle River properties use private wells and septic systems. Some areas are served by public water from Veolia Water.",
+      "details": [
+        "Many properties rely on private wells for water supply",
+        "Septic systems are standard for most homes; no municipal sewer system",
+        "Properties with well water must conduct regular testing",
+        "Septic systems must be inspected and pumped regularly",
+        "Some newer developments may have public water connections"
+      ],
+      "contactPhone": "(201) 327-2609",
+      "contactUrl": "https://www.saddleriver.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department oversees construction permits and zoning compliance, with particular attention to preserving the borough's estate character.",
+      "details": [
+        "Building permits required for all construction and major renovations",
+        "Strict two-acre minimum zoning enforced throughout the borough",
+        "Environmental review required for projects near wetlands or waterways",
+        "Historical and architectural review for significant changes",
+        "Tree removal permits required for mature trees"
+      ],
+      "contactPhone": "(201) 327-2609",
+      "contactUrl": "https://www.saddleriver.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking in Saddle River is primarily on private property. The borough has minimal public parking facilities given its residential estate character.",
+      "details": [
+        "No metered or commercial parking areas in the borough",
+        "Street parking is prohibited on most borough roads",
+        "Residents park on their own properties",
+        "Visitor parking at Borough Hall for municipal business",
+        "Snow emergency parking restrictions apply"
+      ],
+      "contactPhone": "(201) 327-2100",
+      "contactUrl": "https://www.saddleriver.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Saddle River Public Library",
+        "description": "Small community library offering personalized service and programs.",
+        "details": [
+          "Located within Borough Hall complex",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Children's story hours and reading programs",
+          "Community meeting space available"
+        ],
+        "contactPhone": "(201) 327-4777",
+        "contactUrl": "https://www.saddleriverlibrary.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Saddle River maintains strict noise regulations to preserve the quiet, rural character of the community.",
+      "keyRules": [
+        "Construction noise prohibited before 8:00 AM and after 6:00 PM on weekdays",
+        "Saturday construction allowed 9:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to specific hours",
+        "Generator noise and other mechanical equipment must meet decibel limits"
+      ],
+      "source": "Borough of Saddle River Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain the appearance and condition of their estate properties.",
+      "keyRules": [
+        "Properties must be maintained in good condition and neat appearance",
+        "Property owners responsible for maintaining road frontage and drainage",
+        "Dead or hazardous trees must be removed by property owners",
+        "Fences and walls must be maintained and comply with zoning setbacks",
+        "No storage of commercial equipment or materials on residential lots"
+      ],
+      "source": "Borough of Saddle River Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Saddle River permits horses and farm animals in addition to standard household pets, reflecting its equestrian heritage.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed or under voice control on public property",
+        "Horses permitted on properties meeting minimum lot size requirements",
+        "Farm animals such as chickens may be permitted with proper setbacks",
+        "Pet waste must be removed from public areas and neighboring properties"
+      ],
+      "source": "Borough of Saddle River Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is restricted on borough roads to maintain safety and the rural character of the community.",
+      "keyRules": [
+        "No parking on most borough roads at any time",
+        "Construction vehicles must park on the property being worked on",
+        "Snow emergency parking bans strictly enforced",
+        "No commercial vehicles parked on residential properties overnight",
+        "All vehicles must be registered and operable"
+      ],
+      "source": "Borough of Saddle River Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental of residential properties in Saddle River is subject to zoning and code requirements.",
+      "keyRules": [
+        "Long-term rentals permitted in residential zones",
+        "Short-term rentals (under 30 days) are generally not permitted",
+        "Accessory apartments or in-law suites must comply with zoning",
+        "Rental properties must meet all building and safety codes",
+        "No subdivision of single-family properties for multiple rental units"
+      ],
+      "source": "Borough of Saddle River Code"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Saddle River has strong tree preservation ordinances protecting the borough's wooded character.",
+        "keyRules": [
+          "Permit required to remove trees above a specified caliper on private property",
+          "Replacement planting may be required when significant trees are removed",
+          "Environmental impact review for major tree removal projects",
+          "Protection of trees near waterways and wetlands is mandatory"
+        ],
+        "source": "Borough of Saddle River Code"
+      },
+      {
+        "title": "Equestrian Regulations",
+        "summary": "The borough supports equestrian use with specific regulations for horse keeping and riding.",
+        "keyRules": [
+          "Horses permitted on properties with adequate acreage",
+          "Stable and paddock setbacks must meet zoning requirements",
+          "Manure management plans may be required",
+          "Riding on designated bridle paths and private property is permitted"
+        ],
+        "source": "Borough of Saddle River Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Saddle River Public Schools (K-8) / Ramsey High School (9-12, sending district)",
+    "publicSchools": [
+      {
+        "name": "Wandell School",
+        "grades": "K-8",
+        "rating": 8,
+        "enrollment": 250,
+        "type": "public",
+        "notes": "The only public school in Saddle River; small class sizes and personalized education. Students attend Ramsey High School for grades 9-12."
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Saddle River Day School",
+        "grades": "PreK-12",
+        "type": "private",
+        "enrollment": 350,
+        "notes": "Independent college-preparatory school known for innovative curriculum and small class sizes"
+      },
+      {
+        "name": "The Christian Health Care Center (Academy)",
+        "grades": "Various",
+        "type": "private",
+        "notes": "Faith-based educational programs within the Christian Health Care campus"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 20 minutes",
+      "William Paterson University (Wayne) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Exceptional privacy with two-acre minimum lot zoning",
+      "Prestigious address in one of America's wealthiest communities",
+      "Equestrian-friendly environment with horse farms and bridle paths",
+      "Beautiful natural setting with mature trees and rolling terrain",
+      "Low-density living within easy reach of New York City",
+      "Excellent schools and safe, peaceful community"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Drive to rail station",
+      "duration": "50-75 minutes to Midtown Manhattan",
+      "busRoutes": ["NJ Transit Bus 165"],
+      "notes": "Saddle River residents typically drive to nearby NJ Transit stations (Ramsey Route 17, Allendale, or Waldwick) for train service on the Main/Bergen County Line to Hoboken, or use bus service. Many residents drive to Manhattan directly via Route 17 to I-80 or the Garden State Parkway. The commute ranges from 50-75 minutes depending on method and traffic."
+    },
+    "costOfLiving": {
+      "summary": "Saddle River is among the most expensive communities in New Jersey, with luxury home prices and property taxes reflecting the estate-like character of the borough.",
+      "vsStateAverage": "Approximately 150% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 250% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Unparalleled privacy and seclusion in a luxury setting",
+        "Estate-sized properties on wooded, scenic lots",
+        "Equestrian lifestyle opportunities",
+        "Very low crime rate and tight-knit community",
+        "Strong property values in a highly exclusive market"
+      ],
+      "cons": [
+        "Extremely high home prices — entry point above $1.5 million",
+        "Very high property taxes on large estates",
+        "No walkable town center, shops, or restaurants",
+        "Limited public transportation — car-dependent living",
+        "Private well and septic systems require maintenance"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Saddle River Inn",
+        "description": "Acclaimed fine dining restaurant set in a beautifully restored barn, offering contemporary French-American cuisine and an extensive wine list.",
+        "address": "2 Barnstable Court, Saddle River, NJ 07458",
+        "category": "French-American/Fine Dining"
+      },
+      {
+        "name": "Saddle River Cafe",
+        "description": "Casual neighborhood cafe serving breakfast, lunch, and baked goods in a welcoming setting.",
+        "address": "East Allendale Road, Saddle River, NJ 07458",
+        "category": "Cafe/Breakfast"
+      },
+      {
+        "name": "Biagio's Ristorante (nearby)",
+        "description": "Upscale Italian restaurant just across the border in Paramus, popular with Saddle River residents.",
+        "address": "299 Paramus Road, Paramus, NJ 07652",
+        "category": "Italian/Fine Dining"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Saddle River County Park",
+        "description": "Major Bergen County park following the Saddle River through multiple municipalities. The Saddle River section features walking trails, open fields, and peaceful river views.",
+        "address": "East Allendale Road, Saddle River, NJ 07458",
+        "category": "County Park/Nature"
+      },
+      {
+        "name": "Borough Park",
+        "description": "Small municipal park adjacent to Borough Hall with a playground and open space for community gatherings.",
+        "address": "East Allendale Road, Saddle River, NJ 07458",
+        "category": "Park/Recreation"
+      },
+      {
+        "name": "Waterfall at Saddle River",
+        "description": "Scenic natural waterfall along the Saddle River, a hidden gem and popular walking destination.",
+        "address": "Saddle River, NJ 07458",
+        "category": "Nature/Scenic"
+      }
+    ],
+    "events": [
+      {
+        "name": "Saddle River Day",
+        "description": "Annual community celebration with activities, food, and entertainment for residents and families.",
+        "when": "Fall, typically September or October"
+      },
+      {
+        "name": "Holiday Celebration",
+        "description": "Borough-wide holiday event with tree lighting and seasonal festivities.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Saddle River Inn",
+        "description": "Award-winning restaurant housed in a historic barn, drawing diners from across the region for its exceptional cuisine and ambiance.",
+        "address": "2 Barnstable Court, Saddle River, NJ 07458",
+        "category": "Dining/Historic"
+      },
+      {
+        "name": "Saddle River Scenic Roads",
+        "description": "The winding roads through Saddle River's estate properties offer beautiful drives through wooded landscapes, especially in autumn when the foliage is at its peak.",
+        "category": "Scenic Drive"
+      }
+    ],
+    "shoppingAreas": [
+      "East Allendale Road — Limited local retail",
+      "Ramsey Main Street — Nearby shopping and dining",
+      "Westwood downtown — Shops and restaurants a short drive away",
+      "Garden State Plaza (Paramus) — Major shopping center 15 minutes south"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Gary Diehl",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Ron Eckrich",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Peter Busch",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Joan Hoyler",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Scott Greenwood",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Thomas Harper",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Paul Longo",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd Monday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 100 East Allendale Road, Saddle River, NJ 07458",
+    "municipalWebsite": "https://www.saddleriver.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 327-2609",
+        "hours": "Monday-Friday 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 327-2609",
+        "hours": "Monday-Friday 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 327-2609",
+        "hours": "Monday-Friday 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 327-1975",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-2100",
+      "address": "100 East Allendale Road, Saddle River, NJ 07458"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-0720",
+      "address": "East Allendale Road, Saddle River, NJ 07458"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-2100",
+      "address": "Saddle River, NJ 07458"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 12
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Private wells / Veolia Water (some areas)",
+        "phone": "1-800-422-5987"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Private septic systems",
+        "phone": "(201) 327-2609"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Saddle River Police (Non-Emergency)",
+        "number": "(201) 327-2100"
+      },
+      {
+        "label": "Saddle River Fire Department",
+        "number": "(201) 327-0720"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 327-2609"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

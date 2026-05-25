@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "slug": "upper-saddle-river",
+    "name": "Upper Saddle River",
+    "fullName": "Borough of Upper Saddle River",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "upper-saddle-river.info",
+    "zipCodes": ["07458"],
+    "themeColor": "#004d40",
+    "accentColor": "#00796b"
+  },
+  "overview": {
+    "tagline": "An upscale residential community set among wooded hills and pristine open space",
+    "description": "The Borough of Upper Saddle River is an affluent residential community in northwestern Bergen County, known for its large-lot zoning, wooded landscapes, and top-rated schools. With a one-acre minimum lot size and strict preservation of open space, the borough maintains a semi-rural character that attracts families seeking privacy, nature, and excellent education. Upper Saddle River is home to the renowned Northern Highlands Regional High School district.",
+    "population": 8255,
+    "populationYear": 2020,
+    "areaSqMi": 5.33,
+    "elevation": "265 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Upper Saddle River Public Schools / Northern Highlands Regional High School",
+    "highlights": [
+      "Top-rated Northern Highlands Regional High School",
+      "One-acre minimum lot zoning preserves spacious, wooded character",
+      "Significant protected open space and nature preserves",
+      "Low-density residential community with excellent schools",
+      "Scenic setting with rolling hills and mature trees"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$1,100,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.25%",
+    "averagePropertyTax": "$22,000",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Upper Saddle River's one-acre minimum lot zoning and high-quality housing stock result in assessments that reflect the premium nature of the community.",
+    "recentTrends": "Upper Saddle River's real estate market remains strong, driven by demand for top-rated schools and spacious properties. Homes typically range from $800,000 to over $3 million, with newer construction and homes on larger lots commanding premium prices. Inventory is limited, keeping the market competitive.",
+    "neighborhoodNotes": [
+      "West Saddle River Road — Established estates with large lots and mature landscaping",
+      "Lake Street area — Properties near natural areas and open space",
+      "Pleasant Avenue section — Well-maintained homes with a community feel",
+      "East Saddle River Road — Mix of classic and newer construction homes",
+      "Northern section — Larger properties bordering Mahwah"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided weekly by a contracted hauler for all residential properties.",
+      "details": [
+        "Weekly trash collection on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 327-2196",
+      "contactUrl": "https://www.usrnj.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a regular schedule for all residential properties.",
+      "details": [
+        "Commingled recyclables collected on designated recycling days",
+        "Paper and cardboard collected separately",
+        "Yard waste collected seasonally by DPW",
+        "Recycling depot available at the DPW yard",
+        "Electronics recycling through Bergen County programs"
+      ],
+      "contactPhone": "(201) 327-2196",
+      "contactUrl": "https://www.usrnj.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water and sewer service is provided by the borough.",
+      "details": [
+        "Water supplied by Veolia Water New Jersey",
+        "Sewer service maintained by the Borough DPW",
+        "Quarterly billing for water and sewer",
+        "Water quality reports published annually",
+        "Some properties in remote areas may have private wells"
+      ],
+      "contactPhone": "(201) 327-2196",
+      "contactUrl": "https://www.usrnj.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits and zoning compliance.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Strict zoning enforcement including one-acre minimum lot size",
+        "Environmental review for projects near wetlands or waterways",
+        "Tree removal permits required for significant trees",
+        "Inspections scheduled through the Building Department"
+      ],
+      "contactPhone": "(201) 327-2196",
+      "contactUrl": "https://www.usrnj.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking in Upper Saddle River is primarily on private property, with limited public parking at borough facilities.",
+      "details": [
+        "No metered parking in the borough",
+        "Parking available at Borough Hall and community buildings",
+        "Street parking limited on most borough roads",
+        "Snow emergency parking bans enforced",
+        "Overnight parking restrictions may apply"
+      ],
+      "contactPhone": "(201) 327-0187",
+      "contactUrl": "https://www.usrnj.com"
+    },
+    "additionalServices": [
+      {
+        "title": "Upper Saddle River Public Library",
+        "description": "Community library offering books, digital resources, and programs.",
+        "details": [
+          "Located at 245 Lake Street",
+          "Children's programs, teen events, and adult book clubs",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Community meeting room available"
+        ],
+        "contactPhone": "(201) 327-2583",
+        "contactUrl": "https://www.usrlibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for borough residents.",
+        "details": [
+          "Youth sports leagues and summer camps",
+          "Adult and senior programs",
+          "Community events and holiday celebrations",
+          "Facilities at borough parks and fields"
+        ],
+        "contactPhone": "(201) 327-2196",
+        "contactUrl": "https://www.usrnj.com"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Upper Saddle River enforces strict noise regulations to maintain the quiet, residential character of the community.",
+      "keyRules": [
+        "Construction noise prohibited before 7:30 AM and after 6:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted to certain hours",
+        "Generator and mechanical equipment noise must comply with decibel limits"
+      ],
+      "source": "Borough of Upper Saddle River Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in keeping with the borough's residential standards.",
+      "keyRules": [
+        "Lawns and grounds must be maintained in neat condition",
+        "Property owners responsible for snow removal on sidewalks and driveways",
+        "Fences must comply with zoning setback and height requirements",
+        "Dead or hazardous trees must be removed",
+        "No storage of commercial vehicles or equipment on residential lots"
+      ],
+      "source": "Borough of Upper Saddle River Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Upper Saddle River requires dog licensing and enforces animal control regulations.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed or under owner's control on public property",
+        "Pet waste must be picked up from public areas",
+        "Kennels and breeding operations subject to zoning restrictions",
+        "Wildlife feeding prohibited except for bird feeders"
+      ],
+      "source": "Borough of Upper Saddle River Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is restricted on borough roads to maintain safety.",
+      "keyRules": [
+        "No parking on many borough roads during specified hours",
+        "Snow emergency parking bans enforced",
+        "No commercial vehicles parked on residential properties visible from the road",
+        "Construction vehicles must park on work site property",
+        "All vehicles must be registered and in operable condition"
+      ],
+      "source": "Borough of Upper Saddle River Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental of single-family homes is subject to borough zoning and code requirements.",
+      "keyRules": [
+        "Rental properties must meet all building and safety codes",
+        "Short-term rentals are generally not permitted in residential zones",
+        "Accessory apartments subject to strict zoning approval",
+        "No subdivision of single-family lots for multiple units",
+        "Landlords must maintain properties to code standards"
+      ],
+      "source": "Borough of Upper Saddle River Code"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Upper Saddle River has strong tree preservation ordinances to protect its wooded character.",
+        "keyRules": [
+          "Permit required to remove trees over a specified caliper",
+          "Replacement planting required when significant trees are removed",
+          "Environmental Commission reviews tree removal applications",
+          "Protection of trees near waterways and wetlands is mandatory"
+        ],
+        "source": "Borough of Upper Saddle River Code"
+      },
+      {
+        "title": "Open Space Preservation",
+        "summary": "The borough actively preserves open space to maintain its natural character.",
+        "keyRules": [
+          "Open space trust fund supports land acquisition and preservation",
+          "Conservation easements encouraged on large properties",
+          "Cluster development may be allowed to preserve natural areas",
+          "Wetland buffer zones strictly enforced"
+        ],
+        "source": "Borough of Upper Saddle River Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Upper Saddle River Public Schools (K-8) / Northern Highlands Regional High School (9-12)",
+    "publicSchools": [
+      {
+        "name": "Bogert Elementary School",
+        "grades": "K-4",
+        "rating": 8,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Elementary school serving the borough with strong academics and enrichment programs"
+      },
+      {
+        "name": "Cavallini Middle School",
+        "grades": "5-8",
+        "rating": 8,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Middle school known for rigorous academics and extracurricular opportunities"
+      },
+      {
+        "name": "Northern Highlands Regional High School",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 1200,
+        "type": "public",
+        "notes": "Highly rated regional high school serving Upper Saddle River and Allendale; consistently ranked among NJ's top public high schools"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Saddle River Day School",
+        "grades": "PreK-12",
+        "type": "private",
+        "enrollment": 350,
+        "notes": "Independent college-preparatory school located in nearby Saddle River"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 10 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 25 minutes",
+      "William Paterson University (Wayne) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-rated Northern Highlands Regional High School",
+      "Spacious properties with one-acre minimum lots",
+      "Beautiful wooded setting with extensive open space preservation",
+      "Safe, family-oriented community with low crime",
+      "Strong property values and well-maintained neighborhoods",
+      "Proximity to nature preserves and outdoor recreation"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Drive to train station",
+      "duration": "55-80 minutes to Midtown Manhattan",
+      "trainStation": "Ramsey Route 17 Station or Allendale Station (nearby)",
+      "busRoutes": ["NJ Transit Bus 165"],
+      "notes": "Upper Saddle River residents typically drive to nearby NJ Transit stations in Ramsey or Allendale for Main/Bergen County Line train service to Hoboken. Bus service via Route 165 is also available. The commute to Manhattan ranges from 55-80 minutes depending on mode and traffic conditions."
+    },
+    "costOfLiving": {
+      "summary": "Upper Saddle River is an affluent community with a high cost of living driven primarily by housing costs. The community offers excellent value for families prioritizing top schools and a spacious lifestyle.",
+      "vsStateAverage": "Approximately 70% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 120% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Outstanding public schools culminating in Northern Highlands High School",
+        "Large lots with wooded, private settings",
+        "Significant preserved open space and natural beauty",
+        "Very safe community with strong property values",
+        "Active recreation programs and community events"
+      ],
+      "cons": [
+        "High home prices with limited inventory",
+        "High property taxes typical of Bergen County",
+        "Car-dependent — no walkable commercial district",
+        "Longer commute to NYC compared to southern Bergen towns",
+        "Limited dining and entertainment options within the borough"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Biagio's Ristorante",
+        "description": "Upscale Italian dining popular with Upper Saddle River residents, located just south of the borough.",
+        "address": "299 Paramus Road, Paramus, NJ 07652",
+        "category": "Italian/Fine Dining"
+      },
+      {
+        "name": "The Brick House",
+        "description": "American restaurant and bar offering craft cocktails, creative American fare, and a lively atmosphere in nearby Wyckoff.",
+        "address": "179 Godwin Avenue, Wyckoff, NJ 07481",
+        "category": "American/Bar"
+      },
+      {
+        "name": "Esty Street",
+        "description": "Contemporary farm-to-table restaurant in nearby Park Ridge offering seasonal menus and craft cocktails.",
+        "address": "Park Avenue, Park Ridge, NJ 07656",
+        "category": "American/Farm-to-Table"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Hopper Farm Park",
+        "description": "Borough park on preserved farmland featuring trails, open fields, and picnic areas with a connection to the community's agricultural heritage.",
+        "address": "Lake Street, Upper Saddle River, NJ 07458",
+        "category": "Park/Historic"
+      },
+      {
+        "name": "Saddle River County Park — Wild Duck Pond Area",
+        "description": "Bergen County park section with a scenic pond, walking trails, and wildlife observation opportunities.",
+        "address": "East Saddle River Road, Upper Saddle River, NJ 07458",
+        "category": "County Park/Nature"
+      },
+      {
+        "name": "Bear Brook Park",
+        "description": "Quiet borough park with wooded trails, a stream, and natural areas for exploration.",
+        "address": "Upper Saddle River, NJ 07458",
+        "category": "Nature/Trail"
+      },
+      {
+        "name": "Borough Fields and Recreation Area",
+        "description": "Community sports fields and playground facilities used for youth sports and recreation programs.",
+        "address": "West Saddle River Road, Upper Saddle River, NJ 07458",
+        "category": "Sports/Recreation"
+      }
+    ],
+    "events": [
+      {
+        "name": "Upper Saddle River Day",
+        "description": "Annual community celebration with food, games, live music, and activities for families.",
+        "when": "Fall, typically September"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Annual ceremony honoring veterans and fallen service members at the borough memorial.",
+        "when": "Memorial Day, last Monday in May"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community holiday celebration with tree lighting, caroling, and refreshments.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Preserved Open Spaces",
+        "description": "Upper Saddle River boasts hundreds of acres of preserved open space, wetlands, and nature areas, making it ideal for hiking, bird watching, and nature photography.",
+        "category": "Nature/Conservation"
+      },
+      {
+        "name": "Historic Hopper-Goetschius House Museum",
+        "description": "Historic Dutch Colonial stone house dating to the 18th century, preserved as a museum showcasing local history.",
+        "address": "East Saddle River Road, Upper Saddle River, NJ 07458",
+        "category": "Historic/Museum"
+      }
+    ],
+    "shoppingAreas": [
+      "Ramsey Main Street — Nearby dining and shops",
+      "Allendale downtown — Small shops and restaurants",
+      "Wyckoff shopping — Boutiques and dining along Franklin Avenue",
+      "Westwood downtown — Shops and restaurants"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Joanne Minichetti",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Len Berardo",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Jeff Derian",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "John Laumbach",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Anthony Durante",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Jason Miller",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Diane Criscuolo",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Monday of each month at 7:30 PM",
+    "meetingLocation": "Borough Hall, 376 West Saddle River Road, Upper Saddle River, NJ 07458",
+    "municipalWebsite": "https://www.usrnj.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 327-2196",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 327-2196",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 327-2196",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 327-3560",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 327-2196",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-0187",
+      "address": "376 West Saddle River Road, Upper Saddle River, NJ 07458"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-0854",
+      "address": "West Saddle River Road, Upper Saddle River, NJ 07458"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 327-0187",
+      "address": "Upper Saddle River, NJ 07458"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 15
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water / Suez",
+        "phone": "1-800-422-5987",
+        "url": "https://www.mysuezwater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Upper Saddle River DPW",
+        "phone": "(201) 327-3560"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Upper Saddle River Police (Non-Emergency)",
+        "number": "(201) 327-0187"
+      },
+      {
+        "label": "Upper Saddle River Fire Department",
+        "number": "(201) 327-0854"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 327-2196"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

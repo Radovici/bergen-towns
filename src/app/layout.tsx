@@ -4,6 +4,7 @@ import { getTownData } from "@/lib/towns";
 import Header from "@/components/Header";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import NeighborLinks from "@/components/NeighborLinks";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -41,7 +42,10 @@ export default async function RootLayout({
       <body className={`${geistSans.variable} font-sans antialiased`}>
         <Header town={town.meta} />
         <Nav townName={town.meta.name} />
-        <main className="max-w-6xl mx-auto px-4 py-8">{children}</main>
+        <main className="max-w-6xl mx-auto px-4 py-8">
+          <NeighborLinks currentSlug={town.meta.slug} />
+          {children}
+        </main>
         <Footer town={town.meta} />
       </body>
     </html>

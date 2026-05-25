@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "slug": "alpine",
+    "name": "Alpine",
+    "fullName": "Borough of Alpine",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "alpine.info",
+    "zipCodes": ["07620"],
+    "themeColor": "#2d6a4f",
+    "accentColor": "#52b788"
+  },
+  "overview": {
+    "tagline": "Bergen County's most exclusive enclave atop the Palisades",
+    "description": "Alpine is a small, affluent borough perched atop the Palisades cliffs overlooking the Hudson River. Known as one of the wealthiest communities in the United States, Alpine features sprawling estates on large wooded lots, offering privacy and natural beauty just minutes from Manhattan. The borough is home to a section of the Palisades Interstate Park and has attracted numerous celebrities and business leaders.",
+    "population": 1762,
+    "populationYear": 2020,
+    "areaSqMi": 6.28,
+    "elevation": "500 ft (Palisades ridge) to near sea level at river",
+    "incorporated": "1903",
+    "governmentType": "Borough (Walsh Act)",
+    "schoolDistrict": "Alpine School District",
+    "highlights": [
+      "One of the wealthiest zip codes in the United States",
+      "Home to a major section of Palisades Interstate Park",
+      "Dramatic Hudson River and NYC skyline views from the cliffs",
+      "Large estate-style properties on multi-acre lots",
+      "Rich history dating to early Dutch settlement"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$3,200,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "1.85%",
+    "averagePropertyTax": "$42,000",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Alpine's large estate lots and unique properties make valuations highly individual.",
+    "recentTrends": "Alpine's luxury real estate market remains robust, with demand driven by buyers seeking privacy, large lots, and proximity to NYC. Teardowns and new construction of modern mansions are common. Properties routinely sell in the multi-million dollar range.",
+    "neighborhoodNotes": [
+      "Closter Dock Road area features many of the borough's largest estates",
+      "Properties along the Palisades ridge command premium prices for Hudson River views",
+      "The western section near Closter offers slightly more modest homes",
+      "Minimum lot sizes help preserve the borough's rural, estate-like character"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly through the borough's contracted hauler.",
+      "details": [
+        "Collection days are Tuesday and Friday",
+        "Trash must be in sealed bags or covered containers",
+        "Maximum weight per container is 50 lbs",
+        "Bulk item pickup available by appointment with DPW"
+      ],
+      "contactPhone": "201-784-2900",
+      "contactUrl": "https://www.alpinenj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly as part of the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables collected in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags or Styrofoam accepted",
+        "Yard waste collection available seasonally"
+      ],
+      "contactPhone": "201-784-2900",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by Suez Water (Veolia). Many properties in Alpine use private septic systems.",
+      "details": [
+        "Water bills are issued quarterly",
+        "Many homes rely on septic systems rather than municipal sewer",
+        "Septic systems must be inspected and maintained per borough code",
+        "Contact Veolia for water service issues"
+      ],
+      "contactPhone": "201-784-2900",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Alpine Building Department handles all construction and zoning permits.",
+      "details": [
+        "Permits required for all construction, renovation, and tree removal",
+        "Strict zoning regulations protect the borough's residential character",
+        "Environmental permits may be required near Palisades cliffs",
+        "Applications submitted at Borough Hall"
+      ],
+      "contactPhone": "201-784-2900"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Alpine is a residential community with limited commercial parking needs.",
+      "details": [
+        "No municipal parking lots or meters",
+        "On-street parking restrictions apply on certain roads",
+        "Palisades Interstate Park has its own parking areas",
+        "Commuter parking is available in neighboring Closter"
+      ],
+      "contactPhone": "201-784-2900"
+    },
+    "additionalServices": [
+      {
+        "title": "Leaf & Brush Collection",
+        "description": "Seasonal collection of leaves and brush by the DPW.",
+        "details": [
+          "Fall leaf collection runs October through December",
+          "Brush must be cut to 4-foot lengths and bundled",
+          "No contractor debris accepted in municipal pickup"
+        ],
+        "contactPhone": "201-784-2900"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Alpine enforces noise regulations to maintain the borough's quiet, residential character.",
+      "keyRules": [
+        "Construction noise prohibited before 8:00 AM and after 6:00 PM weekdays",
+        "No construction noise on Sundays or federal holidays",
+        "Leaf blowers restricted to certain hours",
+        "Excessive noise from any source subject to complaint-based enforcement"
+      ],
+      "source": "Borough of Alpine Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their lots in accordance with borough standards.",
+      "keyRules": [
+        "Lawns must be maintained and not exceed 10 inches in height",
+        "Dead or hazardous trees must be removed promptly",
+        "Driveways and walkways must be kept in good repair",
+        "No storage of junk vehicles or debris on residential properties"
+      ],
+      "source": "Borough of Alpine Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed and controlled at all times.",
+      "keyRules": [
+        "All dogs must be licensed annually with the Borough Clerk",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets",
+        "Rabies vaccination required for all dogs and cats"
+      ],
+      "source": "Borough of Alpine Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated to maintain safety on Alpine's narrow roads.",
+      "keyRules": [
+        "No overnight parking on borough streets without permission",
+        "No parking on roadways during snow emergencies",
+        "Commercial vehicles over a certain weight restricted from residential streets",
+        "Violators subject to ticketing and towing"
+      ],
+      "source": "Borough of Alpine Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must comply with borough housing and zoning codes.",
+      "keyRules": [
+        "Rental units must pass inspection before occupancy",
+        "Short-term rentals (Airbnb-style) are not permitted in residential zones",
+        "Landlords responsible for tenant compliance with borough ordinances",
+        "Certificate of Habitability required"
+      ],
+      "source": "Borough of Alpine Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Tree Removal",
+        "summary": "Alpine has strict tree preservation ordinances given its wooded character.",
+        "keyRules": [
+          "Permit required to remove any tree over 6 inches in diameter",
+          "Replacement trees may be required for removed specimens",
+          "Fines for unauthorized tree removal can be substantial",
+          "Tree removal near the Palisades cliffs requires additional environmental review"
+        ],
+        "source": "Borough of Alpine Municipal Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Alpine School District",
+    "publicSchools": [
+      {
+        "name": "Alpine Public School",
+        "grades": "K-8",
+        "rating": 7,
+        "enrollment": 110,
+        "type": "public",
+        "notes": "Small school serving the borough's elementary and middle school students. High school students attend Tenafly High School through a sending-receiving relationship."
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "The Elisabeth Morrow School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Located in nearby Englewood, popular with Alpine families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Columbia University (Manhattan, accessible via Palisades Interstate Parkway)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Ultra-private estate living on large wooded lots",
+      "Spectacular Hudson River and NYC skyline views",
+      "Close proximity to Manhattan despite rural feel",
+      "Access to Palisades Interstate Park for hiking and recreation",
+      "Highly safe community with very low crime rates"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "Car via Palisades Interstate Parkway to GWB or bus",
+      "duration": "30-50 minutes depending on traffic",
+      "busRoutes": ["NJ Transit 9A"],
+      "notes": "Most residents commute by car. The Palisades Interstate Parkway provides direct access to the George Washington Bridge. NJ Transit bus service is available along Route 9W."
+    },
+    "costOfLiving": {
+      "summary": "Alpine has one of the highest costs of living in New Jersey, driven primarily by real estate values and property taxes.",
+      "vsStateAverage": "Significantly above the New Jersey average, especially in housing costs",
+      "vsNationalAverage": "Well above the national average across all categories"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Exceptional privacy and estate-style living",
+        "Natural beauty with Palisades cliffs and wooded landscapes",
+        "Very low population density",
+        "Proximity to NYC with a rural atmosphere",
+        "Strong property values"
+      ],
+      "cons": [
+        "Very high property taxes and home prices",
+        "Limited commercial amenities — must travel to neighboring towns for shopping",
+        "Limited public transit options",
+        "Small school district with limited extracurricular offerings",
+        "Winding roads can be challenging in winter weather"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Barrique Kitchen & Wine Bar",
+        "description": "Upscale Italian-American cuisine in a refined setting, popular with locals.",
+        "address": "30 Closter Dock Rd, Alpine, NJ 07620",
+        "category": "Italian"
+      },
+      {
+        "name": "Alpine Ristorante",
+        "description": "Classic Italian dining with a warm, neighborhood atmosphere.",
+        "address": "1135 Route 9W, Alpine, NJ 07620",
+        "category": "Italian"
+      },
+      {
+        "name": "Rio 22",
+        "description": "Brazilian steakhouse and seafood restaurant on Route 9W.",
+        "address": "1082 Route 9W, Alpine, NJ 07620",
+        "category": "Brazilian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Palisades Interstate Park — Alpine Section",
+        "description": "Dramatic cliffside park along the Hudson River with hiking trails, scenic overlooks, the Alpine Boat Basin, and picnic areas. Part of the larger Palisades Interstate Park system.",
+        "address": "Route 9W, Alpine, NJ 07620",
+        "category": "State Park"
+      },
+      {
+        "name": "Alpine Lookout",
+        "description": "Scenic overlook offering panoramic views of the Hudson River, Yonkers, and the NYC skyline.",
+        "category": "Scenic Overlook"
+      },
+      {
+        "name": "Greenbrook Sanctuary",
+        "description": "A private 165-acre nature preserve with hiking trails, a pond, and diverse wildlife. Membership required.",
+        "address": "Off Route 9W, Alpine, NJ 07620",
+        "category": "Nature Preserve"
+      }
+    ],
+    "events": [
+      {
+        "name": "Alpine Day",
+        "description": "Annual community celebration with food, games, and activities for families at the Alpine firehouse.",
+        "when": "Summer (typically June)"
+      },
+      {
+        "name": "Palisades Interstate Park Events",
+        "description": "Seasonal nature walks, historical programs, and outdoor recreation events organized by the Palisades Interstate Park Commission.",
+        "when": "Various dates throughout the year"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Alpine Boat Basin",
+        "description": "Historic riverside recreation area within Palisades Interstate Park offering picnicking, fishing, and boat launches along the Hudson River.",
+        "address": "Alpine Approach Rd, Alpine, NJ 07620",
+        "category": "Recreation"
+      },
+      {
+        "name": "Women's Federation Monument",
+        "description": "Stone tower monument at the top of the Palisades, built in 1929 by the New Jersey State Federation of Women's Clubs to help preserve the cliffs.",
+        "category": "Historic Landmark"
+      },
+      {
+        "name": "Rio Vista",
+        "description": "The former estate of Manuel Rionda, now part of Palisades Interstate Park, with trails offering river views.",
+        "category": "Historic Site"
+      }
+    ],
+    "shoppingAreas": [
+      "Closter Plaza (neighboring Closter)",
+      "Alpine Village shops along Route 9W",
+      "The Promenade Shops at Edgewater (nearby)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Paul Tomasko",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Catherine Parilla", "title": "Council Member" },
+      { "name": "Steve Gaughan", "title": "Council Member" },
+      { "name": "Gayle Gerba", "title": "Council Member" },
+      { "name": "Vicki Frankel", "title": "Council Member" },
+      { "name": "Ronald Germann", "title": "Council Member" },
+      { "name": "Megan Allen", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Alpine Borough Hall, 100 Church Street, Alpine, NJ 07620",
+    "municipalWebsite": "https://www.alpinenj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-784-2900",
+        "hours": "Monday-Friday, 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-784-2900",
+        "hours": "Monday-Friday, 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-784-2900",
+        "hours": "Monday-Friday, 9:00 AM - 4:00 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-784-2900",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-784-2900",
+      "address": "100 Church Street, Alpine, NJ 07620"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-784-2900",
+      "address": "100 Church Street, Alpine, NJ 07620"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-784-2900"
+    },
+    "hospitals": [
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 10
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (Suez)",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

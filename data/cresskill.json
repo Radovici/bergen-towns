@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "slug": "cresskill",
+    "name": "Cresskill",
+    "fullName": "Borough of Cresskill",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "cresskill.info",
+    "zipCodes": ["07626"],
+    "themeColor": "#4a6741",
+    "accentColor": "#7ba876"
+  },
+  "overview": {
+    "tagline": "An intimate, top-rated school community on the Northern Valley hillside",
+    "description": "Cresskill is a small, affluent borough nestled in the Northern Valley section of Bergen County. With a population of approximately 9,000, Cresskill is celebrated for its exceptional public schools, safe tree-lined streets, and strong sense of community. The borough has become increasingly diverse, with a notable Korean-American community that has enriched local culture and dining. Its compact size, excellent schools, and proximity to the George Washington Bridge make it highly desirable for families.",
+    "population": 9011,
+    "populationYear": 2020,
+    "areaSqMi": 2.08,
+    "elevation": "40-150 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Cresskill School District",
+    "highlights": [
+      "Top-rated public schools — among the best in Bergen County",
+      "Safe, walkable residential community",
+      "Growing Korean-American cultural presence",
+      "Close proximity to GWB for NYC commuters",
+      "Active recreation programs and community events"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$750,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.70%",
+    "averagePropertyTax": "$17,500",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Home values are supported by the strong school district.",
+    "recentTrends": "Cresskill's housing market is highly competitive, driven by families seeking entry to the top-rated school district. Homes sell quickly, often above asking price. Teardown-and-rebuild projects are common as buyers invest in the school district.",
+    "neighborhoodNotes": [
+      "The area near Edward H. Bryan School is popular with families seeking walkability to school",
+      "Homes along County Road have larger lots and higher price points",
+      "The eastern side near Tenafly border features mature tree-lined streets",
+      "New construction is replacing older ranch-style homes throughout the borough"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup provided twice weekly.",
+      "details": [
+        "Collection days depend on location within the borough",
+        "Sealed bags or covered containers required by 6:00 AM",
+        "50 lb weight limit per container",
+        "Bulk item pickup available by calling DPW"
+      ],
+      "contactPhone": "201-569-5922",
+      "contactUrl": "https://www.cresskillboro.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly curbside recycling through the Bergen County Utilities Authority.",
+      "details": [
+        "Commingled recyclables in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags or Styrofoam",
+        "Recycling schedule available on borough website"
+      ],
+      "contactPhone": "201-569-5922",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water provided by Veolia Water. Sewer managed through the borough and BCUA.",
+      "details": [
+        "Quarterly water billing from Veolia",
+        "Sewer charges on property tax bills",
+        "Report water main issues to DPW",
+        "Annual water quality reports available"
+      ],
+      "contactPhone": "201-569-5922",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Building Department handles all construction and zoning permits.",
+      "details": [
+        "Permits required for all structural, electrical, plumbing, and HVAC work",
+        "New construction and teardown-rebuild projects require full site plan review",
+        "Zoning Board reviews variance applications",
+        "Certificate of Occupancy required"
+      ],
+      "contactPhone": "201-569-5922"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Residential parking and commuter lot parking managed by the borough.",
+      "details": [
+        "Commuter parking lot available near Union Avenue",
+        "Residential street parking generally unrestricted during the day",
+        "Overnight parking restrictions on certain streets",
+        "Snow emergency parking bans enforced"
+      ],
+      "contactPhone": "201-569-5922"
+    },
+    "additionalServices": [
+      {
+        "title": "Recreation Programs",
+        "description": "Active recreation department offering youth and adult programs year-round.",
+        "details": [
+          "Youth sports leagues (soccer, basketball, baseball, lacrosse)",
+          "Summer camp and swimming programs",
+          "Adult fitness and recreation classes",
+          "Community pool open to residents in summer"
+        ],
+        "contactPhone": "201-569-5922"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Noise regulations protect the quiet residential character of the borough.",
+      "keyRules": [
+        "Construction prohibited before 7:30 AM and after 6:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Leaf blower restrictions apply seasonally"
+      ],
+      "source": "Borough of Cresskill Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their lots per borough standards.",
+      "keyRules": [
+        "Lawns must be maintained below 10 inches",
+        "Snow must be cleared from sidewalks within 24 hours",
+        "No junk vehicles or debris accumulation on properties",
+        "Fences and structures must be maintained in good repair"
+      ],
+      "source": "Borough of Cresskill Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Standard dog licensing and leash requirements enforced.",
+      "keyRules": [
+        "Annual dog license required from Borough Clerk",
+        "Dogs must be on leash when off owner's property",
+        "Pet waste must be picked up immediately",
+        "Rabies vaccination required"
+      ],
+      "source": "Borough of Cresskill Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking regulated for safety and neighborhood preservation.",
+      "keyRules": [
+        "Overnight street parking may be restricted on certain roads",
+        "No parking during snow emergencies",
+        "Commercial vehicles restricted in residential zones",
+        "Parking violations subject to ticketing"
+      ],
+      "source": "Borough of Cresskill Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must meet borough inspection standards.",
+      "keyRules": [
+        "Rental registration required",
+        "Certificate of Habitability at tenant turnover",
+        "Inspections before new tenant occupancy",
+        "Landlords responsible for property maintenance compliance"
+      ],
+      "source": "Borough of Cresskill Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Tree Removal",
+        "summary": "Tree removal regulated to preserve the borough's leafy character.",
+        "keyRules": [
+          "Permit required for removal of trees above a certain diameter",
+          "Replacement trees may be required",
+          "Shade Tree Commission oversees tree management",
+          "Fines for unauthorized tree removal"
+        ],
+        "source": "Borough of Cresskill Shade Tree Ordinance"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Cresskill School District",
+    "publicSchools": [
+      {
+        "name": "Edward H. Bryan School",
+        "grades": "PreK-3",
+        "rating": 8,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Primary school with strong academics and parent involvement"
+      },
+      {
+        "name": "Merritt Memorial School",
+        "grades": "4-8",
+        "rating": 9,
+        "enrollment": 500,
+        "type": "public",
+        "notes": "Highly rated middle school known for rigorous academics and STEM programs. High school students attend Northern Valley Regional High School at Demarest."
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Therese of Lisieux School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school in Cresskill serving the parish community"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Columbia University (Manhattan via GWB)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Exceptional public schools ranked among Bergen County's finest",
+      "Safe, family-oriented community with low crime",
+      "Compact borough with easy walkability",
+      "Access to Northern Valley Regional High School at Demarest",
+      "Close to GWB for a manageable NYC commute"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus to GWB Bus Station",
+      "duration": "35-50 minutes by bus",
+      "busRoutes": ["9A", "166"],
+      "notes": "NJ Transit buses along County Road provide service to the GWB Bus Station, connecting to the A train. Some residents drive to the GWB (15-20 minutes). Commuter parking available in the borough."
+    },
+    "costOfLiving": {
+      "summary": "Cresskill's cost of living is above the Bergen County average, driven by high home prices and property taxes reflecting the premium school district.",
+      "vsStateAverage": "Well above the New Jersey average, especially housing costs",
+      "vsNationalAverage": "Significantly above the national average across all categories"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Outstanding public school district",
+        "Very safe community with low crime",
+        "Strong property values and appreciation",
+        "Active community with recreation programs",
+        "Growing cultural diversity enriches dining and community life"
+      ],
+      "cons": [
+        "High property taxes",
+        "Home prices at a premium due to school district demand",
+        "Limited commercial amenities within the borough",
+        "Teardown-rebuild trend is changing neighborhood character",
+        "No train station — bus-dependent for transit to NYC"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Yeolmu",
+        "description": "Contemporary Korean cuisine with a modern twist, popular with locals and visitors.",
+        "address": "67 Union Ave, Cresskill, NJ 07626",
+        "category": "Korean"
+      },
+      {
+        "name": "Amalfi Ristorante",
+        "description": "Italian fine dining with fresh pasta, seafood, and an elegant atmosphere.",
+        "address": "289 County Rd, Cresskill, NJ 07626",
+        "category": "Italian"
+      },
+      {
+        "name": "Manna Korean BBQ",
+        "description": "Authentic Korean barbecue restaurant with tabletop grilling and traditional side dishes.",
+        "address": "Union Ave, Cresskill, NJ 07626",
+        "category": "Korean BBQ"
+      },
+      {
+        "name": "Cresskill Bagel & Deli",
+        "description": "Classic NJ bagel shop and deli serving breakfast, sandwiches, and coffee.",
+        "address": "27 Union Ave, Cresskill, NJ 07626",
+        "category": "Deli"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Brookside Park",
+        "description": "Community park with athletic fields, playground, basketball courts, and walking paths.",
+        "address": "Brook St, Cresskill, NJ 07626",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Davis Field",
+        "description": "Large athletic complex with baseball diamonds, soccer fields, and recreation facilities.",
+        "address": "Cresskill, NJ 07626",
+        "category": "Athletic Complex"
+      },
+      {
+        "name": "Veterans Memorial Park",
+        "description": "Park honoring veterans with memorials, benches, and green space in the center of the borough.",
+        "address": "Union Ave, Cresskill, NJ 07626",
+        "category": "Memorial Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Cresskill Day",
+        "description": "Annual community celebration with food, games, rides, and live entertainment for all ages.",
+        "when": "Fall (typically October)"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Borough-wide Memorial Day observance honoring fallen service members.",
+        "when": "May (Memorial Day)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Community gathering with tree lighting, hot chocolate, caroling, and seasonal activities.",
+        "when": "December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Cresskill Public Library",
+        "description": "Active community library with programs for all ages, book clubs, and digital resources.",
+        "address": "53 Union Ave, Cresskill, NJ 07626",
+        "category": "Library"
+      },
+      {
+        "name": "Cresskill Community Pool",
+        "description": "Borough pool complex open to residents during summer months with swimming, social events, and swim team programs.",
+        "category": "Recreation"
+      }
+    ],
+    "shoppingAreas": [
+      "Union Avenue commercial district",
+      "County Road shops and services",
+      "Closter Plaza (nearby Closter)"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Benedict Romeo",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Gina DeBari", "title": "Council President" },
+      { "name": "Thomas Mielke", "title": "Council Member" },
+      { "name": "Matthew Nelson", "title": "Council Member" },
+      { "name": "Agatha Nadel", "title": "Council Member" },
+      { "name": "Ralph Rose", "title": "Council Member" },
+      { "name": "Edward Kim", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Monday of each month at 7:30 PM",
+    "meetingLocation": "Cresskill Borough Hall, 67 Union Avenue, Cresskill, NJ 07626",
+    "municipalWebsite": "https://www.cresskillboro.com",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-569-5922",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-569-5922",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-569-5922",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-569-5922",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-569-5922",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-569-1899",
+      "address": "67 Union Avenue, Cresskill, NJ 07626"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-569-5922",
+      "address": "Cresskill Fire Department, Cresskill, NJ 07626"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-569-5922"
+    },
+    "hospitals": [
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 7
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

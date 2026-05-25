@@ -1,0 +1,574 @@
+{
+  "meta": {
+    "slug": "lyndhurst",
+    "name": "Lyndhurst",
+    "fullName": "Township of Lyndhurst",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "lyndhurst.info",
+    "zipCodes": ["07071"],
+    "themeColor": "#ad1457",
+    "accentColor": "#d81b60"
+  },
+  "overview": {
+    "tagline": "A proud Meadowlands township with strong Italian roots, a lively downtown, and Meadowlands access",
+    "description": "Lyndhurst is a densely populated township in southeastern Bergen County, known for its vibrant Italian-American heritage, bustling Ridge Road commercial district, and proximity to the Meadowlands Sports Complex. The township offers an energetic, community-oriented atmosphere with parades, festivals, and a strong sense of local pride. Its location at the intersection of major highways provides excellent transportation access, while the nearby Meadowlands offers both entertainment and natural areas including the DeKorte Park nature center.",
+    "population": 22453,
+    "populationYear": 2020,
+    "areaSqMi": 4.89,
+    "elevation": "15 ft",
+    "incorporated": "1917",
+    "governmentType": "Township (Commissioner form)",
+    "schoolDistrict": "Lyndhurst Public Schools",
+    "highlights": [
+      "Vibrant Ridge Road commercial district with Italian delis, bakeries, and restaurants",
+      "Strong Italian-American heritage and community traditions",
+      "Adjacent to MetLife Stadium, American Dream, and Meadowlands Sports Complex",
+      "Meadowlands Environment Center at DeKorte Park nearby",
+      "NJ Transit train station on the Meadowlands line"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$475,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.25%",
+    "averagePropertyTax": "$10,800",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Lyndhurst's housing stock includes single-family homes, two-family properties, condominiums, and some newer townhouse developments.",
+    "recentTrends": "Lyndhurst's housing market has seen steady appreciation, driven by its relative affordability, transit access, and proximity to NYC. New construction near the Meadowlands has added townhouse and condominium inventory. The Ridge Road area is popular for its walkability.",
+    "neighborhoodNotes": [
+      "Ridge Road area — Walking distance to shops, restaurants, and the commercial center",
+      "Valley Brook Avenue — Mix of residential homes near schools and parks",
+      "Kingsland area — Near the train station and Meadowlands attractions",
+      "North end — Quieter residential streets bordering Rutherford"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Township of Lyndhurst.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule posted on township website"
+      ],
+      "contactPhone": "(201) 804-2457",
+      "contactUrl": "https://www.lyndhurstnj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly by the Township.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on the same schedule",
+        "Recycling bins available through the DPW",
+        "Yard waste collected seasonally",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 804-2457",
+      "contactUrl": "https://www.lyndhurstnj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer service is managed by the Township of Lyndhurst.",
+      "details": [
+        "Water and sewer billing handled by the Township",
+        "Quarterly billing for water and sewer service",
+        "Water quality reports published annually",
+        "Sewer service maintained by the Township DPW",
+        "Emergency repairs available 24/7"
+      ],
+      "contactPhone": "(201) 804-2457",
+      "contactUrl": "https://www.lyndhurstnj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available at Township Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "(201) 804-2457",
+      "contactUrl": "https://www.lyndhurstnj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Township manages on-street parking and municipal lots, including commuter parking.",
+      "details": [
+        "Metered parking along Ridge Road in the commercial district",
+        "Municipal parking lots available near downtown",
+        "Commuter parking at the Lyndhurst train station",
+        "Overnight parking restrictions on township streets",
+        "Snow emergency parking bans enforced"
+      ],
+      "contactPhone": "(201) 804-2457",
+      "contactUrl": "https://www.lyndhurstnj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Lyndhurst Free Public Library",
+        "description": "Public library serving township residents with books, programs, and digital resources.",
+        "details": [
+          "Located at 355 Valley Brook Avenue",
+          "Children's programs, teen events, and adult programs",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 804-2478",
+        "contactUrl": "https://www.lyndhurstlibrary.org"
+      },
+      {
+        "title": "Parks & Recreation Department",
+        "description": "Year-round recreational programs for all ages.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Senior citizen programs at the senior center",
+          "Community events and festivals",
+          "Township parks and athletic facilities"
+        ],
+        "contactPhone": "(201) 804-2482",
+        "contactUrl": "https://www.lyndhurstnj.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Lyndhurst enforces noise regulations to protect residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction on Sundays or holidays",
+        "Power equipment restricted to daytime hours",
+        "Excessive noise from gatherings subject to police enforcement"
+      ],
+      "source": "Township of Lyndhurst Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained at a reasonable height",
+        "Sidewalk snow removal required within 24 hours",
+        "Properties must be free of debris and refuse",
+        "Abandoned vehicles must be removed",
+        "Code enforcement actively monitors property conditions"
+      ],
+      "source": "Township of Lyndhurst Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Lyndhurst requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Nuisance barking subject to enforcement",
+        "No exotic animals permitted"
+      ],
+      "source": "Township of Lyndhurst Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated throughout the township including the busy Ridge Road corridor.",
+      "keyRules": [
+        "Metered parking along Ridge Road with time limits",
+        "Overnight parking restricted on many township streets",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles prohibited on residential streets overnight",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Township of Lyndhurst Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must be registered and comply with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Township",
+        "Certificate of Habitability required",
+        "Landlords must maintain properties to code",
+        "Inspections at change of tenancy",
+        "Multi-family dwellings subject to additional requirements"
+      ],
+      "source": "Township of Lyndhurst Code"
+    },
+    "other": [
+      {
+        "title": "Outdoor Dining",
+        "summary": "Restaurants along Ridge Road may apply for outdoor dining permits.",
+        "keyRules": [
+          "Outdoor dining permits issued by the Township",
+          "Minimum sidewalk clearance must be maintained",
+          "Furniture must be secured or removed nightly",
+          "Compliance with health department regulations required"
+        ],
+        "source": "Township of Lyndhurst Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Lyndhurst Public Schools",
+    "publicSchools": [
+      {
+        "name": "Lyndhurst High School",
+        "grades": "9-12",
+        "rating": 6,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Comprehensive high school with strong athletics and a variety of academic and extracurricular programs"
+      },
+      {
+        "name": "Lyndhurst Middle School",
+        "grades": "6-8",
+        "rating": 5,
+        "enrollment": 450,
+        "type": "public",
+        "notes": "Middle school serving all township students in grades 6-8"
+      },
+      {
+        "name": "Columbus Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Elementary school in the eastern section of the township"
+      },
+      {
+        "name": "Franklin Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 280,
+        "type": "public",
+        "notes": "Elementary school centrally located in the township"
+      },
+      {
+        "name": "Jefferson Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Elementary school in the northern portion of the township"
+      },
+      {
+        "name": "Roosevelt Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 290,
+        "type": "public",
+        "notes": "Elementary school serving the Kingsland area"
+      },
+      {
+        "name": "Washington Elementary School",
+        "grades": "K-5",
+        "rating": 5,
+        "enrollment": 260,
+        "type": "public",
+        "notes": "Elementary school in the western part of the township"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Sacred Heart School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic parish school in Lyndhurst"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Felician University (Rutherford/Lodi) — 5 minutes",
+      "Bergen Community College (Paramus) — 20 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "New Jersey Institute of Technology (Newark) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Affordable Bergen County location with character and community pride",
+      "Vibrant Ridge Road with Italian delis, bakeries, and restaurants",
+      "NJ Transit Meadowlands line station for events and connections",
+      "Adjacent to MetLife Stadium, American Dream, and Meadowlands entertainment",
+      "Strong community traditions with parades, festivals, and civic organizations",
+      "Excellent highway access to Routes 3, 17, and the NJ Turnpike"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "30-50 minutes to Port Authority Bus Terminal",
+      "busRoutes": ["NJ Transit Bus 159", "NJ Transit Bus 76"],
+      "notes": "NJ Transit bus routes provide direct service to Manhattan. The Lyndhurst train station on the Meadowlands line operates limited service primarily for events at MetLife Stadium. Secaucus Junction is a short drive for NJ Transit rail connections."
+    },
+    "costOfLiving": {
+      "summary": "Lyndhurst offers moderate living costs for Bergen County, with affordable housing and a range of budget-friendly restaurants and services.",
+      "vsStateAverage": "Approximately 10% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 35% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Affordable housing by Bergen County standards",
+        "Vibrant commercial district with authentic Italian food",
+        "Strong community identity and active civic life",
+        "Close to Meadowlands entertainment and sports",
+        "Good highway access for commuters"
+      ],
+      "cons": [
+        "Meadowlands event traffic can impact local roads",
+        "Flood-prone areas near the Hackensack River and Meadowlands",
+        "No regular commuter train service — reliant on buses",
+        "Industrial areas near the Meadowlands corridor",
+        "Property taxes relatively high for the school ratings"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Mazur's Bakery",
+        "description": "Legendary local bakery famous for its cream puffs, cakes, pastries, and breads. A Lyndhurst institution since 1939.",
+        "address": "323 Ridge Road, Lyndhurst, NJ 07071",
+        "category": "Bakery"
+      },
+      {
+        "name": "Whiskey Barrel",
+        "description": "Modern American restaurant and bar offering craft cocktails, elevated comfort food, and a lively atmosphere on Ridge Road.",
+        "address": "720 Ridge Road, Lyndhurst, NJ 07071",
+        "category": "American/Bar"
+      },
+      {
+        "name": "San Carlo Restaurant",
+        "description": "Classic Italian restaurant offering traditional pasta dishes, veal, and seafood in an old-school dining room.",
+        "address": "620 Ridge Road, Lyndhurst, NJ 07071",
+        "category": "Italian"
+      },
+      {
+        "name": "Mignon Steakhouse",
+        "description": "Upscale steakhouse offering prime cuts, seafood, and an extensive wine list in a refined setting.",
+        "address": "412 Ridge Road, Lyndhurst, NJ 07071",
+        "category": "Steakhouse/Fine Dining"
+      },
+      {
+        "name": "Brownstone Pancake Factory",
+        "description": "Popular brunch destination known for creative pancakes, stuffed French toast, and hearty breakfast platters.",
+        "address": "Ridge Road, Lyndhurst, NJ 07071",
+        "category": "Breakfast/Brunch"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Town Hall Park",
+        "description": "Central township park with a gazebo, walking paths, playground, and venue for community events and concerts.",
+        "address": "Delafield Avenue, Lyndhurst, NJ 07071",
+        "category": "Park/Recreation"
+      },
+      {
+        "name": "Riverside County Park",
+        "description": "Bergen County park along the Passaic River with walking paths, athletic fields, and scenic waterfront views.",
+        "address": "Riverside Avenue, Lyndhurst, NJ 07071",
+        "category": "County Park/Waterfront"
+      },
+      {
+        "name": "DeKorte Park (Meadowlands Environment Center)",
+        "description": "Nature center and park in the Meadowlands featuring walking trails, bird observation areas, and environmental education programs. A surprising natural oasis near the sports complex.",
+        "address": "2 DeKorte Park Plaza, Lyndhurst, NJ 07071",
+        "category": "Nature/Education"
+      }
+    ],
+    "events": [
+      {
+        "name": "Lyndhurst Street Fair",
+        "description": "Annual street fair along Ridge Road with vendors, food, rides, live entertainment, and community activities.",
+        "when": "September or October"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "One of Bergen County's largest Memorial Day parades, marching through the township with bands, veterans, and civic organizations.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Lyndhurst Holiday Parade",
+        "description": "Annual holiday parade with floats, marching bands, and a visit from Santa Claus, a beloved community tradition.",
+        "when": "Late November or early December"
+      },
+      {
+        "name": "Summer Concerts in the Park",
+        "description": "Free outdoor concerts held in Town Hall Park throughout the summer months.",
+        "when": "Summer evenings, June through August"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Ridge Road Shopping District",
+        "description": "Lyndhurst's bustling main street lined with Italian delis, bakeries, restaurants, and shops. The cultural and commercial heart of the township.",
+        "address": "Ridge Road, Lyndhurst, NJ 07071",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Meadowlands Environment Center at DeKorte Park",
+        "description": "Environmental education center with exhibits on the Meadowlands ecosystem, walking trails through marshland, and birding opportunities.",
+        "address": "2 DeKorte Park Plaza, Lyndhurst, NJ 07071",
+        "category": "Nature/Education"
+      },
+      {
+        "name": "MetLife Stadium & American Dream",
+        "description": "World-class sports and entertainment venues adjacent to Lyndhurst, hosting NFL games, concerts, and a massive indoor entertainment complex.",
+        "address": "East Rutherford, NJ",
+        "category": "Sports/Entertainment"
+      }
+    ],
+    "shoppingAreas": [
+      "Ridge Road — Main commercial district with shops, delis, and restaurants",
+      "Valley Brook Avenue — Additional shops and services",
+      "American Dream (East Rutherford) — minutes away",
+      "Garden State Plaza (Paramus) — 15 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Board of Commissioners (Commissioner form of government)",
+    "mayor": {
+      "name": "Robert Giangeruso",
+      "title": "Mayor / Commissioner of Public Affairs",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "John Montillo",
+        "title": "Commissioner of Public Safety",
+        "term": "4-year term"
+      },
+      {
+        "name": "Thomas DiMaggio",
+        "title": "Commissioner of Parks and Public Property",
+        "term": "4-year term"
+      },
+      {
+        "name": "Karen DeSoto",
+        "title": "Commissioner of Revenue and Finance",
+        "term": "4-year term"
+      },
+      {
+        "name": "Brian Haggerty",
+        "title": "Commissioner of Public Works",
+        "term": "4-year term"
+      }
+    ],
+    "meetingSchedule": "Board of Commissioners meets the 2nd and 4th Tuesday of each month at 7:00 PM",
+    "meetingLocation": "Town Hall, 367 Valley Brook Avenue, Lyndhurst, NJ 07071",
+    "municipalWebsite": "https://www.lyndhurstnj.org",
+    "importantContacts": [
+      {
+        "department": "Township Clerk",
+        "phone": "(201) 804-2457",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 804-2457",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 804-2457",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 804-2457",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Health Department",
+        "phone": "(201) 804-2500",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-2900",
+      "address": "367 Valley Brook Avenue, Lyndhurst, NJ 07071"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-5505",
+      "address": "Lyndhurst, NJ 07071"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 939-2900",
+      "address": "Lyndhurst, NJ 07071"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Clara Maass Medical Center",
+        "address": "1 Clara Maass Drive, Belleville, NJ 07109",
+        "phone": "(973) 450-2000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Township of Lyndhurst Water Department",
+        "phone": "(201) 804-2457",
+        "url": "https://www.lyndhurstnj.org"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Lyndhurst Police (Non-Emergency)",
+        "number": "(201) 939-2900"
+      },
+      {
+        "label": "Lyndhurst Fire Department",
+        "number": "(201) 939-5505"
+      },
+      {
+        "label": "Town Hall",
+        "number": "(201) 804-2457"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "slug": "closter",
+    "name": "Closter",
+    "fullName": "Borough of Closter",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "closter.info",
+    "zipCodes": ["07624"],
+    "themeColor": "#3a5a40",
+    "accentColor": "#6b9e6e"
+  },
+  "overview": {
+    "tagline": "A charming suburban community where history meets modern living",
+    "description": "Closter is a picturesque borough in northeastern Bergen County known for its excellent schools, tree-lined streets, and vibrant downtown along Piermont Road. The borough has a rich history dating back to Dutch colonial settlement and today is a diverse community with a notable Asian-American population. Closter offers a balance of suburban tranquility with convenient access to shopping, dining, and a relatively easy commute to New York City.",
+    "population": 8543,
+    "populationYear": 2020,
+    "areaSqMi": 3.26,
+    "elevation": "50-150 ft",
+    "incorporated": "1904",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Closter School District",
+    "highlights": [
+      "Top-rated public schools in Bergen County",
+      "Historic downtown along Piermont Road with unique shops and restaurants",
+      "Home to the Closter Nature Center, a 135-acre preserve",
+      "Rich Dutch colonial and Revolutionary War history",
+      "Growing Korean-American community contributing to cultural vibrancy"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$725,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.65%",
+    "averagePropertyTax": "$16,500",
+    "assessmentInfo": "Properties assessed by the Borough Tax Assessor. Closter's housing stock ranges from historic colonials to modern new construction.",
+    "recentTrends": "Closter has seen strong demand driven by its excellent schools and charming downtown. Homes sell quickly, particularly in sought-after neighborhoods near the nature center and downtown. New construction and renovation of older homes are common.",
+    "neighborhoodNotes": [
+      "The downtown Piermont Road area offers walkable access to shops and restaurants",
+      "The Closter Nature Center neighborhood features wooded lots and a rural feel",
+      "Alpine Drive area has larger homes popular with families",
+      "The western section near Demarest offers more modest housing options"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup provided twice weekly by the borough's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood",
+        "Trash in sealed bags or covered containers by 6:00 AM",
+        "50 lb limit per container",
+        "Bulk item pickup by calling DPW"
+      ],
+      "contactPhone": "201-784-0600",
+      "contactUrl": "https://www.closternj.us"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly recycling collection through the Bergen County Utilities Authority program.",
+      "details": [
+        "Single-stream commingled recycling in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food-contaminated items",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "201-784-0600",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water provided by Veolia Water. Sewer service managed through the borough and BCUA.",
+      "details": [
+        "Quarterly water billing by Veolia",
+        "Sewer charges on property tax bills",
+        "Report water emergencies to DPW or Veolia",
+        "Annual water quality reports available"
+      ],
+      "contactPhone": "201-784-0600",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Building Department handles all construction, zoning, and renovation permits.",
+      "details": [
+        "Permits required for structural, electrical, plumbing, and HVAC work",
+        "Historic preservation considerations for older structures",
+        "Zoning Board of Adjustment for variance applications",
+        "Certificate of Occupancy required for new construction"
+      ],
+      "contactPhone": "201-784-0600"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The borough manages parking in the downtown business district and at the NJ Transit commuter lot.",
+      "details": [
+        "Free parking in municipal lots near downtown",
+        "NJ Transit commuter parking at Closter station",
+        "Metered parking on Piermont Road",
+        "Residential parking permits not generally required"
+      ],
+      "contactPhone": "201-784-0600"
+    },
+    "additionalServices": [
+      {
+        "title": "Closter Nature Center",
+        "description": "Borough-supported 135-acre nature preserve offering trails, programs, and environmental education.",
+        "details": [
+          "Open daily from dawn to dusk",
+          "Free admission — donations welcome",
+          "Nature programs for children and adults",
+          "Volunteer opportunities available"
+        ],
+        "contactPhone": "201-750-2778",
+        "contactUrl": "https://www.closternaturecenter.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Noise regulations protect the borough's residential character.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 7:00 PM weekdays",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Leaf blower use restricted to daytime hours and seasonal dates"
+      ],
+      "source": "Borough of Closter Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Properties must be maintained in accordance with borough code.",
+      "keyRules": [
+        "Lawns must be maintained and kept under 10 inches",
+        "Dead trees and hazardous limbs must be promptly removed",
+        "Sidewalks must be kept clear — snow removal within 24 hours",
+        "No accumulation of junk or debris on residential properties"
+      ],
+      "source": "Borough of Closter Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed and controlled at all times.",
+      "keyRules": [
+        "Annual dog license required from Borough Clerk",
+        "Dogs on leash at all times when off property",
+        "Pet waste must be picked up immediately",
+        "Rabies vaccination required for dogs and cats"
+      ],
+      "source": "Borough of Closter Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking regulated for safety and neighborhood preservation.",
+      "keyRules": [
+        "Overnight street parking restricted in residential areas",
+        "No parking during snow emergencies",
+        "Time limits enforced in downtown commercial area",
+        "Commercial vehicle restrictions in residential zones"
+      ],
+      "source": "Borough of Closter Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must comply with borough housing codes.",
+      "keyRules": [
+        "Rental registration required",
+        "Certificate of Habitability required at tenant turnover",
+        "Inspections conducted before occupancy",
+        "Landlords responsible for code compliance"
+      ],
+      "source": "Borough of Closter Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Closter has a tree protection ordinance given its wooded character.",
+        "keyRules": [
+          "Permit required for removal of significant trees",
+          "Replacement planting may be required",
+          "Shade Tree Commission reviews applications",
+          "Fines for unauthorized removal of protected trees"
+        ],
+        "source": "Borough of Closter Shade Tree Ordinance"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Closter School District",
+    "publicSchools": [
+      {
+        "name": "Hillside Elementary School",
+        "grades": "K-3",
+        "rating": 7,
+        "enrollment": 350,
+        "type": "public"
+      },
+      {
+        "name": "Tenakill Middle School",
+        "grades": "4-8",
+        "rating": 8,
+        "enrollment": 480,
+        "type": "public",
+        "notes": "Highly rated middle school known for strong academics and enrichment programs"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "St. Mary School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school affiliated with St. Mary Parish in Closter"
+      },
+      {
+        "name": "Alpine Country Day School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Located nearby in Demarest, popular with Closter families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck)",
+      "Bergen Community College (Paramus)",
+      "Columbia University (Manhattan, accessible via bus and GWB)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-rated public schools attract families",
+      "Charming, walkable downtown with independent shops",
+      "Closter Nature Center offers 135 acres of trails and green space",
+      "Safe, friendly neighborhood atmosphere",
+      "Diverse community with excellent international dining"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit bus from Closter to GWB Bus Station or Port Authority",
+      "duration": "40-55 minutes by bus",
+      "busRoutes": ["9A"],
+      "notes": "NJ Transit Route 9A provides direct bus service to the George Washington Bridge Bus Station. Some residents drive to the Tenafly or Cresskill bus stops. Driving to the GWB takes about 20 minutes."
+    },
+    "costOfLiving": {
+      "summary": "Closter's cost of living is above average for Bergen County, reflecting its excellent schools and desirable location.",
+      "vsStateAverage": "Above the NJ average, particularly for housing and property taxes",
+      "vsNationalAverage": "Significantly above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Excellent public schools consistently ranked highly",
+        "Beautiful Closter Nature Center",
+        "Charming downtown with independent businesses",
+        "Safe, quiet residential neighborhoods",
+        "Cultural diversity adds vibrancy and dining variety"
+      ],
+      "cons": [
+        "High property taxes",
+        "Home prices have risen substantially",
+        "Limited nightlife or entertainment",
+        "Bus commute to NYC can be slow during peak hours",
+        "No train station in the borough"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Harvest Bistro & Bar",
+        "description": "Upscale New American dining featuring seasonal ingredients and an extensive wine list.",
+        "address": "252 Schraalenburgh Rd, Closter, NJ 07624",
+        "category": "American"
+      },
+      {
+        "name": "Sushi Shin",
+        "description": "Authentic Japanese sushi bar offering fresh omakase and traditional dishes.",
+        "address": "Piermont Rd, Closter, NJ 07624",
+        "category": "Japanese"
+      },
+      {
+        "name": "Bottagra",
+        "description": "Upscale Italian restaurant known for fresh pasta, seafood, and elegant ambiance.",
+        "address": "246 Closter Dock Rd, Closter, NJ 07624",
+        "category": "Italian"
+      },
+      {
+        "name": "Panera Bread / Closter Plaza Restaurants",
+        "description": "Closter Plaza offers a variety of casual dining options including Asian, Middle Eastern, and American cuisine.",
+        "address": "100 Vervalen St, Closter, NJ 07624",
+        "category": "Various"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Closter Nature Center",
+        "description": "A 135-acre nature preserve with 6 miles of trails, ponds, diverse wildlife, and seasonal nature programs. A jewel of the community.",
+        "address": "Ruckman Rd, Closter, NJ 07624",
+        "category": "Nature Preserve"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Community park with playing fields, tennis courts, basketball courts, and a playground.",
+        "address": "Homans Ave, Closter, NJ 07624",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Ruckman Park",
+        "description": "Small neighborhood park with open space, playground, and picnic areas.",
+        "category": "Neighborhood Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Closter Fall Festival",
+        "description": "Annual fall celebration with craft vendors, food trucks, live music, and family activities along Piermont Road.",
+        "when": "October"
+      },
+      {
+        "name": "Nature Center Spring Walk",
+        "description": "Guided nature walks through the Closter Nature Center highlighting spring wildflowers and migrating birds.",
+        "when": "April-May"
+      },
+      {
+        "name": "Community Day",
+        "description": "Borough-wide celebration with games, food, and entertainment for all ages.",
+        "when": "Summer"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Closter Nature Center",
+        "description": "135 acres of forests, wetlands, and meadows with trails and educational programs. One of Bergen County's finest nature preserves.",
+        "address": "Ruckman Rd, Closter, NJ 07624",
+        "category": "Nature"
+      },
+      {
+        "name": "Closter Public Library",
+        "description": "Modern community library with extensive programs for all ages, digital resources, and community meeting spaces.",
+        "address": "280 High St, Closter, NJ 07624",
+        "category": "Library"
+      },
+      {
+        "name": "Historic Aulenbach Blacksmith Shop",
+        "description": "Preserved historic blacksmith shop representing Closter's 18th and 19th century heritage.",
+        "category": "Historic Site"
+      }
+    ],
+    "shoppingAreas": [
+      "Piermont Road downtown shops",
+      "Closter Plaza shopping center",
+      "Closter Dock Road commercial area"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "John Glidden",
+      "title": "Mayor",
+      "term": "2024-2027"
+    },
+    "council": [
+      { "name": "Alissa Latner", "title": "Council President" },
+      { "name": "Scott Devlin", "title": "Council Member" },
+      { "name": "John Yoon", "title": "Council Member" },
+      { "name": "Victoria Amitai", "title": "Council Member" },
+      { "name": "Dolores Witkowski", "title": "Council Member" },
+      { "name": "Robert DiStefano", "title": "Council Member" }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Closter Borough Hall, 295 Closter Dock Rd, Closter, NJ 07624",
+    "municipalWebsite": "https://www.closternj.us",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-784-0600",
+        "email": "clerk@closternj.us",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-784-0600",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-784-0600",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-784-0600",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-784-0600",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-768-7144",
+      "address": "295 Closter Dock Rd, Closter, NJ 07624"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-784-0600",
+      "address": "Closter Fire Department, Closter, NJ 07624"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-784-0600"
+    },
+    "hospitals": [
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "201-833-3000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      }
+    ],
+    "importantNumbers": [
+      { "label": "Bergen County Emergency Management", "number": "201-785-5700" },
+      { "label": "Poison Control", "number": "1-800-222-1222" },
+      { "label": "NJ 2-1-1 (Social Services)", "number": "211" }
+    ]
+  }
+}

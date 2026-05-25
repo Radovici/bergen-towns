@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "slug": "little-ferry",
+    "name": "Little Ferry",
+    "fullName": "Borough of Little Ferry",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "little-ferry.info",
+    "zipCodes": ["07643"],
+    "themeColor": "#4527a0",
+    "accentColor": "#5e35b1"
+  },
+  "overview": {
+    "tagline": "A diverse, affordable borough on the Hackensack River with strong community pride",
+    "description": "Little Ferry is a small, diverse borough located on the banks of the Hackensack River in southern Bergen County. Known for its affordability, community spirit, and convenient location, Little Ferry offers an accessible entry point to Bergen County living. The borough's working-class roots and multicultural population create a welcoming, unpretentious atmosphere. With easy access to Routes 46 and 17, the NJ Turnpike, and NJ Transit bus service, Little Ferry provides solid transportation options for commuters while maintaining a strong neighborhood identity.",
+    "population": 10845,
+    "populationYear": 2020,
+    "areaSqMi": 1.59,
+    "elevation": "7 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Little Ferry Public Schools",
+    "highlights": [
+      "One of the most affordable communities in Bergen County",
+      "Diverse, multicultural population with strong community bonds",
+      "Hackensack River waterfront access and parks",
+      "Convenient highway access to Routes 46, 17, and the NJ Turnpike",
+      "Close to American Dream, MetLife Stadium, and Meadowlands attractions"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$420,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.40%",
+    "averagePropertyTax": "$9,800",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Little Ferry offers some of the most affordable housing in Bergen County.",
+    "recentTrends": "Little Ferry has seen increasing interest from buyers priced out of more expensive Bergen County towns. The borough's affordability and transit access have driven steady appreciation. The mix of single-family homes, two-family properties, and condominiums provides options for various budgets.",
+    "neighborhoodNotes": [
+      "Liberty Street area — Near the Hackensack River with waterfront views",
+      "Washington Avenue — Main commercial corridor with shops and services",
+      "Main Street — Residential area with a mix of housing types",
+      "Northern section — Quieter residential streets near Ridgefield Park border"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough of Little Ferry.",
+      "details": [
+        "Pickup occurs twice per week on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule adjustments posted on borough website"
+      ],
+      "contactPhone": "(201) 641-9234",
+      "contactUrl": "https://www.littleferrynj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly by the Borough.",
+      "details": [
+        "Commingled recyclables collected weekly",
+        "Paper and cardboard collected on the same schedule",
+        "Recycling bins available through the DPW",
+        "Yard waste collected seasonally",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "(201) 641-9234",
+      "contactUrl": "https://www.littleferrynj.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer service is managed by the Borough of Little Ferry.",
+      "details": [
+        "Water and sewer billing handled by the Borough",
+        "Water supplied through the borough water system",
+        "Sewer service maintained by the DPW",
+        "Water quality reports published annually",
+        "Emergency repairs available through the DPW"
+      ],
+      "contactPhone": "(201) 641-9234",
+      "contactUrl": "https://www.littleferrynj.org"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning, and code enforcement.",
+      "details": [
+        "Building permits required for construction and renovations",
+        "Zoning applications reviewed by the Planning Board and Zoning Board",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Flood zone permits required for properties in FEMA-designated areas"
+      ],
+      "contactPhone": "(201) 641-9234",
+      "contactUrl": "https://www.littleferrynj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough manages on-street parking and municipal lots.",
+      "details": [
+        "On-street parking available on most residential streets",
+        "Municipal parking available near downtown",
+        "Overnight parking restrictions on certain streets",
+        "Snow emergency parking bans enforced",
+        "No metered parking in the borough"
+      ],
+      "contactPhone": "(201) 641-9234",
+      "contactUrl": "https://www.littleferrynj.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Little Ferry Public Library",
+        "description": "Public library serving borough residents with books, programs, and digital resources.",
+        "details": [
+          "Located at 239 Liberty Street",
+          "Children's programs and summer reading",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Free Wi-Fi and computer access"
+        ],
+        "contactPhone": "(201) 641-3721",
+        "contactUrl": "https://www.littleferrylibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Youth and adult recreation programs.",
+        "details": [
+          "Youth sports leagues and summer programs",
+          "Senior citizen programs and events",
+          "Community events throughout the year",
+          "Borough parks and athletic facilities"
+        ],
+        "contactPhone": "(201) 641-9234",
+        "contactUrl": "https://www.littleferrynj.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Little Ferry enforces noise regulations to protect residential quality of life.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 8:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 6:00 PM",
+        "No construction noise on Sundays or holidays",
+        "Power equipment restricted to daytime hours",
+        "Excessive noise subject to police enforcement"
+      ],
+      "source": "Borough of Little Ferry Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition.",
+      "keyRules": [
+        "Lawns must be maintained at a reasonable height",
+        "Sidewalk snow removal required within 24 hours",
+        "Properties must be kept free of debris",
+        "Abandoned vehicles must be removed",
+        "Fences must comply with borough requirements"
+      ],
+      "source": "Borough of Little Ferry Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Little Ferry requires dog licensing and enforces leash laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately",
+        "Nuisance animals subject to enforcement",
+        "No exotic or wild animals permitted"
+      ],
+      "source": "Borough of Little Ferry Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough.",
+      "keyRules": [
+        "Overnight parking restricted on certain borough streets",
+        "Snow emergency parking bans enforced",
+        "Commercial vehicles restricted on residential streets",
+        "Parking on sidewalks prohibited",
+        "Handicapped parking violations subject to fines"
+      ],
+      "source": "Borough of Little Ferry Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Borough",
+        "Certificate of Habitability required",
+        "Landlords must maintain properties to code",
+        "Inspections at change of tenancy",
+        "Multi-family dwellings subject to additional fire codes"
+      ],
+      "source": "Borough of Little Ferry Code"
+    },
+    "other": [
+      {
+        "title": "Flood Zone Regulations",
+        "summary": "Little Ferry has areas in FEMA-designated flood zones, requiring special building and insurance requirements.",
+        "keyRules": [
+          "Properties in flood zones require flood insurance",
+          "Construction in flood zones subject to elevated building requirements",
+          "Flood damage prevention ordinance applies to all development",
+          "Borough participates in the NFIP Community Rating System"
+        ],
+        "source": "Borough of Little Ferry Flood Damage Prevention Ordinance"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Little Ferry Public Schools",
+    "publicSchools": [
+      {
+        "name": "Little Ferry Public School No. 1 (Washington School)",
+        "grades": "PreK-4",
+        "rating": 5,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Elementary school serving the borough's youngest students"
+      },
+      {
+        "name": "Little Ferry Public School No. 2 (Memorial School)",
+        "grades": "5-8",
+        "rating": 5,
+        "enrollment": 300,
+        "type": "public",
+        "notes": "Middle school serving grades 5-8 with comprehensive programming"
+      }
+    ],
+    "privateSchools": [],
+    "nearbyHigherEd": [
+      "Felician University (Rutherford/Lodi) — 5 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 15 minutes",
+      "New Jersey Institute of Technology (Newark) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "One of the most affordable communities in Bergen County",
+      "Diverse, multicultural population with a welcoming atmosphere",
+      "Convenient highway access to Routes 46, 17, and the NJ Turnpike",
+      "Close to Meadowlands entertainment (MetLife, American Dream)",
+      "Hackensack River waterfront access",
+      "NJ Transit bus service to NYC"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus",
+      "duration": "35-55 minutes to Port Authority Bus Terminal",
+      "busRoutes": ["NJ Transit Bus 165", "NJ Transit Bus 168"],
+      "notes": "NJ Transit bus routes provide service to the Port Authority Bus Terminal in Manhattan. Driving to Secaucus Junction for NJ Transit rail is another option. Routes 46 and 17 provide highway access."
+    },
+    "costOfLiving": {
+      "summary": "Little Ferry is one of the most affordable places to live in Bergen County, with housing prices well below the county median and a lower barrier to entry for first-time homebuyers.",
+      "vsStateAverage": "Approximately 5% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 25% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Very affordable by Bergen County standards",
+        "Diverse, tight-knit community",
+        "Convenient highway access for commuters",
+        "Close to major entertainment and shopping in the Meadowlands",
+        "Waterfront access on the Hackensack River"
+      ],
+      "cons": [
+        "Some areas in FEMA flood zones — flood insurance required",
+        "No direct train service — bus commute to NYC",
+        "School ratings below Bergen County averages",
+        "Industrial areas along the river and highway corridors",
+        "Borough was significantly impacted by Hurricane Sandy in 2012"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "La Forchetta",
+        "description": "Italian restaurant offering homemade pasta, classic entrees, and a warm family atmosphere.",
+        "address": "73 Main Street, Little Ferry, NJ 07643",
+        "category": "Italian"
+      },
+      {
+        "name": "Manila's Filipino Cuisine",
+        "description": "Authentic Filipino restaurant serving traditional dishes like adobo, sinigang, and lumpia, reflecting the borough's diverse community.",
+        "address": "Washington Avenue, Little Ferry, NJ 07643",
+        "category": "Filipino"
+      },
+      {
+        "name": "Little Ferry Diner",
+        "description": "Classic neighborhood diner serving breakfast, lunch, and dinner with American and Greek specialties.",
+        "address": "Washington Avenue, Little Ferry, NJ 07643",
+        "category": "Diner/American"
+      },
+      {
+        "name": "Tops Diner Express",
+        "description": "Casual eatery offering quick-service diner fare, sandwiches, and daily specials.",
+        "address": "Little Ferry, NJ 07643",
+        "category": "Diner/Quick Service"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Borough Park",
+        "description": "Main borough park with playgrounds, athletic fields, basketball courts, and picnic areas.",
+        "address": "Liberty Street, Little Ferry, NJ 07643",
+        "category": "Park/Recreation"
+      },
+      {
+        "name": "Lakeview Field",
+        "description": "Athletic fields and recreational area used for borough sports leagues and community events.",
+        "address": "Little Ferry, NJ 07643",
+        "category": "Athletics/Recreation"
+      },
+      {
+        "name": "Hackensack River Waterfront",
+        "description": "Waterfront area along the Hackensack River offering scenic views and walking opportunities.",
+        "address": "Little Ferry, NJ 07643",
+        "category": "Waterfront/Nature"
+      }
+    ],
+    "events": [
+      {
+        "name": "Little Ferry Community Day",
+        "description": "Annual community celebration with food vendors, games, music, and activities for families.",
+        "when": "Summer, typically in June or July"
+      },
+      {
+        "name": "Memorial Day Ceremony",
+        "description": "Annual ceremony honoring veterans with a parade and memorial service.",
+        "when": "Memorial Day (last Monday in May)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday tree lighting with music, refreshments, and community gathering.",
+        "when": "Early December"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "American Dream",
+        "description": "Massive entertainment and shopping complex in nearby East Rutherford featuring a water park, theme park, ski slope, and hundreds of retail stores.",
+        "address": "1 American Dream Way, East Rutherford, NJ 07073",
+        "category": "Entertainment/Shopping"
+      },
+      {
+        "name": "MetLife Stadium",
+        "description": "Home of the NFL's New York Giants and New York Jets, located in the nearby Meadowlands complex.",
+        "address": "1 MetLife Stadium Drive, East Rutherford, NJ 07073",
+        "category": "Sports/Entertainment"
+      },
+      {
+        "name": "Hackensack River Greenway",
+        "description": "Developing greenway along the Hackensack River providing walking and cycling opportunities.",
+        "address": "Little Ferry, NJ 07643",
+        "category": "Nature/Trails"
+      }
+    ],
+    "shoppingAreas": [
+      "Washington Avenue — Local shops and services",
+      "Route 46 corridor — Major retail and dining nearby",
+      "American Dream (East Rutherford) — 10 minutes away",
+      "Garden State Plaza (Paramus) — 15 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Mayor-Council form of government)",
+    "mayor": {
+      "name": "Mauro Raguseo",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Robyn Reenock",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Thomas & & Mancini",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Arlene Vega",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Joseph Giammona",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Selena Nunez",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Peter Ferris",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Tuesday of each month at 7:00 PM",
+    "meetingLocation": "Borough Hall, 215-217 Liberty Street, Little Ferry, NJ 07643",
+    "municipalWebsite": "https://www.littleferrynj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 641-9234",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 641-9234",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 641-9234",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 641-9234",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-2770",
+      "address": "215 Liberty Street, Little Ferry, NJ 07643"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-2853",
+      "address": "Little Ferry, NJ 07643"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 641-2853",
+      "address": "Little Ferry, NJ 07643"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Road, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Borough of Little Ferry Water Department",
+        "phone": "(201) 641-9234",
+        "url": "https://www.littleferrynj.org"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Little Ferry Police (Non-Emergency)",
+        "number": "(201) 641-2770"
+      },
+      {
+        "label": "Little Ferry Fire Department",
+        "number": "(201) 641-2853"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 641-9234"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}
