@@ -2,31 +2,51 @@
 
 ## What this is
 
-Multi-tenant Next.js 15 app serving 9 Bergen County, NJ town information websites from a single codebase. Each `.info` domain (ridgewood.info, wyckoff.info, etc.) serves the same app with town-specific content.
+Multi-tenant Next.js 15 app serving all 70 Bergen County, NJ municipalities from a single codebase. 9 towns have dedicated `.info` domains; the rest are served via `bergen-towns.vercel.app/?town={slug}`.
 
 ## Architecture
 
-- **Middleware** (`src/middleware.ts`) detects hostname and sets `x-town-slug` header
+- **Middleware** (`src/middleware.ts`) detects hostname → sets `x-town-slug` header → persists in cookie
 - **Server components** read the header via `getTownData()` and load JSON from `data/{slug}.json`
 - **No database** — town content is static JSON files, versioned in git
 - **Per-town theming** via CSS custom properties injected on `<html>` element
+- **Town registry** (`src/lib/town-registry.ts`) — all 70 towns with geographic neighbors and URL routing
 
 ## Key files
 
 - `src/lib/types.ts` — TypeScript interfaces (TownData schema). All JSON files must conform.
+- `src/lib/town-registry.ts` — all 70 towns, neighbor relationships, URL routing (domain vs vercel.app)
 - `src/lib/towns.ts` — `getTownData()` and `getTownSlug()` helpers used by every page.
-- `src/middleware.ts` — hostname-to-slug mapping. Add new domains here.
+- `src/middleware.ts` — hostname-to-slug mapping + cookie persistence. Priority: domain > ?town= param > cookie > default (ridgewood).
 - `src/lib/constants.ts` — section navigation definitions.
-- `data/*.json` — one file per town, all following the TownData schema.
+- `src/lib/search-index.ts` — builds full-text search index from all 70 town JSON files.
+- `data/*.json` — one file per town (70 total), all following the TownData schema.
+
+## Sections (11 per town)
+
+Overview, Real Estate & Taxes, Municipal Services, Rules & Ordinances, Schools, For Buyers, For Visitors, Local Government, Emergency, County Map, Sponsorship
+
+## Features
+
+- **Search** — `/api/search` route, cross-town full-text search, current-town results boosted (+50 score)
+- **Neighbor links** — geographic adjacency chips at top of every page
+- **County map** — NJ overview → zoomed Bergen County SVG with town border polygons, roads, landmarks
+- **Sponsorship** — three tiers, per-town contact emails ({slug}@radovici.com catchall)
+- **Nav scroll arrows** — gradient fade arrows when tabs overflow
+- **Analytics** — Google Analytics 4 (env: NEXT_PUBLIC_GA_ID), Vercel Speed Insights
 
 ## Adding a town
 
 1. Create `data/{slug}.json` matching the TownData interface
-2. Add domain mapping in `src/middleware.ts`
-3. Add slug to `ALL_TOWN_SLUGS` in `src/lib/towns.ts`
-4. Add pin in `src/components/BergenCountyMap.tsx`
-5. Add entry in `src/components/Footer.tsx` TOWN_DISPLAY
-6. Add domain in Vercel dashboard + configure DNS
+2. Add entry in `src/lib/town-registry.ts` (slug, name, neighbors, optional domain)
+3. Add polygon in `src/components/BergenMap.tsx`
+4. If it has a custom domain: add domain mapping in `src/middleware.ts` + Vercel dashboard + DNS
+
+## Tests
+
+```bash
+npm test  # 30 tests: data integrity, neighbor symmetry, middleware resolution
+```
 
 ## Local dev
 
@@ -39,5 +59,6 @@ npm run dev
 
 - Vercel project: `fedago/bergen-towns`
 - GitHub: `Radovici/bergen-towns`
-- Domains managed in Vercel dashboard; DNS at IONOS
+- 9 custom domains + 9 www variants configured in Vercel
+- DNS at IONOS (A → 76.76.21.21, CNAME www → cname.vercel-dns.com)
 - Auto-deploys on push to main
