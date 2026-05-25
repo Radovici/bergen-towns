@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "slug": "tenafly",
+    "name": "Tenafly",
+    "fullName": "Borough of Tenafly",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "tenafly.info",
+    "zipCodes": ["07670"],
+    "themeColor": "#3d4f7c",
+    "accentColor": "#5a72a8"
+  },
+  "overview": {
+    "tagline": "Where Excellent Schools Meet Natural Beauty",
+    "description": "Tenafly is an affluent residential borough in Bergen County, New Jersey, celebrated for its outstanding public schools, diverse and welcoming community, and proximity to the Palisades Interstate Park. Situated along the western slope of the New Jersey Palisades, the borough offers a unique blend of suburban tranquility and convenient access to New York City. Tenafly's vibrant downtown along Washington Street features local shops, restaurants, and a strong sense of community that draws families from around the world.",
+    "population": 15006,
+    "populationYear": 2020,
+    "areaSqMi": 4.29,
+    "elevation": "200 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Tenafly Public Schools",
+    "highlights": [
+      "Top-ranked public school district consistently rated among the best in New Jersey",
+      "Adjacent to Palisades Interstate Park with miles of hiking trails",
+      "Diverse, multicultural community with significant Korean-American population",
+      "Charming downtown along Washington Street",
+      "Easy NYC commute via NJ Transit bus"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$1,050,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.60%",
+    "averagePropertyTax": "$21,000",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Bergen County conducts periodic reassessments to ensure equitable valuation.",
+    "recentTrends": "Tenafly's housing market has been robust with strong demand driven by its school reputation and NYC accessibility. Bidding wars are common for well-maintained homes in prime locations. The east hill area commands the highest prices.",
+    "neighborhoodNotes": [
+      "East Hill is the most prestigious area with larger homes and panoramic views toward the Palisades",
+      "The downtown/Washington Street area offers walkability and convenience",
+      "West Tenafly near the Cresskill border has a mix of colonials and split-levels",
+      "The area near Palisades Interstate Park is prized for nature access",
+      "North Tenafly near Alpine border features some of the most expensive properties"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly for residential properties by a contracted hauler.",
+      "details": [
+        "Collection days are typically Monday/Thursday or Tuesday/Friday depending on location",
+        "Trash must be in sealed containers or bags and placed at the curb by 6:00 AM",
+        "Maximum of 6 containers or 10 bags per collection",
+        "Bulk item pickup is available by appointment",
+        "Holiday schedules are posted on the borough website"
+      ],
+      "contactPhone": "(201) 568-6100",
+      "contactUrl": "https://www.tenaflynj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly curbside recycling collection for all residential properties, coordinated through the Bergen County Utilities Authority.",
+      "details": [
+        "Single-stream recycling collected once per week",
+        "Accepted: paper, cardboard, glass, plastics #1-#7, metal cans",
+        "Do not include plastic bags, styrofoam, or food waste",
+        "Yard waste collected separately in spring, summer, and fall",
+        "Recycling drop-off also available at the DPW yard"
+      ],
+      "contactPhone": "(201) 568-6100",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water. Sewer service is managed by the borough and treated by the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills are issued quarterly",
+        "Sewer charges are included in the tax billing",
+        "Annual water quality reports are available online",
+        "Contact Veolia for water service issues or new connections",
+        "Backflow prevention devices may be required for certain properties"
+      ],
+      "contactPhone": "(201) 767-9300",
+      "contactUrl": "https://www.myveoliawater.com"
+    },
+    "permits": {
+      "title": "Building & Zoning Permits",
+      "description": "The Building Department oversees all construction and zoning permit applications. Permits are required for most exterior and interior modifications.",
+      "details": [
+        "Permits required for construction, additions, renovations, and demolition",
+        "Zoning applications for variances heard by the Zoning Board of Adjustment",
+        "Tree removal permits required for trees over a certain caliper",
+        "Historic district considerations may apply in certain areas",
+        "Applications available at Borough Hall or on the borough website"
+      ],
+      "contactPhone": "(201) 568-6100",
+      "contactUrl": "https://www.tenaflynj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Tenafly has metered and permit parking in the downtown area to manage parking for commuters and shoppers.",
+      "details": [
+        "Metered parking available on Washington Street and surrounding streets",
+        "Commuter parking permits available for NJ Transit bus riders",
+        "Residential permit parking in areas near the downtown core",
+        "Overnight parking restrictions on most borough streets",
+        "Parking enforcement is active in the downtown area"
+      ],
+      "contactPhone": "(201) 568-5100"
+    },
+    "additionalServices": [
+      {
+        "title": "Leaf Collection",
+        "description": "Seasonal leaf collection for all residential properties during fall months.",
+        "details": [
+          "Loose leaf collection runs from mid-October through mid-December",
+          "Leaves should be raked to the curb, not into the street",
+          "Do not mix leaves with branches or other materials",
+          "Multiple passes through each neighborhood during the season"
+        ],
+        "contactPhone": "(201) 568-6100"
+      },
+      {
+        "title": "Recreation Programs",
+        "description": "The Tenafly Recreation Department offers year-round programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues, swim programs, and summer camps",
+          "Adult fitness, tennis, and enrichment programs",
+          "Senior citizen programs and trips",
+          "Pool memberships at the Tenafly Swim Club (municipal)"
+        ],
+        "contactPhone": "(201) 568-6100"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Tenafly enforces noise regulations to preserve the residential character of the borough with specific quiet hours.",
+      "keyRules": [
+        "Quiet hours: 10:00 PM to 8:00 AM on weekdays, 10:00 PM to 9:00 AM on weekends",
+        "Construction limited to 8:00 AM - 6:00 PM weekdays, 9:00 AM - 5:00 PM Saturdays",
+        "No construction on Sundays or holidays",
+        "Gas-powered leaf blowers prohibited during certain months (seasonal restrictions)",
+        "Amplified music and sound systems must comply with decibel limits"
+      ],
+      "source": "Borough of Tenafly Code, Chapter 261"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain structures and grounds in compliance with borough standards.",
+      "keyRules": [
+        "Lawns must be maintained and not exceed 10 inches in height",
+        "Properties must be kept free of debris, junk, and abandoned vehicles",
+        "Exterior structures must be maintained in good repair and appearance",
+        "Snow and ice must be cleared from sidewalks within a reasonable time after a storm",
+        "Swimming pools must have proper fencing and safety barriers"
+      ],
+      "source": "Borough of Tenafly Property Maintenance Code"
+    },
+    "pets": {
+      "title": "Pet & Animal Regulations",
+      "summary": "Dogs and cats must be licensed and vaccinated. Leash laws are strictly enforced.",
+      "keyRules": [
+        "All dogs must be licensed annually with proof of rabies vaccination",
+        "Dogs must be on a leash at all times when off the owner's property",
+        "Pet waste must be immediately cleaned up on public and private property",
+        "No more than 3 dogs per household",
+        "Excessive barking complaints are investigated by Animal Control",
+        "Cats should be vaccinated against rabies"
+      ],
+      "source": "Borough of Tenafly Code, Animals Chapter"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking is regulated throughout the borough with restrictions on overnight parking and specific zones in the downtown area.",
+      "keyRules": [
+        "No overnight street parking between 2:00 AM and 6:00 AM",
+        "Metered parking enforced in the downtown business district",
+        "Commuter parking by permit only in designated lots",
+        "No commercial vehicle parking on residential streets",
+        "Snow emergency parking bans may be declared during storms"
+      ],
+      "source": "Borough of Tenafly Traffic Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with housing codes and landlords are subject to registration requirements.",
+      "keyRules": [
+        "Rental units must meet all housing and building code standards",
+        "Landlords may need to register rental properties with the borough",
+        "Certificate of Occupancy or Habitability inspection at change of tenancy",
+        "Multi-family housing limited to specifically zoned areas",
+        "Short-term rental regulations may apply"
+      ],
+      "source": "Borough of Tenafly Housing Code"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Tenafly has strict tree preservation ordinances to protect the borough's tree canopy.",
+        "keyRules": [
+          "A permit is required to remove any tree over 6 inches in diameter at breast height",
+          "Replacement planting may be required when trees are removed",
+          "Protected species include oaks, maples, and other native hardwoods",
+          "Tree damage during construction is subject to penalties",
+          "The Shade Tree Commission reviews applications and advises on tree matters"
+        ],
+        "source": "Borough of Tenafly Code, Trees Chapter"
+      },
+      {
+        "title": "Fence and Wall Regulations",
+        "summary": "Fences and walls are regulated for height, location, and appearance.",
+        "keyRules": [
+          "Front yard fences limited to 4 feet in height",
+          "Side and rear yard fences limited to 6 feet",
+          "Permits required for all new fences",
+          "Deer fencing may be permitted up to 8 feet with approval",
+          "The finished side of the fence must face the neighboring property"
+        ],
+        "source": "Borough of Tenafly Zoning Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Tenafly Public Schools",
+    "publicSchools": [
+      {
+        "name": "Maugham School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Elementary school serving the central/north area of the borough"
+      },
+      {
+        "name": "Malcolm S. Mackay School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 360,
+        "type": "public",
+        "notes": "Elementary school serving the eastern section of the borough"
+      },
+      {
+        "name": "Stillman School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 340,
+        "type": "public",
+        "notes": "Elementary school in the western section of Tenafly"
+      },
+      {
+        "name": "Smith School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 330,
+        "type": "public",
+        "notes": "Elementary school serving the southern area of the borough"
+      },
+      {
+        "name": "Tenafly Middle School",
+        "grades": "6-8",
+        "rating": 9,
+        "enrollment": 850,
+        "type": "public",
+        "notes": "Highly rated middle school with strong STEM and arts programs"
+      },
+      {
+        "name": "Tenafly High School",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 1200,
+        "type": "public",
+        "notes": "Consistently ranked among the top public high schools in New Jersey; known for academic excellence, competitive math team, and robust AP course offerings"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Yavneh Academy",
+        "grades": "K-8",
+        "type": "private",
+        "enrollment": 350,
+        "notes": "Modern Orthodox Jewish day school offering dual curriculum of Judaic and general studies"
+      },
+      {
+        "name": "The Elisabeth Morrow School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 450,
+        "notes": "Independent school located in nearby Englewood, popular with Tenafly families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University (Teaneck) — 5 miles",
+      "Bergen Community College (Paramus) — 7 miles",
+      "Columbia University (New York City) — 12 miles",
+      "Fordham University (New York City) — 15 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Outstanding public schools consistently ranked in the top tier statewide",
+      "Diverse, multicultural community that is welcoming to families from all backgrounds",
+      "Access to Palisades Interstate Park for hiking, biking, and nature",
+      "Charming downtown on Washington Street with local shops and restaurants",
+      "Convenient bus commute to Manhattan",
+      "Safe, family-oriented neighborhoods with excellent property values"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "Bus (NJ Transit)",
+      "duration": "30-50 minutes",
+      "busRoutes": ["166", "167"],
+      "notes": "NJ Transit bus routes 166 and 167 provide direct service from Tenafly to the Port Authority Bus Terminal in Midtown Manhattan. Commuter parking is available in the downtown area. Driving to the George Washington Bridge takes approximately 10-15 minutes. Many residents also drive to the Englewood Cliffs ferry or nearby train stations."
+    },
+    "costOfLiving": {
+      "summary": "Tenafly is one of the more expensive communities in Bergen County, with high home prices and property taxes reflecting the quality of schools and community amenities.",
+      "vsStateAverage": "About 40% above the New Jersey average",
+      "vsNationalAverage": "Approximately 80% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Top-ranked public schools attract families globally",
+        "Strong sense of community and cultural diversity",
+        "Beautiful natural setting near the Palisades",
+        "Walkable downtown with local character",
+        "Low crime rate and safe neighborhoods",
+        "Good NYC bus commute options"
+      ],
+      "cons": [
+        "Very high property taxes (among the highest in the state)",
+        "High home prices limit entry for many buyers",
+        "Limited nightlife and entertainment options",
+        "No train station; bus commute dependent",
+        "Downtown parking can be challenging"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Amici Ristorante",
+        "description": "Popular Italian restaurant offering traditional pasta, seafood, and meat dishes in a warm, family-friendly atmosphere.",
+        "address": "29 W Railroad Ave, Tenafly, NJ 07670",
+        "category": "Italian"
+      },
+      {
+        "name": "Sushi Seki",
+        "description": "High-quality Japanese sushi restaurant known for its fresh fish and omakase offerings.",
+        "address": "25 Washington St, Tenafly, NJ 07670",
+        "category": "Japanese"
+      },
+      {
+        "name": "Jangkeum Tofu & BBQ",
+        "description": "Authentic Korean restaurant specializing in soondubu jjigae (soft tofu stew) and Korean BBQ, reflecting Tenafly's vibrant Korean-American community.",
+        "address": "2 Washington St, Tenafly, NJ 07670",
+        "category": "Korean"
+      },
+      {
+        "name": "Classic Cake Company",
+        "description": "Beloved local bakery and cafe known for its cakes, pastries, and light lunch fare. A neighborhood gathering spot.",
+        "address": "54 Washington St, Tenafly, NJ 07670",
+        "category": "Bakery/Cafe"
+      },
+      {
+        "name": "Orangetheory Taco (Tenafly Taco)",
+        "description": "Casual Mexican eatery serving fresh tacos, burritos, and guacamole in a cheerful setting on Washington Street.",
+        "address": "15 Washington St, Tenafly, NJ 07670",
+        "category": "Mexican"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Palisades Interstate Park — Alpine Section",
+        "description": "Spectacular parkland along the top and base of the New Jersey Palisades cliffs, offering hiking trails with stunning views of the Hudson River and the George Washington Bridge. The Long Path and Shore Trail are popular routes.",
+        "address": "Alpine Approach Rd, Alpine, NJ 07620",
+        "category": "State/Interstate Park"
+      },
+      {
+        "name": "Davis Johnson Park & Gardens",
+        "description": "A 6-acre borough park featuring beautifully maintained gardens, a gazebo, playground, and walking paths. Popular for community events and quiet relaxation.",
+        "address": "137 Engle St, Tenafly, NJ 07670",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Roosevelt Common",
+        "description": "Central green space and recreation area near the municipal complex, featuring athletic fields, a track, and open space for community gatherings.",
+        "address": "100 Riveredge Rd, Tenafly, NJ 07670",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Tenafly Nature Center",
+        "description": "A 55-acre nature preserve with hiking trails, educational programs, and a visitor center. Offers year-round nature programs for children and adults.",
+        "address": "313 Hudson Ave, Tenafly, NJ 07670",
+        "category": "Nature Preserve"
+      }
+    ],
+    "events": [
+      {
+        "name": "Tenafly Street Fair",
+        "description": "Annual street fair along Washington Street featuring local vendors, food, live music, and family entertainment. A beloved community tradition.",
+        "when": "Fall (September/October)"
+      },
+      {
+        "name": "Tenafly 5K Road Race",
+        "description": "Annual community road race through the borough's scenic streets, drawing runners of all ages and abilities.",
+        "when": "Spring"
+      },
+      {
+        "name": "Concert in the Park Series",
+        "description": "Free summer concert series held in Davis Johnson Park, featuring a variety of musical acts for the whole family.",
+        "when": "Summer (June-August)"
+      },
+      {
+        "name": "Tenafly Nature Center Events",
+        "description": "Year-round nature programs including guided hikes, birding walks, children's camps, and holiday events at the Tenafly Nature Center.",
+        "when": "Year-round"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Tenafly Nature Center",
+        "description": "A 55-acre nature preserve with marked trails, educational programs, and a visitor center providing an oasis of nature within a suburban setting.",
+        "address": "313 Hudson Ave, Tenafly, NJ 07670",
+        "category": "Nature"
+      },
+      {
+        "name": "Clinton Inn (Historic)",
+        "description": "Historic inn and event venue on Washington Street, a longstanding landmark in Tenafly's downtown.",
+        "address": "145 Dean Dr, Tenafly, NJ 07670",
+        "category": "Historic"
+      },
+      {
+        "name": "Palisades Cliffs Scenic Overlooks",
+        "description": "Breathtaking views of the Hudson River and Manhattan skyline from various lookout points along the Palisades Interstate Park adjacent to Tenafly.",
+        "category": "Scenic"
+      }
+    ],
+    "shoppingAreas": [
+      "Washington Street downtown business district",
+      "County Road/Jay Street commercial area",
+      "Tenafly Plaza"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor-Council",
+    "mayor": {
+      "name": "Mark Zinna",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Alysha Delker",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Justin Musella",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Lauren Dayton",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Afshin Peykar",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Maxim Sapozhnikov",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Monica Yang",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Regular meetings are held on the 2nd and 4th Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Tenafly Borough Hall, 100 Riveredge Rd, Tenafly, NJ 07670",
+    "municipalWebsite": "https://www.tenaflynj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 568-6100",
+        "email": "clerk@tenaflynj.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 568-6100",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 568-6100",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 569-1361",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 568-6100",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Health Department",
+        "phone": "(201) 568-6100",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 568-5100",
+      "address": "100 Riveredge Rd, Tenafly, NJ 07670"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 568-0266",
+      "address": "357 Riveredge Rd, Tenafly, NJ 07670"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 568-5100",
+      "address": "Tenafly Volunteer Ambulance Corps"
+    },
+    "hospitals": [
+      {
+        "name": "Englewood Health (Englewood Hospital)",
+        "address": "350 Engle St, Englewood, NJ 07631",
+        "phone": "(201) 894-3000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Ave, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Rd, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-9300",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Verizon Fios",
+        "phone": "(800) 837-4966",
+        "url": "https://www.verizon.com/fios"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Borough Hall",
+        "number": "(201) 568-6100"
+      },
+      {
+        "label": "Police Non-Emergency",
+        "number": "(201) 568-5100"
+      },
+      {
+        "label": "Poison Control",
+        "number": "(800) 222-1222"
+      },
+      {
+        "label": "Bergen County Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "NJ 2-1-1 (Social Services)",
+        "number": "2-1-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "slug": "allendale",
+    "name": "Allendale",
+    "fullName": "Borough of Allendale",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "allendale.info",
+    "zipCodes": ["07401"],
+    "themeColor": "#2d5016",
+    "accentColor": "#4a7a2e"
+  },
+  "overview": {
+    "tagline": "A small, quiet borough offering peaceful residential living and strong community bonds",
+    "description": "The Borough of Allendale is a small, predominantly residential community in northwestern Bergen County. Known for its quiet neighborhoods, excellent schools, and tight-knit community, Allendale provides an idyllic setting for families seeking suburban living with easy access to the New York metropolitan area. The borough is also home to a section of the Celery Farm, a renowned natural area and birding destination.",
+    "population": 6848,
+    "populationYear": 2020,
+    "areaSqMi": 3.15,
+    "elevation": "328 ft",
+    "incorporated": "1894",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Allendale Public Schools (K-8) / Northern Highlands Regional High School District (9-12)",
+    "highlights": [
+      "The Celery Farm — 107-acre freshwater wetland and birding preserve",
+      "Excellent K-8 schools and top-ranked Northern Highlands Regional High School",
+      "NJ Transit train service on the Main Line from Allendale station",
+      "Small-town atmosphere with active community organizations",
+      "Low crime rate and safe, walkable neighborhoods"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$650,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.90%",
+    "averagePropertyTax": "$14,200",
+    "assessmentInfo": "Property assessments are handled through the Bergen County Tax Board. The borough maintains assessment records and conducts periodic revaluations.",
+    "recentTrends": "Allendale's real estate market has seen steady appreciation driven by the strong school system and desirable small-town character. Inventory remains limited, and homes in good condition sell quickly. New construction and renovations of older homes are common.",
+    "neighborhoodNotes": [
+      "Downtown/Station area — Close to the NJ Transit train station and borough center",
+      "Brookside Avenue area — Established neighborhood with mature trees and larger lots",
+      "Mallinson neighborhood — Newer construction and well-maintained colonials",
+      "Celery Farm vicinity — Properties near the nature preserve with scenic surroundings",
+      "West Allendale — Quiet streets with a mix of ranch and colonial-style homes"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided by a contracted private hauler for the Borough of Allendale.",
+      "details": [
+        "Twice-weekly pickup on designated days",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with lids; maximum 50 lbs per container",
+        "Bulk item pickup available by appointment with the hauler",
+        "Holiday schedule changes posted on borough website"
+      ],
+      "contactPhone": "(201) 818-4400",
+      "contactUrl": "https://www.allendalenj.gov"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Weekly curbside recycling collection is provided by the borough's contracted hauler.",
+      "details": [
+        "Single-stream recycling: glass, cans, plastics #1-#7, paper, and cardboard",
+        "Recycling bins available from the borough",
+        "Yard waste collected curbside during designated seasonal periods",
+        "Leaf collection available in fall months",
+        "Bergen County Utilities Authority recycling drop-off available"
+      ],
+      "contactPhone": "(201) 818-4400",
+      "contactUrl": "https://www.allendalenj.gov"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer service is managed by the Borough of Allendale with water supplied through the regional system.",
+      "details": [
+        "Water supplied through the regional water system",
+        "Quarterly billing for water and sewer service",
+        "Water quality reports available annually",
+        "Sewer maintenance handled by the borough DPW",
+        "After-hours water emergencies handled through the police department"
+      ],
+      "contactPhone": "(201) 818-4400",
+      "contactUrl": "https://www.allendalenj.gov"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, inspections, and code enforcement.",
+      "details": [
+        "Permits required for all construction, renovations, and additions",
+        "Zoning Board and Planning Board handle variance and site plan applications",
+        "Permit applications available at Borough Hall",
+        "Inspections scheduled through the Building Department",
+        "Certificate of Occupancy required before moving into new or renovated structures"
+      ],
+      "contactPhone": "(201) 818-4400",
+      "contactUrl": "https://www.allendalenj.gov"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Borough maintains commuter parking near the Allendale train station and limited public parking in the town center.",
+      "details": [
+        "Commuter parking permits available at the train station lot",
+        "Permit waiting list may apply for commuter spots",
+        "Free parking at the Allendale Community Pool and parks",
+        "No overnight on-street parking without police notification"
+      ],
+      "contactPhone": "(201) 818-4400"
+    },
+    "additionalServices": [
+      {
+        "title": "Lee Memorial Library",
+        "description": "Public library serving Allendale residents with books, media, programs, and digital resources.",
+        "details": [
+          "Located at 500 West Crescent Avenue",
+          "Children's programs, story times, and summer reading",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Community room available for meetings and events"
+        ],
+        "contactPhone": "(201) 327-4338",
+        "contactUrl": "https://www.leememoriallibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Recreation programs and facilities for Allendale residents.",
+        "details": [
+          "Youth sports programs including soccer, baseball, and basketball",
+          "Allendale Swim Club (community pool) with summer memberships",
+          "Adult recreation programs and fitness classes",
+          "Summer camp programs for children"
+        ],
+        "contactPhone": "(201) 818-4400",
+        "contactUrl": "https://www.allendalenj.gov"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Allendale enforces noise ordinances to maintain the quiet, residential character of the borough.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 6:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise on Sundays or federal holidays",
+        "Power equipment (leaf blowers, mowers) restricted before 8:00 AM on weekends",
+        "Loud music and disturbances prohibited after 10:00 PM"
+      ],
+      "source": "Borough of Allendale Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Homeowners and property owners must maintain their properties in accordance with borough standards.",
+      "keyRules": [
+        "Lawns must be mowed and maintained; grass not to exceed 10 inches",
+        "Sidewalks must be cleared of snow and ice within 24 hours of a storm",
+        "No junk, debris, or inoperable vehicles on residential properties",
+        "Fences not to exceed 6 feet in rear yards and 4 feet in front yards",
+        "Dead trees and hazardous limbs must be removed promptly"
+      ],
+      "source": "Borough of Allendale Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Allendale requires dog licensing and enforces leash and waste cleanup laws.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually",
+        "Current rabies vaccination required for license",
+        "Dogs must be on a leash at all times when off the owner's property",
+        "Pet waste must be cleaned up immediately by the owner",
+        "Nuisance barking subject to fines after warnings"
+      ],
+      "source": "Borough of Allendale Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "On-street parking in Allendale is regulated to maintain safety and access in residential areas.",
+      "keyRules": [
+        "No overnight parking on borough streets between 2:00 AM and 6:00 AM",
+        "Snow emergency parking bans require vehicles off-street",
+        "Commercial vehicles over 4 tons may not park on residential streets overnight",
+        "Parking at the train station lot requires a valid commuter permit",
+        "Violations subject to fines and possible towing"
+      ],
+      "source": "Borough of Allendale Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough codes and registration requirements.",
+      "keyRules": [
+        "Rental units must be registered with the Borough",
+        "Certificate of Habitability required before tenant occupancy",
+        "Landlords must maintain properties to housing code standards",
+        "Short-term rentals (under 30 days) are not permitted in residential zones",
+        "Inspections conducted at change of tenancy"
+      ],
+      "source": "Borough of Allendale Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Environmental Protection — Celery Farm",
+        "summary": "The Celery Farm natural area is protected by borough ordinance and managed by the Fyke Nature Association.",
+        "keyRules": [
+          "No motorized vehicles, bicycles, or horses on Celery Farm trails",
+          "Dogs must be leashed at all times on the preserve",
+          "No hunting, fishing, or trapping on the preserve",
+          "Trail hours are dawn to dusk; no nighttime access",
+          "No dumping, littering, or removal of plants and wildlife"
+        ],
+        "source": "Borough of Allendale Municipal Code"
+      },
+      {
+        "title": "Tree Removal",
+        "summary": "Removal of significant trees on private property requires a permit.",
+        "keyRules": [
+          "Permit required for removal of trees over a certain caliper on private property",
+          "Shade Tree Commission may require replacement plantings",
+          "Borough Shade Tree Commission manages public trees",
+          "Unauthorized removal of public trees subject to fines"
+        ],
+        "source": "Borough of Allendale Municipal Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Allendale Public Schools (K-8) / Northern Highlands Regional High School District (9-12)",
+    "publicSchools": [
+      {
+        "name": "Northern Highlands Regional High School",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 1250,
+        "type": "public",
+        "notes": "Highly ranked regional high school serving Allendale, Ho-Ho-Kus, Saddle River, and Upper Saddle River; excellent academics, athletics, and college placement"
+      },
+      {
+        "name": "Brookside School",
+        "grades": "5-8",
+        "rating": 8,
+        "enrollment": 400,
+        "type": "public",
+        "notes": "Upper elementary and middle school serving Allendale students"
+      },
+      {
+        "name": "Hillside School",
+        "grades": "K-4",
+        "rating": 8,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Elementary school serving all Allendale students in grades K through 4"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Academy of Our Lady of Mount Virgin",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 180,
+        "notes": "Catholic elementary school located in nearby Middlesex but drawing some Allendale families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 10 minutes",
+      "William Paterson University (Wayne) — 20 minutes",
+      "Bergen Community College (Paramus) — 20 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 30 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Excellent schools including top-ranked Northern Highlands Regional High School",
+      "Small-town charm with a population under 7,000",
+      "NJ Transit Main Line train station for commuting to NYC",
+      "The Celery Farm — a premier birding and nature preserve",
+      "Safe, quiet neighborhoods with low crime rates",
+      "Strong community organizations and volunteer spirit"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Main Line",
+      "duration": "50-65 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "Allendale Station (on West Allendale Avenue)",
+      "busRoutes": ["NJ Transit Bus 148"],
+      "notes": "Allendale has its own NJ Transit train station on the Main Line, providing direct service to Hoboken Terminal. From Hoboken, commuters transfer to PATH trains or NY Waterway ferry to reach Manhattan. The 148 bus also provides service to the Port Authority Bus Terminal."
+    },
+    "costOfLiving": {
+      "summary": "Allendale is an upper-middle-class Bergen County suburb with costs above state and national averages. Housing and property taxes are the primary drivers of the elevated cost of living.",
+      "vsStateAverage": "Approximately 40% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 70% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Top-ranked Northern Highlands Regional High School",
+        "Small-town feel with strong community bonds",
+        "Own NJ Transit train station for commuting",
+        "Beautiful natural areas including the Celery Farm",
+        "Safe and quiet residential neighborhoods"
+      ],
+      "cons": [
+        "High property taxes common to Bergen County",
+        "Very limited commercial and retail options in town",
+        "Small town center with few dining and entertainment choices",
+        "Train commute to Manhattan requires a Hoboken transfer",
+        "Limited housing inventory due to small borough size"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Allendale Bar & Grill",
+        "description": "Casual neighborhood restaurant and bar serving American fare including burgers, wings, and pub classics.",
+        "address": "West Allendale Avenue, Allendale, NJ 07401",
+        "category": "American/Bar & Grill"
+      },
+      {
+        "name": "Station Bistro",
+        "description": "Cozy bistro near the train station offering seasonal American cuisine with a focus on fresh, local ingredients.",
+        "address": "West Allendale Avenue, Allendale, NJ 07401",
+        "category": "American/Bistro"
+      },
+      {
+        "name": "Nagoya Sushi & Thai",
+        "description": "Japanese and Thai restaurant serving sushi, sashimi, Thai curries, and noodle dishes.",
+        "address": "West Allendale Avenue, Allendale, NJ 07401",
+        "category": "Japanese/Thai"
+      }
+    ],
+    "parks": [
+      {
+        "name": "The Celery Farm",
+        "description": "A 107-acre freshwater wetland preserve managed by the Fyke Nature Association. One of New Jersey's premier birding sites, home to over 240 species of birds, plus amphibians, turtles, and native plants. Walking trails circle the marshes and Allendale Brook.",
+        "address": "Franklin Turnpike, Allendale, NJ 07401",
+        "category": "Nature Preserve/Birding"
+      },
+      {
+        "name": "Crestwood Park",
+        "description": "Borough park with ball fields, playground, basketball courts, and open space for family recreation.",
+        "address": "Crestwood Drive, Allendale, NJ 07401",
+        "category": "Recreation/Sports"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Community park featuring a playground, gazebo, and memorial area. A gathering spot for borough events.",
+        "address": "West Allendale Avenue, Allendale, NJ 07401",
+        "category": "Memorial/Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Allendale Community Day",
+        "description": "Annual community celebration with carnival rides, food trucks, games, and live entertainment for all ages.",
+        "when": "September, typically mid-September"
+      },
+      {
+        "name": "Celery Farm Bird Walks",
+        "description": "Guided bird walks led by the Fyke Nature Association through the Celery Farm preserve, welcoming birders of all skill levels.",
+        "when": "Monthly, year-round (typically Saturday mornings)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual borough holiday celebration with tree lighting, caroling, and refreshments at Memorial Park.",
+        "when": "First weekend in December"
+      },
+      {
+        "name": "Memorial Day Parade",
+        "description": "Annual Memorial Day parade through the borough honoring veterans and active service members.",
+        "when": "Last Monday in May"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "The Celery Farm Natural Area",
+        "description": "A 107-acre freshwater wetland and birding preserve, recognized as one of New Jersey's most important birding sites. Maintained by the Fyke Nature Association with well-marked trails and viewing areas.",
+        "address": "Franklin Turnpike, Allendale, NJ 07401",
+        "category": "Nature/Birding"
+      },
+      {
+        "name": "Allendale Train Station",
+        "description": "Historic NJ Transit station on the Main Line, serving as the borough's connection to Hoboken and the NYC metro area. The station area is a center of the small downtown.",
+        "address": "West Allendale Avenue, Allendale, NJ 07401",
+        "category": "Transportation/Historic"
+      },
+      {
+        "name": "Lee Memorial Library",
+        "description": "Allendale's public library offering an inviting space for reading, programs, and community events.",
+        "address": "500 West Crescent Avenue, Allendale, NJ 07401",
+        "category": "Culture/Education"
+      }
+    ],
+    "shoppingAreas": [
+      "West Allendale Avenue — Small downtown with shops and restaurants near the train station",
+      "Franklin Turnpike — Some retail and service businesses",
+      "Ramsey shopping — Additional retail options in neighboring Ramsey",
+      "Paramus/Ridgewood — Major shopping centers within 15-20 minutes"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Ari Bernstein",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Liz Homan",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Steve Sasso",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Amy Wilczynski",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Jim Strauch",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "David Daloisio",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Matthew O'Toole",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets the 2nd and 4th Thursday of each month at 8:00 PM",
+    "meetingLocation": "Borough Hall, 500 West Crescent Avenue, Allendale, NJ 07401",
+    "municipalWebsite": "https://www.allendalenj.gov",
+    "importantContacts": [
+      {
+        "department": "Borough Administrator's Office",
+        "phone": "(201) 818-4400",
+        "email": "administrator@allendalenj.gov",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 818-4400",
+        "email": "clerk@allendalenj.gov",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 818-4400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 818-4400",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 818-4400",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 825-1900",
+      "address": "500 West Crescent Avenue, Allendale, NJ 07401"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 825-6414",
+      "address": "Allendale, NJ 07401"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 825-1900",
+      "address": "Allendale, NJ 07401"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Good Samaritan Hospital",
+        "address": "255 Lafayette Avenue, Suffern, NY 10901",
+        "phone": "(845) 368-5000",
+        "distanceMiles": 7
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Borough of Allendale Water Department",
+        "phone": "(201) 818-4400",
+        "url": "https://www.allendalenj.gov"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Borough of Allendale",
+        "phone": "(201) 818-4400",
+        "url": "https://www.allendalenj.gov"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Allendale Police (Non-Emergency)",
+        "number": "(201) 825-1900"
+      },
+      {
+        "label": "Allendale Fire Department",
+        "number": "(201) 825-6414"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "(201) 818-4400"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

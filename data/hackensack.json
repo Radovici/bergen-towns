@@ -1,0 +1,597 @@
+{
+  "meta": {
+    "slug": "hackensack",
+    "name": "Hackensack",
+    "fullName": "City of Hackensack",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "hackensack.info",
+    "zipCodes": ["07601", "07602"],
+    "themeColor": "#1a3a8c",
+    "accentColor": "#2d5ab8"
+  },
+  "overview": {
+    "tagline": "The heart of Bergen County",
+    "description": "Hackensack is the county seat of Bergen County and one of northern New Jersey's most important urban centers. Home to the renowned Hackensack University Medical Center and the Bergen County Courthouse, it serves as a hub for government, healthcare, commerce, and culture. The city has undergone significant revitalization in recent years, with new residential developments, dining establishments, and cultural venues transforming its downtown into a walkable, vibrant urban core.",
+    "population": 44522,
+    "populationYear": 2020,
+    "areaSqMi": 4.24,
+    "elevation": "20-100 ft above sea level",
+    "incorporated": "1693 (township), 1921 (city)",
+    "governmentType": "City (Council-Manager)",
+    "schoolDistrict": "Hackensack Public Schools",
+    "highlights": [
+      "County seat of Bergen County — home to the courthouse and county government offices",
+      "Hackensack University Medical Center — one of NJ's premier hospitals and largest employers",
+      "Major downtown revitalization with new mixed-use residential and retail developments",
+      "Historic Main Street with diverse dining, shopping, and cultural offerings",
+      "Hackensack River Greenway and waterfront park development underway"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$480,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "3.15%",
+    "averagePropertyTax": "$10,500",
+    "assessmentInfo": "Properties are assessed by the City Tax Assessor. Hackensack has a diverse housing stock ranging from pre-war single-family homes to modern luxury apartments. PILOT (Payment in Lieu of Taxes) programs apply to several new developments.",
+    "recentTrends": "Hackensack's real estate market has been transformed by downtown redevelopment. New luxury apartment buildings have attracted young professionals and empty nesters. Single-family home prices have risen steadily. The city offers relative value compared to neighboring suburbs.",
+    "neighborhoodNotes": [
+      "Downtown / Main Street area features new luxury apartments and mixed-use developments with walkable amenities",
+      "Fairmount section in the south is a quiet residential area with single-family homes and tree-lined streets",
+      "Prospect Avenue / Hospital area has a mix of housing types near Hackensack University Medical Center",
+      "Johnson Avenue corridor in the north includes diverse neighborhoods with more affordable housing options",
+      "Hackensack River waterfront is an emerging area with planned parks and residential development"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by the City's Department of Public Works.",
+      "details": [
+        "Collection days vary by ward — check the city website for your schedule",
+        "Trash must be in sealed bags or covered containers, maximum 50 lbs",
+        "Place at curbside by 6:00 AM on collection day",
+        "Bulk item pickup available by calling the DPW to schedule",
+        "No hazardous waste, electronics, or tires in regular trash"
+      ],
+      "contactPhone": "201-646-3960",
+      "contactUrl": "https://www.hackensack.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected weekly, managed through the Bergen County Utilities Authority program.",
+      "details": [
+        "Commingled recyclables (glass, plastic #1-#7, aluminum, steel cans) in blue bin",
+        "Paper, cardboard, and newspapers collected separately",
+        "No plastic bags, Styrofoam, or food-contaminated items",
+        "City recycling drop-off center available at the DPW yard"
+      ],
+      "contactPhone": "201-646-3960",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is provided by Veolia Water (formerly United Water/Suez). Sewer service is managed by the city and processed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills issued quarterly by Veolia",
+        "Sewer charges included in property tax bills",
+        "Water quality meets all federal and state standards",
+        "Backflow prevention devices may be required for certain properties"
+      ],
+      "contactPhone": "201-646-3960",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Building Department manages all construction permits, inspections, and code enforcement for the City of Hackensack.",
+      "details": [
+        "Permits required for construction, renovation, demolition, and changes of use",
+        "Zoning Board and Planning Board meet regularly to review applications",
+        "Hackensack has specific redevelopment zones with different requirements",
+        "Fire safety permits required for commercial properties",
+        "Applications available at City Hall or online"
+      ],
+      "contactPhone": "201-646-3930"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Hackensack operates multiple municipal parking garages, surface lots, and metered street parking throughout the downtown area.",
+      "details": [
+        "Municipal parking garages at River Street and Atlantic Street",
+        "Metered street parking on Main Street and surrounding blocks",
+        "ParkMobile app accepted at most meters and garages",
+        "Monthly parking permits available for commuters and downtown workers",
+        "Free parking on Sundays and city holidays"
+      ],
+      "contactPhone": "201-646-3920",
+      "contactUrl": "https://www.hackensack.org"
+    },
+    "additionalServices": [
+      {
+        "title": "Senior Services",
+        "description": "The Hackensack Senior Center provides programs, meals, transportation, and social services for residents aged 60+.",
+        "details": [
+          "Located at the Hackensack Community Center",
+          "Daily congregate meals and Meals on Wheels program",
+          "Transportation for medical appointments and errands",
+          "Exercise, arts, and educational programs",
+          "Tax preparation assistance during tax season"
+        ],
+        "contactPhone": "201-646-3950"
+      },
+      {
+        "title": "Library Services",
+        "description": "The Johnson Free Public Library serves as the city's main library, offering extensive collections and programs.",
+        "details": [
+          "Located at 274 Main Street in downtown Hackensack",
+          "Free Wi-Fi, computer access, and printing",
+          "Children's story times and teen programs",
+          "ESL classes and citizenship preparation",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "201-343-4169",
+        "contactUrl": "https://www.hackensack.bccls.org"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Hackensack enforces noise regulations to balance its urban commercial activity with residential quality of life.",
+      "keyRules": [
+        "Construction work permitted Monday-Friday 7:00 AM to 7:00 PM",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or holidays",
+        "Amplified music and sound from commercial establishments restricted after 10:00 PM",
+        "Vehicle noise (horns, modified exhausts, boom boxes) subject to fines"
+      ],
+      "source": "Hackensack City Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "The city actively enforces property maintenance standards as part of its revitalization efforts.",
+      "keyRules": [
+        "Lawns and yards must be maintained — grass exceeding 10 inches triggers violation",
+        "Sidewalks must be kept clear and in good repair by property owners",
+        "Snow and ice removed from sidewalks within 12 hours of storm ending",
+        "No accumulation of junk, debris, or garbage on private property",
+        "Commercial storefronts must maintain clean and presentable facades",
+        "Vacant properties must be registered and maintained"
+      ],
+      "source": "Hackensack City Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed and controlled; the city operates an animal control program.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with the City Clerk",
+        "Rabies vaccination mandatory for all dogs and cats",
+        "Dogs must be leashed when on public property or off owner's premises",
+        "Pet waste must be picked up immediately from public areas",
+        "Maximum number of pets per household may apply — check local ordinance",
+        "Aggressive or dangerous dogs subject to additional regulations"
+      ],
+      "source": "Hackensack City Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking enforcement is active in the city's busy downtown and commercial areas.",
+      "keyRules": [
+        "Metered parking enforced Monday-Saturday, typically 8:00 AM to 6:00 PM",
+        "Two-hour limits in many commercial zones without feeding meters",
+        "Overnight street parking may require a residential permit in certain areas",
+        "No double parking — strictly enforced on Main Street and adjacent blocks",
+        "Snow emergency parking restrictions in effect during declared emergencies"
+      ],
+      "source": "Hackensack City Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Hackensack has a significant rental population and comprehensive landlord-tenant regulations.",
+      "keyRules": [
+        "All rental units must be registered with the city",
+        "Certificate of Habitability / Occupancy required for all rental units",
+        "Landlords must maintain units to housing code standards",
+        "NJ Anti-Eviction Act protections apply to tenants",
+        "Security deposit limited to 1.5 months' rent under state law",
+        "PILOT-agreement buildings may have separate regulatory requirements"
+      ],
+      "source": "Hackensack City Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Redevelopment Zone Regulations",
+        "summary": "Several areas of Hackensack are designated as redevelopment zones with specific requirements.",
+        "keyRules": [
+          "Developers must comply with adopted Redevelopment Plans",
+          "PILOT agreements negotiated for qualifying projects",
+          "Design standards and density requirements specific to each zone",
+          "Public amenity contributions may be required as part of approvals"
+        ],
+        "source": "Hackensack Redevelopment Plans"
+      },
+      {
+        "title": "Food Establishment Regulations",
+        "summary": "Restaurants and food establishments are regulated by the city Health Department.",
+        "keyRules": [
+          "Health permits required for all food establishments",
+          "Regular inspections conducted by the Health Department",
+          "Outdoor dining permits available for qualifying restaurants",
+          "Food truck operations require specific permits and approved locations"
+        ],
+        "source": "Hackensack City Code, Bergen County Health Department"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Hackensack Public Schools",
+    "publicSchools": [
+      {
+        "name": "Hackensack High School",
+        "grades": "9-12",
+        "rating": 5,
+        "enrollment": 1400,
+        "type": "public",
+        "notes": "Comprehensive high school offering AP courses, vocational programs, and strong athletics. Known as the Comets."
+      },
+      {
+        "name": "Hackensack Middle School",
+        "grades": "6-8",
+        "rating": 4,
+        "enrollment": 750,
+        "type": "public",
+        "notes": "Serves all of the city's middle school students with academic and enrichment programs"
+      },
+      {
+        "name": "Fairmount Elementary School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 400,
+        "type": "public"
+      },
+      {
+        "name": "Hillers Elementary School",
+        "grades": "PreK-5",
+        "rating": 5,
+        "enrollment": 420,
+        "type": "public"
+      },
+      {
+        "name": "Jackson Avenue Elementary School",
+        "grades": "PreK-5",
+        "rating": 4,
+        "enrollment": 380,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Holy Trinity School",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic elementary school with a strong academic and faith-based curriculum"
+      },
+      {
+        "name": "Bergen County Academies",
+        "grades": "9-12",
+        "type": "public",
+        "notes": "Bergen County's prestigious magnet high school located in Hackensack, offering specialized academies in STEM, arts, business, and culinary arts. Admission by competitive exam."
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (3 miles)",
+      "Bergen Community College — Paramus (4 miles)",
+      "Felician University — Lodi/Rutherford (6 miles)",
+      "Montclair State University — Montclair (12 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Bergen County seat with robust government, commercial, and healthcare infrastructure",
+      "Significant downtown revitalization creating a walkable, urban lifestyle in the suburbs",
+      "Relative affordability compared to surrounding Bergen County towns",
+      "Excellent access to Routes 4, 17, 80, and the Garden State Parkway",
+      "Home to Bergen County Academies, one of NJ's top public magnet high schools"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus to Port Authority Bus Terminal",
+      "duration": "35-55 minutes to Midtown Manhattan",
+      "busRoutes": ["144", "165", "165T"],
+      "trainStation": "Anderson Street Station (Pascack Valley Line) or Essex Street Station",
+      "notes": "NJ Transit buses provide direct service from Hackensack to the Port Authority Bus Terminal in Midtown. The Pascack Valley Line has two stations in Hackensack (Anderson Street and Essex Street) serving Hoboken Terminal, with connections to the PATH train to Manhattan. Bus service is generally faster for Midtown destinations."
+    },
+    "costOfLiving": {
+      "summary": "Hackensack offers a more affordable entry point to Bergen County compared to many surrounding towns, while still providing urban amenities and good access to NYC.",
+      "vsStateAverage": "5-10% above the New Jersey average",
+      "vsNationalAverage": "25-30% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "More affordable than many Bergen County towns with strong amenities",
+        "Walkable downtown with new restaurants, shops, and apartments",
+        "Excellent highway access to NYC, North Jersey, and the GWB",
+        "Bergen County Academies offers a world-class magnet school option",
+        "Hackensack University Medical Center provides top-tier healthcare nearby"
+      ],
+      "cons": [
+        "Public school ratings are lower than surrounding affluent suburbs",
+        "Urban density and traffic can be heavy, especially near Routes 4 and 17",
+        "Property taxes are relatively high for the home prices",
+        "Some neighborhoods still in transition from revitalization efforts",
+        "Limited green space compared to western Bergen County towns"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Solari's Restaurant",
+        "description": "A Hackensack institution since 1938 — classic Italian-American dining with red-sauce favorites, generous portions, and old-school charm.",
+        "address": "61 River Street, Hackensack, NJ 07601",
+        "category": "Italian-American"
+      },
+      {
+        "name": "White Manna",
+        "description": "Legendary tiny diner famous for its sliders — small, juicy hamburgers grilled on a vintage griddle. A North Jersey bucket-list food destination since the 1940s.",
+        "address": "358 River Street, Hackensack, NJ 07601",
+        "category": "American / Burgers"
+      },
+      {
+        "name": "Amami Shima",
+        "description": "Authentic Japanese restaurant offering sushi, sashimi, and traditional cooked dishes in a refined setting.",
+        "address": "Main Street, Hackensack, NJ 07601",
+        "category": "Japanese"
+      },
+      {
+        "name": "Guerriero's",
+        "description": "Neighborhood Italian restaurant and pizzeria known for brick-oven pizza, homemade pasta, and a welcoming family atmosphere.",
+        "address": "250 Main Street, Hackensack, NJ 07601",
+        "category": "Italian"
+      },
+      {
+        "name": "The Urban Tot",
+        "description": "Trendy New American restaurant and bar in the revitalized downtown, offering creative cocktails and a seasonally inspired menu.",
+        "address": "Main Street, Hackensack, NJ 07601",
+        "category": "New American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Hackensack River County Park",
+        "description": "A scenic Bergen County park along the Hackensack River with walking trails, a boat launch, playgrounds, and athletic fields.",
+        "address": "River Street, Hackensack, NJ 07601",
+        "category": "County Park"
+      },
+      {
+        "name": "Borg's Woods Nature Preserve",
+        "description": "A rare old-growth forest preserve in the middle of the city, home to towering tulip trees and a variety of wildlife. A National Natural Landmark.",
+        "address": "Near Summit Avenue and Prospect Avenue, Hackensack, NJ 07601",
+        "category": "Nature Preserve"
+      },
+      {
+        "name": "Columbus Park",
+        "description": "Neighborhood park with a playground, walking paths, and open green space. A gathering spot for local families.",
+        "address": "Berry Street and First Street, Hackensack, NJ 07601",
+        "category": "Neighborhood Park"
+      },
+      {
+        "name": "Staib Park",
+        "description": "Community park offering sports facilities including tennis courts, basketball courts, and a running track.",
+        "address": "Beech Street, Hackensack, NJ 07601",
+        "category": "Sports Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Hackensack Street Fair",
+        "description": "A major street fair along Main Street featuring vendors, live entertainment, food trucks, and family activities. Draws thousands of visitors.",
+        "when": "June and September (bi-annual)"
+      },
+      {
+        "name": "Downtown Hackensack Restaurant Week",
+        "description": "Participating downtown restaurants offer prix fixe menus and special deals, showcasing the city's diverse culinary scene.",
+        "when": "Spring and Fall (bi-annual)"
+      },
+      {
+        "name": "Hackensack Holiday Celebration",
+        "description": "Annual holiday festivities including tree lighting, menorah lighting, live music, and seasonal activities in the downtown area.",
+        "when": "December (annual)"
+      },
+      {
+        "name": "Bergen County Jazz Fest",
+        "description": "Free jazz performances at venues throughout downtown Hackensack, celebrating the area's musical heritage.",
+        "when": "Summer (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Bergen County Courthouse",
+        "description": "A grand Beaux-Arts courthouse built in 1912, serving as the architectural centerpiece of downtown Hackensack and the seat of Bergen County government.",
+        "address": "10 Main Street, Hackensack, NJ 07601",
+        "category": "Historic Landmark"
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "description": "One of New Jersey's largest and most respected hospitals, home to cutting-edge medical research and comprehensive healthcare services. A major regional employer.",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "category": "Healthcare"
+      },
+      {
+        "name": "USS Ling Submarine (NJ Naval Museum)",
+        "description": "A World War II-era Balao-class submarine permanently docked along the Hackensack River, open for tours (subject to restoration status). A unique historical attraction.",
+        "address": "Court Street and River Street, Hackensack, NJ 07601",
+        "category": "Museum / Historic"
+      }
+    ],
+    "shoppingAreas": [
+      "Main Street Downtown — Revitalized commercial corridor with restaurants, shops, cafes, and professional services",
+      "Hackensack River Street area — Emerging mixed-use district with new retail and residential",
+      "Route 4 / Route 17 Corridors — Major retail corridors with big-box stores, malls, and auto dealerships nearby",
+      "The Shops at Riverside — Large retail complex on Route 4 in neighboring Hackensack/River Edge area"
+    ]
+  },
+  "government": {
+    "governingBody": "City Council (Council-Manager form of government)",
+    "mayor": {
+      "name": "John Labrosse Jr.",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Deborah Keeling-Geddis",
+        "title": "Deputy Mayor / Council Member",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Leonardo Battaglia",
+        "title": "Council Member",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Stephanie Von Rudenborg",
+        "title": "Council Member",
+        "term": "Four-year term"
+      },
+      {
+        "name": "Allison Scelfo",
+        "title": "Council Member",
+        "term": "Four-year term"
+      },
+      {
+        "name": "David Sims",
+        "title": "Council Member",
+        "term": "Four-year term"
+      }
+    ],
+    "meetingSchedule": "City Council meets on the first and third Tuesday of each month at 8:00 PM",
+    "meetingLocation": "Hackensack City Hall, Council Chambers, 65 Central Avenue, Hackensack, NJ 07601",
+    "municipalWebsite": "https://www.hackensack.org",
+    "importantContacts": [
+      {
+        "department": "City Clerk",
+        "phone": "201-646-3920",
+        "email": "clerk@hackensack.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-646-3926",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-646-3930",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-646-3960",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Health Department",
+        "phone": "201-646-3965",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-646-3945",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Parking Authority",
+        "phone": "201-646-3920",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-646-7777",
+      "address": "65 Central Avenue, Hackensack, NJ 07601"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-646-3850",
+      "address": "215 State Street, Hackensack, NJ 07601"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-646-7777",
+      "address": "Hackensack, NJ 07601"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 0.5
+      },
+      {
+        "name": "Hackensack Meridian Health Palisades Medical Center",
+        "address": "7600 River Road, North Bergen, NJ 07047",
+        "phone": "201-854-5000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Valley Hospital",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "201-447-8000",
+        "distanceMiles": 7
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez/United Water)",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Hackensack Police (Non-Emergency)",
+        "number": "201-646-7777"
+      },
+      {
+        "label": "City Hall",
+        "number": "201-646-3920"
+      },
+      {
+        "label": "Bergen County Emergency Management",
+        "number": "201-785-5700"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Hackensack University Medical Center",
+        "number": "551-996-2000"
+      }
+    ]
+  }
+}

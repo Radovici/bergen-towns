@@ -1,0 +1,610 @@
+{
+  "meta": {
+    "slug": "wyckoff",
+    "name": "Wyckoff",
+    "fullName": "Township of Wyckoff",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "wyckoff.info",
+    "zipCodes": ["07481"],
+    "themeColor": "#6b2142",
+    "accentColor": "#8c3a5e"
+  },
+  "overview": {
+    "tagline": "A family-friendly suburban township with excellent schools and a welcoming community",
+    "description": "The Township of Wyckoff is a residential suburb in northwestern Bergen County known for its outstanding public schools, safe neighborhoods, and strong sense of community. With a charming town center, scenic parks, and convenient access to both New York City and the New Jersey countryside, Wyckoff offers an ideal balance of suburban tranquility and metropolitan accessibility.",
+    "population": 17006,
+    "populationYear": 2020,
+    "areaSqMi": 6.52,
+    "elevation": "170 ft",
+    "incorporated": "1926",
+    "governmentType": "Township (Township Committee)",
+    "schoolDistrict": "Wyckoff Public Schools (K-8) / Ramapo Indian Hills Regional High School District (9-12)",
+    "highlights": [
+      "Top-rated K-8 school district and highly ranked regional high schools",
+      "Wyckoff town center with local shops and restaurants",
+      "Beautiful residential neighborhoods with mature landscaping",
+      "James A. McFaul Environmental Center for nature education",
+      "Strong community events and recreation programs"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$725,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.75%",
+    "averagePropertyTax": "$15,800",
+    "assessmentInfo": "Property assessments managed through the Bergen County Tax Board. Wyckoff properties are assessed at a percentage of market value with periodic revaluations.",
+    "recentTrends": "Wyckoff continues to see strong demand from families attracted by the school district. The market is competitive with limited inventory. Homes in desirable neighborhoods near schools and the town center sell quickly, often above asking price.",
+    "neighborhoodNotes": [
+      "Wyckoff Town Center — Walking distance to shops, restaurants, and community amenities",
+      "Sicomac area — Established neighborhood with proximity to Sicomac Elementary",
+      "Clinton Avenue corridor — Spacious properties with a mix of colonials and split-levels",
+      "Crescent Avenue area — Quiet, tree-lined streets popular with families",
+      "Russell Avenue neighborhood — Close to Eisenhower Middle School and parks"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided by a contracted private hauler on behalf of the Township.",
+      "details": [
+        "Twice-weekly pickup on designated days based on neighborhood zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use standard garbage cans or bags; maximum 50 lbs per container",
+        "Bulk item pickup available by scheduling with the hauler",
+        "Holiday schedule adjustments announced by the Township"
+      ],
+      "contactPhone": "(201) 891-7000",
+      "contactUrl": "https://www.wyckoff-nj.com"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected on a weekly basis by the contracted hauler.",
+      "details": [
+        "Single-stream recycling: glass, cans, plastics #1-#7, paper, and cardboard",
+        "Recycling must be placed in designated bins provided by the hauler",
+        "Yard waste collected seasonally from spring through fall",
+        "Leaf collection provided curbside during fall months",
+        "Special recycling drop-off events for electronics and hazardous waste"
+      ],
+      "contactPhone": "(201) 891-7000",
+      "contactUrl": "https://www.wyckoff-nj.com"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water service is provided by the Wyckoff Water Department. Sewer service is managed by the Township.",
+      "details": [
+        "Water sourced from local wells and supplemented by regional sources",
+        "Quarterly billing for water and sewer service",
+        "Annual water quality report available from the Wyckoff Water Department",
+        "Water conservation programs and rebates available",
+        "24/7 emergency response for water main breaks"
+      ],
+      "contactPhone": "(201) 891-7000",
+      "contactUrl": "https://www.wyckoff-nj.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Construction Department issues building permits and conducts inspections for all construction activity in the Township.",
+      "details": [
+        "Permits required for new construction, renovations, additions, and pools",
+        "Zoning applications handled by the Planning Board and Zoning Board of Adjustment",
+        "Online permit application portal available",
+        "Inspections scheduled through the Construction Office",
+        "Fence, deck, and shed permits required per Township code"
+      ],
+      "contactPhone": "(201) 891-7000",
+      "contactUrl": "https://www.wyckoff-nj.com"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Township maintains public parking areas in the town center and near public facilities.",
+      "details": [
+        "Free parking in the Wyckoff town center municipal lots",
+        "Commuter parking available with permit at designated lots",
+        "No overnight parking on Township streets without permission",
+        "Parking enforcement by the Wyckoff Police Department"
+      ],
+      "contactPhone": "(201) 891-7000"
+    },
+    "additionalServices": [
+      {
+        "title": "Wyckoff Public Library",
+        "description": "Community library offering books, media, digital resources, and programs for all ages.",
+        "details": [
+          "Located at 200 Woodland Avenue",
+          "Children's story times, summer reading program, and teen events",
+          "Part of the Bergen County Cooperative Library System (BCCLS)",
+          "Meeting rooms available for community use"
+        ],
+        "contactPhone": "(201) 891-4866",
+        "contactUrl": "https://www.wyckofflibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Comprehensive recreation programs for Wyckoff residents of all ages.",
+        "details": [
+          "Youth sports leagues including soccer, baseball, basketball, and lacrosse",
+          "Summer day camp programs",
+          "Adult fitness and wellness programs",
+          "Senior citizen programs and trips"
+        ],
+        "contactPhone": "(201) 891-7000",
+        "contactUrl": "https://www.wyckoff-nj.com"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Wyckoff enforces noise regulations to preserve the quiet residential character of the Township.",
+      "keyRules": [
+        "Construction work prohibited before 7:00 AM and after 7:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM",
+        "No construction permitted on Sundays or holidays",
+        "Gas-powered leaf blowers restricted during certain hours",
+        "Unreasonable noise prohibited at all times; enforcement after 10:00 PM"
+      ],
+      "source": "Township of Wyckoff Municipal Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to preserve neighborhood appearance and safety.",
+      "keyRules": [
+        "Grass and weeds must be kept under 10 inches in height",
+        "Sidewalks must be cleared of snow and ice within 24 hours after a storm",
+        "Properties must be free of debris, junk, and abandoned vehicles",
+        "Fences may not exceed 6 feet in height in rear yards",
+        "Swimming pools must be enclosed by a fence with a self-closing, self-latching gate"
+      ],
+      "source": "Township of Wyckoff Municipal Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Wyckoff requires all dogs to be licensed and enforces leash and waste cleanup ordinances.",
+      "keyRules": [
+        "All dogs 7 months and older must be licensed annually",
+        "Rabies vaccination required for licensing",
+        "Dogs must be on a leash when off the owner's property",
+        "Pet owners must immediately clean up pet waste on public and others' property",
+        "Barking dog complaints are investigated by the police and animal control"
+      ],
+      "source": "Township of Wyckoff Municipal Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "On-street parking is regulated to ensure safety and traffic flow in residential areas.",
+      "keyRules": [
+        "No overnight parking on Township streets between 2:00 AM and 6:00 AM",
+        "Vehicles must be parked in the direction of traffic",
+        "Snow emergency parking bans require vehicles off-street",
+        "Commercial vehicles over 4 tons may not park on residential streets",
+        "Violators subject to fines and possible towing"
+      ],
+      "source": "Township of Wyckoff Municipal Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with Township housing standards and registration requirements.",
+      "keyRules": [
+        "Rental properties must be registered with the Township",
+        "Certificate of Occupancy or Habitability required for rental units",
+        "Landlords responsible for maintaining properties to code",
+        "Short-term vacation rentals are restricted in residential zones",
+        "Inspections may be required at change of tenancy"
+      ],
+      "source": "Township of Wyckoff Municipal Code"
+    },
+    "other": [
+      {
+        "title": "Fence Regulations",
+        "summary": "Fences in Wyckoff are regulated by height, material, and placement.",
+        "keyRules": [
+          "Maximum height of 4 feet in front yard areas",
+          "Maximum height of 6 feet in side and rear yards",
+          "Fence permit required before installation",
+          "Finished side of fence must face outward toward neighbors"
+        ],
+        "source": "Township of Wyckoff Municipal Code"
+      },
+      {
+        "title": "Garage Sales",
+        "summary": "Residents may hold garage or yard sales subject to permit requirements.",
+        "keyRules": [
+          "Permit required from the Township Clerk's office",
+          "Limited to two sales per year per household",
+          "Sales may not exceed two consecutive days",
+          "Signs must be removed within 24 hours after the sale"
+        ],
+        "source": "Township of Wyckoff Municipal Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Wyckoff Public Schools (K-8) / Ramapo Indian Hills Regional High School District (9-12)",
+    "publicSchools": [
+      {
+        "name": "Ramapo High School",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 1050,
+        "type": "public",
+        "notes": "Regional high school serving Wyckoff, Franklin Lakes, and Oakland; strong academics and athletics"
+      },
+      {
+        "name": "Indian Hills High School",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 950,
+        "type": "public",
+        "notes": "Regional high school in Oakland also serving Wyckoff students"
+      },
+      {
+        "name": "Eisenhower Middle School",
+        "grades": "5-8",
+        "rating": 8,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "The sole middle school in the Wyckoff district, serving all township students in grades 5-8"
+      },
+      {
+        "name": "Lincoln Elementary School",
+        "grades": "K-4",
+        "rating": 8,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Neighborhood elementary school in central Wyckoff"
+      },
+      {
+        "name": "Sicomac Elementary School",
+        "grades": "K-4",
+        "rating": 8,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Elementary school in the Sicomac section of the township"
+      },
+      {
+        "name": "Coolidge Elementary School",
+        "grades": "K-4",
+        "rating": 8,
+        "enrollment": 310,
+        "type": "public",
+        "notes": "Elementary school serving the western portion of Wyckoff"
+      },
+      {
+        "name": "Washington Elementary School",
+        "grades": "K-4",
+        "rating": 8,
+        "enrollment": 280,
+        "type": "public",
+        "notes": "Elementary school in the southeastern section of Wyckoff"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Eastern Christian School",
+        "grades": "PreK-12",
+        "type": "private",
+        "enrollment": 750,
+        "notes": "Christian school with a campus in Wyckoff offering PreK through grade 12; strong college preparatory program"
+      },
+      {
+        "name": "St. Elizabeth School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 200,
+        "notes": "Catholic elementary school associated with St. Elizabeth parish"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 minutes",
+      "William Paterson University (Wayne) — 15 minutes",
+      "Bergen Community College (Paramus) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 25 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Highly rated K-8 school district with strong performance metrics",
+      "Safe, family-oriented community with low crime rates",
+      "Convenient access to Route 208 and NJ-17 for commuting",
+      "Charming town center with local shops and dining",
+      "Beautiful residential neighborhoods with spacious lots",
+      "Proximity to outdoor recreation at Ramapo Valley County Reservation"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus or drive to train station",
+      "duration": "55-75 minutes to midtown Manhattan by bus",
+      "busRoutes": ["NJ Transit Bus 148", "NJ Transit Bus 196"],
+      "notes": "Wyckoff does not have its own train station. Most commuters drive to the Ridgewood or Waldwick NJ Transit stations for train service, or take the 148/196 bus routes which connect to the Port Authority Bus Terminal in Manhattan. Drive to Ridgewood station is approximately 10 minutes."
+    },
+    "costOfLiving": {
+      "summary": "Wyckoff is an affluent Bergen County suburb with a cost of living well above state and national averages, primarily due to housing costs and property taxes.",
+      "vsStateAverage": "Approximately 45% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 80% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Excellent public schools K through 12",
+        "Very safe, low-crime community",
+        "Spacious lots and well-maintained neighborhoods",
+        "Strong community spirit with active recreation programs",
+        "Good access to major highways (Route 208, NJ-17)"
+      ],
+      "cons": [
+        "High property taxes typical of Bergen County",
+        "No direct train service — must drive to nearby stations",
+        "Limited nightlife and entertainment options",
+        "Home prices above regional averages",
+        "Town center is small compared to neighboring Ridgewood"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Wyckoff Thai Kitchen",
+        "description": "Popular Thai restaurant serving authentic dishes including curries, noodles, and fresh seafood preparations.",
+        "address": "396 Main Street, Wyckoff, NJ 07481",
+        "category": "Thai"
+      },
+      {
+        "name": "Biagio's Ristorante",
+        "description": "Upscale Italian dining with classic dishes, an extensive wine list, and a warm ambiance.",
+        "address": "299 Godwin Avenue, Wyckoff, NJ 07481",
+        "category": "Italian/Fine Dining"
+      },
+      {
+        "name": "The Brick House",
+        "description": "Casual American restaurant and bar known for burgers, craft beers, and a lively atmosphere.",
+        "address": "179 Godwin Avenue, Wyckoff, NJ 07481",
+        "category": "American/Bar"
+      },
+      {
+        "name": "Wyckoff Bagels & Deli",
+        "description": "Local bagel shop serving fresh-baked bagels, breakfast sandwiches, and classic deli fare.",
+        "address": "Main Street, Wyckoff, NJ 07481",
+        "category": "Deli/Breakfast"
+      },
+      {
+        "name": "Mezza",
+        "description": "Mediterranean and Middle Eastern cuisine featuring shawarma, falafel, hummus, and grilled specialties.",
+        "address": "390 Main Street, Wyckoff, NJ 07481",
+        "category": "Mediterranean"
+      }
+    ],
+    "parks": [
+      {
+        "name": "James A. McFaul Environmental Center",
+        "description": "County-run nature center with 81 acres of trails, wildlife exhibits, and environmental education programs. A gem for nature lovers and families.",
+        "address": "150 Crescent Avenue, Wyckoff, NJ 07481",
+        "category": "Nature/Education"
+      },
+      {
+        "name": "Wyckoff Community Park",
+        "description": "Large township park featuring sports fields, playgrounds, basketball courts, and open green space for community activities.",
+        "address": "Wyckoff Avenue, Wyckoff, NJ 07481",
+        "category": "Recreation"
+      },
+      {
+        "name": "Pulis Park",
+        "description": "Neighborhood park with walking trails, a pond, playgrounds, and picnic areas in a peaceful wooded setting.",
+        "address": "Crescent Avenue, Wyckoff, NJ 07481",
+        "category": "Park/Playground"
+      },
+      {
+        "name": "Zabriskie Pond Park",
+        "description": "Scenic park built around a historic pond, offering fishing, walking paths, and wildlife viewing.",
+        "address": "Wyckoff Avenue, Wyckoff, NJ 07481",
+        "category": "Nature/Fishing"
+      }
+    ],
+    "events": [
+      {
+        "name": "Wyckoff Day",
+        "description": "Annual community celebration featuring carnival rides, food vendors, games, live entertainment, and fireworks.",
+        "when": "September, typically a Saturday in mid-September"
+      },
+      {
+        "name": "Wyckoff Farmers Market",
+        "description": "Seasonal farmers market offering local produce, baked goods, flowers, and artisan products.",
+        "when": "Saturdays, late June through October"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual holiday tree lighting ceremony in the town center with carols, hot cocoa, and a visit from Santa.",
+        "when": "First weekend in December"
+      },
+      {
+        "name": "Environmental Center Nature Programs",
+        "description": "Year-round nature walks, wildlife programs, and seasonal events at the McFaul Environmental Center.",
+        "when": "Various dates throughout the year"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "James A. McFaul Environmental Center",
+        "description": "Bergen County environmental education center with nature trails, wildlife gardens, and hands-on exhibits covering local ecology and conservation.",
+        "address": "150 Crescent Avenue, Wyckoff, NJ 07481",
+        "category": "Nature/Education"
+      },
+      {
+        "name": "Wyckoff Town Center",
+        "description": "Small but charming collection of local shops, restaurants, and services along Main Street and Wyckoff Avenue.",
+        "address": "Main Street & Wyckoff Avenue, Wyckoff, NJ 07481",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Ramapo Valley County Reservation",
+        "description": "Nearby Bergen County park offering extensive hiking trails, fishing, and scenic views of the Ramapo Mountains. Located in adjacent Mahwah but a popular destination for Wyckoff residents.",
+        "address": "584 Ramapo Valley Road, Mahwah, NJ 07430",
+        "category": "Hiking/Nature"
+      }
+    ],
+    "shoppingAreas": [
+      "Wyckoff Town Center — Local shops and restaurants along Main Street",
+      "Godwin Avenue — Additional retail and dining options",
+      "Route 208 corridor — Nearby shopping plazas",
+      "Paramus shopping — Major malls and retail centers 15 minutes away"
+    ]
+  },
+  "government": {
+    "governingBody": "Township Committee (five members)",
+    "mayor": {
+      "name": "Brian Scanlan",
+      "title": "Mayor",
+      "term": "Selected by Committee"
+    },
+    "council": [
+      {
+        "name": "Rudy Boonstra",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Melissa Rubenstein",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Tim Shanley",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Peter Melchionne",
+        "title": "Township Committee Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Township Committee meets the 2nd and 4th Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Wyckoff Municipal Building, 340 Franklin Avenue, Wyckoff, NJ 07481",
+    "municipalWebsite": "https://www.wyckoff-nj.com",
+    "importantContacts": [
+      {
+        "department": "Township Administrator's Office",
+        "phone": "(201) 891-7000",
+        "email": "administrator@wyckoff-nj.com",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Township Clerk",
+        "phone": "(201) 891-7000",
+        "email": "clerk@wyckoff-nj.com",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Construction Department",
+        "phone": "(201) 891-7000",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 891-7000",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 891-7000",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 891-7000",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 891-2121",
+      "address": "340 Franklin Avenue, Wyckoff, NJ 07481"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 891-7000",
+      "address": "Wyckoff, NJ 07481"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 891-7000",
+      "address": "Wyckoff, NJ 07481"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Chilton Medical Center (Atlantic Health System)",
+        "address": "97 West Parkway, Pompton Plains, NJ 07444",
+        "phone": "(973) 831-5000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Wyckoff Water Department",
+        "phone": "(201) 891-7000",
+        "url": "https://www.wyckoff-nj.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Township of Wyckoff",
+        "phone": "(201) 891-7000",
+        "url": "https://www.wyckoff-nj.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Wyckoff Police (Non-Emergency)",
+        "number": "(201) 891-2121"
+      },
+      {
+        "label": "Wyckoff Fire Department",
+        "number": "(201) 891-7000"
+      },
+      {
+        "label": "Township Hall",
+        "number": "(201) 891-7000"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

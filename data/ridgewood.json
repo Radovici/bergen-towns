@@ -1,0 +1,638 @@
+{
+  "meta": {
+    "slug": "ridgewood",
+    "name": "Ridgewood",
+    "fullName": "Village of Ridgewood",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "ridgewood.info",
+    "zipCodes": ["07450", "07451"],
+    "themeColor": "#2c5f2d",
+    "accentColor": "#4a8c4b"
+  },
+  "overview": {
+    "tagline": "A charming village with tree-lined streets, top-rated schools, and a vibrant downtown",
+    "description": "The Village of Ridgewood is one of Bergen County's most desirable communities, known for its walkable downtown filled with boutique shops and restaurants, excellent public schools consistently ranked among New Jersey's best, and beautiful historic homes. The village combines small-town charm with easy access to New York City, making it a premier destination for families and professionals.",
+    "population": 25979,
+    "populationYear": 2020,
+    "areaSqMi": 5.76,
+    "elevation": "108 ft",
+    "incorporated": "1894",
+    "governmentType": "Village (Council-Manager)",
+    "schoolDistrict": "Ridgewood Public Schools",
+    "highlights": [
+      "Award-winning downtown shopping and dining district",
+      "Top-rated public schools in New Jersey",
+      "NJ Transit rail service to Hoboken and NYC",
+      "Historic homes and tree-lined neighborhoods",
+      "Active arts and cultural community"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$875,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.85%",
+    "averagePropertyTax": "$18,500",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Ridgewood conducted a municipal-wide revaluation in recent years to align assessed values with market values.",
+    "recentTrends": "Ridgewood's real estate market remains highly competitive with strong demand, particularly for homes near the downtown and train station. Prices have appreciated steadily, and homes often receive multiple offers. The market favors sellers, with limited inventory driving prices upward.",
+    "neighborhoodNotes": [
+      "The Heights — Elevated neighborhood with larger lots and scenic views",
+      "Ridgewood Avenue corridor — Walking distance to downtown shops and restaurants",
+      "Upper Ridgewood — Spacious properties near the country club",
+      "Glen Avenue area — Family-friendly streets close to elementary schools",
+      "West Side — Charming homes with easy access to Paramus shopping"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided weekly by the Village of Ridgewood Department of Public Works.",
+      "details": [
+        "Pickup occurs twice per week on designated days by neighborhood zone",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use approved containers with secure lids, maximum 50 lbs per container",
+        "Bulk item pickup available by appointment",
+        "Holiday schedule adjustments posted on village website"
+      ],
+      "contactPhone": "(201) 670-5500",
+      "contactUrl": "https://www.ridgewoodnj.net/departments/public-works"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling is collected weekly by the Village.",
+      "details": [
+        "Commingled recyclables (glass, cans, plastic #1-#7) collected weekly",
+        "Paper and cardboard collected separately on the same day",
+        "Recycling bins provided by the Village",
+        "Yard waste collected seasonally from April through December",
+        "Electronics recycling events held periodically at the DPW yard"
+      ],
+      "contactPhone": "(201) 670-5500",
+      "contactUrl": "https://www.ridgewoodnj.net/departments/public-works"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Ridgewood Water is one of New Jersey's oldest and most respected public water utilities, serving the village and neighboring communities.",
+      "details": [
+        "Ridgewood Water supplies water from local wells and the Oradell Reservoir system",
+        "Billing is quarterly for water and sewer service",
+        "Water quality reports published annually and available online",
+        "Sewer service is maintained by the Village DPW",
+        "Emergency water line repairs available 24/7"
+      ],
+      "contactPhone": "(201) 670-5520",
+      "contactUrl": "https://www.ridgewoodwater.com"
+    },
+    "permits": {
+      "title": "Building & Permits",
+      "description": "The Building Department handles construction permits, zoning approvals, and code enforcement for the Village.",
+      "details": [
+        "Building permits required for new construction, additions, and renovations",
+        "Zoning applications reviewed by the Planning Board and Board of Adjustment",
+        "Permit applications available online and in person",
+        "Inspections scheduled through the Building Department",
+        "Historic Preservation Commission review required for designated properties"
+      ],
+      "contactPhone": "(201) 670-5500",
+      "contactUrl": "https://www.ridgewoodnj.net/departments/building"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "The Village operates several municipal parking lots and metered street parking in the downtown area.",
+      "details": [
+        "Commuter parking permits available for train station lots",
+        "Metered parking in downtown — 2-hour limit in most zones",
+        "Municipal lots on Garber Square, Hudson Street, and North Broad Street",
+        "ParkMobile app accepted at all metered spaces",
+        "Overnight parking restrictions enforced village-wide"
+      ],
+      "contactPhone": "(201) 670-5500",
+      "contactUrl": "https://www.ridgewoodnj.net/departments/parking"
+    },
+    "additionalServices": [
+      {
+        "title": "Ridgewood Public Library",
+        "description": "Full-service public library offering books, digital resources, programs, and community meeting spaces.",
+        "details": [
+          "Located at 125 North Maple Avenue",
+          "Children's programs, teen events, and adult book clubs",
+          "Free Wi-Fi, computer access, and 3D printing",
+          "Part of the Bergen County Cooperative Library System (BCCLS)"
+        ],
+        "contactPhone": "(201) 670-5600",
+        "contactUrl": "https://www.ridgewoodlibrary.org"
+      },
+      {
+        "title": "Recreation Department",
+        "description": "Year-round recreational programs for residents of all ages.",
+        "details": [
+          "Youth sports leagues, swim programs, and summer camps",
+          "Adult fitness classes and senior programs",
+          "Schedler House and Kasschau Shell bandshell events",
+          "Online registration through Community Pass"
+        ],
+        "contactPhone": "(201) 670-5560",
+        "contactUrl": "https://www.ridgewoodnj.net/departments/recreation"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "The Village of Ridgewood enforces noise regulations to maintain quality of life in residential neighborhoods.",
+      "keyRules": [
+        "Construction noise prohibited before 7:00 AM and after 6:00 PM on weekdays",
+        "Saturday construction allowed 8:00 AM to 5:00 PM only",
+        "No construction noise permitted on Sundays or federal holidays",
+        "Leaf blowers restricted to certain hours and seasons",
+        "Amplified music and loud gatherings subject to noise limits after 10:00 PM"
+      ],
+      "source": "Village of Ridgewood Code, Chapter 186"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners are required to maintain their properties in good condition, including lawns, structures, and sidewalks.",
+      "keyRules": [
+        "Lawns must be maintained and grass kept under 10 inches",
+        "Property owners responsible for sidewalk snow removal within 24 hours after snowfall",
+        "Fences must not exceed 6 feet in rear yards and 4 feet in front yards",
+        "Abandoned or inoperable vehicles must be removed from property",
+        "Trees overhanging public sidewalks must be trimmed to 8 feet clearance"
+      ],
+      "source": "Village of Ridgewood Code, Chapter 190"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Ridgewood requires dog licensing and enforces leash laws throughout the village.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually with proof of rabies vaccination",
+        "Dogs must be leashed on all public property",
+        "Pet waste must be picked up immediately by the owner",
+        "Maximum of 3 dogs and 3 cats per household",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Village of Ridgewood Code, Chapter 76"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the village with specific rules for residential areas and the downtown.",
+      "keyRules": [
+        "No overnight parking on village streets between 2:00 AM and 6:00 AM without a permit",
+        "2-hour parking limit in downtown metered zones",
+        "Snow emergency parking bans enforced — vehicles must be off-street",
+        "Commercial vehicles over 4 tons prohibited from parking on residential streets",
+        "Handicapped parking violations subject to significant fines"
+      ],
+      "source": "Village of Ridgewood Code, Chapter 211"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties in Ridgewood must be registered and inspected to ensure compliance with housing codes.",
+      "keyRules": [
+        "Rental properties must be registered with the Village",
+        "Certificate of Habitability required before occupancy of rental units",
+        "Landlords must maintain properties to housing code standards",
+        "Short-term rentals (under 30 days) are not permitted in residential zones",
+        "Rental property inspections conducted at change of tenancy"
+      ],
+      "source": "Village of Ridgewood Code, Chapter 192"
+    },
+    "other": [
+      {
+        "title": "Tree Preservation",
+        "summary": "Ridgewood has a strong tree preservation ordinance protecting significant trees on public and private property.",
+        "keyRules": [
+          "Permit required to remove trees over 8 inches in diameter on private property",
+          "Replacement planting may be required when trees are removed",
+          "Village Shade Tree Committee oversees public tree management",
+          "Damage to public trees subject to fines and restitution"
+        ],
+        "source": "Village of Ridgewood Code, Chapter 217"
+      },
+      {
+        "title": "Outdoor Dining & Sidewalk Use",
+        "summary": "Restaurants may apply for outdoor dining permits in the downtown area, subject to conditions.",
+        "keyRules": [
+          "Outdoor dining permits issued seasonally by the Village",
+          "Minimum sidewalk clearance of 5 feet must be maintained",
+          "Alcohol service in outdoor areas requires separate ABC approval",
+          "Furniture must be removed or secured nightly"
+        ],
+        "source": "Village of Ridgewood Code, Chapter 175"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Ridgewood Public Schools",
+    "publicSchools": [
+      {
+        "name": "Ridgewood High School",
+        "grades": "9-12",
+        "rating": 9,
+        "enrollment": 1650,
+        "type": "public",
+        "notes": "Consistently ranked among top high schools in New Jersey; strong AP program and athletics"
+      },
+      {
+        "name": "Benjamin Franklin Middle School",
+        "grades": "6-8",
+        "rating": 9,
+        "enrollment": 720,
+        "type": "public",
+        "notes": "One of two middle schools serving the village"
+      },
+      {
+        "name": "George Washington Middle School",
+        "grades": "6-8",
+        "rating": 9,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "Comprehensive middle school with strong academics and extracurriculars"
+      },
+      {
+        "name": "Hawes Elementary School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 380,
+        "type": "public",
+        "notes": "Neighborhood elementary school in the Heights section"
+      },
+      {
+        "name": "Orchard Elementary School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Located in central Ridgewood near the downtown"
+      },
+      {
+        "name": "Ridge Elementary School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 340,
+        "type": "public",
+        "notes": "Elementary school serving the western portion of the village"
+      },
+      {
+        "name": "Somerville Elementary School",
+        "grades": "K-5",
+        "rating": 8,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Elementary school on the east side of Ridgewood"
+      },
+      {
+        "name": "Willard Elementary School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 380,
+        "type": "public",
+        "notes": "Elementary school in the Upper Ridgewood area"
+      },
+      {
+        "name": "Travell Elementary School",
+        "grades": "K-5",
+        "rating": 9,
+        "enrollment": 350,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Bergen County Academies",
+        "grades": "9-12",
+        "type": "public",
+        "notes": "Bergen County magnet school located in Hackensack; many Ridgewood students apply"
+      },
+      {
+        "name": "Our Lady of Mount Carmel School",
+        "grades": "PreK-8",
+        "type": "private",
+        "enrollment": 250,
+        "notes": "Catholic parish school in downtown Ridgewood"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey (Mahwah) — 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) — 20 minutes",
+      "Bergen Community College (Paramus) — 10 minutes",
+      "William Paterson University (Wayne) — 20 minutes"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-rated public school district consistently ranked in New Jersey's top 10",
+      "Walkable, charming downtown with independent shops, restaurants, and cafes",
+      "Direct NJ Transit train service to Hoboken Terminal with connections to NYC",
+      "Beautiful tree-lined streets with a mix of historic and modern homes",
+      "Strong sense of community with active civic organizations and events",
+      "Low crime rate and family-friendly neighborhoods"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Main/Bergen County Line",
+      "duration": "45-60 minutes to Hoboken, then PATH or ferry to Manhattan",
+      "trainStation": "Ridgewood Station (on East Ridgewood Avenue)",
+      "busRoutes": ["NJ Transit Bus 148"],
+      "notes": "The Ridgewood train station is centrally located in the downtown. Trains run frequently during rush hours. Bus 148 provides express service to the Port Authority Bus Terminal in Manhattan with a commute of approximately 50-70 minutes depending on traffic."
+    },
+    "costOfLiving": {
+      "summary": "Ridgewood is an affluent community with a cost of living significantly above state and national averages, driven primarily by housing costs and property taxes.",
+      "vsStateAverage": "Approximately 55% above the New Jersey state average",
+      "vsNationalAverage": "Approximately 95% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Exceptional public schools from elementary through high school",
+        "Vibrant, walkable downtown with dining, shopping, and entertainment",
+        "Strong property values with consistent appreciation",
+        "Excellent community amenities including parks, pool, and recreation programs",
+        "Convenient train access to New York City"
+      ],
+      "cons": [
+        "Very high property taxes, among the highest in the state",
+        "Home prices are well above regional averages",
+        "Train commute to Manhattan requires a transfer at Hoboken",
+        "Downtown parking can be challenging, especially on weekends",
+        "Limited housing inventory keeps prices elevated"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Latour",
+        "description": "Upscale French restaurant offering refined cuisine in an elegant setting. A Ridgewood fine dining institution for decades.",
+        "address": "6 East Ridgewood Avenue, Ridgewood, NJ 07450",
+        "category": "French/Fine Dining"
+      },
+      {
+        "name": "It's Greek To Me",
+        "description": "Popular Greek restaurant known for fresh seafood, traditional dishes, and a lively atmosphere.",
+        "address": "21 East Ridgewood Avenue, Ridgewood, NJ 07450",
+        "category": "Greek/Mediterranean"
+      },
+      {
+        "name": "Cafe Amici",
+        "description": "Italian-American restaurant and bar offering classic pasta dishes, pizzas, and a warm neighborhood vibe.",
+        "address": "41 East Ridgewood Avenue, Ridgewood, NJ 07450",
+        "category": "Italian"
+      },
+      {
+        "name": "Dim Sum Dynasty",
+        "description": "Authentic Chinese restaurant serving dim sum and traditional Cantonese cuisine in downtown Ridgewood.",
+        "address": "75 Franklin Avenue, Ridgewood, NJ 07450",
+        "category": "Chinese"
+      },
+      {
+        "name": "Country Pancake House",
+        "description": "Beloved breakfast and brunch spot famous for creative pancakes, omelets, and a cozy atmosphere.",
+        "address": "140 East Ridgewood Avenue, Ridgewood, NJ 07450",
+        "category": "Breakfast/American"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Graydon Pool & Park",
+        "description": "A scenic natural swimming area and park set around a spring-fed pond. A beloved summer destination for Ridgewood families with swimming, sunbathing, and picnicking.",
+        "address": "600 North Maple Avenue, Ridgewood, NJ 07450",
+        "category": "Swimming/Recreation"
+      },
+      {
+        "name": "Veteran's Memorial Park",
+        "description": "Central park with walking paths, memorial installations, and open green space in the heart of the village.",
+        "address": "East Ridgewood Avenue at Broad Street, Ridgewood, NJ 07450",
+        "category": "Memorial/Park"
+      },
+      {
+        "name": "Habernickel Park",
+        "description": "Neighborhood park featuring playgrounds, sports fields, and picnic areas popular with families.",
+        "address": "Prospect Street, Ridgewood, NJ 07450",
+        "category": "Playground/Recreation"
+      },
+      {
+        "name": "Schedler Park & Kasschau Shell",
+        "description": "Historic bandshell and park hosting summer concerts, community events, and performances throughout the year.",
+        "address": "131 North Maple Avenue, Ridgewood, NJ 07450",
+        "category": "Events/Music"
+      }
+    ],
+    "events": [
+      {
+        "name": "Ridgewood 4th of July Celebration",
+        "description": "Annual Independence Day festivities including a parade through downtown, live music, family activities, and fireworks.",
+        "when": "July 4th annually"
+      },
+      {
+        "name": "Ridgewood Fall Festival & Street Fair",
+        "description": "Large street fair with vendors, food, live entertainment, and activities spanning the downtown area.",
+        "when": "October, typically the first or second Sunday"
+      },
+      {
+        "name": "Summer Concert Series at Kasschau Shell",
+        "description": "Free outdoor concerts held weekly at the Kasschau Shell bandshell in Schedler Park throughout the summer.",
+        "when": "Wednesday evenings, June through August"
+      },
+      {
+        "name": "Ridgewood Guild International Food Festival",
+        "description": "Popular annual food festival showcasing cuisines from around the world, hosted by the Ridgewood Guild.",
+        "when": "June, typically a Saturday in mid-June"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Downtown Ridgewood",
+        "description": "Walkable downtown shopping district featuring over 200 independent boutiques, specialty shops, restaurants, and cafes along East Ridgewood Avenue and side streets.",
+        "address": "East Ridgewood Avenue, Ridgewood, NJ 07450",
+        "category": "Shopping/Dining"
+      },
+      {
+        "name": "Ridgewood Public Library",
+        "description": "Beautiful public library offering extensive collections, community programs, and a welcoming space for all ages.",
+        "address": "125 North Maple Avenue, Ridgewood, NJ 07450",
+        "category": "Culture/Education"
+      },
+      {
+        "name": "The Stable at Ridgewood",
+        "description": "Community arts center hosting art exhibits, classes, and cultural events in a historic converted stable building.",
+        "address": "259 North Maple Avenue, Ridgewood, NJ 07450",
+        "category": "Arts/Culture"
+      }
+    ],
+    "shoppingAreas": [
+      "East Ridgewood Avenue — Main downtown shopping corridor",
+      "North Broad Street — Boutiques and specialty shops",
+      "Franklin Avenue — Restaurants and small shops",
+      "South Broad Street — Additional retail and services",
+      "Westwood/Paramus shopping — Major retail centers nearby"
+    ]
+  },
+  "government": {
+    "governingBody": "Village Council (Council-Manager form of government)",
+    "mayor": {
+      "name": "Paul Vagianos",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Pamela Perron",
+        "title": "Deputy Mayor / Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Lorraine Reynolds",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Michael Sedon",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Brian Gioia",
+        "title": "Council Member",
+        "term": "4-year term"
+      },
+      {
+        "name": "Susan Knudsen",
+        "title": "Council Member",
+        "term": "4-year term"
+      }
+    ],
+    "meetingSchedule": "Village Council meets the 2nd and 4th Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Village Hall, 131 North Maple Avenue, Ridgewood, NJ 07450",
+    "municipalWebsite": "https://www.ridgewoodnj.net",
+    "importantContacts": [
+      {
+        "department": "Village Manager's Office",
+        "phone": "(201) 670-5500",
+        "email": "manager@ridgewoodnj.net",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Village Clerk",
+        "phone": "(201) 670-5500",
+        "email": "clerk@ridgewoodnj.net",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 670-5500",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 670-5500",
+        "email": "tax@ridgewoodnj.net",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Public Works",
+        "phone": "(201) 670-5500",
+        "hours": "Monday-Friday 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 670-5560",
+        "hours": "Monday-Friday 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-3900",
+      "address": "131 North Maple Avenue, Ridgewood, NJ 07450"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 670-5540",
+      "address": "East Ridgewood Avenue, Ridgewood, NJ 07450"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 652-6940",
+      "address": "Ridgewood, NJ 07450"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 1.5
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Ridgewood Water",
+        "phone": "(201) 670-5520",
+        "url": "https://www.ridgewoodwater.com"
+      },
+      {
+        "service": "Sewer",
+        "provider": "Village of Ridgewood DPW",
+        "phone": "(201) 670-5500",
+        "url": "https://www.ridgewoodnj.net"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon Fios",
+        "phone": "1-866-200-7273 / 1-800-837-4966"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Emergency",
+        "number": "911"
+      },
+      {
+        "label": "Ridgewood Police (Non-Emergency)",
+        "number": "(201) 652-3900"
+      },
+      {
+        "label": "Ridgewood Fire Department",
+        "number": "(201) 670-5540"
+      },
+      {
+        "label": "Village Hall",
+        "number": "(201) 670-5500"
+      },
+      {
+        "label": "Ridgewood Water (Emergencies)",
+        "number": "(201) 670-5520"
+      },
+      {
+        "label": "PSE&G (Gas Leak / Power Outage)",
+        "number": "1-800-436-7734"
+      },
+      {
+        "label": "Bergen County Office of Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "Poison Control Center",
+        "number": "1-800-222-1222"
+      }
+    ]
+  }
+}

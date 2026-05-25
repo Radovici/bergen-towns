@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "slug": "paramus",
+    "name": "Paramus",
+    "fullName": "Borough of Paramus",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "paramus.info",
+    "zipCodes": ["07652", "07653"],
+    "themeColor": "#8c1a1a",
+    "accentColor": "#b83a3a"
+  },
+  "overview": {
+    "tagline": "The Retail Capital of Bergen County",
+    "description": "Paramus is a borough in Bergen County, New Jersey, renowned as one of the top retail destinations in the United States. Home to several major shopping centers including Westfield Garden State Plaza and Paramus Park, the borough generates more retail sales per square mile than almost any other zip code in America. Despite its commercial prominence, Paramus maintains a strong residential character with tree-lined streets and well-regarded schools. The borough is famously known for its blue laws, which restrict most retail activity on Sundays.",
+    "population": 27514,
+    "populationYear": 2020,
+    "areaSqMi": 10.47,
+    "elevation": "56 ft",
+    "incorporated": "1922",
+    "governmentType": "Borough (Faulkner Act, Mayor-Council)",
+    "schoolDistrict": "Paramus Public Schools",
+    "highlights": [
+      "Home to Westfield Garden State Plaza, one of the largest malls in the US",
+      "Famous blue laws restrict most retail on Sundays",
+      "Over $6 billion in annual retail sales",
+      "Van Saun County Park with Bergen County Zoo",
+      "Top-rated public school district"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$625,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.85%",
+    "averagePropertyTax": "$14,500",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Reassessments occur periodically; last full revaluation was completed in recent years.",
+    "recentTrends": "Paramus home prices have seen steady appreciation, driven by strong schools, retail convenience, and proximity to NYC. Demand remains high for single-family homes, particularly in the eastern sections near Ridgewood.",
+    "neighborhoodNotes": [
+      "Eastern Paramus near Ridgewood border is among the most desirable residential areas",
+      "The Spring Valley section features larger lots and mature trees",
+      "Areas near Route 4 and Route 17 are more commercial in character",
+      "The Westfield Garden State Plaza area has seen mixed-use development proposals",
+      "South Paramus near Van Saun Park is popular with families"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by a contracted hauler for all residential properties.",
+      "details": [
+        "Collection days vary by neighborhood; check the borough website for your schedule",
+        "Trash must be placed at the curb by 6:00 AM on collection day",
+        "Use sealed containers or approved trash bags",
+        "Bulk pickup is available on scheduled dates throughout the year",
+        "Holiday schedule adjustments are posted on the borough website"
+      ],
+      "contactPhone": "(201) 265-2100",
+      "contactUrl": "https://www.paramusborough.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream curbside recycling is collected weekly. The borough participates in the Bergen County Utilities Authority recycling program.",
+      "details": [
+        "Recycling is collected once per week",
+        "Accepted materials: paper, cardboard, glass bottles/jars, plastic #1-#7, aluminum and steel cans",
+        "No plastic bags, styrofoam, or food-contaminated materials",
+        "Electronics recycling events are held periodically",
+        "Yard waste is collected separately during spring and fall"
+      ],
+      "contactPhone": "(201) 265-2100",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Veolia Water (formerly United Water/SUEZ). Sewer service is managed by the borough with treatment by the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills are issued quarterly by Veolia Water",
+        "Sewer charges appear on the borough tax bill",
+        "Water quality reports are published annually",
+        "Contact Veolia for new connections, leaks, or billing issues",
+        "Fire hydrant flushing occurs in spring and fall"
+      ],
+      "contactPhone": "(201) 767-9300",
+      "contactUrl": "https://www.myveoliawater.com"
+    },
+    "permits": {
+      "title": "Building & Zoning Permits",
+      "description": "The Building Department handles all construction permits, zoning applications, and code enforcement for residential and commercial properties.",
+      "details": [
+        "Permits required for most construction, renovation, and signage",
+        "Applications available online or at Borough Hall",
+        "Zoning Board of Adjustment meets monthly for variance requests",
+        "Planning Board reviews site plans and subdivision applications",
+        "Certificate of Occupancy required before occupying new or renovated structures"
+      ],
+      "contactPhone": "(201) 265-2100",
+      "contactUrl": "https://www.paramusborough.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Paramus does not have metered street parking in residential areas. Commercial parking is managed by individual shopping centers and businesses.",
+      "details": [
+        "No municipal parking meters",
+        "Overnight parking restrictions apply on borough streets",
+        "Shopping center parking is free but privately managed",
+        "No resident parking permit program",
+        "Street parking regulations enforced by Paramus Police"
+      ],
+      "contactPhone": "(201) 262-3400"
+    },
+    "additionalServices": [
+      {
+        "title": "Leaf Collection",
+        "description": "Seasonal leaf collection is provided in the fall for all residential properties.",
+        "details": [
+          "Loose leaf collection runs from mid-October through mid-December",
+          "Rake leaves to the curb; do not place in bags during loose leaf season",
+          "Do not mix leaves with branches or other debris",
+          "Collection schedule is posted on the borough website"
+        ],
+        "contactPhone": "(201) 265-2100"
+      },
+      {
+        "title": "Snow Removal",
+        "description": "The Department of Public Works handles snow plowing for borough streets.",
+        "details": [
+          "Borough streets are plowed during and after significant snowfall",
+          "Residents must clear sidewalks within 24 hours after snow stops",
+          "Do not push snow into the street",
+          "Fire hydrants must be kept clear of snow"
+        ],
+        "contactPhone": "(201) 265-2100"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Paramus enforces noise regulations to maintain residential quality of life, with specific quiet hours and restrictions on construction noise.",
+      "keyRules": [
+        "Quiet hours are from 10:00 PM to 7:00 AM on weekdays and 10:00 PM to 9:00 AM on weekends",
+        "Construction activity is prohibited before 7:00 AM and after 6:00 PM on weekdays",
+        "No construction on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted during quiet hours",
+        "Excessive noise complaints are handled by Paramus Police"
+      ],
+      "source": "Borough of Paramus Code, Chapter 191"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties in good condition, including lawns, structures, and exterior appearances.",
+      "keyRules": [
+        "Grass and weeds must not exceed 10 inches in height",
+        "Properties must be free of accumulated rubbish and debris",
+        "Fences must be maintained in good repair",
+        "Swimming pools must be properly fenced and maintained",
+        "Vacant properties must be secured and maintained"
+      ],
+      "source": "Borough of Paramus Code, Property Maintenance Chapter"
+    },
+    "pets": {
+      "title": "Pet & Animal Regulations",
+      "summary": "All dogs and cats must be licensed and vaccinated. Paramus has leash laws and regulations on the number of pets per household.",
+      "keyRules": [
+        "All dogs over 7 months must be licensed annually",
+        "Cats must be licensed and vaccinated against rabies",
+        "Dogs must be on a leash at all times when off the owner's property",
+        "Pet owners must clean up after their animals on public and private property",
+        "Maximum of 3 dogs or 3 cats per household without a kennel license",
+        "Barking dog complaints are investigated by Animal Control"
+      ],
+      "source": "Borough of Paramus Code, Chapter 91"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Street parking is regulated throughout the borough with restrictions on overnight parking and commercial vehicles.",
+      "keyRules": [
+        "No overnight street parking between 2:00 AM and 6:00 AM without a permit",
+        "Commercial vehicles over 4 tons are prohibited from parking on residential streets",
+        "No parking within 25 feet of a stop sign or crosswalk",
+        "Vehicles may not be parked on front lawns",
+        "Abandoned vehicles will be towed at the owner's expense"
+      ],
+      "source": "Borough of Paramus Code, Traffic Chapter"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Rental properties must comply with borough housing codes and landlords must register rental units.",
+      "keyRules": [
+        "Rental properties must meet all housing code requirements",
+        "Landlords must register rental units with the borough",
+        "Certificate of Habitability required before occupancy",
+        "Inspections may be required at change of tenancy",
+        "Multi-family zoning restrictions apply in most residential zones"
+      ],
+      "source": "Borough of Paramus Code, Housing Chapter"
+    },
+    "other": [
+      {
+        "title": "Blue Laws (Sunday Closing)",
+        "summary": "Paramus is one of the few remaining municipalities in the US with strict blue laws prohibiting most retail sales on Sundays.",
+        "keyRules": [
+          "Most retail stores must remain closed on Sundays",
+          "Exceptions include restaurants, gas stations, pharmacies, and convenience stores",
+          "Car dealerships cannot sell vehicles on Sundays",
+          "Grocery stores and food establishments may operate on Sundays",
+          "Violations are subject to fines and enforcement action",
+          "The blue laws have been upheld repeatedly and remain strongly supported by residents"
+        ],
+        "source": "Bergen County Blue Laws; Paramus Municipal Ordinance"
+      },
+      {
+        "title": "Fence Regulations",
+        "summary": "Fences are regulated by height, material, and setback requirements depending on their location on the property.",
+        "keyRules": [
+          "Front yard fences may not exceed 4 feet in height",
+          "Rear and side yard fences may not exceed 6 feet in height",
+          "A zoning permit is required before installing any fence",
+          "Chain-link fences are permitted but must be maintained",
+          "Fence must be installed with the finished side facing outward"
+        ],
+        "source": "Borough of Paramus Zoning Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Paramus Public Schools",
+    "publicSchools": [
+      {
+        "name": "Midland School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 380,
+        "type": "public",
+        "notes": "Located in the southern section of Paramus"
+      },
+      {
+        "name": "Parkway School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Serves the central Paramus area"
+      },
+      {
+        "name": "Ridge Ranch School",
+        "grades": "K-5",
+        "rating": 8,
+        "enrollment": 370,
+        "type": "public",
+        "notes": "Located in the eastern section near Ridgewood border"
+      },
+      {
+        "name": "Stony Lane School",
+        "grades": "K-5",
+        "rating": 7,
+        "enrollment": 360,
+        "type": "public",
+        "notes": "Serves the Spring Valley neighborhood"
+      },
+      {
+        "name": "West Brook Middle School",
+        "grades": "6-8",
+        "rating": 7,
+        "enrollment": 700,
+        "type": "public",
+        "notes": "One of two middle schools in the district"
+      },
+      {
+        "name": "East Brook Middle School",
+        "grades": "6-8",
+        "rating": 7,
+        "enrollment": 680,
+        "type": "public",
+        "notes": "Serves the eastern half of the borough"
+      },
+      {
+        "name": "Paramus High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 1500,
+        "type": "public",
+        "notes": "Comprehensive high school with strong academics and athletics; home of the Spartans"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Paramus Catholic High School",
+        "grades": "9-12",
+        "type": "private",
+        "enrollment": 1300,
+        "notes": "Roman Catholic coeducational school; strong athletics program and college prep curriculum"
+      },
+      {
+        "name": "Bergen County Academies",
+        "grades": "9-12",
+        "type": "public",
+        "enrollment": 1100,
+        "notes": "Magnet school located in Hackensack; many Paramus students attend via competitive admission"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 2-year public college located in the borough",
+      "Fairleigh Dickinson University (Teaneck) — 5 miles",
+      "Ramapo College of New Jersey (Mahwah) — 20 miles",
+      "Montclair State University — 15 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Unparalleled shopping convenience with major retail centers minutes away",
+      "Strong public school system with high graduation rates",
+      "Sunday blue laws create a peaceful residential atmosphere one day per week",
+      "Excellent highway access via Routes 4, 17, and the Garden State Parkway",
+      "Beautiful Van Saun County Park with zoo and recreation",
+      "Active community with numerous youth sports and recreation programs"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "Bus (NJ Transit)",
+      "duration": "35-55 minutes",
+      "busRoutes": ["144", "148", "155", "157", "163", "165"],
+      "notes": "Multiple NJ Transit bus routes serve Paramus with direct service to the Port Authority Bus Terminal in Midtown Manhattan. Route 163 is the most popular. Park-and-ride facilities are available. Driving to the George Washington Bridge takes approximately 20-30 minutes without traffic."
+    },
+    "costOfLiving": {
+      "summary": "Paramus has a high cost of living driven primarily by property taxes and housing costs, though it is relatively moderate compared to some neighboring Bergen County towns.",
+      "vsStateAverage": "About 15% above the New Jersey average",
+      "vsNationalAverage": "Approximately 40% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "World-class shopping and retail within minutes",
+        "Strong public schools with good test scores",
+        "Quiet Sundays thanks to blue laws",
+        "Excellent park system including Van Saun Park",
+        "Good highway access for commuting",
+        "Relatively moderate home prices for Bergen County"
+      ],
+      "cons": [
+        "Heavy traffic on Routes 4 and 17, especially on Saturdays",
+        "High property taxes typical of Bergen County",
+        "Commercial development along highways can feel congested",
+        "Limited nightlife and walkable downtown area",
+        "Blue laws restrict Sunday shopping convenience"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "The Capital Grille",
+        "description": "Upscale steakhouse in the Garden State Plaza offering dry-aged steaks, fresh seafood, and an extensive wine list in an elegant setting.",
+        "address": "1 Garden State Plaza, Paramus, NJ 07652",
+        "category": "Fine Dining"
+      },
+      {
+        "name": "Seasons 52",
+        "description": "Fresh grill and wine bar featuring a seasonally inspired menu with dishes under 595 calories, located at the Garden State Plaza.",
+        "address": "1 Garden State Plaza, Paramus, NJ 07652",
+        "category": "American"
+      },
+      {
+        "name": "Chakra",
+        "description": "Modern Indian restaurant offering inventive takes on traditional dishes in a stylish, contemporary atmosphere.",
+        "address": "144 W Route 4, Paramus, NJ 07652",
+        "category": "Indian"
+      },
+      {
+        "name": "Venetian",
+        "description": "Classic Italian-American restaurant and catering hall that has been a Paramus staple for decades, known for generous portions.",
+        "address": "546 Kinderkamack Rd, River Edge, NJ 07661",
+        "category": "Italian"
+      },
+      {
+        "name": "Segovia Steakhouse",
+        "description": "Spanish and Portuguese steakhouse famous for its rodizio-style service and Iberian specialties.",
+        "address": "217 Main St, Little Ferry, NJ 07643",
+        "category": "Spanish/Steakhouse"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Van Saun County Park",
+        "description": "A 146-acre Bergen County park featuring the Bergen County Zoo, train rides, a carousel, playgrounds, picnic areas, and athletic fields. One of the most popular parks in the county.",
+        "address": "216 Forest Ave, Paramus, NJ 07652",
+        "category": "County Park"
+      },
+      {
+        "name": "Saddle River County Park (Dunkerhook Area)",
+        "description": "Part of the extensive Saddle River County Park system running along the Saddle River, offering walking trails, fishing, and nature observation.",
+        "address": "GS Parkway & Midland Ave, Paramus, NJ 07652",
+        "category": "County Park"
+      },
+      {
+        "name": "Memorial Park",
+        "description": "Municipal park with athletic fields, tennis courts, a community pool, and playgrounds. Home to many of the borough's youth sports leagues.",
+        "address": "475 Farview Ave, Paramus, NJ 07652",
+        "category": "Municipal Park"
+      },
+      {
+        "name": "Cliff Gennarelli-Sportsplex at Paramus",
+        "description": "Indoor sports complex offering ice skating, fitness center, basketball, and various recreation programs for residents.",
+        "address": "275 E Ridgewood Ave, Paramus, NJ 07652",
+        "category": "Recreation"
+      }
+    ],
+    "events": [
+      {
+        "name": "Paramus Independence Day Celebration",
+        "description": "Annual July 4th celebration featuring live music, food vendors, carnival rides, and a spectacular fireworks display at Cliff Gennarelli Sportsplex.",
+        "when": "July 4th"
+      },
+      {
+        "name": "Paramus Carnival",
+        "description": "Annual spring carnival with rides, games, and food, held as a community fundraiser.",
+        "when": "Spring (May)"
+      },
+      {
+        "name": "Bergen County Zoo Events",
+        "description": "Year-round events at the Bergen County Zoo in Van Saun Park, including Zoo Boo (October), Zoo at Night, and seasonal educational programs.",
+        "when": "Year-round"
+      },
+      {
+        "name": "Paramus 5K Run",
+        "description": "Annual community 5K road race drawing hundreds of participants through the borough's residential streets.",
+        "when": "Fall (October)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Westfield Garden State Plaza",
+        "description": "One of the largest and most profitable shopping malls in the United States with over 300 stores including Nordstrom, Neiman Marcus, and Macy's.",
+        "address": "1 Garden State Plaza, Paramus, NJ 07652",
+        "category": "Shopping"
+      },
+      {
+        "name": "Paramus Park Mall",
+        "description": "Regional shopping center with a mix of national retailers and dining options in a convenient location along Route 17.",
+        "address": "700 Paramus Park, Paramus, NJ 07652",
+        "category": "Shopping"
+      },
+      {
+        "name": "Bergen County Zoo",
+        "description": "Free-admission zoo within Van Saun County Park featuring over 200 animals from around the world, including a reptile house and a native species exhibit.",
+        "address": "216 Forest Ave, Paramus, NJ 07652",
+        "category": "Family/Education"
+      }
+    ],
+    "shoppingAreas": [
+      "Westfield Garden State Plaza",
+      "Paramus Park Mall",
+      "Bergen Town Center (adjacent in Maywood/Paramus)",
+      "Route 4 retail corridor",
+      "Route 17 retail corridor",
+      "Fashion Center"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor-Council",
+    "mayor": {
+      "name": "Christopher DiPiazza",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "Jeanne Weber",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Troy Bunero",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Cara Egan-Samson",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "John Girado",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Sasha Lam",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Michael Maguire",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Regular meetings are held on the 2nd and 4th Tuesday of each month at 7:30 PM",
+    "meetingLocation": "Paramus Borough Hall, 1 Jockish Square, Paramus, NJ 07652",
+    "municipalWebsite": "https://www.paramusborough.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 265-2100",
+        "email": "clerk@paramusborough.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 265-2100",
+        "email": "taxcollector@paramusborough.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 265-2100",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "(201) 265-2100",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "(201) 265-2100",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Health Department",
+        "phone": "(201) 265-2100",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-3400",
+      "address": "1 Jockish Square, Paramus, NJ 07652"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 265-2712",
+      "address": "Paramus Fire Department, East 44 Midland Ave, Paramus, NJ 07652"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 262-3400",
+      "address": "Paramus Volunteer Ambulance Corps"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (The Valley Hospital)",
+        "address": "223 N Van Dien Ave, Ridgewood, NJ 07450",
+        "phone": "(201) 447-8000",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Ave, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Rd, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly SUEZ/United Water)",
+        "phone": "(201) 767-9300",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Verizon Fios",
+        "phone": "(800) 837-4966",
+        "url": "https://www.verizon.com/fios"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Borough Hall",
+        "number": "(201) 265-2100"
+      },
+      {
+        "label": "Police Non-Emergency",
+        "number": "(201) 262-3400"
+      },
+      {
+        "label": "Poison Control",
+        "number": "(800) 222-1222"
+      },
+      {
+        "label": "Bergen County Emergency Management",
+        "number": "(201) 785-5700"
+      },
+      {
+        "label": "NJ 2-1-1 (Social Services)",
+        "number": "2-1-1"
+      }
+    ]
+  }
+}

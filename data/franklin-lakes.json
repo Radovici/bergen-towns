@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "slug": "franklin-lakes",
+    "name": "Franklin Lakes",
+    "fullName": "Borough of Franklin Lakes",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "franklinlakes.info",
+    "zipCodes": ["07417"],
+    "themeColor": "#1a5c4c",
+    "accentColor": "#2d8c7a"
+  },
+  "overview": {
+    "tagline": "Where nature meets luxury living",
+    "description": "Franklin Lakes is an affluent residential borough in northwestern Bergen County known for its spacious properties, wooded landscapes, and exceptional quality of life. With large-lot zoning, extensive nature preserves, and top-rated schools, it consistently ranks among New Jersey's most desirable communities. The borough maintains a rural, estate-like character while being within commuting distance of New York City.",
+    "population": 11044,
+    "populationYear": 2020,
+    "areaSqMi": 9.77,
+    "elevation": "300-600 ft above sea level",
+    "incorporated": "1922",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Franklin Lakes Public Schools / Ramapo Indian Hills Regional High School District",
+    "highlights": [
+      "One of New Jersey's wealthiest communities with expansive estate-style homes",
+      "Over 1,000 acres of preserved open space and nature areas",
+      "Home to the former Becton Dickinson corporate headquarters",
+      "Award-winning public school system consistently ranked among NJ's best",
+      "Extensive trail systems and reservoirs for outdoor recreation"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$1,050,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "2.25%",
+    "averagePropertyTax": "$22,000",
+    "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Franklin Lakes maintains minimum lot sizes of one to three acres in most zones, preserving the borough's spacious character.",
+    "recentTrends": "Franklin Lakes continues to see strong demand from families seeking top schools and generous lot sizes. Teardowns of older homes and rebuilds with modern luxury homes are common. The market remains competitive with limited inventory.",
+    "neighborhoodNotes": [
+      "Shadow Lake area features waterfront homes along the private lake community",
+      "High Mountain section offers elevated properties with panoramic views of the Ramapo Mountains",
+      "Franklin Avenue corridor has newer construction and estate homes on 2+ acre lots",
+      "Urban Lane / Crystal Lake area provides a more accessible entry point to the borough"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash collection is provided twice weekly by a contracted private hauler.",
+      "details": [
+        "Trash must be in sealed containers or bags, maximum 50 lbs per bag",
+        "Place at curbside by 6:00 AM on collection day",
+        "Bulk item pickup available by scheduling with the DPW",
+        "Yard waste collected separately during spring and fall seasons"
+      ],
+      "contactPhone": "201-891-0048",
+      "contactUrl": "https://www.franklinlakes.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Curbside recycling is collected every other week, following the Bergen County Utilities Authority guidelines.",
+      "details": [
+        "Commingled containers (glass, plastic #1-#7, aluminum, tin) in one bin",
+        "Paper, cardboard, and newspaper bundled or in a separate bin",
+        "No plastic bags, Styrofoam, or hazardous materials",
+        "Recycling calendar available on the borough website"
+      ],
+      "contactPhone": "201-891-0048",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Franklin Lakes is served by a combination of private wells and public water from the Borough's water system. Sewer service is provided through the borough and connected to the Northwest Bergen County Utilities Authority.",
+      "details": [
+        "Many homes use private wells — annual testing recommended",
+        "Public water available in newer developments",
+        "Septic systems common in older sections of town",
+        "Sewer connections available in designated areas"
+      ],
+      "contactPhone": "201-891-0048"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Construction Department handles all building permits, inspections, and zoning compliance.",
+      "details": [
+        "Permits required for any structural, electrical, plumbing, or mechanical work",
+        "Strict zoning enforcement — lot coverage, setback, and height requirements apply",
+        "Tree removal permits required due to environmental ordinances",
+        "Applications available at Borough Hall or online"
+      ],
+      "contactPhone": "201-891-0048"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Franklin Lakes is a suburban community with ample private parking. Limited municipal parking exists at Borough Hall and public facilities.",
+      "details": [
+        "No metered parking in the borough",
+        "Parking available at borough parks and recreation facilities",
+        "Street parking generally permitted except where signage prohibits",
+        "NJ Transit park-and-ride lot available at nearby Oakland station"
+      ],
+      "contactPhone": "201-891-0048"
+    },
+    "additionalServices": [
+      {
+        "title": "Leaf & Yard Waste Collection",
+        "description": "Seasonal leaf collection in fall and yard waste pickup in spring and summer.",
+        "details": [
+          "Leaves collected curbside October through December — no need to bag",
+          "Branches must be bundled (4 ft max length, 50 lbs max weight)",
+          "Grass clippings must be in biodegradable bags",
+          "Check the borough calendar for specific collection dates"
+        ],
+        "contactPhone": "201-891-0048"
+      },
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department offers extensive youth and adult programs throughout the year.",
+        "details": [
+          "Youth sports including soccer, basketball, baseball, lacrosse, and tennis",
+          "Summer camp programs at borough parks",
+          "Adult fitness and wellness programs",
+          "Community pool membership available to residents"
+        ],
+        "contactPhone": "201-891-2604"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Franklin Lakes enforces quiet hours to maintain its residential tranquility.",
+      "keyRules": [
+        "Construction permitted Monday-Friday 7:30 AM to 6:00 PM",
+        "Saturday construction 8:00 AM to 5:00 PM",
+        "No construction on Sundays or federal holidays",
+        "Leaf blowers and power equipment restricted before 8:00 AM on weekends",
+        "Excessive noise complaints handled by the Police Department"
+      ],
+      "source": "Franklin Lakes Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners are required to maintain their lots and structures to preserve neighborhood aesthetics and property values.",
+      "keyRules": [
+        "Lawns must be regularly maintained — excessive growth will result in violation notices",
+        "Dead or hazardous trees must be removed (permit required for live tree removal)",
+        "Swimming pools must be fenced with self-closing, self-latching gates",
+        "No storage of unregistered vehicles or excessive outdoor storage",
+        "Snow must be cleared from sidewalks within a reasonable time after snowfall"
+      ],
+      "source": "Franklin Lakes Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "All dogs must be licensed and controlled. The borough has regulations to manage animals given the semi-rural environment.",
+      "keyRules": [
+        "Dogs must be licensed annually through the Borough Clerk",
+        "Rabies vaccination required for all dogs and cats",
+        "Dogs must be leashed or under voice control when off property",
+        "Owners must clean up pet waste from public areas and others' property",
+        "Wildlife feeding (deer, bears, etc.) is prohibited"
+      ],
+      "source": "Franklin Lakes Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking regulations focus on safety and preserving the residential character of the community.",
+      "keyRules": [
+        "No overnight parking on borough streets from November 1 to April 1 (snow removal)",
+        "Commercial vehicles over a certain weight restricted from parking in residential areas",
+        "No parking within 25 feet of intersections or crosswalks",
+        "Vehicles must be parked in the direction of traffic flow",
+        "Abandoned or unregistered vehicles will be towed"
+      ],
+      "source": "Franklin Lakes Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Rental properties must comply with borough standards and state landlord-tenant law.",
+      "keyRules": [
+        "Rental properties must have a Certificate of Occupancy",
+        "Landlords must comply with NJ state landlord-tenant regulations",
+        "Rental units subject to property maintenance code inspections",
+        "Multi-family housing is limited by zoning — most zones are single-family residential",
+        "Accessory apartments subject to specific ordinance requirements"
+      ],
+      "source": "Franklin Lakes Borough Code"
+    },
+    "other": [
+      {
+        "title": "Environmental Protections",
+        "summary": "Franklin Lakes has strong environmental ordinances to protect its natural resources.",
+        "keyRules": [
+          "Tree removal permits required for trees over 8 inches in diameter",
+          "Wetlands buffer zones strictly enforced — no construction within designated areas",
+          "Stormwater management regulations apply to all new construction",
+          "Fertilizer and pesticide restrictions near waterways and wells",
+          "Bear-resistant trash container recommendations due to local black bear population"
+        ],
+        "source": "Franklin Lakes Borough Code"
+      },
+      {
+        "title": "Deer Management",
+        "summary": "The borough participates in a managed deer reduction program to address overpopulation.",
+        "keyRules": [
+          "Borough-authorized deer management hunts conducted in winter months",
+          "Specific designated areas and dates — residents notified in advance",
+          "Deer feeding prohibited throughout the borough",
+          "Deer-resistant landscaping encouraged"
+        ],
+        "source": "Franklin Lakes Borough Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Franklin Lakes Public Schools (K-8) / Ramapo Indian Hills Regional High School District (9-12)",
+    "publicSchools": [
+      {
+        "name": "Ramapo High School",
+        "grades": "9-12",
+        "rating": 8,
+        "enrollment": 1100,
+        "type": "public",
+        "notes": "Shared regional high school with Wyckoff; strong academics, athletics, and arts programs. Offers numerous AP courses."
+      },
+      {
+        "name": "Franklin Avenue Middle School",
+        "grades": "5-8",
+        "rating": 9,
+        "enrollment": 550,
+        "type": "public",
+        "notes": "Highly rated middle school with advanced programs and extensive extracurriculars"
+      },
+      {
+        "name": "High Mountain School",
+        "grades": "K-4",
+        "rating": 9,
+        "enrollment": 350,
+        "type": "public",
+        "notes": "Top-rated elementary school with strong parent involvement"
+      },
+      {
+        "name": "Colonial Road School",
+        "grades": "K-4",
+        "rating": 9,
+        "enrollment": 320,
+        "type": "public",
+        "notes": "Neighborhood elementary school known for excellent teachers and community feel"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Academy of the Most Blessed Sacrament",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Catholic school serving Franklin Lakes and surrounding communities"
+      },
+      {
+        "name": "Eastern Christian School",
+        "grades": "PreK-12",
+        "type": "private",
+        "notes": "Christian school with campuses in North Haledon serving some Franklin Lakes families; strong academics and faith-based education"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Ramapo College of New Jersey — Mahwah (6 miles)",
+      "William Paterson University — Wayne (10 miles)",
+      "Fairleigh Dickinson University — Teaneck (15 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Top-rated schools with small class sizes and high test scores",
+      "Spacious lots (1-3+ acres) offering privacy and a semi-rural feel",
+      "Over 1,000 acres of preserved open space, trails, and nature areas",
+      "Safe, family-oriented community with low crime rates",
+      "Proximity to NYC while maintaining a countryside atmosphere"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus (Route 196) or Drive to train station",
+      "duration": "60-90 minutes to Midtown Manhattan",
+      "busRoutes": ["196"],
+      "notes": "Most commuters drive to NJ Transit train stations in Oakland or Mahwah (Main/Bergen Line) or take the 196 bus route. Some residents drive to the Radburn station in Fair Lawn for a faster train. The commute is longer than from eastern Bergen County but manageable with express options."
+    },
+    "costOfLiving": {
+      "summary": "Franklin Lakes is one of the most expensive communities in Bergen County, with high home prices and property taxes reflecting the quality of life and schools.",
+      "vsStateAverage": "60-80% above the New Jersey average",
+      "vsNationalAverage": "120-150% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Exceptional public and private schools",
+        "Beautiful natural surroundings with extensive preserved open space",
+        "Large lots provide privacy and room for families",
+        "Very low crime rate — one of the safest communities in NJ",
+        "Strong property values and community investment"
+      ],
+      "cons": [
+        "Very high property taxes (often $20,000-$30,000+ annually)",
+        "Long commute to NYC compared to eastern Bergen County towns",
+        "Limited public transit options — car-dependent community",
+        "Few commercial areas — residents travel to nearby towns for shopping",
+        "Bear and deer wildlife encounters require property precautions"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Biagio's Ristorante",
+        "description": "Upscale Italian restaurant in a charming setting, known for fresh pasta, seafood, and an extensive wine list. Popular for special occasions.",
+        "address": "299 Paramus Road, Paramus, NJ 07652",
+        "category": "Italian"
+      },
+      {
+        "name": "Franklin Steakhouse & Tavern",
+        "description": "Local favorite for classic American steakhouse fare, craft cocktails, and a warm atmosphere.",
+        "address": "800 Franklin Avenue, Franklin Lakes, NJ 07417",
+        "category": "American Steakhouse"
+      },
+      {
+        "name": "Rock & Brew",
+        "description": "Casual gastropub offering craft beers, burgers, and American comfort food with a rock-and-roll theme.",
+        "address": "Franklin Lakes, NJ 07417",
+        "category": "Gastropub"
+      },
+      {
+        "name": "Urban Farms Market & Kitchen",
+        "description": "Farm-to-table market and prepared foods shop offering fresh, locally sourced meals, salads, and baked goods.",
+        "address": "Franklin Lakes, NJ 07417",
+        "category": "Farm-to-Table"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Franklin Lakes Nature Preserve",
+        "description": "A 200+ acre nature preserve with hiking trails through woodlands, wetlands, and along streams. A haven for birdwatching and nature photography.",
+        "address": "Pulis Avenue, Franklin Lakes, NJ 07417",
+        "category": "Nature Preserve"
+      },
+      {
+        "name": "High Mountain Park Preserve",
+        "description": "A 1,154-acre preserve shared with Wayne and North Haledon, featuring rugged trails to the summit with panoramic views of the NYC skyline, Ramapo Mountains, and surrounding valleys.",
+        "address": "Ewing Avenue, Franklin Lakes, NJ 07417",
+        "category": "Nature Preserve"
+      },
+      {
+        "name": "Municipal Green / Recreation Complex",
+        "description": "Central recreation area with sports fields, a community pool, playgrounds, and picnic facilities.",
+        "address": "DeKorte Drive, Franklin Lakes, NJ 07417",
+        "category": "Recreation Complex"
+      },
+      {
+        "name": "Shadow Lake",
+        "description": "A private lake community with swimming, fishing, and boating available to lakefront property owners and members.",
+        "category": "Lake Community"
+      }
+    ],
+    "events": [
+      {
+        "name": "Franklin Lakes Day",
+        "description": "Annual community celebration featuring a parade, live entertainment, food vendors, games, and activities for all ages.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "The borough's annual holiday kickoff with tree lighting ceremony, caroling, hot cocoa, and visits with Santa.",
+        "when": "December (annual)"
+      },
+      {
+        "name": "Summer Concert Series",
+        "description": "Free outdoor concerts at the Municipal Green on select summer evenings, featuring local and regional bands.",
+        "when": "June-August (select dates)"
+      },
+      {
+        "name": "Spring Clean-Up Day",
+        "description": "Community volunteer event to clean parks, trails, and public spaces throughout the borough.",
+        "when": "April (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "High Mountain Summit",
+        "description": "The highest point in the Preakness Range offering sweeping 360-degree views. On clear days, the Manhattan skyline is visible. Popular hiking destination.",
+        "address": "High Mountain Park Preserve, Franklin Lakes, NJ 07417",
+        "category": "Natural Attraction"
+      },
+      {
+        "name": "Franklin Lakes Public Library",
+        "description": "A well-regarded community library offering extensive collections, children's programming, book clubs, and community events.",
+        "address": "470 DeKorte Drive, Franklin Lakes, NJ 07417",
+        "category": "Library & Culture"
+      },
+      {
+        "name": "Campgaw Mountain Reservation",
+        "description": "A Bergen County park just minutes away offering hiking, camping, a ski area, disc golf, and outdoor education — accessible year-round.",
+        "address": "200 Campgaw Road, Mahwah, NJ 07430",
+        "category": "County Park"
+      }
+    ],
+    "shoppingAreas": [
+      "Franklin Avenue — Small local commercial strip with professional offices and eateries",
+      "Wyckoff Shopping Areas — Nearby Wyckoff town center with boutiques and restaurants (5 minutes)",
+      "Westfield Garden State Plaza — Major regional mall in Paramus (15 minutes)",
+      "Oakland / Wayne commercial corridors — Route 202 shopping and dining options nearby"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor and Borough Council",
+    "mayor": {
+      "name": "Frank & Catania (Greg Shapiro served previously)",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Charles Barracato",
+        "title": "Council President",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Ann Swist",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Justin Kuo",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Rae Catanese",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Tom Wiener",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Anthony Iannaccone",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Wednesday of each month at 7:30 PM",
+    "meetingLocation": "Franklin Lakes Borough Hall, 490 DeKorte Drive, Franklin Lakes, NJ 07417",
+    "municipalWebsite": "https://www.franklinlakes.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-891-0048",
+        "email": "clerk@franklinlakes.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-891-0048",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-891-0048",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-891-0048",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-891-2604",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Environmental Commission",
+        "phone": "201-891-0048",
+        "hours": "Contact via Borough Hall"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-891-3535",
+      "address": "490 DeKorte Drive, Franklin Lakes, NJ 07417"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-891-1717",
+      "address": "Municipal Complex, DeKorte Drive, Franklin Lakes, NJ 07417"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-891-1717",
+      "address": "Franklin Lakes, NJ 07417"
+    },
+    "hospitals": [
+      {
+        "name": "Valley Hospital (Valley Health System)",
+        "address": "223 North Van Dien Avenue, Ridgewood, NJ 07450",
+        "phone": "201-447-8000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Chilton Medical Center (Atlantic Health)",
+        "address": "97 West Parkway, Pompton Plains, NJ 07444",
+        "phone": "973-831-5000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 15
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water (where applicable)",
+        "provider": "Borough Water Department / Private Wells",
+        "phone": "201-891-0048"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Franklin Lakes Police (Non-Emergency)",
+        "number": "201-891-3535"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-891-0048"
+      },
+      {
+        "label": "Animal Control",
+        "number": "201-891-3535"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

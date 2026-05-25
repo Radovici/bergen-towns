@@ -1,0 +1,571 @@
+{
+  "meta": {
+    "slug": "fort-lee",
+    "name": "Fort Lee",
+    "fullName": "Borough of Fort Lee",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "fortlee.info",
+    "zipCodes": ["07024"],
+    "themeColor": "#1a3a5c",
+    "accentColor": "#2d5a8c"
+  },
+  "overview": {
+    "tagline": "Gateway to the George Washington Bridge",
+    "description": "Fort Lee is a densely populated borough in Bergen County perched atop the Hudson Palisades directly across from Upper Manhattan. Known as the birthplace of the American film industry and the western anchor of the George Washington Bridge, Fort Lee is a vibrant, culturally diverse community with a dramatic skyline of residential high-rises, a thriving Korean and Japanese dining scene, and unmatched proximity to New York City.",
+    "population": 40267,
+    "populationYear": 2020,
+    "areaSqMi": 2.79,
+    "elevation": "300 ft (Palisades cliffs) to 30 ft (river level)",
+    "incorporated": "1904",
+    "governmentType": "Borough (Faulkner Act, Council-Manager)",
+    "schoolDistrict": "Fort Lee School District",
+    "highlights": [
+      "Western anchorage of the George Washington Bridge",
+      "Historic birthplace of the American motion picture industry",
+      "One of the most ethnically diverse communities in New Jersey",
+      "Palisades Interstate Park runs along its eastern cliffs",
+      "Major Korean-American cultural hub with vibrant restaurant scene"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$530,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "1.48%",
+    "averagePropertyTax": "$11,500",
+    "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Fort Lee underwent a borough-wide revaluation in recent years.",
+    "recentTrends": "Fort Lee's real estate market remains strong due to NYC proximity. High-rise condominiums dominate the market, with newer luxury buildings commanding premium prices. The market is popular with buyers seeking Manhattan views and short commutes.",
+    "neighborhoodNotes": [
+      "The Palisade Avenue corridor features luxury high-rise condominiums with Hudson River and NYC skyline views",
+      "Main Street area offers a walkable downtown with shops, restaurants, and mid-rise apartments",
+      "The Coytesville section in the north has more single-family homes and a quieter suburban feel",
+      "GWB-adjacent areas experience heavier traffic but offer the most convenient bridge access"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Curbside trash pickup is provided twice weekly by the Borough's contracted hauler.",
+      "details": [
+        "Collection days vary by neighborhood — check the borough website for your schedule",
+        "Trash must be placed curbside by 6:00 AM on collection day",
+        "Use sealed bags or covered containers not exceeding 50 lbs",
+        "Bulk item pickup is available by appointment"
+      ],
+      "contactPhone": "201-592-3500",
+      "contactUrl": "https://www.fortleenj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Single-stream recycling is collected weekly. The borough participates in the Bergen County Utilities Authority recycling program.",
+      "details": [
+        "Commingled recyclables (plastic #1-#7, glass, cans) collected in blue bins",
+        "Paper and cardboard collected separately",
+        "No plastic bags, Styrofoam, or food-soiled items",
+        "Electronics recycling events held periodically"
+      ],
+      "contactPhone": "201-592-3500",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water is supplied by Suez Water (now Veolia) and sewer service is managed through the Bergen County Utilities Authority.",
+      "details": [
+        "Water bills are issued quarterly by Veolia",
+        "Sewer charges appear on property tax bills",
+        "Water quality reports are published annually",
+        "Emergency water main breaks: call the DPW"
+      ],
+      "contactPhone": "201-592-3500",
+      "contactUrl": "https://www.myveolia.com"
+    },
+    "permits": {
+      "title": "Building Permits",
+      "description": "The Fort Lee Building Department handles all construction, renovation, and zoning permits.",
+      "details": [
+        "Permits required for any structural work, electrical, plumbing, or HVAC modifications",
+        "Zoning applications reviewed by the Planning Board or Zoning Board of Adjustment",
+        "Certificate of Occupancy required for all new construction and changes of use",
+        "Applications can be submitted at Borough Hall"
+      ],
+      "contactPhone": "201-592-3500"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Fort Lee manages several municipal parking facilities and metered street parking throughout the commercial district.",
+      "details": [
+        "Municipal parking lots and garages available near Main Street",
+        "Resident parking permits available for designated areas",
+        "Metered parking enforced Monday through Saturday",
+        "Overnight street parking restricted in many areas — check signage"
+      ],
+      "contactPhone": "201-592-3500"
+    },
+    "additionalServices": [
+      {
+        "title": "Senior Services",
+        "description": "The Fort Lee Senior Center offers programs, transportation, and meals for residents aged 60+.",
+        "details": [
+          "Located at the Jack Alter Fort Lee Community Center",
+          "Transportation to medical appointments and shopping",
+          "Daily hot lunch program",
+          "Exercise classes, trips, and social events"
+        ],
+        "contactPhone": "201-592-3580"
+      },
+      {
+        "title": "Recreation Programs",
+        "description": "The Recreation Department runs youth sports leagues, summer camps, and community events.",
+        "details": [
+          "Youth basketball, soccer, baseball, and swimming programs",
+          "Summer day camp for children",
+          "Adult fitness programs at the Community Center",
+          "Seasonal events including concerts and movie nights"
+        ],
+        "contactPhone": "201-592-3580"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Fort Lee enforces noise restrictions to maintain quality of life in its dense residential areas.",
+      "keyRules": [
+        "Construction work prohibited before 8:00 AM and after 6:00 PM on weekdays",
+        "No construction on Sundays or federal holidays",
+        "Saturday construction allowed 9:00 AM to 5:00 PM",
+        "Excessive noise from residential units (music, parties) subject to fines",
+        "Commercial deliveries restricted during late night/early morning hours"
+      ],
+      "source": "Fort Lee Borough Code"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Property owners must maintain their properties to borough standards, including landscaping and structural upkeep.",
+      "keyRules": [
+        "Lawns must be kept trimmed — grass over 10 inches may result in violation",
+        "Snow and ice must be cleared from sidewalks within 12 hours of storm ending",
+        "No accumulation of trash, debris, or abandoned vehicles on properties",
+        "Building facades and structures must be maintained in safe condition",
+        "Vacant properties must be registered and maintained"
+      ],
+      "source": "Fort Lee Borough Code"
+    },
+    "pets": {
+      "title": "Pet Regulations",
+      "summary": "Dogs must be licensed annually and kept under control at all times.",
+      "keyRules": [
+        "All dogs must be licensed with the Borough Clerk's office",
+        "Dogs must be on a leash when off the owner's property",
+        "Owners must clean up after their pets on public and private property",
+        "Rabies vaccination required for all dogs and cats",
+        "No exotic or wild animals permitted as pets"
+      ],
+      "source": "Fort Lee Borough Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Fort Lee has strict parking regulations due to its density and proximity to the George Washington Bridge.",
+      "keyRules": [
+        "Alternate-side parking enforced on many residential streets for street cleaning",
+        "No overnight parking on borough streets without a resident permit in designated zones",
+        "GWB traffic overflow parking strictly prohibited in residential areas",
+        "Fire hydrant clearance of 10 feet required at all times",
+        "Handicapped space violations carry significant fines"
+      ],
+      "source": "Fort Lee Borough Code"
+    },
+    "rentals": {
+      "title": "Rental Regulations",
+      "summary": "Fort Lee has a large rental population and enforces landlord-tenant regulations actively.",
+      "keyRules": [
+        "Landlords must register rental units with the Borough",
+        "Rent control ordinance applies to buildings with three or more units built before certain dates",
+        "Certificate of Habitability required for all rental units",
+        "Security deposit limited to 1.5 months' rent per NJ state law",
+        "Tenants protected under NJ Anti-Eviction Act"
+      ],
+      "source": "Fort Lee Borough Code, NJ Landlord-Tenant Law"
+    },
+    "other": [
+      {
+        "title": "Short-Term Rentals",
+        "summary": "Short-term rental regulations apply to platforms such as Airbnb and VRBO.",
+        "keyRules": [
+          "Short-term rentals must comply with borough zoning ordinances",
+          "Registration may be required — check with the Building Department",
+          "Fire safety and occupancy codes must be met",
+          "Complaints about short-term rental properties may result in enforcement action"
+        ],
+        "source": "Fort Lee Borough Code"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Fort Lee School District",
+    "publicSchools": [
+      {
+        "name": "Fort Lee High School",
+        "grades": "9-12",
+        "rating": 7,
+        "enrollment": 1350,
+        "type": "public",
+        "notes": "Offers AP and Honors programs, strong STEM and arts programs"
+      },
+      {
+        "name": "Lewis F. Cole Middle School",
+        "grades": "5-8",
+        "rating": 6,
+        "enrollment": 900,
+        "type": "public",
+        "notes": "Comprehensive middle school with gifted and talented program"
+      },
+      {
+        "name": "School #1",
+        "grades": "K-4",
+        "rating": 7,
+        "enrollment": 450,
+        "type": "public"
+      },
+      {
+        "name": "School #2",
+        "grades": "K-4",
+        "rating": 6,
+        "enrollment": 400,
+        "type": "public"
+      },
+      {
+        "name": "School #3",
+        "grades": "K-4",
+        "rating": 7,
+        "enrollment": 420,
+        "type": "public"
+      },
+      {
+        "name": "School #4",
+        "grades": "PreK-4",
+        "rating": 6,
+        "enrollment": 380,
+        "type": "public"
+      }
+    ],
+    "privateSchools": [
+      {
+        "name": "Calvary Christian Academy",
+        "grades": "PreK-8",
+        "type": "private",
+        "notes": "Faith-based education with small class sizes"
+      },
+      {
+        "name": "Madonna Cemetery & Mausoleum School (Holy Angels Academy nearby)",
+        "grades": "9-12",
+        "type": "private",
+        "notes": "Academy of the Holy Angels in nearby Demarest serves many Fort Lee families"
+      }
+    ],
+    "nearbyHigherEd": [
+      "Fairleigh Dickinson University — Teaneck (5 miles)",
+      "Bergen Community College — Paramus (8 miles)",
+      "Columbia University — NYC (via GWB, 6 miles)"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Unmatched proximity to Manhattan via the George Washington Bridge and bus routes",
+      "Vibrant, diverse community with excellent Korean, Japanese, and international dining",
+      "Stunning Hudson River and NYC skyline views from Palisades-top residences",
+      "Access to Palisades Interstate Park for hiking and recreation along the cliffs",
+      "Strong public transit options with NJ Transit bus service to the Port Authority"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "NJ Transit Bus / Car via George Washington Bridge",
+      "duration": "20-45 minutes depending on traffic and destination",
+      "busRoutes": ["154", "156", "158", "171", "175", "178", "186"],
+      "notes": "Multiple NJ Transit bus routes run from Fort Lee to the Port Authority Bus Terminal in Midtown Manhattan. The George Washington Bridge provides direct car access to Upper Manhattan. Ferry service from nearby Edgewater is also an option."
+    },
+    "costOfLiving": {
+      "summary": "Fort Lee's cost of living is above the national average, driven primarily by housing costs and property taxes, but offers relative value compared to Manhattan.",
+      "vsStateAverage": "10-15% above the New Jersey average",
+      "vsNationalAverage": "35-40% above the national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Closest NJ community to Manhattan with direct GWB access",
+        "Incredibly diverse population and world-class dining options",
+        "Beautiful Palisades cliffs with parks and river views",
+        "Strong rental market for investors",
+        "Excellent public transit to NYC"
+      ],
+      "cons": [
+        "Heavy traffic congestion, especially around the George Washington Bridge",
+        "Limited single-family housing — mostly high-rise condos and apartments",
+        "Higher property taxes compared to some neighboring towns",
+        "Street parking can be difficult in commercial areas",
+        "Noise from GWB traffic corridor"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "Sushi Kai",
+        "description": "Acclaimed omakase and sushi restaurant offering exquisite Japanese cuisine with fresh fish flown in from Tsukiji Market.",
+        "address": "2167 Lemoine Avenue, Fort Lee, NJ 07024",
+        "category": "Japanese"
+      },
+      {
+        "name": "So Kong Dong",
+        "description": "Beloved Korean restaurant famous for its bubbling soft tofu stew (soon tofu) and authentic Korean comfort food.",
+        "address": "1580 Lemoine Avenue, Fort Lee, NJ 07024",
+        "category": "Korean"
+      },
+      {
+        "name": "Gamja Tang",
+        "description": "Popular spot for Korean pork bone soup and hearty traditional Korean dishes in a casual setting.",
+        "address": "1633 Palisade Avenue, Fort Lee, NJ 07024",
+        "category": "Korean"
+      },
+      {
+        "name": "Hiram's Roadstand",
+        "description": "A Fort Lee institution since 1932, serving deep-fried hot dogs and classic American roadside fare.",
+        "address": "1345 Palisade Avenue, Fort Lee, NJ 07024",
+        "category": "American"
+      },
+      {
+        "name": "Ventanas",
+        "description": "Upscale Mediterranean restaurant featuring panoramic views of the Hudson River and Manhattan skyline.",
+        "address": "Fort Lee, NJ 07024",
+        "category": "Mediterranean"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Palisades Interstate Park — Fort Lee Historic Park",
+        "description": "A scenic park atop the Palisades cliffs with Revolutionary War history, hiking trails, and sweeping views of the George Washington Bridge and Manhattan skyline.",
+        "address": "Hudson Terrace, Fort Lee, NJ 07024",
+        "category": "Historic Park"
+      },
+      {
+        "name": "Constitution Park",
+        "description": "Community park featuring playgrounds, sports courts, a walking path, and picnic areas in the heart of Fort Lee.",
+        "address": "Park Avenue, Fort Lee, NJ 07024",
+        "category": "Community Park"
+      },
+      {
+        "name": "Ross Dock Picnic Area",
+        "description": "Riverside picnic area at the base of the Palisades cliffs, accessible by car, offering grills, restrooms, and waterfront views.",
+        "address": "Ross Dock Road, Fort Lee, NJ 07024",
+        "category": "Picnic Area"
+      },
+      {
+        "name": "Monument Park",
+        "description": "A small memorial park dedicated to local veterans, featuring monuments and a peaceful green space.",
+        "address": "Palisade Avenue, Fort Lee, NJ 07024",
+        "category": "Memorial Park"
+      }
+    ],
+    "events": [
+      {
+        "name": "Fort Lee Film Festival",
+        "description": "Annual celebration of Fort Lee's legacy as the birthplace of American cinema, featuring film screenings, lectures, and exhibits.",
+        "when": "June (annual)"
+      },
+      {
+        "name": "Fort Lee Day",
+        "description": "Borough-wide community celebration with live music, food vendors, carnival rides, and fireworks.",
+        "when": "September (annual)"
+      },
+      {
+        "name": "Holiday Tree Lighting",
+        "description": "Annual tree lighting ceremony in the downtown area with hot chocolate, caroling, and holiday festivities.",
+        "when": "December (annual)"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "George Washington Bridge",
+        "description": "One of the most iconic bridges in the world, connecting Fort Lee to Washington Heights, Manhattan. The pedestrian walkway offers spectacular views.",
+        "address": "Hudson Terrace, Fort Lee, NJ 07024",
+        "category": "Landmark"
+      },
+      {
+        "name": "Fort Lee Historic Park",
+        "description": "Part of Palisades Interstate Park, this site preserves Revolutionary War history where George Washington's troops retreated from the British in 1776.",
+        "address": "Hudson Terrace, Fort Lee, NJ 07024",
+        "category": "Historic Site"
+      },
+      {
+        "name": "Barrymore Film Center",
+        "description": "A cultural arts venue housed in a restored Art Deco movie theater, honoring Fort Lee's film heritage with screenings, performances, and exhibitions.",
+        "address": "1455 Main Street, Fort Lee, NJ 07024",
+        "category": "Arts & Culture"
+      }
+    ],
+    "shoppingAreas": [
+      "Main Street — Fort Lee's walkable downtown with shops, banks, and restaurants",
+      "Lemoine Avenue — Korean and Japanese restaurants, bakeries, and specialty shops",
+      "Palisade Avenue — Mix of retail, dining, and services",
+      "The Shops at Hudson Lights — Modern mixed-use development near the GWB with retail and dining"
+    ]
+  },
+  "government": {
+    "governingBody": "Borough Council (Council-Manager form)",
+    "mayor": {
+      "name": "Mark Sokolich",
+      "title": "Mayor",
+      "term": "Four-year term"
+    },
+    "council": [
+      {
+        "name": "Ila Kasofsky",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Harvey Sohmer",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Joseph Cervieri Jr.",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Michael Sargenti",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Paul Shortino",
+        "title": "Council Member",
+        "term": "Three-year term"
+      },
+      {
+        "name": "Peter Suh",
+        "title": "Council Member",
+        "term": "Three-year term"
+      }
+    ],
+    "meetingSchedule": "Borough Council meets on the second and fourth Thursday of each month at 7:00 PM",
+    "meetingLocation": "Fort Lee Borough Hall, Council Chambers, 309 Main Street, Fort Lee, NJ 07024",
+    "municipalWebsite": "https://www.fortleenj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "201-592-3500",
+        "email": "clerk@fortleenj.org",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "201-592-3500",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "201-592-3500",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Department of Public Works",
+        "phone": "201-592-3519",
+        "hours": "Monday-Friday, 7:00 AM - 3:30 PM"
+      },
+      {
+        "department": "Recreation Department",
+        "phone": "201-592-3580",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      },
+      {
+        "department": "Health Department",
+        "phone": "201-592-3500",
+        "hours": "Monday-Friday, 8:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "201-947-1516",
+      "address": "1327 16th Street, Fort Lee, NJ 07024"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "201-592-3540",
+      "address": "309 Main Street, Fort Lee, NJ 07024"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "201-592-3540",
+      "address": "Fort Lee, NJ 07024"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack Meridian Health Palisades Medical Center",
+        "address": "7600 River Road, North Bergen, NJ 07047",
+        "phone": "201-854-5000",
+        "distanceMiles": 3.5
+      },
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Avenue, Hackensack, NJ 07601",
+        "phone": "551-996-2000",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Englewood Health",
+        "address": "350 Engle Street, Englewood, NJ 07631",
+        "phone": "201-894-3000",
+        "distanceMiles": 5
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Gas",
+        "provider": "PSE&G",
+        "phone": "1-800-436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water (formerly Suez)",
+        "phone": "201-767-0850",
+        "url": "https://www.myveolia.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA) / Verizon FiOS",
+        "phone": "1-866-200-7273"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Fort Lee Police (Non-Emergency)",
+        "number": "201-947-1516"
+      },
+      {
+        "label": "Borough Hall",
+        "number": "201-592-3500"
+      },
+      {
+        "label": "Poison Control",
+        "number": "1-800-222-1222"
+      },
+      {
+        "label": "NJ 211 (Social Services)",
+        "number": "211"
+      },
+      {
+        "label": "Bergen County OEM",
+        "number": "201-785-5700"
+      }
+    ]
+  }
+}

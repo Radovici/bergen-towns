@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "slug": "teterboro",
+    "name": "Teterboro",
+    "fullName": "Borough of Teterboro",
+    "county": "Bergen",
+    "state": "New Jersey",
+    "domain": "teterboro.info",
+    "zipCodes": ["07608"],
+    "themeColor": "#4a5568",
+    "accentColor": "#718096"
+  },
+  "overview": {
+    "tagline": "Bergen County's Aviation and Industrial Hub",
+    "description": "Teterboro is one of the smallest municipalities in Bergen County and all of New Jersey, distinguished by its almost entirely commercial and industrial character. The borough is best known as home to Teterboro Airport, a general aviation reliever airport for the New York metropolitan area that primarily serves private and corporate aircraft. With a resident population of fewer than 100 people, Teterboro is a unique municipality where the daytime working population vastly exceeds its residents. The borough generates substantial tax revenue from its commercial base, airport operations, and industrial properties.",
+    "population": 67,
+    "populationYear": 2020,
+    "areaSqMi": 1.28,
+    "elevation": "9 ft",
+    "incorporated": "1917",
+    "governmentType": "Borough (Mayor-Council)",
+    "schoolDistrict": "Teterboro Public Schools (sends students to neighboring districts)",
+    "highlights": [
+      "Home to Teterboro Airport, a premier general aviation airport",
+      "One of the smallest boroughs by population in New Jersey",
+      "Almost entirely commercial and industrial land use",
+      "Aviation Hall of Fame & Museum of New Jersey located here",
+      "Strategic location at junction of Routes 17, 46, and I-80"
+    ]
+  },
+  "realEstate": {
+    "medianHomePrice": "$350,000",
+    "medianPriceYear": 2024,
+    "propertyTaxRate": "0.75%",
+    "averagePropertyTax": "$2,500",
+    "assessmentInfo": "Due to its almost entirely commercial/industrial tax base, Teterboro has one of the lowest residential property tax rates in New Jersey. Very few residential properties exist.",
+    "recentTrends": "Residential real estate in Teterboro is extremely limited. The borough's real estate market is dominated by commercial and industrial properties, including warehouse, logistics, and aviation-related facilities. There is virtually no residential development activity.",
+    "neighborhoodNotes": [
+      "The small residential area is located on the eastern side of the borough",
+      "Most of the borough consists of airport property, warehouses, and commercial buildings",
+      "The Meadowlands environment borders the borough to the south and west",
+      "Adjacent to Hasbrouck Heights, Moonachie, and South Hackensack"
+    ]
+  },
+  "services": {
+    "trashCollection": {
+      "title": "Trash Collection",
+      "description": "Trash collection is provided for the small number of residential properties in the borough.",
+      "details": [
+        "Collection provided by a contracted hauler",
+        "Limited residential service due to the very small resident population",
+        "Commercial properties arrange private waste removal",
+        "Contact Borough Hall for residential collection schedule"
+      ],
+      "contactPhone": "(201) 288-1200",
+      "contactUrl": "https://www.teterboronj.org"
+    },
+    "recycling": {
+      "title": "Recycling",
+      "description": "Recycling services are coordinated through the Bergen County Utilities Authority for the limited residential properties.",
+      "details": [
+        "Curbside recycling available for residents",
+        "Standard Bergen County recycling guidelines apply",
+        "Commercial properties must arrange private recycling services",
+        "BCUA provides guidance on accepted materials"
+      ],
+      "contactPhone": "(201) 288-1200",
+      "contactUrl": "https://www.bcua.org"
+    },
+    "waterSewer": {
+      "title": "Water & Sewer",
+      "description": "Water and sewer services are provided to the borough's properties, with sewer treatment handled by the Bergen County Utilities Authority.",
+      "details": [
+        "Water supplied through a regional utility provider",
+        "Sewer treated by Bergen County Utilities Authority",
+        "Commercial and industrial users account for the vast majority of water/sewer usage",
+        "Contact Borough Hall for service information"
+      ],
+      "contactPhone": "(201) 288-1200"
+    },
+    "permits": {
+      "title": "Building & Zoning Permits",
+      "description": "The borough handles building permits and zoning for its predominantly commercial and industrial properties.",
+      "details": [
+        "Permits required for construction and renovation of commercial and industrial properties",
+        "Zoning is predominantly industrial and commercial",
+        "Airport-related development may require FAA coordination",
+        "Contact the Building Department at Borough Hall for applications"
+      ],
+      "contactPhone": "(201) 288-1200",
+      "contactUrl": "https://www.teterboronj.org"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Parking in Teterboro is primarily managed by individual commercial properties and the airport.",
+      "details": [
+        "No municipal metered parking",
+        "Airport parking managed by individual FBOs (Fixed Base Operators)",
+        "Commercial properties provide their own parking facilities",
+        "Street parking is extremely limited"
+      ],
+      "contactPhone": "(201) 288-1200"
+    },
+    "additionalServices": [
+      {
+        "title": "Airport Services",
+        "description": "Teterboro Airport provides general aviation services through multiple Fixed Base Operators.",
+        "details": [
+          "Jet Aviation, Meridian, and Signature Flight Support operate as FBOs",
+          "Customs and Border Protection facility on site",
+          "Noise abatement procedures in effect",
+          "Airport managed by the Port Authority of New York and New Jersey"
+        ],
+        "contactPhone": "(201) 288-1775"
+      }
+    ]
+  },
+  "rules": {
+    "noise": {
+      "title": "Noise Ordinance",
+      "summary": "Teterboro has noise regulations that apply to both ground-level activity and aircraft operations, though aircraft noise is primarily regulated at the federal level.",
+      "keyRules": [
+        "Standard quiet hours apply for ground-level noise",
+        "Aircraft noise abatement procedures are managed by the Port Authority and FAA",
+        "Teterboro Airport has a voluntary nighttime curfew (midnight to 6:00 AM) for most aircraft",
+        "Stage 1 and Stage 2 aircraft are prohibited",
+        "Noise complaints related to aircraft can be filed with the Port Authority"
+      ],
+      "source": "Borough of Teterboro Code; FAA/Port Authority Airport Rules"
+    },
+    "propertyMaintenance": {
+      "title": "Property Maintenance",
+      "summary": "Commercial and industrial property owners must maintain their properties in accordance with borough codes.",
+      "keyRules": [
+        "Properties must be maintained in good repair",
+        "Landscaping and exterior areas must be kept neat and orderly",
+        "No accumulation of debris or abandoned materials",
+        "Signage must comply with borough zoning regulations",
+        "Environmental regulations apply due to Meadowlands proximity"
+      ],
+      "source": "Borough of Teterboro Code"
+    },
+    "pets": {
+      "title": "Pet & Animal Regulations",
+      "summary": "Standard pet licensing and leash requirements apply, though the very small residential population means minimal enforcement activity.",
+      "keyRules": [
+        "Dogs must be licensed and vaccinated against rabies",
+        "Dogs must be on a leash when off the owner's property",
+        "Pet waste must be cleaned up",
+        "Standard Bergen County animal control regulations apply"
+      ],
+      "source": "Borough of Teterboro Code"
+    },
+    "parking": {
+      "title": "Parking Regulations",
+      "summary": "Parking regulations are oriented toward commercial and industrial traffic management.",
+      "keyRules": [
+        "No parking on borough streets without authorization",
+        "Commercial vehicle parking must be on designated properties",
+        "No overnight parking on public streets",
+        "Truck routes are designated through the borough"
+      ],
+      "source": "Borough of Teterboro Traffic Code"
+    },
+    "rentals": {
+      "title": "Rental Property Regulations",
+      "summary": "Very limited rental housing exists in Teterboro. Standard housing codes apply to any residential rental units.",
+      "keyRules": [
+        "Rental units must meet all housing code standards",
+        "Residential zoning is extremely limited",
+        "Commercial leases govern the vast majority of rental activity in the borough",
+        "Contact Borough Hall for specific residential rental questions"
+      ],
+      "source": "Borough of Teterboro Code"
+    },
+    "other": [
+      {
+        "title": "Airport Zoning Restrictions",
+        "summary": "Height and land use restrictions apply in areas surrounding Teterboro Airport to ensure aviation safety.",
+        "keyRules": [
+          "Building heights are restricted within airport approach zones",
+          "FAA Part 77 obstruction standards apply",
+          "Certain land uses incompatible with airport operations are prohibited",
+          "New construction near the airport requires FAA review (Form 7460)",
+          "Bird and wildlife attractant uses may be restricted near the airport"
+        ],
+        "source": "FAA Regulations; Borough of Teterboro Zoning Code"
+      },
+      {
+        "title": "Meadowlands Environmental Regulations",
+        "summary": "Parts of Teterboro fall within the New Jersey Meadowlands District, subject to additional environmental oversight.",
+        "keyRules": [
+          "Development may require permits from the New Jersey Sports and Exposition Authority / Meadowlands Commission",
+          "Wetlands protections apply to undeveloped areas",
+          "Stormwater management requirements are strict",
+          "Environmental impact assessments may be required for major projects"
+        ],
+        "source": "NJ Meadowlands Commission; NJDEP"
+      }
+    ]
+  },
+  "schools": {
+    "publicDistrict": "Teterboro Public Schools",
+    "publicSchools": [
+      {
+        "name": "Teterboro Public School (sends students to neighboring districts)",
+        "grades": "K-12",
+        "type": "public",
+        "notes": "Teterboro does not operate its own school buildings due to its tiny population. Students are sent to neighboring school districts (primarily Hasbrouck Heights) through send-receive agreements."
+      }
+    ],
+    "privateSchools": [],
+    "nearbyHigherEd": [
+      "Bergen Community College (Paramus) — 6 miles",
+      "Fairleigh Dickinson University (Teaneck) — 5 miles",
+      "Felician University (Rutherford) — 3 miles"
+    ]
+  },
+  "buyers": {
+    "whyMoveHere": [
+      "Extremely low property taxes due to massive commercial/industrial tax base",
+      "Very small, tight-knit community",
+      "Strategic location near major highways (Routes 17, 46, I-80)",
+      "Close to employment centers in the Meadowlands area"
+    ],
+    "commuteToNYC": {
+      "primaryMethod": "Bus (NJ Transit) from neighboring towns",
+      "duration": "40-60 minutes",
+      "busRoutes": ["161", "165"],
+      "notes": "Teterboro itself has minimal public transit. Residents typically drive to nearby NJ Transit bus stops in Hasbrouck Heights or Hackensack for bus service to Manhattan. The Lincoln Tunnel and George Washington Bridge are accessible via Routes 17 and 46. The Meadowlands area has several NJ Transit bus connections."
+    },
+    "costOfLiving": {
+      "summary": "Teterboro offers an unusually low cost of living for Bergen County due to its heavily commercial tax base subsidizing the tiny residential population. Property taxes are a fraction of what neighboring towns charge.",
+      "vsStateAverage": "Property taxes approximately 70% below the Bergen County average",
+      "vsNationalAverage": "Housing costs are moderate; property taxes are well below national average"
+    },
+    "prosAndCons": {
+      "pros": [
+        "Extremely low property taxes — among the lowest in Bergen County",
+        "Convenient highway access for commuters",
+        "Close to shopping, dining, and employment in surrounding towns",
+        "Small community where everyone knows each other"
+      ],
+      "cons": [
+        "Very limited residential housing stock",
+        "No local schools — students sent to neighboring districts",
+        "Airport and industrial noise is a constant factor",
+        "No walkable downtown, shops, or restaurants within the borough",
+        "Industrial/commercial environment lacks typical suburban charm",
+        "Flood risk in some low-lying Meadowlands areas"
+      ]
+    }
+  },
+  "visitors": {
+    "restaurants": [
+      {
+        "name": "The Hasbrouck Heights Diner",
+        "description": "Classic New Jersey diner just across the border in Hasbrouck Heights, serving breakfast, lunch, and dinner with a wide-ranging menu.",
+        "address": "236 Route 17, Hasbrouck Heights, NJ 07604",
+        "category": "Diner"
+      },
+      {
+        "name": "Ivy Inn",
+        "description": "Charming restaurant and bar in nearby Hasbrouck Heights known for its American cuisine and warm atmosphere.",
+        "address": "268 Terrace Ave, Hasbrouck Heights, NJ 07604",
+        "category": "American"
+      },
+      {
+        "name": "Baci Ristorante",
+        "description": "Italian restaurant near Teterboro Airport popular with business travelers and locals, offering traditional Italian dishes.",
+        "address": "400 Green St, South Hackensack, NJ 07606",
+        "category": "Italian"
+      }
+    ],
+    "parks": [
+      {
+        "name": "Losen Slote Creek Park",
+        "description": "A small nature area along Losen Slote Creek in the Meadowlands, offering a glimpse of the wetland ecosystem. Located partly in the Teterboro/Little Ferry area.",
+        "address": "Mehrhof Rd, Little Ferry, NJ 07643",
+        "category": "Nature/Wetlands"
+      },
+      {
+        "name": "Hasbrouck Heights Municipal Parks",
+        "description": "Several parks in neighboring Hasbrouck Heights are the closest recreational facilities, including athletic fields and playgrounds.",
+        "address": "Various locations, Hasbrouck Heights, NJ 07604",
+        "category": "Municipal Parks"
+      },
+      {
+        "name": "DeKorte Park (Meadowlands Environment Center)",
+        "description": "Part of the NJ Meadowlands, this park in nearby Lyndhurst offers walking trails through marshlands, birdwatching, and the Meadowlands Environment Center.",
+        "address": "2 DeKorte Park Plaza, Lyndhurst, NJ 07071",
+        "category": "Nature/Wetlands"
+      }
+    ],
+    "events": [
+      {
+        "name": "Aviation Hall of Fame Induction Ceremony",
+        "description": "Annual ceremony honoring inductees into the New Jersey Aviation Hall of Fame, held at the museum on the airport grounds.",
+        "when": "Annually (varies)"
+      },
+      {
+        "name": "Airport Open House / Aviation Events",
+        "description": "Periodic events at Teterboro Airport or hosted by FBOs, featuring aircraft displays and aviation-related activities.",
+        "when": "Periodic (check with airport FBOs)"
+      },
+      {
+        "name": "Meadowlands Birding Events",
+        "description": "Birdwatching and nature events in the Meadowlands area, including the area around Teterboro, organized by environmental groups.",
+        "when": "Spring and Fall migration seasons"
+      }
+    ],
+    "attractions": [
+      {
+        "name": "Aviation Hall of Fame & Museum of New Jersey",
+        "description": "Museum dedicated to the history of aviation in New Jersey, featuring exhibits on famous aviators, vintage aircraft, and flight simulators. Located on the grounds of Teterboro Airport.",
+        "address": "400 Fred Wehran Dr, Teterboro, NJ 07608",
+        "category": "Museum"
+      },
+      {
+        "name": "Teterboro Airport",
+        "description": "One of the busiest general aviation airports in the United States, managed by the Port Authority of NY & NJ. A fascinating spot for aviation enthusiasts to watch private jets and corporate aircraft.",
+        "address": "111 Industrial Ave, Teterboro, NJ 07608",
+        "category": "Aviation"
+      }
+    ],
+    "shoppingAreas": [
+      "Route 17 retail corridor (Hasbrouck Heights/Paramus)",
+      "Shops at Riverside (adjacent Hackensack)",
+      "Meadowlands area retail centers"
+    ]
+  },
+  "government": {
+    "governingBody": "Mayor-Council",
+    "mayor": {
+      "name": "John Watt",
+      "title": "Mayor",
+      "term": "4-year term"
+    },
+    "council": [
+      {
+        "name": "George Paganelli",
+        "title": "Council President",
+        "term": "3-year term"
+      },
+      {
+        "name": "Daniel Bauer",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Joseph Murphy",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Robert Allen",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Anthony Mazza",
+        "title": "Council Member",
+        "term": "3-year term"
+      },
+      {
+        "name": "Patricia Wieland",
+        "title": "Council Member",
+        "term": "3-year term"
+      }
+    ],
+    "meetingSchedule": "Regular meetings are held on the 3rd Wednesday of each month at 7:00 PM",
+    "meetingLocation": "Teterboro Borough Hall, 510 Route 46 West, Teterboro, NJ 07608",
+    "municipalWebsite": "https://www.teterboronj.org",
+    "importantContacts": [
+      {
+        "department": "Borough Clerk",
+        "phone": "(201) 288-1200",
+        "hours": "Monday-Friday, 8:30 AM - 4:00 PM"
+      },
+      {
+        "department": "Tax Collector",
+        "phone": "(201) 288-1200",
+        "hours": "Monday-Friday, 8:30 AM - 4:00 PM"
+      },
+      {
+        "department": "Building Department",
+        "phone": "(201) 288-1200",
+        "hours": "Monday-Friday, 8:30 AM - 4:00 PM"
+      },
+      {
+        "department": "Teterboro Airport (Port Authority)",
+        "phone": "(201) 288-1775",
+        "hours": "Airport operates 24/7"
+      }
+    ]
+  },
+  "emergency": {
+    "police": {
+      "emergency": "911",
+      "nonEmergency": "(201) 288-1300",
+      "address": "510 Route 46 West, Teterboro, NJ 07608"
+    },
+    "fire": {
+      "emergency": "911",
+      "nonEmergency": "(201) 288-1200",
+      "address": "Moonachie Fire Department provides fire coverage"
+    },
+    "ems": {
+      "emergency": "911",
+      "nonEmergency": "(201) 288-1200",
+      "address": "South Bergen Regional EMS"
+    },
+    "hospitals": [
+      {
+        "name": "Hackensack University Medical Center",
+        "address": "30 Prospect Ave, Hackensack, NJ 07601",
+        "phone": "(551) 996-2000",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Holy Name Medical Center",
+        "address": "718 Teaneck Rd, Teaneck, NJ 07666",
+        "phone": "(201) 833-3000",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Clara Maass Medical Center",
+        "address": "1 Clara Maass Dr, Belleville, NJ 07109",
+        "phone": "(973) 450-2000",
+        "distanceMiles": 8
+      }
+    ],
+    "utilities": [
+      {
+        "service": "Electric",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Natural Gas",
+        "provider": "PSE&G",
+        "phone": "(800) 436-7734",
+        "url": "https://www.pseg.com"
+      },
+      {
+        "service": "Water",
+        "provider": "Veolia Water",
+        "phone": "(201) 767-9300",
+        "url": "https://www.myveoliawater.com"
+      },
+      {
+        "service": "Cable/Internet",
+        "provider": "Optimum (Altice USA)",
+        "phone": "(866) 200-7273",
+        "url": "https://www.optimum.com"
+      }
+    ],
+    "importantNumbers": [
+      {
+        "label": "Borough Hall",
+        "number": "(201) 288-1200"
+      },
+      {
+        "label": "Police Non-Emergency",
+        "number": "(201) 288-1300"
+      },
+      {
+        "label": "Teterboro Airport Operations",
+        "number": "(201) 288-1775"
+      },
+      {
+        "label": "Poison Control",
+        "number": "(800) 222-1222"
+      },
+      {
+        "label": "Bergen County Emergency Management",
+        "number": "(201) 785-5700"
+      }
+    ]
+  }
+}
