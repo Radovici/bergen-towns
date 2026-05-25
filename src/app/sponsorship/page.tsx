@@ -167,13 +167,13 @@ export default async function SponsorshipPage() {
           County? Reach out to discuss opportunities.
         </p>
         <a
-          href="mailto:partnerships@bergen-towns.info?subject=Sponsorship Inquiry - Bergen County Towns"
+          href={`mailto:${meta.slug}@radovici.com?subject=Sponsorship Inquiry - ${meta.name}, Bergen County`}
           className="inline-block bg-primary text-white px-6 py-3 rounded-lg font-medium no-underline hover:opacity-90 transition-opacity"
         >
           Contact Us About Partnerships
         </a>
         <p className="text-xs text-gray-400 mt-3">
-          partnerships@bergen-towns.info
+          {meta.slug}@radovici.com
         </p>
       </div>
     </article>
