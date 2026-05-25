@@ -8,5 +8,6 @@ export const SECTIONS = [
   { slug: "/visitors", label: "For Visitors" },
   { slug: "/government", label: "Local Government" },
   { slug: "/emergency", label: "Emergency" },
+  { slug: "/map", label: "County Map" },
   { slug: "/sponsorship", label: "Sponsorship" },
 ] as const;
