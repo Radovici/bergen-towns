@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import NeighborLinks from "@/components/NeighborLinks";
-import { Analytics } from "@vercel/analytics/next";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
@@ -49,7 +49,9 @@ export default async function RootLayout({
           {children}
         </main>
         <Footer town={town.meta} />
-        <Analytics />
+        {process.env.NEXT_PUBLIC_GA_ID && (
+          <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
+        )}
         <SpeedInsights />
       </body>
     </html>
