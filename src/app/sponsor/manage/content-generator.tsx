@@ -35,12 +35,6 @@ export default function ContentGenerator({
     setInput("");
     setIsLoading(true);
 
-    const assistantId = nextId();
-    setMessages((prev) => [
-      ...prev,
-      { id: assistantId, role: "assistant", content: "" },
-    ]);
-
     try {
       const res = await fetch("/api/sponsor/generate", {
         method: "POST",
@@ -54,55 +48,32 @@ export default function ContentGenerator({
         }),
       });
 
-      if (!res.ok || !res.body) {
-        setMessages((prev) =>
-          prev.map((m) =>
-            m.id === assistantId
-              ? { ...m, content: "Error: could not reach AI assistant." }
-              : m,
-          ),
-        );
-        return;
-      }
+      const data = (await res.json()) as {
+        content?: string;
+        error?: string;
+      };
 
-      const reader = res.body.getReader();
-      const decoder = new TextDecoder();
-      let buffer = "";
-      let accumulated = "";
-
-      while (true) {
-        const { done, value } = await reader.read();
-        if (done) break;
-
-        buffer += decoder.decode(value, { stream: true });
-        const lines = buffer.split("\n");
-        buffer = lines.pop() || "";
-
-        for (const line of lines) {
-          if (line.startsWith("data: ")) {
-            const data = line.slice(6);
-            if (data === "[DONE]") continue;
-            accumulated += data;
-            setMessages((prev) =>
-              prev.map((m) =>
-                m.id === assistantId ? { ...m, content: accumulated } : m,
-              ),
-            );
-          }
-        }
-      }
+      const assistantMsg: Message = {
+        id: nextId(),
+        role: "assistant",
+        content: res.ok
+          ? data.content || ""
+          : data.error || "Something went wrong.",
+      };
+      setMessages((prev) => [...prev, assistantMsg]);
 
       if (chatRef.current) {
         chatRef.current.scrollTop = chatRef.current.scrollHeight;
       }
     } catch {
-      setMessages((prev) =>
-        prev.map((m) =>
-          m.id === assistantId
-            ? { ...m, content: "Error: network issue." }
-            : m,
-        ),
-      );
+      setMessages((prev) => [
+        ...prev,
+        {
+          id: nextId(),
+          role: "assistant",
+          content: "Network error. Try again.",
+        },
+      ]);
     } finally {
       setIsLoading(false);
     }
@@ -117,7 +88,7 @@ export default function ContentGenerator({
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ token, [field]: value }),
       });
-      const data = await res.json();
+      const data = (await res.json()) as { error?: string };
       if (!res.ok) {
         setApplyMessage(data.error || "Failed to apply.");
       } else {
@@ -132,63 +103,26 @@ export default function ContentGenerator({
 
   const extractApplyable = (content: string) => {
     const blocks: { field: string; value: string; label: string }[] = [];
-    const lines = content.split("\n");
-
-    for (const line of lines) {
+    for (const line of content.split("\n")) {
       const lower = line.toLowerCase();
       if (lower.includes("business name:")) {
-        const val = line
-          .split(":")
-          .slice(1)
-          .join(":")
-          .trim()
-          .replace(/^["']|["']$/g, "");
-        if (val)
-          blocks.push({
-            field: "businessName",
-            value: val,
-            label: "Business Name",
-          });
+        const val = line.split(":").slice(1).join(":").trim().replace(/^["']|["']$/g, "");
+        if (val) blocks.push({ field: "businessName", value: val, label: "Business Name" });
       }
-      if (
-        lower.includes("description:") ||
-        lower.includes("business description:")
-      ) {
-        const val = line
-          .split(":")
-          .slice(1)
-          .join(":")
-          .trim()
-          .replace(/^["']|["']$/g, "");
-        if (val)
-          blocks.push({
-            field: "description",
-            value: val,
-            label: "Description",
-          });
+      if (lower.includes("description:") || lower.includes("business description:")) {
+        const val = line.split(":").slice(1).join(":").trim().replace(/^["']|["']$/g, "");
+        if (val) blocks.push({ field: "description", value: val, label: "Description" });
       }
       if (lower.includes("category:")) {
-        const val = line
-          .split(":")
-          .slice(1)
-          .join(":")
-          .trim()
-          .replace(/^["']|["']$/g, "");
-        if (val)
-          blocks.push({ field: "category", value: val, label: "Category" });
+        const val = line.split(":").slice(1).join(":").trim().replace(/^["']|["']$/g, "");
+        if (val) blocks.push({ field: "category", value: val, label: "Category" });
       }
     }
 
     if (content.includes("<div") || content.includes("<section")) {
-      const htmlMatch = content.match(
-        /<(?:div|section)[\s\S]*<\/(?:div|section)>/,
-      );
+      const htmlMatch = content.match(/<(?:div|section)[\s\S]*<\/(?:div|section)>/);
       if (htmlMatch) {
-        blocks.push({
-          field: "profileCardHtml",
-          value: htmlMatch[0],
-          label: "Profile Card HTML",
-        });
+        blocks.push({ field: "profileCardHtml", value: htmlMatch[0], label: "Profile Card HTML" });
       }
     }
 
@@ -203,8 +137,8 @@ export default function ContentGenerator({
       >
         {messages.length === 0 && (
           <p className="text-sm text-gray-400 italic">
-            Try: &ldquo;I run a pizza shop in {townName}. Help me write a great
-            listing.&rdquo;
+            Try: &ldquo;I run a pizza shop in {townName}. Help me write a
+            great listing.&rdquo;
           </p>
         )}
         {messages.map((m) => (
@@ -236,7 +170,9 @@ export default function ContentGenerator({
           </div>
         ))}
         {isLoading && (
-          <p className="text-sm text-gray-400 animate-pulse">Thinking...</p>
+          <p className="text-sm text-gray-400 animate-pulse">
+            AI is working...
+          </p>
         )}
       </div>
 
