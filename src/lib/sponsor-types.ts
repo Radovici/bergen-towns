@@ -18,6 +18,12 @@ export interface SponsorProfile {
   bannerUrl?: string;
   profileCardHtml?: string;
 
+  pendingReview?: {
+    fields: Record<string, string>;
+    reason: string;
+    submittedAt: string;
+  };
+
   createdAt: string;
   updatedAt: string;
 }
@@ -43,6 +49,7 @@ export interface TownSponsorEntry {
 
 export interface ModerationResult {
   approved: boolean;
+  needsReview?: boolean;
   reason?: string;
   flaggedFields?: string[];
 }

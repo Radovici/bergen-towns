@@ -33,7 +33,7 @@ export default function ProfileEditor({
   const [form, setForm] = useState<ProfileData>(initialProfile);
   const [saving, setSaving] = useState(false);
   const [message, setMessage] = useState<{
-    type: "success" | "error";
+    type: "success" | "error" | "review";
     text: string;
   } | null>(null);
 
@@ -62,7 +62,7 @@ export default function ProfileEditor({
           const flagged = data.moderation.flaggedFields?.join(", ");
           setMessage({
             type: "error",
-            text: `${reason}${flagged ? ` (fields: ${flagged})` : ""}`,
+            text: `Rejected: ${reason}${flagged ? ` (fields: ${flagged})` : ""}`,
           });
         } else {
           setMessage({ type: "error", text: data.error || "Save failed." });
@@ -70,7 +70,15 @@ export default function ProfileEditor({
         return;
       }
 
-      setMessage({ type: "success", text: "Profile updated!" });
+      if (data.status === "pending_review") {
+        setMessage({
+          type: "review",
+          text: data.message || "Your submission is under review by a moderator.",
+        });
+        return;
+      }
+
+      setMessage({ type: "success", text: "Profile updated and live!" });
     } catch {
       setMessage({ type: "error", text: "Network error. Try again." });
     } finally {
@@ -156,9 +164,14 @@ export default function ProfileEditor({
           className={`p-3 rounded-lg text-sm ${
             message.type === "success"
               ? "bg-green-50 text-green-700 border border-green-200"
-              : "bg-red-50 text-red-700 border border-red-200"
+              : message.type === "review"
+                ? "bg-amber-50 text-amber-700 border border-amber-200"
+                : "bg-red-50 text-red-700 border border-red-200"
           }`}
         >
+          {message.type === "review" && (
+            <span className="font-semibold">Under Review: </span>
+          )}
           {message.text}
         </div>
       )}

@@ -90,6 +90,19 @@ export default async function ManagePage({
         </Link>
       </div>
 
+      {profile.pendingReview && (
+        <div className="p-4 bg-amber-50 border border-amber-200 rounded-lg">
+          <p className="text-amber-800 font-medium">Content under review</p>
+          <p className="text-amber-700 text-sm mt-1">
+            Your recent submission is being reviewed by a moderator.
+            Reason: {profile.pendingReview.reason}
+          </p>
+          <p className="text-amber-500 text-xs mt-2">
+            Submitted {new Date(profile.pendingReview.submittedAt).toLocaleString()}
+          </p>
+        </div>
+      )}
+
       {profile.status === "canceled" && (
         <div className="p-4 bg-red-50 border border-red-200 rounded-lg">
           <p className="text-red-700">
