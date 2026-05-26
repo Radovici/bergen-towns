@@ -45,6 +45,11 @@ export function middleware(request: NextRequest) {
   const requestHeaders = new Headers(request.headers);
   requestHeaders.set("x-town-slug", townSlug);
 
+  const sponsorPreview = request.nextUrl.searchParams.get("sponsor_preview");
+  if (sponsorPreview) {
+    requestHeaders.set("x-sponsor-preview", sponsorPreview);
+  }
+
   const response = NextResponse.next({
     request: { headers: requestHeaders },
   });

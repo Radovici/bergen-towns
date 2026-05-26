@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { headers } from "next/headers";
 import { Geist } from "next/font/google";
 import { getTownData } from "@/lib/towns";
 import { getActiveSponsors } from "@/lib/sponsor-loader";
@@ -6,6 +7,7 @@ import Header from "@/components/Header";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import NeighborLinks from "@/components/NeighborLinks";
+import SponsorPreviewBanner from "@/components/SponsorPreviewBanner";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
@@ -32,7 +34,9 @@ export default async function RootLayout({
   children: React.ReactNode;
 }) {
   const town = await getTownData();
-  const sponsors = await getActiveSponsors(town.meta.slug);
+  const hdrs = await headers();
+  const previewToken = hdrs.get("x-sponsor-preview") || null;
+  const sponsors = await getActiveSponsors(town.meta.slug, previewToken);
   return (
     <html
       lang="en"
@@ -44,6 +48,7 @@ export default async function RootLayout({
       }
     >
       <body className={`${geistSans.variable} font-sans antialiased`}>
+        {previewToken && <SponsorPreviewBanner token={previewToken} />}
         <Header town={town.meta} sponsors={sponsors} />
         <Nav townName={town.meta.name} />
         <main className="max-w-6xl mx-auto px-4 py-8">

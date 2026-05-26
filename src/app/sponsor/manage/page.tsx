@@ -75,6 +75,21 @@ export default async function ManagePage({
         </span>
       </div>
 
+      <div className="flex gap-3">
+        <Link
+          href={`/?sponsor_preview=${token}`}
+          className="inline-flex items-center gap-2 bg-blue-600 text-white px-5 py-2.5 rounded-lg font-medium no-underline hover:bg-blue-700 transition-colors"
+        >
+          Preview on Site &rarr;
+        </Link>
+        <Link
+          href={`/services?sponsor_preview=${token}`}
+          className="inline-flex items-center gap-2 border border-gray-300 text-gray-700 px-5 py-2.5 rounded-lg font-medium no-underline hover:bg-gray-50 transition-colors"
+        >
+          Preview in Services
+        </Link>
+      </div>
+
       {profile.status === "canceled" && (
         <div className="p-4 bg-red-50 border border-red-200 rounded-lg">
           <p className="text-red-700">
