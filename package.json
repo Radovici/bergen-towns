@@ -10,13 +10,10 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@ai-sdk/anthropic": "^3.0.79",
-    "@ai-sdk/react": "^3.0.193",
     "@next/third-parties": "^16.2.6",
     "@stripe/stripe-js": "^9.6.0",
     "@vercel/blob": "^2.4.0",
     "@vercel/speed-insights": "^2.0.0",
-    "ai": "^6.0.191",
     "next": "15.5.18",
     "react": "19.1.0",
     "react-dom": "19.1.0",

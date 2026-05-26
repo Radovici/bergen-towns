@@ -1,12 +1,14 @@
-import { streamText } from "ai";
-import { anthropic } from "@ai-sdk/anthropic";
 import { NextRequest } from "next/server";
 import { getSponsorByToken } from "@/lib/sponsor-storage";
+import { streamAgent } from "@/lib/aide-client";
 import { TIERS } from "@/lib/sponsorship";
 
 export async function POST(request: NextRequest) {
   const body = await request.json();
-  const { messages, token } = body;
+  const { messages: rawMessages, token } = body as {
+    messages: { role: string; content: string }[];
+    token: string;
+  };
 
   if (!token) {
     return new Response("Unauthorized", { status: 401 });
@@ -20,32 +22,25 @@ export async function POST(request: NextRequest) {
   const tier = TIERS.find((t) => t.id === profile.tierId);
   const tierFeatures = tier ? tier.features.join(", ") : "basic listing";
 
-  const result = streamText({
-    model: anthropic("claude-sonnet-4-6"),
-    system: `You are a helpful assistant for creating business listings on Bergen County town information websites.
+  const contextMessage = {
+    role: "user" as const,
+    content: `Context for this conversation: I'm a sponsor of ${profile.townName}, NJ with the "${profile.tierName}" tier (includes: ${tierFeatures}). My current business name is "${profile.businessName || "(not set)"}". My category is "${profile.category || "(not set)"}". Help me create content for my listing.`,
+  };
 
-You are helping a sponsor set up their listing for ${profile.townName}, NJ.
-Their subscription tier is "${profile.tierName}" which includes: ${tierFeatures}.
+  const allMessages = [contextMessage, ...rawMessages];
 
-Current business info:
-- Name: ${profile.businessName || "(not set)"}
-- Description: ${profile.description || "(not set)"}
-- Category: ${profile.category || "(not set)"}
-- Website: ${profile.website || "(not set)"}
+  try {
+    const aideResponse = await streamAgent(allMessages);
 
-Help them by:
-1. Writing compelling business descriptions tailored to their town
-2. Suggesting categories that fit their business
-3. Creating taglines and marketing copy
-4. Generating HTML for custom profile cards (when asked)
-
-Keep content professional, local, and community-focused.
-When generating HTML profile cards, use clean inline styles, keep it under 500 lines, and make it mobile-friendly.
-Do NOT include any scripts or external resources in generated HTML.
-
-When they're happy with content, tell them to click "Apply to Profile" to save it.`,
-    messages,
-  });
-
-  return result.toUIMessageStreamResponse();
+    return new Response(aideResponse.body, {
+      headers: {
+        "Content-Type": "text/event-stream",
+        "Cache-Control": "no-cache",
+        "X-Accel-Buffering": "no",
+      },
+    });
+  } catch (err) {
+    const message = err instanceof Error ? err.message : "Agent error";
+    return new Response(message, { status: 502 });
+  }
 }

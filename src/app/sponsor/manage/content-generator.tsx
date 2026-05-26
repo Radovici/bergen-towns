@@ -1,31 +1,112 @@
 "use client";
 
-import { useChat } from "@ai-sdk/react";
-import { DefaultChatTransport } from "ai";
 import { useState, useRef } from "react";
+
+interface Message {
+  id: string;
+  role: "user" | "assistant";
+  content: string;
+}
 
 export default function ContentGenerator({
   token,
   townName,
-  tierId,
 }: {
   token: string;
   townName: string;
   tierId: string;
 }) {
+  const [messages, setMessages] = useState<Message[]>([]);
+  const [input, setInput] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
   const [applying, setApplying] = useState(false);
   const [applyMessage, setApplyMessage] = useState<string | null>(null);
-  const [inputValue, setInputValue] = useState("");
-  const formRef = useRef<HTMLFormElement>(null);
+  const chatRef = useRef<HTMLDivElement>(null);
+  const idCounter = useRef(0);
 
-  const { messages, sendMessage, status } = useChat({
-    transport: new DefaultChatTransport({
-      api: "/api/sponsor/generate",
-      body: { token, townName, tierId },
-    }),
-  });
+  const nextId = () => String(++idCounter.current);
 
-  const isLoading = status === "streaming" || status === "submitted";
+  const sendMessage = async () => {
+    if (!input.trim() || isLoading) return;
+
+    const userMsg: Message = { id: nextId(), role: "user", content: input };
+    const allMessages = [...messages, userMsg];
+    setMessages(allMessages);
+    setInput("");
+    setIsLoading(true);
+
+    const assistantId = nextId();
+    setMessages((prev) => [
+      ...prev,
+      { id: assistantId, role: "assistant", content: "" },
+    ]);
+
+    try {
+      const res = await fetch("/api/sponsor/generate", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          token,
+          messages: allMessages.map((m) => ({
+            role: m.role,
+            content: m.content,
+          })),
+        }),
+      });
+
+      if (!res.ok || !res.body) {
+        setMessages((prev) =>
+          prev.map((m) =>
+            m.id === assistantId
+              ? { ...m, content: "Error: could not reach AI assistant." }
+              : m,
+          ),
+        );
+        return;
+      }
+
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let buffer = "";
+      let accumulated = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split("\n");
+        buffer = lines.pop() || "";
+
+        for (const line of lines) {
+          if (line.startsWith("data: ")) {
+            const data = line.slice(6);
+            if (data === "[DONE]") continue;
+            accumulated += data;
+            setMessages((prev) =>
+              prev.map((m) =>
+                m.id === assistantId ? { ...m, content: accumulated } : m,
+              ),
+            );
+          }
+        }
+      }
+
+      if (chatRef.current) {
+        chatRef.current.scrollTop = chatRef.current.scrollHeight;
+      }
+    } catch {
+      setMessages((prev) =>
+        prev.map((m) =>
+          m.id === assistantId
+            ? { ...m, content: "Error: network issue." }
+            : m,
+        ),
+      );
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   const applyToProfile = async (field: string, value: string) => {
     setApplying(true);
@@ -49,13 +130,6 @@ export default function ContentGenerator({
     }
   };
 
-  const getTextContent = (msg: (typeof messages)[number]) => {
-    return msg.parts
-      .filter((p): p is { type: "text"; text: string } => p.type === "text")
-      .map((p) => p.text)
-      .join("");
-  };
-
   const extractApplyable = (content: string) => {
     const blocks: { field: string; value: string; label: string }[] = [];
     const lines = content.split("\n");
@@ -63,21 +137,52 @@ export default function ContentGenerator({
     for (const line of lines) {
       const lower = line.toLowerCase();
       if (lower.includes("business name:")) {
-        const val = line.split(":").slice(1).join(":").trim().replace(/^["']|["']$/g, "");
-        if (val) blocks.push({ field: "businessName", value: val, label: "Business Name" });
+        const val = line
+          .split(":")
+          .slice(1)
+          .join(":")
+          .trim()
+          .replace(/^["']|["']$/g, "");
+        if (val)
+          blocks.push({
+            field: "businessName",
+            value: val,
+            label: "Business Name",
+          });
       }
-      if (lower.includes("description:") || lower.includes("business description:")) {
-        const val = line.split(":").slice(1).join(":").trim().replace(/^["']|["']$/g, "");
-        if (val) blocks.push({ field: "description", value: val, label: "Description" });
+      if (
+        lower.includes("description:") ||
+        lower.includes("business description:")
+      ) {
+        const val = line
+          .split(":")
+          .slice(1)
+          .join(":")
+          .trim()
+          .replace(/^["']|["']$/g, "");
+        if (val)
+          blocks.push({
+            field: "description",
+            value: val,
+            label: "Description",
+          });
       }
       if (lower.includes("category:")) {
-        const val = line.split(":").slice(1).join(":").trim().replace(/^["']|["']$/g, "");
-        if (val) blocks.push({ field: "category", value: val, label: "Category" });
+        const val = line
+          .split(":")
+          .slice(1)
+          .join(":")
+          .trim()
+          .replace(/^["']|["']$/g, "");
+        if (val)
+          blocks.push({ field: "category", value: val, label: "Category" });
       }
     }
 
     if (content.includes("<div") || content.includes("<section")) {
-      const htmlMatch = content.match(/<(?:div|section)[\s\S]*<\/(?:div|section)>/);
+      const htmlMatch = content.match(
+        /<(?:div|section)[\s\S]*<\/(?:div|section)>/,
+      );
       if (htmlMatch) {
         blocks.push({
           field: "profileCardHtml",
@@ -90,55 +195,46 @@ export default function ContentGenerator({
     return blocks;
   };
 
-  const handleSend = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!inputValue.trim() || isLoading) return;
-    sendMessage({ text: inputValue });
-    setInputValue("");
-  };
-
   return (
     <div className="space-y-4">
-      <div className="border border-gray-200 rounded-lg max-h-96 overflow-y-auto p-4 space-y-3 bg-gray-50">
+      <div
+        ref={chatRef}
+        className="border border-gray-200 rounded-lg max-h-96 overflow-y-auto p-4 space-y-3 bg-gray-50"
+      >
         {messages.length === 0 && (
           <p className="text-sm text-gray-400 italic">
             Try: &ldquo;I run a pizza shop in {townName}. Help me write a great
             listing.&rdquo;
           </p>
         )}
-        {messages.map((m) => {
-          const text = getTextContent(m);
-          return (
-            <div
-              key={m.id}
-              className={`text-sm ${
-                m.role === "user"
-                  ? "text-gray-800 font-medium"
-                  : "text-gray-600"
-              }`}
-            >
-              <span className="text-xs text-gray-400 uppercase mr-2">
-                {m.role === "user" ? "You" : "AI"}
-              </span>
-              <div className="mt-1 whitespace-pre-wrap">{text}</div>
-              {m.role === "assistant" && text && (
-                <div className="mt-2 flex flex-wrap gap-2">
-                  {extractApplyable(text).map((block) => (
-                    <button
-                      key={block.field}
-                      type="button"
-                      onClick={() => applyToProfile(block.field, block.value)}
-                      disabled={applying}
-                      className="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200 disabled:opacity-50"
-                    >
-                      Apply as {block.label}
-                    </button>
-                  ))}
-                </div>
-              )}
-            </div>
-          );
-        })}
+        {messages.map((m) => (
+          <div
+            key={m.id}
+            className={`text-sm ${
+              m.role === "user" ? "text-gray-800 font-medium" : "text-gray-600"
+            }`}
+          >
+            <span className="text-xs text-gray-400 uppercase mr-2">
+              {m.role === "user" ? "You" : "AI"}
+            </span>
+            <div className="mt-1 whitespace-pre-wrap">{m.content}</div>
+            {m.role === "assistant" && m.content && (
+              <div className="mt-2 flex flex-wrap gap-2">
+                {extractApplyable(m.content).map((block) => (
+                  <button
+                    key={block.field}
+                    type="button"
+                    onClick={() => applyToProfile(block.field, block.value)}
+                    disabled={applying}
+                    className="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200 disabled:opacity-50"
+                  >
+                    Apply as {block.label}
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+        ))}
         {isLoading && (
           <p className="text-sm text-gray-400 animate-pulse">Thinking...</p>
         )}
@@ -148,16 +244,22 @@ export default function ContentGenerator({
         <p className="text-xs text-blue-600">{applyMessage}</p>
       )}
 
-      <form ref={formRef} onSubmit={handleSend} className="flex gap-2">
+      <form
+        onSubmit={(e) => {
+          e.preventDefault();
+          sendMessage();
+        }}
+        className="flex gap-2"
+      >
         <input
-          value={inputValue}
-          onChange={(e) => setInputValue(e.target.value)}
+          value={input}
+          onChange={(e) => setInput(e.target.value)}
           placeholder="Describe your business or ask for help..."
           className="flex-1 border border-gray-300 rounded-lg px-3 py-2 text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none"
         />
         <button
           type="submit"
-          disabled={isLoading || !inputValue.trim()}
+          disabled={isLoading || !input.trim()}
           className="bg-primary text-white px-4 py-2 rounded-lg text-sm font-medium hover:opacity-90 disabled:opacity-50"
         >
           Send
