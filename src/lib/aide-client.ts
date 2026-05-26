@@ -2,15 +2,18 @@ const AIDE_API_URL =
   process.env.AIDE_API_URL || "https://aide-mu.vercel.app";
 const AIDE_SERVICE_KEY = process.env.AIDE_SERVICE_KEY || "";
 const AIDE_BRIDGE_SLUG = process.env.AIDE_BRIDGE_SLUG || "commercial";
-const AIDE_TERMINAL_SLUG =
-  process.env.AIDE_TERMINAL_SLUG || "bergen-sponsor-agent";
+
+const TERMINAL_CREATIVE =
+  process.env.AIDE_TERMINAL_CREATIVE || "sponsor-creative-agent";
+const TERMINAL_SUBMISSION =
+  process.env.AIDE_TERMINAL_SUBMISSION || "sponsor-submission-agent";
 
 interface AgentResponse {
   content: string;
-  model: string;
 }
 
-export async function invokeAgent(
+async function callAgent(
+  terminalSlug: string,
   messages: { role: string; content: string }[],
 ): Promise<AgentResponse> {
   const res = await fetch(`${AIDE_API_URL}/api/v1/service/agent`, {
@@ -21,7 +24,7 @@ export async function invokeAgent(
     },
     body: JSON.stringify({
       bridge_slug: AIDE_BRIDGE_SLUG,
-      terminal_slug: AIDE_TERMINAL_SLUG,
+      terminal_slug: terminalSlug,
       messages,
     }),
   });
@@ -35,4 +38,16 @@ export async function invokeAgent(
   }
 
   return (await res.json()) as AgentResponse;
+}
+
+export async function invokeCreativeAgent(
+  messages: { role: string; content: string }[],
+): Promise<AgentResponse> {
+  return callAgent(TERMINAL_CREATIVE, messages);
+}
+
+export async function invokeSubmissionAgent(
+  messages: { role: string; content: string }[],
+): Promise<AgentResponse> {
+  return callAgent(TERMINAL_SUBMISSION, messages);
 }

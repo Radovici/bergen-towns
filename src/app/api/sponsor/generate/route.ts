@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getSponsorByToken } from "@/lib/sponsor-storage";
-import { invokeAgent } from "@/lib/aide-client";
+import { invokeCreativeAgent } from "@/lib/aide-client";
 import { TIERS } from "@/lib/sponsorship";
 
 export async function POST(request: NextRequest) {
@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
   const allMessages = [contextMessage, ...rawMessages];
 
   try {
-    const response = await invokeAgent(allMessages);
+    const response = await invokeCreativeAgent(allMessages);
     return NextResponse.json({ content: response.content });
   } catch (err) {
     const message = err instanceof Error ? err.message : "Agent error";

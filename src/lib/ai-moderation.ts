@@ -1,4 +1,4 @@
-import { invokeAgent } from "./aide-client";
+import { invokeSubmissionAgent } from "./aide-client";
 import type { ModerationResult } from "./sponsor-types";
 
 export async function moderateContent(
@@ -11,7 +11,7 @@ export async function moderateContent(
 
   if (!fieldList) return { approved: true };
 
-  const response = await invokeAgent([
+  const response = await invokeSubmissionAgent([
     {
       role: "user",
       content: `Review these business listing fields for a Bergen County, NJ town website sponsor.
