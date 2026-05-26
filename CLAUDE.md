@@ -31,7 +31,7 @@ Overview, Real Estate & Taxes, Municipal Services, Rules & Ordinances, Schools, 
 - **Search** — `/api/search` route, cross-town full-text search, current-town results boosted (+50 score)
 - **Neighbor links** — geographic adjacency chips at top of every page
 - **County map** — NJ overview → zoomed Bergen County SVG with town border polygons, roads, landmarks
-- **Sponsorship** — three tiers, per-town contact emails ({slug}@radovici.com catchall)
+- **Sponsorship** — four tiers with Stripe Checkout subscriptions (see `src/lib/sponsorship.ts`), plus per-town contact emails ({slug}@radovici.com catchall)
 - **Nav scroll arrows** — gradient fade arrows when tabs overflow
 - **Analytics** — Google Analytics 4 (env: NEXT_PUBLIC_GA_ID), Vercel Speed Insights
 
@@ -41,6 +41,14 @@ Overview, Real Estate & Taxes, Municipal Services, Rules & Ordinances, Schools, 
 2. Add entry in `src/lib/town-registry.ts` (slug, name, neighbors, optional domain)
 3. Add polygon in `src/components/BergenMap.tsx`
 4. If it has a custom domain: add domain mapping in `src/middleware.ts` + Vercel dashboard + DNS
+
+## Sponsorship payments
+
+Stripe Checkout handles sponsorship subscriptions. Tiers defined in `src/lib/sponsorship.ts`. Checkout flow: `CheckoutButton` → `POST /api/checkout` → Stripe redirect → `/sponsorship/success`. Webhook at `POST /api/webhook`.
+
+Env vars: `STRIPE_SECRET_KEY` (required), `STRIPE_WEBHOOK_SECRET` (required for production).
+
+See `docs/sponsorship-payments-setup.md` (human guide) and `docs/sponsorship-payments-agent-guide.md` (AI agent guide) for full details.
 
 ## Tests
 
