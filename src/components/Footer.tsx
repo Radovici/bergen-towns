@@ -1,14 +1,23 @@
 import { TownMeta } from "@/lib/types";
+import type { TownSponsorEntry } from "@/lib/sponsor-types";
 import { TOWN_REGISTRY, getTownUrl } from "@/lib/town-registry";
+import SponsorStrip from "./SponsorStrip";
 
 const allTowns = Object.values(TOWN_REGISTRY).sort((a, b) =>
   a.name.localeCompare(b.name)
 );
 
-export default function Footer({ town }: { town: TownMeta }) {
+export default function Footer({
+  town,
+  sponsors = [],
+}: {
+  town: TownMeta;
+  sponsors?: TownSponsorEntry[];
+}) {
   return (
     <footer className="bg-gray-900 text-gray-400 mt-12">
       <div className="max-w-6xl mx-auto px-4 py-8">
+        {sponsors.length > 0 && <SponsorStrip sponsors={sponsors} />}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-white font-semibold mb-2">{town.name}</h3>

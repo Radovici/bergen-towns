@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import { getTownData } from "@/lib/towns";
+import { getActiveSponsors } from "@/lib/sponsor-loader";
 import Header from "@/components/Header";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
@@ -31,6 +32,7 @@ export default async function RootLayout({
   children: React.ReactNode;
 }) {
   const town = await getTownData();
+  const sponsors = await getActiveSponsors(town.meta.slug);
   return (
     <html
       lang="en"
@@ -42,13 +44,13 @@ export default async function RootLayout({
       }
     >
       <body className={`${geistSans.variable} font-sans antialiased`}>
-        <Header town={town.meta} />
+        <Header town={town.meta} sponsors={sponsors} />
         <Nav townName={town.meta.name} />
         <main className="max-w-6xl mx-auto px-4 py-8">
           <NeighborLinks currentSlug={town.meta.slug} />
           {children}
         </main>
-        <Footer town={town.meta} />
+        <Footer town={town.meta} sponsors={sponsors} />
         {process.env.NEXT_PUBLIC_GA_ID && (
           <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
         )}

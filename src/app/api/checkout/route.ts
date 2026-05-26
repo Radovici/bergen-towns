@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { randomUUID } from "crypto";
 import Stripe from "stripe";
 import { TIERS } from "@/lib/sponsorship";
 
@@ -21,6 +22,7 @@ export async function POST(request: NextRequest) {
 
   const origin = request.headers.get("origin") || request.nextUrl.origin;
   const stripe = getStripe();
+  const managementToken = randomUUID();
 
   const session = await stripe.checkout.sessions.create({
     mode: "subscription",
@@ -45,8 +47,10 @@ export async function POST(request: NextRequest) {
     ],
     metadata: {
       tier_id: tier.id,
+      tier_name: tier.name,
       town_slug: townSlug,
       town_name: townName,
+      management_token: managementToken,
     },
     success_url: `${origin}/sponsorship/success?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/sponsorship`,
