@@ -116,7 +116,7 @@ describe("town data files", () => {
 
   it("owned-domain towns have correct domain in registry", () => {
     const domainTowns = Object.values(TOWN_REGISTRY).filter((t) => t.domain);
-    expect(domainTowns).toHaveLength(9);
+    expect(domainTowns).toHaveLength(21);
     for (const town of domainTowns) {
       const path = join(DATA_DIR, `${town.slug}.json`);
       const data = JSON.parse(readFileSync(path, "utf-8")) as TownData;

@@ -5,8 +5,10 @@
     "fullName": "Borough of Upper Saddle River",
     "county": "Bergen",
     "state": "New Jersey",
-    "domain": "upper-saddle-river.info",
-    "zipCodes": ["07458"],
+    "domain": "uppersaddleriver.info",
+    "zipCodes": [
+      "07458"
+    ],
     "themeColor": "#004d40",
     "accentColor": "#00796b"
   },
@@ -36,11 +38,11 @@
     "assessmentInfo": "Properties are assessed by the Bergen County Tax Assessor's office. Upper Saddle River's one-acre minimum lot zoning and high-quality housing stock result in assessments that reflect the premium nature of the community.",
     "recentTrends": "Upper Saddle River's real estate market remains strong, driven by demand for top-rated schools and spacious properties. Homes typically range from $800,000 to over $3 million, with newer construction and homes on larger lots commanding premium prices. Inventory is limited, keeping the market competitive.",
     "neighborhoodNotes": [
-      "West Saddle River Road — Established estates with large lots and mature landscaping",
-      "Lake Street area — Properties near natural areas and open space",
-      "Pleasant Avenue section — Well-maintained homes with a community feel",
-      "East Saddle River Road — Mix of classic and newer construction homes",
-      "Northern section — Larger properties bordering Mahwah"
+      "West Saddle River Road \u2014 Established estates with large lots and mature landscaping",
+      "Lake Street area \u2014 Properties near natural areas and open space",
+      "Pleasant Avenue section \u2014 Well-maintained homes with a community feel",
+      "East Saddle River Road \u2014 Mix of classic and newer construction homes",
+      "Northern section \u2014 Larger properties bordering Mahwah"
     ]
   },
   "services": {
@@ -260,10 +262,10 @@
       }
     ],
     "nearbyHigherEd": [
-      "Ramapo College of New Jersey (Mahwah) — 10 minutes",
-      "Bergen Community College (Paramus) — 15 minutes",
-      "Fairleigh Dickinson University (Teaneck) — 25 minutes",
-      "William Paterson University (Wayne) — 20 minutes"
+      "Ramapo College of New Jersey (Mahwah) \u2014 10 minutes",
+      "Bergen Community College (Paramus) \u2014 15 minutes",
+      "Fairleigh Dickinson University (Teaneck) \u2014 25 minutes",
+      "William Paterson University (Wayne) \u2014 20 minutes"
     ]
   },
   "buyers": {
@@ -279,7 +281,9 @@
       "primaryMethod": "NJ Transit Bus / Drive to train station",
       "duration": "55-80 minutes to Midtown Manhattan",
       "trainStation": "Ramsey Route 17 Station or Allendale Station (nearby)",
-      "busRoutes": ["NJ Transit Bus 165"],
+      "busRoutes": [
+        "NJ Transit Bus 165"
+      ],
       "notes": "Upper Saddle River residents typically drive to nearby NJ Transit stations in Ramsey or Allendale for Main/Bergen County Line train service to Hoboken. Bus service via Route 165 is also available. The commute to Manhattan ranges from 55-80 minutes depending on mode and traffic conditions."
     },
     "costOfLiving": {
@@ -298,7 +302,7 @@
       "cons": [
         "High home prices with limited inventory",
         "High property taxes typical of Bergen County",
-        "Car-dependent — no walkable commercial district",
+        "Car-dependent \u2014 no walkable commercial district",
         "Longer commute to NYC compared to southern Bergen towns",
         "Limited dining and entertainment options within the borough"
       ]
@@ -333,7 +337,7 @@
         "category": "Park/Historic"
       },
       {
-        "name": "Saddle River County Park — Wild Duck Pond Area",
+        "name": "Saddle River County Park \u2014 Wild Duck Pond Area",
         "description": "Bergen County park section with a scenic pond, walking trails, and wildlife observation opportunities.",
         "address": "East Saddle River Road, Upper Saddle River, NJ 07458",
         "category": "County Park/Nature"
@@ -382,10 +386,10 @@
       }
     ],
     "shoppingAreas": [
-      "Ramsey Main Street — Nearby dining and shops",
-      "Allendale downtown — Small shops and restaurants",
-      "Wyckoff shopping — Boutiques and dining along Franklin Avenue",
-      "Westwood downtown — Shops and restaurants"
+      "Ramsey Main Street \u2014 Nearby dining and shops",
+      "Allendale downtown \u2014 Small shops and restaurants",
+      "Wyckoff shopping \u2014 Boutiques and dining along Franklin Avenue",
+      "Westwood downtown \u2014 Shops and restaurants"
     ]
   },
   "government": {

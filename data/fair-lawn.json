@@ -5,8 +5,10 @@
     "fullName": "Borough of Fair Lawn",
     "county": "Bergen",
     "state": "New Jersey",
-    "domain": "fair-lawn.info",
-    "zipCodes": ["07410"],
+    "domain": "fairlawn.info",
+    "zipCodes": [
+      "07410"
+    ],
     "themeColor": "#1d3557",
     "accentColor": "#457b9d"
   },
@@ -21,7 +23,7 @@
     "governmentType": "Borough (Mayor-Council)",
     "schoolDistrict": "Fair Lawn School District",
     "highlights": [
-      "Home to the historic Radburn community — America's first planned 'Town for the Motor Age'",
+      "Home to the historic Radburn community \u2014 America's first planned 'Town for the Motor Age'",
       "NJ Transit train station on the Bergen County Line with direct service to Hoboken",
       "Large and active Orthodox Jewish community with numerous synagogues and kosher dining",
       "Highly rated public school system with strong academics and athletics",
@@ -36,7 +38,7 @@
     "assessmentInfo": "Properties are assessed by the Borough Tax Assessor. Fair Lawn features diverse housing stock ranging from pre-war homes in Radburn to post-war Cape Cods and colonials throughout the borough.",
     "recentTrends": "Fair Lawn's market is competitive, driven by good schools, train access, and relative affordability compared to northern Bergen towns. Homes in the Radburn section and near the train station are especially sought after. Many older homes are being renovated or replaced with larger new construction.",
     "neighborhoodNotes": [
-      "Radburn is the most distinctive neighborhood — a planned community with interior parks, pedestrian underpasses, and a swim club",
+      "Radburn is the most distinctive neighborhood \u2014 a planned community with interior parks, pedestrian underpasses, and a swim club",
       "The Fair Lawn Avenue corridor is the main commercial district with shops and restaurants",
       "The Saddle River area on the western border features larger lots and Saddle River County Park access",
       "The area near Broadway is popular with the Orthodox Jewish community and features kosher restaurants and shops",
@@ -48,7 +50,7 @@
       "title": "Trash Collection",
       "description": "Curbside trash collection is provided twice weekly by the Borough's contracted hauler.",
       "details": [
-        "Collection days vary by neighborhood — check the borough website or app",
+        "Collection days vary by neighborhood \u2014 check the borough website or app",
         "Trash must be placed curbside by 6:00 AM on collection day",
         "Use sealed bags or covered containers not exceeding 50 lbs",
         "Bulk item pickup available by appointment with the DPW"
@@ -144,7 +146,7 @@
       "title": "Property Maintenance",
       "summary": "Property owners must maintain their properties in accordance with borough standards.",
       "keyRules": [
-        "Lawns must be kept trimmed — grass over 10 inches may result in a violation",
+        "Lawns must be kept trimmed \u2014 grass over 10 inches may result in a violation",
         "Snow and ice must be cleared from sidewalks within 24 hours of storm ending",
         "No accumulation of trash, debris, or abandoned vehicles on properties",
         "Fences must comply with height and setback requirements",
@@ -281,10 +283,10 @@
       }
     ],
     "nearbyHigherEd": [
-      "Fairleigh Dickinson University — Teaneck (5 miles)",
-      "Bergen Community College — Paramus (3 miles)",
-      "William Paterson University — Wayne (8 miles)",
-      "Ramapo College — Mahwah (18 miles)"
+      "Fairleigh Dickinson University \u2014 Teaneck (5 miles)",
+      "Bergen Community College \u2014 Paramus (3 miles)",
+      "William Paterson University \u2014 Wayne (8 miles)",
+      "Ramapo College \u2014 Mahwah (18 miles)"
     ]
   },
   "buyers": {
@@ -292,14 +294,18 @@
       "NJ Transit train station providing direct service to Hoboken and connections to NYC",
       "Highly rated public schools with strong academics and extracurriculars",
       "Active and welcoming Orthodox Jewish community with synagogues, kosher dining, and eruv",
-      "Historic Radburn neighborhood — a landmark in American urban planning",
+      "Historic Radburn neighborhood \u2014 a landmark in American urban planning",
       "Diverse, affordable community with excellent highway and transit access"
     ],
     "commuteToNYC": {
       "primaryMethod": "NJ Transit Train (Bergen County Line) / Bus",
       "duration": "40-55 minutes by train to Hoboken + PATH; 35-55 minutes by bus",
       "trainStation": "Fair Lawn (Broadway, Radburn)",
-      "busRoutes": ["144", "148", "163"],
+      "busRoutes": [
+        "144",
+        "148",
+        "163"
+      ],
       "notes": "Fair Lawn has two NJ Transit train stations (Broadway and Radburn) on the Bergen County Line. Trains run to Hoboken where riders transfer to the PATH for Manhattan. NJ Transit bus routes also serve the Port Authority Bus Terminal. Car commute via Routes 4 or 208 to the GWB."
     },
     "costOfLiving": {
@@ -316,7 +322,7 @@
         "More affordable than many northern Bergen County towns"
       ],
       "cons": [
-        "Higher property tax rate — over 3%",
+        "Higher property tax rate \u2014 over 3%",
         "Train commute to Manhattan requires a transfer at Hoboken",
         "Route 4 and Broadway traffic can be heavy during rush hours",
         "Some areas near the rivers have flood risk",
@@ -365,7 +371,7 @@
         "category": "Planned Community"
       },
       {
-        "name": "Saddle River County Park — Fair Lawn Section",
+        "name": "Saddle River County Park \u2014 Fair Lawn Section",
         "description": "Bergen County park along the Saddle River with paved walking and biking paths, sports fields, and picnic areas.",
         "address": "Saddle River Road, Fair Lawn, NJ 07410",
         "category": "County Park"
@@ -408,7 +414,7 @@
     "attractions": [
       {
         "name": "Historic Radburn",
-        "description": "America's first planned community, designed in 1929 with cul-de-sacs, interior parks, and pedestrian underpasses — a National Historic Landmark in urban planning.",
+        "description": "America's first planned community, designed in 1929 with cul-de-sacs, interior parks, and pedestrian underpasses \u2014 a National Historic Landmark in urban planning.",
         "address": "Radburn, Fair Lawn, NJ 07410",
         "category": "Historic"
       },
@@ -426,10 +432,10 @@
       }
     ],
     "shoppingAreas": [
-      "Fair Lawn Avenue — Main commercial corridor with shops, restaurants, and local businesses",
-      "Broadway — Diverse shopping strip with kosher restaurants, bakeries, and specialty shops",
-      "Route 4 — Major commercial corridor with retail plazas and chain restaurants",
-      "River Road — Additional commercial strip with restaurants and services"
+      "Fair Lawn Avenue \u2014 Main commercial corridor with shops, restaurants, and local businesses",
+      "Broadway \u2014 Diverse shopping strip with kosher restaurants, bakeries, and specialty shops",
+      "Route 4 \u2014 Major commercial corridor with retail plazas and chain restaurants",
+      "River Road \u2014 Additional commercial strip with restaurants and services"
     ]
   },
   "government": {
