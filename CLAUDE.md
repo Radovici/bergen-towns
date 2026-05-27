@@ -67,7 +67,7 @@ npm run dev
 
 - Vercel project: `fedago/test` (GitHub: `Radovici/bergen-towns`)
 - Two branches: `dev` (UAT) and `main` (PRD)
-  - **`dev`** — default working branch. Push here freely. Every push auto-deploys a Vercel preview. Shows amber "UAT Preview" banner.
+  - **`dev`** — default working branch. Push here freely. Every push auto-deploys a Vercel preview at [test-git-dev-fedago.vercel.app](https://test-git-dev-fedago.vercel.app). Shows amber "UAT Preview" banner.
   - **`main`** — production. Protected: requires a PR (no direct push). Serves the 9 `.info` domains.
 - 9 custom domains + 9 www variants configured in Vercel
 - DNS at IONOS (A → 76.76.21.21, CNAME www → cname.vercel-dns.com)
