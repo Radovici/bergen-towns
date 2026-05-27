@@ -1,9 +1,11 @@
 import { Metadata } from "next";
-import { getSponsorByToken } from "@/lib/sponsor-storage";
+import { getSponsorByToken, getSponsorByEmail } from "@/lib/sponsor-storage";
+import { createClient } from "@/lib/supabase/server";
 import { TIERS } from "@/lib/sponsorship";
 import ProfileEditor from "./profile-editor";
 import ImageUploader from "./image-uploader";
 import ContentGenerator from "./content-generator";
+import SignOutButton from "./sign-out-button";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -17,34 +19,39 @@ export default async function ManagePage({
   searchParams: Promise<{ token?: string }>;
 }) {
   const params = await searchParams;
-  const token = params.token;
+  let token = params.token;
+  let profile = token ? await getSponsorByToken(token) : null;
 
-  if (!token) {
+  if (!profile) {
+    const supabase = await createClient();
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+
+    if (user?.email) {
+      profile = await getSponsorByEmail(user.email);
+      if (profile) {
+        token = profile.managementToken;
+      }
+    }
+  }
+
+  if (!profile || !token) {
     return (
       <article className="max-w-lg mx-auto text-center py-16">
         <h1 className="text-2xl font-bold text-gray-800 mb-4">
           Sponsor Dashboard
         </h1>
-        <p className="text-gray-500">
-          Missing management token. Use the link from your confirmation email or
-          checkout success page.
+        <p className="text-gray-500 mb-6">
+          Sign in with Google to access your sponsor dashboard, or use
+          the management link from your checkout confirmation.
         </p>
-      </article>
-    );
-  }
-
-  const profile = await getSponsorByToken(token);
-
-  if (!profile) {
-    return (
-      <article className="max-w-lg mx-auto text-center py-16">
-        <h1 className="text-2xl font-bold text-gray-800 mb-4">
-          Invalid or Expired Link
-        </h1>
-        <p className="text-gray-500">
-          This management link is no longer valid. If you&apos;re an active
-          sponsor, contact us for a new link.
-        </p>
+        <Link
+          href="/sponsor/login"
+          className="inline-flex items-center gap-2 bg-primary text-white px-6 py-3 rounded-lg font-medium no-underline hover:opacity-90 transition-opacity"
+        >
+          Sign In
+        </Link>
       </article>
     );
   }
@@ -61,6 +68,12 @@ export default async function ManagePage({
           <p className="text-gray-500 mt-1">
             {profile.townName} &middot; {tier?.name || profile.tierName}
           </p>
+          {profile.email && (
+            <div className="flex items-center gap-3 mt-1">
+              <p className="text-xs text-gray-400">{profile.email}</p>
+              <SignOutButton />
+            </div>
+          )}
         </div>
         <span
           className={`px-3 py-1 rounded-full text-sm font-medium ${

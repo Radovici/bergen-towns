@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { createServerClient } from "@supabase/ssr";
 import { TOWN_REGISTRY } from "./lib/town-registry";
 
 const TOWN_DOMAINS: Record<string, string> = {
@@ -28,7 +29,7 @@ function isValidSlug(slug: string): boolean {
   return slug in TOWN_REGISTRY;
 }
 
-export function middleware(request: NextRequest) {
+export async function middleware(request: NextRequest) {
   const hostname = request.headers.get("host") ?? "";
   const host = hostname.split(":")[0];
 
@@ -60,6 +61,29 @@ export function middleware(request: NextRequest) {
       maxAge: 60 * 60 * 24 * 30,
       sameSite: "lax",
     });
+  }
+
+  if (
+    process.env.NEXT_PUBLIC_SUPABASE_URL &&
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
+  ) {
+    const supabase = createServerClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL,
+      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,
+      {
+        cookies: {
+          getAll() {
+            return request.cookies.getAll();
+          },
+          setAll(cookiesToSet) {
+            for (const { name, value, options } of cookiesToSet) {
+              response.cookies.set(name, value, options);
+            }
+          },
+        },
+      },
+    );
+    await supabase.auth.getUser();
   }
 
   return response;

@@ -23,6 +23,10 @@ function countyIndexPath() {
   return `${PREFIX}/index/_county.json`;
 }
 
+function emailIndexPath(email: string) {
+  return `${PREFIX}/emails/${email.toLowerCase().replace(/[^a-z0-9@._-]/g, "")}.json`;
+}
+
 async function readJson<T>(path: string): Promise<T | null> {
   try {
     const meta = await head(path);
@@ -56,12 +60,27 @@ export async function putSponsorProfile(
   await writeJson(tokenPath(profile.managementToken), {
     customerId: profile.id,
   });
+  if (profile.email) {
+    await writeJson(emailIndexPath(profile.email), {
+      customerId: profile.id,
+    });
+  }
 }
 
 export async function getSponsorByToken(
   token: string,
 ): Promise<SponsorProfile | null> {
   const mapping = await readJson<{ customerId: string }>(tokenPath(token));
+  if (!mapping) return null;
+  return getSponsorProfile(mapping.customerId);
+}
+
+export async function getSponsorByEmail(
+  email: string,
+): Promise<SponsorProfile | null> {
+  const mapping = await readJson<{ customerId: string }>(
+    emailIndexPath(email),
+  );
   if (!mapping) return null;
   return getSponsorProfile(mapping.customerId);
 }

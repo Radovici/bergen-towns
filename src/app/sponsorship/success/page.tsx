@@ -39,27 +39,37 @@ export default async function SuccessPage({
         Thank you for sponsoring {meta.name}. Your subscription is now active.
       </p>
 
-      {manageToken && (
-        <div className="mt-8 p-6 bg-blue-50 border border-blue-200 rounded-lg text-left">
-          <h2 className="font-semibold text-blue-900 mb-2">
-            Your Sponsor Dashboard
-          </h2>
-          <p className="text-sm text-blue-700 mb-4">
-            Use this link to manage your listing — update your business info,
-            upload logos, and use our AI assistant to craft your profile.
-            Bookmark it!
-          </p>
+      <div className="mt-8 p-6 bg-blue-50 border border-blue-200 rounded-lg text-left">
+        <h2 className="font-semibold text-blue-900 mb-2">
+          Your Sponsor Dashboard
+        </h2>
+        <p className="text-sm text-blue-700 mb-4">
+          Sign in with Google anytime to manage your listing — update your
+          business info, upload logos, and use our AI assistant to craft your
+          profile.
+        </p>
+        <div className="flex flex-wrap gap-3">
           <Link
-            href={`/sponsor/manage?token=${manageToken}`}
+            href="/sponsor/login"
             className="inline-block bg-primary text-white px-6 py-3 rounded-lg font-medium no-underline hover:opacity-90 transition-opacity"
           >
-            Open Sponsor Dashboard &rarr;
+            Sign In to Dashboard &rarr;
           </Link>
-          <p className="text-xs text-blue-500 mt-3">
-            This is your private management link. Don&apos;t share it publicly.
-          </p>
+          {manageToken && (
+            <Link
+              href={`/sponsor/manage?token=${manageToken}`}
+              className="inline-block border border-gray-300 text-gray-700 px-6 py-3 rounded-lg font-medium no-underline hover:bg-gray-50 transition-colors"
+            >
+              Use Direct Link
+            </Link>
+          )}
         </div>
-      )}
+        {manageToken && (
+          <p className="text-xs text-blue-500 mt-3">
+            The direct link also works — bookmark it as a backup.
+          </p>
+        )}
+      </div>
 
       <div className="mt-8 space-y-3">
         <Link

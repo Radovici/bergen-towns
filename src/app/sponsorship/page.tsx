@@ -94,7 +94,23 @@ export default async function SponsorshipPage() {
         ))}
       </div>
 
-      <div className="mt-10 bg-primary/5 rounded-lg border border-primary/20 p-6 text-center">
+      <div className="mt-10 bg-blue-50 border border-blue-200 rounded-lg p-6 text-center">
+        <h2 className="text-lg font-semibold text-blue-900 mb-2">
+          Already a Sponsor?
+        </h2>
+        <p className="text-sm text-blue-700 mb-4">
+          Sign in to manage your listing, update your profile, and use the AI
+          content assistant.
+        </p>
+        <a
+          href="/sponsor/login"
+          className="inline-block bg-primary text-white px-6 py-3 rounded-lg font-medium no-underline hover:opacity-90 transition-opacity"
+        >
+          Sponsor Sign In
+        </a>
+      </div>
+
+      <div className="mt-6 bg-primary/5 rounded-lg border border-primary/20 p-6 text-center">
         <h2 className="text-xl font-semibold text-primary mb-2">
           Questions?
         </h2>
