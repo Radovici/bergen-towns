@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from "next/server";
-import Stripe from "stripe";
 import {
   getSponsorProfile,
   putSponsorProfile,
@@ -7,10 +6,6 @@ import {
   rebuildCountyIndex,
 } from "@/lib/sponsor-storage";
 import type { SponsorProfile } from "@/lib/sponsor-types";
-
-function getStripe() {
-  return new Stripe(process.env.STRIPE_SECRET_KEY!);
-}
 
 async function rebuildIndexes(profile: SponsorProfile) {
   await rebuildTownIndex(profile.townSlug);
@@ -20,50 +15,47 @@ async function rebuildIndexes(profile: SponsorProfile) {
 }
 
 export async function POST(request: NextRequest) {
-  const payload = await request.text();
-  const sig = request.headers.get("stripe-signature") || "";
+  const authHeader = request.headers.get("authorization") || "";
+  const serviceKey = process.env.AIDE_SERVICE_KEY;
 
-  const webhookSecret = process.env.STRIPE_WEBHOOK_SECRET;
-  if (!webhookSecret) {
-    return NextResponse.json(
-      { error: "Webhook secret not configured" },
-      { status: 500 },
-    );
+  if (!serviceKey || authHeader !== `Bearer ${serviceKey}`) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
-  const stripe = getStripe();
-  let event: Stripe.Event;
-  try {
-    event = stripe.webhooks.constructEvent(payload, sig, webhookSecret);
-  } catch {
-    return NextResponse.json({ error: "Invalid signature" }, { status: 400 });
-  }
+  const body = await request.json();
+  const { event_type, data, metadata } = body as {
+    event_type: string;
+    data: Record<string, unknown>;
+    metadata: Record<string, string>;
+  };
 
-  switch (event.type) {
+  switch (event_type) {
     case "checkout.session.completed": {
-      const session = event.data.object as Stripe.Checkout.Session;
-      const meta = session.metadata || {};
       const customerId =
-        typeof session.customer === "string"
-          ? session.customer
-          : session.customer?.id || "";
+        typeof data.customer === "string"
+          ? data.customer
+          : (data.customer as Record<string, string>)?.id || "";
       const subscriptionId =
-        typeof session.subscription === "string"
-          ? session.subscription
-          : session.subscription?.id || "";
+        typeof data.subscription === "string"
+          ? data.subscription
+          : (data.subscription as Record<string, string>)?.id || "";
+      const customerDetails = data.customer_details as Record<
+        string,
+        string
+      > | null;
 
       const now = new Date().toISOString();
       const profile: SponsorProfile = {
         id: customerId,
         stripeSubscriptionId: subscriptionId,
-        managementToken: meta.management_token || "",
-        tierId: meta.tier_id || "",
-        tierName: meta.tier_name || "",
+        managementToken: metadata.management_token || "",
+        tierId: metadata.tier_id || "",
+        tierName: metadata.tier_name || "",
         status: "active",
-        townSlug: meta.town_slug || "",
-        townName: meta.town_name || "",
-        email: session.customer_details?.email || "",
-        businessName: session.customer_details?.name || "New Sponsor",
+        townSlug: metadata.town_slug || "",
+        townName: metadata.town_name || "",
+        email: customerDetails?.email || "",
+        businessName: customerDetails?.name || "New Sponsor",
         description: "",
         createdAt: now,
         updatedAt: now,
@@ -72,12 +64,6 @@ export async function POST(request: NextRequest) {
       await putSponsorProfile(profile);
       await rebuildIndexes(profile);
 
-      if (subscriptionId && meta.management_token) {
-        await stripe.subscriptions.update(subscriptionId, {
-          metadata: { management_token: meta.management_token },
-        });
-      }
-
       console.log(
         `[sponsor] Created: ${profile.townName} — ${profile.tierName} (${profile.email})`,
       );
@@ -85,9 +71,10 @@ export async function POST(request: NextRequest) {
     }
 
     case "customer.subscription.updated": {
-      const sub = event.data.object as Stripe.Subscription;
       const customerId =
-        typeof sub.customer === "string" ? sub.customer : sub.customer?.id;
+        typeof data.customer === "string"
+          ? data.customer
+          : (data.customer as Record<string, string>)?.id;
       if (!customerId) break;
 
       const profile = await getSponsorProfile(customerId);
@@ -99,7 +86,8 @@ export async function POST(request: NextRequest) {
         canceled: "canceled",
         unpaid: "past_due",
       };
-      profile.status = statusMap[sub.status] || profile.status;
+      const stripeStatus = data.status as string;
+      profile.status = statusMap[stripeStatus] || profile.status;
       profile.updatedAt = new Date().toISOString();
 
       await putSponsorProfile(profile);
@@ -109,9 +97,10 @@ export async function POST(request: NextRequest) {
     }
 
     case "customer.subscription.deleted": {
-      const sub = event.data.object as Stripe.Subscription;
       const customerId =
-        typeof sub.customer === "string" ? sub.customer : sub.customer?.id;
+        typeof data.customer === "string"
+          ? data.customer
+          : (data.customer as Record<string, string>)?.id;
       if (!customerId) break;
 
       const profile = await getSponsorProfile(customerId);

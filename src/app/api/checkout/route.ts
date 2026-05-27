@@ -46,11 +46,23 @@ export async function POST(request: NextRequest) {
       },
     ],
     metadata: {
+      app: "bergen-towns",
+      callback_url: `${origin}/api/webhook`,
       tier_id: tier.id,
       tier_name: tier.name,
       town_slug: townSlug,
       town_name: townName,
       management_token: managementToken,
+    },
+    subscription_data: {
+      metadata: {
+        app: "bergen-towns",
+        callback_url: `${origin}/api/webhook`,
+        tier_id: tier.id,
+        town_slug: townSlug,
+        town_name: townName,
+        management_token: managementToken,
+      },
     },
     success_url: `${origin}/sponsorship/success?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/sponsorship`,
