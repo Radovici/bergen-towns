@@ -67,6 +67,15 @@ npm run dev
 
 - Vercel project: `fedago/bergen-towns`
 - GitHub: `Radovici/bergen-towns`
+- Two branches: `main` (UAT) and `production` (PRD)
+  - **UAT**: every push to `main` auto-deploys a preview at `bergen-towns-git-main-fedago.vercel.app`. Shows amber "UAT Preview" banner.
+  - **PRD**: merge `main` → `production` to deploy. Serves the 9 `.info` domains.
 - 9 custom domains + 9 www variants configured in Vercel
 - DNS at IONOS (A → 76.76.21.21, CNAME www → cname.vercel-dns.com)
-- Auto-deploys on push to main
+
+### Shipping to production
+
+```bash
+git checkout production && git merge main && git push origin production
+# or: gh pr create --base production --head main
+```

@@ -48,6 +48,11 @@ export default async function RootLayout({
       }
     >
       <body className={`${geistSans.variable} font-sans antialiased`}>
+        {process.env.VERCEL_ENV === "preview" && (
+          <div className="bg-amber-500 text-white text-center text-xs py-1 font-medium">
+            UAT Preview — not production
+          </div>
+        )}
         {previewToken && <SponsorPreviewBanner token={previewToken} />}
         <Header town={town.meta} sponsors={sponsors} />
         <Nav townName={town.meta.name} />
