@@ -45,10 +45,16 @@ export default function Header({
         <div className="flex-1 hidden sm:block max-w-md">
           <SearchBar currentTown={town.slug} />
         </div>
-        <div className="text-right text-sm opacity-80 shrink-0">
+        <div className="text-right text-sm opacity-80 shrink-0 hidden md:block">
           <p>Bergen County, NJ</p>
           <p>{town.zipCodes.join(", ")}</p>
         </div>
+        <Link
+          href="/sponsor/login"
+          className="shrink-0 text-sm font-medium text-white border border-white/40 rounded px-3 py-1.5 hover:bg-white/10 no-underline"
+        >
+          Sign in
+        </Link>
       </div>
       <div className="sm:hidden max-w-6xl mx-auto px-4 pb-3">
         <SearchBar currentTown={town.slug} />

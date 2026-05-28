@@ -66,23 +66,6 @@ npm run dev
 ## Deployment
 
 - Vercel project: `fedago/test` (GitHub: `Radovici/bergen-towns`)
-- Two branches: `dev` (UAT) and `main` (PRD)
-  - **`dev`** — default working branch. Push here freely. Every push auto-deploys a Vercel preview at [test-git-dev-fedago.vercel.app](https://test-git-dev-fedago.vercel.app). Shows amber "UAT Preview" banner.
-  - **`main`** — production. Protected: requires a PR (no direct push). Serves the 9 `.info` domains.
+- Single branch: `main` — commit and push directly. Vercel auto-deploys to production on every push.
 - 21 custom domains + 21 www variants configured in Vercel
 - DNS at IONOS (A → 76.76.21.21, CNAME www → cname.vercel-dns.com)
-
-### Day-to-day work
-
-All commits go to `dev`. Agents and humans work on `dev` (or feature branches off `dev`).
-
-### Shipping to production
-
-```bash
-gh pr create --base main --head dev --title "Ship to production"
-# Then merge the PR on GitHub (or: gh pr merge --merge)
-```
-
-### Branch protection
-
-`main` has GitHub branch protection: PRs required, no direct pushes. This prevents agents from accidentally deploying to production.
