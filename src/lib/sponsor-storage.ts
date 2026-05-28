@@ -42,6 +42,7 @@ async function writeJson(path: string, data: unknown): Promise<string> {
   const blob = await put(path, JSON.stringify(data), {
     access: "public",
     addRandomSuffix: false,
+    allowOverwrite: true,
     contentType: "application/json",
   });
   return blob.url;
@@ -197,6 +198,7 @@ export async function uploadSponsorMedia(
   const blob = await put(path, file, {
     access: "public",
     addRandomSuffix: false,
+    allowOverwrite: true,
     contentType,
   });
   return blob.url;

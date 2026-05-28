@@ -53,7 +53,9 @@ export default function ProfileEditor({
         body: JSON.stringify({ token, ...form }),
       });
 
-      const data = await res.json();
+      const data = await res.json().catch(() => ({
+        error: `Server error (${res.status}). Please try again.`,
+      }));
 
       if (!res.ok) {
         if (res.status === 422 && data.moderation) {
